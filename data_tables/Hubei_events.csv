@@ -1,0 +1,49 @@
+Date, Event, Important, Type
+12/30/19, 'Wuhan City government started to trace the cases', 1, gov
+12/31/19, 'The first group of NHC (National Health Commission) experts arrived in Wuhan and announced: no convinced proof of human-to-human spread', 0, medical
+1/3/20, 'Possibilities of flu, bird flu and adenovirus infection were excluded', 0, medical
+1/5/20, 'Shanghai Public Healthy Clinical Center dected coronavirus analogous to SARS virus. Wuhan MHC notified: No convinced proof of human-human spread', 0, medical
+1/6/20, 'Wuhan People's Congress and Political Consultative Conference', 0, social
+1/7/20, '1 doctor and 13 nurses were infected after the surgery for an unidentified infected patient in Wuhan', 0, medical
+1/8/20, 'The pathogen was identified as Novel Coronavirus', 1, medical
+1/10/20, 'The national CDC published the gene sequece of novel coronavirus', 0, medical
+1/11/20, 'Wuhan NHC notified: No convinced proof of human-human spread', 0, medical
+1/12/20, 'Hubei Provincial People's Congress and Political Consultative Conference took place in Wuhan', 0, conference
+1/14/20, 'The incubation period was confrimed prima facie as 14 days', 0, medical
+1/18/20, 'The Baibuting community in Wuhan hosted "Wanjiayan" party', 0, social
+1/19/20, 'The second group of NHC experts arrived in Wuhan', 0, medical
+1/20/20, 'Nanshan Zhong announced that 2019-nCov can definitely spread by human-to-human', 1, medical
+1/21/20, 'Hubei Province gathering to celebrate Spring Festival', 1, social
+1/23/20, 'Hubei Province activated the second-level response to public health emergency', 1, gov
+1/24/20, 'Wuhan lockdown', 1, gov
+1/24/20, 'Wuhan Decided to build a new hospitial Huoshenshan Hospital for infectious deseases within 10 days; The first medical group from Guangdong province requested to fight against the virus'
+1/25/20, 'Medical team (128 members) from Guangdong Province and medical team  of 136 medical staff from Shanghai supported Wuhan'
+1/26/20, 'Wuhan decided to build Leishenshan Hospital. Medical teams from military and all other 5 provinces sent total number of 1160 medical staff to Wuhan'
+1/27/20, '705 more medical staff, plus food and medical resources were sent to Wuhan'
+1/28/20, '1341 more medical staff were sent to Wuhan'
+1/29/20, 'About 1000 more medical staff were sent to Wuhan'
+1/31/20, 'The head of Huanggang MHC was dismissed'
+2/1/20, 'Hubei Provincial Red Cross check donations'
+2/2/20, 'A member of Chinese Academy of Science lead a team to support Wuhan'
+2/3/20, 'Huoshenshan Hospital was put into service;China Central Bank carried out a reverse repurchase of 1.2 trillion RMB'
+2/4/20, 'Three  mobile cabin hospitals were built overnight in Wuhan，and plan to put in service in 3 days; Huoshenshan hospital was operated by military medical group and began to treat patients'
+2/5/20, 'Three leaders of Hubei Red Across were held accountable； The central government sent another 2000 medical staff to Hubei Province'
+2/6/20, 'The diagnostic criterion of suspected case was broadened to expand the scope of examination'
+2/7/20, 'Wuhan began clinical test of Remdesivir'
+2/8/20, 'Sent another 1811 medical staff to Wuhan'
+2/9/20, 'The CPC cntral Committee made a chagne to the leading group of Hubei Province；Leishenshan Hopsital was put into service；Sent another 1068 medical staff to Hubei Province'
+2/10/20, 'Sent another 3187 medical staff to Hubei Province'
+2/11/20, '19 provinces built partner assistance with 16 cities in Hubei'
+2/12/20, 'The party secretary and director of Health Commission of Hubei Province were dismissed'
+2/13/20, 'Hubei Health Commission began to include clinically diagnosed cases into confirmed number。 A district was the first under special regulation like wartime'
+2/14/20, 'The military sent another 2600 medical staff to Wuhan'
+2/15/20, 'Wuhan appealed the cured to donate plasma'
+2/17/20, 'The pathological anatom of the first two death cases in China was completed'
+2/18/20, 'Another 315 medical staff were sent to Wuhan'
+2/19/20, 'The State Council decided to temporarily reduce social security contributions and Housing Provident Fund of enterprises and individuals'
+2/20/20, 'NDRC recovered production capacity of face mask to 100%；Wuhan put in over 1900 tons of disinfectant to disinfect urban sewage；Another 1299 medical staff were sent to Wuhan'
+2/22/20, 'The province government announced that the confirmed cases are not allowed to cut after examination, and those already been cut should be added back'
+2/25/20, 'Lots of Chinese Cities lowered the response level；NPC standing committee pass a decision to forbid illegal trade of wild animals；Postpone the congress conference'
+2/26/20, 'The state Council decided to exempt added-value tax of small-scale taxpayer in Hubei for 3 months；The Hubei Province secretary announced to continue controling the passages for leaving Wuhan and Hubei strictly'
+2/27/20, 'The daily additions outside China has surpassed that inside China'
+3/1/20, 'China - WHO joint investigation report on COVID-19 was published'
