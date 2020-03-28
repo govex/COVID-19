@@ -645,15 +645,17 @@ trend = tmp.apply(lambda x: up_or_down(x['confirmed_newcases_growth_movavg']), a
 
 most_recent_day = df_merged.sort_values('dt').dt.unique()[-1]
 tmp = df_merged[ (df_merged['dt'] == most_recent_day) & (df_merged['Country/Region'].isin(top10_country))].copy()
-tmp['trend'] = trend.values
-tmp = tmp[['Country/Region', 'trend', 'days_since_1st_conf', 'first_confirmed', 
+tmp.sort_values(by = 'deaths', ascending = False, inplace = True)
+tmp = tmp[['Country/Region', 'days_since_1st_conf', 'first_confirmed', 
            'confirmed', 'dt', 'confirmed_newcases']]
+tmp['trend'] = trend.values
+tmp['graph_number'] = np.arange(10)
 tmp.set_index('Country/Region', inplace = True)
 tmp.rename(columns={'Country/Region': 'country',
                     'first_confirmed': 'date_first_confirmed',
                     'dt': 'date',
                    }, inplace = True)
-tmp.to_json(path+'trends.json', orient = 'columns')
+tmp.to_json(path+'country_info.json', orient = 'columns')
 #tmp
 
 
