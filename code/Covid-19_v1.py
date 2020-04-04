@@ -751,7 +751,7 @@ bar_opacity = 0.6
 
 # Plot
 
-text_a = ['{:.2f}'.format(x)+'%' for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']]
+text_a = ['{:.1f}'.format(x)+'%' for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']*100]
 text_b = ['{:.2f}'.format(x) for x in top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop']]
 #text_a[-1] = f'Mortality: {text_a[-1]}'
 #text_b[-1] = f'Mortality: {text_b[-1]}'
@@ -765,7 +765,7 @@ data = [go.Bar(x = top10.sort_values(by = 'MortalityRate')['MortalityRate']*100,
                opacity = bar_opacity,
                marker = dict(color = '#FF9E1B'),
                hoverinfo = 'skip',
-               hovertext = ['Mortality:<br>'+'{:.2f}'+'%'.format(x) for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']],
+               hovertext = ['Mortality:<br>'+'{:.1f}'+'%'.format(x) for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']*100],
                hoverlabel = dict(bordercolor = top10.sort_values(by = 'MortalityRate')['color'], 
                                  bgcolor = 'white', 
                                  font = dict(color = top10.sort_values(by = 'MortalityRate')['color'])),
@@ -932,7 +932,7 @@ bar_opacity = 0.6
 
 # Plot
 
-text_a = ['{:.2f}'.format(x)+'%' for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']]
+text_a = ['{:.1f}'.format(x)+'%' for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']*100]
 text_b = ['{:.2f}'.format(x) for x in top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop']]
 #text_a[-1] = f'Mortality: {text_a[-1]}'
 #text_b[-1] = f'Mortality: {text_b[-1]}'
@@ -946,7 +946,7 @@ data = [go.Bar(x = top10.sort_values(by = 'MortalityRate')['MortalityRate']*100,
                opacity = bar_opacity,
                marker = dict(color = '#FF9E1B'),
                hoverinfo = 'skip',
-               hovertext = ['Mortality:<br>'+'{:.2f}'+'%'.format(x) for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']],
+               hovertext = ['Mortality:<br>'+'{:.1f}'+'%'.format(x) for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']*100],
                hoverlabel = dict(bordercolor = top10.sort_values(by = 'MortalityRate')['color'], 
                                  bgcolor = 'white', 
                                  font = dict(color = top10.sort_values(by = 'MortalityRate')['color'])),
@@ -1466,7 +1466,7 @@ lay = go.Layout(width = width_px,
                                                      method = 'update'
                                                     ),
                                                 dict(args = [{'visible': visibility_b},
-                                                             {'xaxis.title': 'Country Population',
+                                                             {'xaxis.title': 'Population',
                                                               'annotations': annotations_b,
                                                              }
                                                             ],
@@ -1838,7 +1838,7 @@ lay = go.Layout(width = wide_px_small,
                                                      method = 'update'
                                                     ),
                                                 dict(args = [{'visible': visibility_b},
-                                                             {'xaxis.title': 'Country Population',
+                                                             {'xaxis.title': 'Population',
                                                               'annotations': annotations_b,
                                                              }
                                                             ],
@@ -1899,7 +1899,7 @@ tmp.rename(columns={'Country/Region': 'Country',
                    }, inplace = True)
 
 tmp.sort_values('Deaths', ascending = False, inplace=True)
-tmp['Case-Fatality'] = ['{:.2f}%'.format(x) for x in tmp['Case-Fatality']]
+tmp['Case-Fatality'] = ['{:.1f}%'.format(x) for x in tmp['Case-Fatality']*100]
 tmp['Deaths/100k pop.'] = ['{:.2f}'.format(x) for x in tmp['Deaths/100k pop.']]
 tmp['Confirmed'] = ['{:,}'.format(x) for x in tmp['Confirmed']]
 tmp['Deaths'] = ['{:,}'.format(x) for x in tmp['Deaths']]
