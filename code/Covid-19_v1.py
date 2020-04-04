@@ -732,3 +732,1182 @@ path = '../visuals/new_cases/'
 tmp.to_json(path+'country_info.json', orient = 'columns')
 
 #tmp
+
+
+# ## <span style="color:orange">Mortality rates</span>
+# <hr style="border: 1px solid #D3D3D3" >
+# 
+# 
+
+# In[21]:
+
+
+# Plot mortality ratio
+
+# Assign color to top10
+top10['color'] = top10_col
+bar_width = 0.6
+bar_opacity = 0.6
+
+# Plot
+
+text_a = ['{:.2f}'.format(x)+'%' for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']]
+text_b = ['{:.2f}'.format(x) for x in top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop']]
+#text_a[-1] = f'Mortality: {text_a[-1]}'
+#text_b[-1] = f'Mortality: {text_b[-1]}'
+text_a[-1] = 'Mortality: '+text_a[-1]
+text_b[-1] = 'Mortality: '+text_b[-1]
+
+data = [go.Bar(x = top10.sort_values(by = 'MortalityRate')['MortalityRate']*100,
+               y = top10.sort_values(by = 'MortalityRate')['Country/Region'],
+               orientation = 'h',
+               name = 'mort_conf',
+               opacity = bar_opacity,
+               marker = dict(color = '#FF9E1B'),
+               hoverinfo = 'skip',
+               hovertext = ['Mortality:<br>'+'{:.2f}'+'%'.format(x) for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']],
+               hoverlabel = dict(bordercolor = top10.sort_values(by = 'MortalityRate')['color'], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10.sort_values(by = 'MortalityRate')['color'])),
+               text = text_a,
+               textfont=dict(
+                    color='black'
+               ),
+               textposition = 'auto',
+               width = bar_width
+              ),
+        go.Bar(x = top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop'],
+               y = top10.sort_values(by = 'deaths_by100000pop')['Country/Region'],
+               orientation = 'h',
+               name = 'mort_pop',
+               opacity = bar_opacity,
+               marker = dict(color = '#FF9E1B'),
+               hoverinfo = 'skip',
+               hovertext = ['Mortality:<br>'+'{:.2f}'.format(x) for x in top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop']],
+               hoverlabel = dict(bordercolor = top10.sort_values(by = 'deaths_by100000pop')['color'], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10.sort_values(by = 'deaths_by100000pop')['color'])),
+               text = text_b,
+               textfont=dict(
+                    color='black'
+               ),
+               textposition = 'auto',
+               width = bar_width,
+               visible = False,
+              )
+       ]
+
+lay = go.Layout(width = width_px, 
+                height = height_px,
+                margin=dict(l=100, r=50, b=50, t=80, pad=4),
+                plot_bgcolor='white',
+                #bargap = 0.2,
+                xaxis = dict(title='Mortality: Observed case-fatality ratio',
+                             nticks = 10,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showgrid = True,
+                             gridcolor = 'lightgray',
+                             ticksuffix="%",
+                            ),
+                yaxis = dict(title='',
+                             showgrid = False,
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 1.03, 
+                              y = 0.7),
+                annotations=[dict(x = 0.02,
+                                  y = 1.2,
+                                  showarrow = False,
+                                  text = '', #Mortality ratios for the most affected countries
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = title_font,
+                                      size = title_size,
+                                      color = title_col,),
+                                 ),
+                             dict(x = 0.02,
+                                  y = 1.1,
+                                  showarrow = False,
+                                  text = '',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = subtitle_font,
+                                      size = subtitle_size,
+                                      color = subtitle_col,),
+                                 ),
+                             dict(x = 1.40,
+                                  y = 0.95,
+                                  showarrow = False,
+                                  text = '',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = label_font,
+                                      size = label_size,
+                                      color = label_col,),
+                             
+                             )
+                            ],
+                updatemenus=[dict(
+                                    type = "buttons",
+                                    direction = "left",
+                                    buttons=list([
+                                        dict(args = [{'visible': [True, False]},
+                                                     {'xaxis' : dict(title='Mortality: Observed case-fatality ratio',
+                                                         nticks = 10,
+                                                         rangemode = 'nonnegative',
+                                                         zeroline = False,
+                                                         showgrid = True,
+                                                         gridcolor = 'lightgray',
+                                                         ticksuffix="%",
+                                                        )}],
+                                                     label = 'Observed case-fatality ratio',
+                                                     #method = 'restyle'
+                                                     method = 'update'
+                                                    ),
+                                        dict(args = [{'visible': [False, True]},
+                                                     {'xaxis' : dict(title='Mortality: Deaths per 100,000 population',
+                                                         nticks = 10,
+                                                         rangemode = 'nonnegative',
+                                                         zeroline = False,
+                                                         showgrid = True,
+                                                         gridcolor = 'lightgray',
+                                                         ticksuffix="",
+                                                        )}],
+                                                     label = 'Deaths per 100,000 population',
+                                                     #method = 'restyle'
+                                                     method = 'update'
+                                                    )
+                                               ]),
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x=0,
+                                  xanchor="left",
+                                  y=1.2,
+                                  yanchor="top",
+                                  bordercolor = 'lightgray'
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+    
+path = '../visuals/mortality/'
+out_file = open(path+'mortality_top10_720.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+
+# In[22]:
+
+
+# Plot mortality ratio (mobile size)
+
+# Assign color to top10
+top10['color'] = top10_col
+bar_width = 0.6
+bar_opacity = 0.6
+
+# Plot
+
+text_a = ['{:.2f}'.format(x)+'%' for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']]
+text_b = ['{:.2f}'.format(x) for x in top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop']]
+#text_a[-1] = f'Mortality: {text_a[-1]}'
+#text_b[-1] = f'Mortality: {text_b[-1]}'
+text_a[-1] = 'Mortality: '+text_a[-1]
+text_b[-1] = 'Mortality: '+text_b[-1]
+
+data = [go.Bar(x = top10.sort_values(by = 'MortalityRate')['MortalityRate']*100,
+               y = top10.sort_values(by = 'MortalityRate')['Country/Region'],
+               orientation = 'h',
+               name = 'mort_conf',
+               opacity = bar_opacity,
+               marker = dict(color = '#FF9E1B'),
+               hoverinfo = 'skip',
+               hovertext = ['Mortality:<br>'+'{:.2f}'+'%'.format(x) for x in top10.sort_values(by = 'MortalityRate')['MortalityRate']],
+               hoverlabel = dict(bordercolor = top10.sort_values(by = 'MortalityRate')['color'], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10.sort_values(by = 'MortalityRate')['color'])),
+               text = text_a,
+               textfont=dict(color='black',
+                            ),
+               textposition = 'auto',
+               width = bar_width
+              ),
+        go.Bar(x = top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop'],
+               y = top10.sort_values(by = 'deaths_by100000pop')['Country/Region'],
+               orientation = 'h',
+               name = 'mort_pop',
+               opacity = bar_opacity,
+               marker = dict(color = '#FF9E1B'),
+               hoverinfo = 'skip',
+               hovertext = ['Mortality:<br>'+'{:.2f}'.format(x) for x in top10.sort_values(by = 'deaths_by100000pop')['deaths_by100000pop']],
+               hoverlabel = dict(bordercolor = top10.sort_values(by = 'deaths_by100000pop')['color'], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10.sort_values(by = 'deaths_by100000pop')['color'])),
+               text = text_b,
+               textfont=dict(
+                    color='black'
+               ),
+               textposition = 'auto',
+               width = bar_width,
+               visible = False,
+              )
+       ]
+
+lay = go.Layout(width = wide_px_small, 
+                height = height_px_small+80,
+                margin=dict(l=100, r=50, b=50, t=100, pad=4),
+                plot_bgcolor='white',
+                #bargap = 0.2,
+                xaxis = dict(title='Mortality: Observed case-fatality ratio',
+                             nticks = 10,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showgrid = True,
+                             gridcolor = 'lightgray',
+                             ticksuffix="%",
+                            ),
+                yaxis = dict(title='',
+                             showgrid = False,
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 1.03, 
+                              y = 0.7),
+                annotations=[dict(x = 0.02,
+                                  y = 1.2,
+                                  showarrow = False,
+                                  text = '', #Mortality ratios for the most affected countries
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = title_font,
+                                      size = title_size,
+                                      color = title_col,),
+                                 ),
+                             dict(x = 0.02,
+                                  y = 1.1,
+                                  showarrow = False,
+                                  text = '',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = subtitle_font,
+                                      size = subtitle_size,
+                                      color = subtitle_col,),
+                                 ),
+                             dict(x = 1.40,
+                                  y = 0.95,
+                                  showarrow = False,
+                                  text = '',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = label_font,
+                                      size = label_size_small,
+                                      color = label_col,),
+                             
+                             )
+                            ],
+                updatemenus=[dict(
+                                    type = "buttons",
+                                    direction = "down",
+                                    buttons=list([
+                                        dict(args = [{'visible': [True, False]},
+                                                     {'xaxis' : dict(title='Mortality: Observed case-fatality ratio',
+                                                         nticks = 10,
+                                                         rangemode = 'nonnegative',
+                                                         zeroline = False,
+                                                         showgrid = True,
+                                                         gridcolor = 'lightgray',
+                                                         ticksuffix="%",
+                                                        )}],
+                                                     label = 'Observed case-fatality ratio',
+                                                     #method = 'restyle'
+                                                     method = 'update'
+                                                    ),
+                                        dict(args = [{'visible': [False, True]},
+                                                     {'xaxis' : dict(title='Mortality: Deaths per 100,000 population',
+                                                         nticks = 10,
+                                                         rangemode = 'nonnegative',
+                                                         zeroline = False,
+                                                         showgrid = True,
+                                                         gridcolor = 'lightgray',
+                                                         ticksuffix="",
+                                                        )}],
+                                                     label = 'Deaths per 100,000 population',
+                                                     #method = 'restyle'
+                                                     method = 'update'
+                                                    )
+                                               ]),
+                                  pad = {"r": 10, "t": 0},
+                                  showactive = True,
+                                  x=0,
+                                  xanchor="left",
+                                  y=1.35,
+                                  yanchor="top",
+                                  bordercolor = 'lightgray'
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+    
+path = '../visuals/mortality/'
+out_file = open(path+'mortality_top10_320.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+
+# In[23]:
+
+
+# Plot mortality rates
+
+most_recent_day = df_merged.sort_values('dt').dt.unique()[-1]
+
+filt = ((df_merged['dt'] == most_recent_day) & (df_merged['deaths'] > 2))
+pattern = '|'.join(top10_country)
+top10_df_merged = df_merged[df_merged['Country/Region'].str.contains(pattern)][filt]
+
+# Plot
+data = [go.Scatter(x = df_merged[filt]['confirmed'],
+                   y = df_merged[filt]['deaths'],
+                   marker = dict(color = 'orange', size = 6),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}%'.format(x*100) for x,y in zip(df_merged[filt]['MortalityRate'], 
+                                                                          df_merged[filt]['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+                   text = df_merged[filt]['Country/Region'],
+                   textposition = "top center"
+              ),
+        go.Scatter(x = top10_df_merged['confirmed'],
+                   y = top10_df_merged['deaths'],
+                   marker = dict(color = 'orange', 
+                                 size = 6,
+                                 opacity = 1,
+                                line=dict(
+                                    color = 'black',
+                                    width = 1,
+                                )),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}%'.format(x*100) for x,y in zip(top10_df_merged['MortalityRate'], 
+                                                                          top10_df_merged['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.1*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.05*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.02*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.01*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.005*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = df_merged[filt]['population_2018'],
+                   y = df_merged[filt]['deaths'],
+                   marker = dict(color = 'orange', size = 6),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(df_merged[filt]['deaths_by100000pop'], 
+                                                                          df_merged[filt]['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+                   visible = False,
+                  ),
+        go.Scatter(x = top10_df_merged['population_2018'],
+                   y = top10_df_merged['deaths'],
+                   marker = dict(color = 'orange', 
+                                 size = 6,
+                                 opacity = 1,
+                                line=dict(
+                                    color = 'black',
+                                    width = 1,
+                                )),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(top10_df_merged['deaths_by100000pop'], 
+                                                                          top10_df_merged['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+                   visible = False,
+                  ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 100*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 10*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 0.1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 0.01*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+       ]
+
+annotations_titles = [dict(x = 0.02,
+                           y = 1.2,
+                           showarrow = False,
+                           text = '', #Mortality ratios worldwide
+                           xref = 'paper',
+                           yref = 'paper',
+                           font=dict(family = title_font,
+                                     size = title_size,
+                                     color = title_col,),
+                          ),
+                      dict(x = 0.02,
+                           y = 1.1,
+                           showarrow = False,
+                           text = '',
+                           xref = 'paper',
+                           yref = 'paper',
+                           font=dict(family = subtitle_font,
+                                     size = subtitle_size,
+                                     color = subtitle_col,),
+                          ),
+                      dict(x = 1.32,
+                           y = 0.95,
+                           showarrow = False,
+                           text = '',
+                           xref = 'paper',
+                           yref = 'paper',
+                           font=dict(family = label_font,
+                                     size = label_size,
+                                     color = label_col,),
+                          )
+                     ]
+
+annotations_a = annotations_titles + [
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.1*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '10%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.05*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '5%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.02*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '2%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.01*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '1%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.005*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '0.5%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        )]
+
+annotations_b = annotations_titles + [
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(100*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         halign='right',
+         height = 30,
+         textangle = -21,
+         text = ('10'+'<br>'+'per 100k population'),
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(10*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '5',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '1',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(0.1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '0.1',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(0.01*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '0.01',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        )
+]
+
+visibility_a = [True, True, True, True, True, True, True, False, False, False, False, False, False, False]
+visibility_b = [False, False, False, False, False, False, False, True, True, True, True, True, True, True]
+
+lay = go.Layout(width = width_px, 
+                height = height_px,
+                margin=dict(l=60, r=50, b=50, t=80, pad=4),
+                plot_bgcolor='white',
+                xaxis = dict(title='Confirmed cases',
+                             type = 'log',
+                             dtick = 1,
+                             ticks = 'outside',
+                             ticklen = tick_lenght/2,
+                             tickcolor = label_col,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showline=True,
+                             linecolor = label_col,
+                             showgrid = False,
+                            ),
+                yaxis = dict(title='Deaths',
+                             type = 'log',
+                             dtick = 1,
+                             ticks = 'outside',
+                             ticklen = tick_lenght/2,
+                             tickcolor = label_col,
+                             showgrid = False,
+                             showline=True,
+                             linecolor = label_col,
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 1.03, 
+                              y = 0.7),
+                showlegend = False,
+                annotations= annotations_a,
+                updatemenus=[dict(type = "buttons",
+                                  direction = "left",
+                                  buttons=list([dict(args = [{'visible': visibility_a},
+                                                             {'xaxis.title': 'Confirmed cases',
+                                                              'annotations': annotations_a,
+                                                             }],
+                                                     label = 'Observed case-fatality ratio',
+                                                     method = 'update'
+                                                    ),
+                                                dict(args = [{'visible': visibility_b},
+                                                             {'xaxis.title': 'Country Population',
+                                                              'annotations': annotations_b,
+                                                             }
+                                                            ],
+                                                     label = 'Deaths per 100,000 population',
+                                                     method = 'update'
+                                                    ),
+                                               ]),
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x=0,
+                                  xanchor="left",
+                                  y=1.2,
+                                  yanchor="top",
+                                  bordercolor = 'lightgray',
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+    
+path = '../visuals/mortality/'
+out_file = open(path+'mortality_all_720.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+#df_merged[filt]['Lat'][69]
+#coordinates = (df_merged[filt]['Lat'][69], df_merged[filt]['Long'][69]), (df_merged[filt]['Lat'][69], df_merged[filt]['Long'][69])
+#reverse_geocode.search(coordinates)
+
+
+# In[24]:
+
+
+# Plot mortality rates
+
+most_recent_day = df_merged.sort_values('dt').dt.unique()[-1]
+
+filt = ((df_merged['dt'] == most_recent_day) & (df_merged['deaths'] > 2))
+pattern = '|'.join(top10_country)
+top10_df_merged = df_merged[df_merged['Country/Region'].str.contains(pattern)][filt]
+
+# Plot
+data = [go.Scatter(x = df_merged[filt]['confirmed'],
+                   y = df_merged[filt]['deaths'],
+                   marker = dict(color = 'orange', size = 6),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}%'.format(x*100) for x,y in zip(df_merged[filt]['MortalityRate'], 
+                                                                          df_merged[filt]['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+                   text = df_merged[filt]['Country/Region'],
+                   textposition = "top center"
+              ),
+        go.Scatter(x = top10_df_merged['confirmed'],
+                   y = top10_df_merged['deaths'],
+                   marker = dict(color = 'orange', 
+                                 size = 6,
+                                 opacity = 1,
+                                line=dict(
+                                    color = 'black',
+                                    width = 1,
+                                )),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}%'.format(x*100) for x,y in zip(top10_df_merged['MortalityRate'], 
+                                                                          top10_df_merged['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.1*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.02*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, 1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   y = [0, 0.005*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = df_merged[filt]['population_2018'],
+                   y = df_merged[filt]['deaths'],
+                   marker = dict(color = 'orange', size = 6),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(df_merged[filt]['deaths_by100000pop'], 
+                                                                          df_merged[filt]['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+                   visible = False,
+                  ),
+        go.Scatter(x = top10_df_merged['population_2018'],
+                   y = top10_df_merged['deaths'],
+                   marker = dict(color = 'orange', 
+                                 size = 6,
+                                 opacity = 1,
+                                line=dict(
+                                    color = 'black',
+                                    width = 1,
+                                )),
+                   mode = 'markers',
+                   hoverinfo = 'text',
+                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(top10_df_merged['deaths_by100000pop'], 
+                                                                          top10_df_merged['Country/Region'])],
+                   hoverlabel = dict(bordercolor = 'gray',
+                                     bgcolor = 'white',
+                                     font = dict(color = 'gray')),
+                   visible = False,
+                  ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 100*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 10*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 0.1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+        go.Scatter(x = [0, df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()],
+                   y = [0, 0.01*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000],
+                   marker = dict(color = 'gray'),
+                   line = dict(width = 0.3),
+                   mode = 'lines',
+                   visible = False,
+                   hoverinfo = 'skip',
+              ),
+       ]
+
+annotations_titles = [dict(x = 0.02,
+                           y = 1.2,
+                           showarrow = False,
+                           text = '', #Mortality ratios worldwide
+                           xref = 'paper',
+                           yref = 'paper',
+                           font=dict(family = title_font,
+                                     size = title_size,
+                                     color = title_col,),
+                          ),
+                      dict(x = 0.02,
+                           y = 1.1,
+                           showarrow = False,
+                           text = '',
+                           xref = 'paper',
+                           yref = 'paper',
+                           font=dict(family = subtitle_font,
+                                     size = subtitle_size,
+                                     color = subtitle_col,),
+                          ),
+                      dict(x = 1.32,
+                           y = 0.95,
+                           showarrow = False,
+                           text = '',
+                           xref = 'paper',
+                           yref = 'paper',
+                           font=dict(family = label_font,
+                                     size = label_size,
+                                     color = label_col,),
+                          )
+                     ]
+
+annotations_a = annotations_titles + [
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.1*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '10%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.02*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '2%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         y = np.log10(0.005*1.3*df_merged[df_merged['dt'] == most_recent_day]['confirmed'].max()),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -30,
+         text = '0.5%',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        )]
+
+annotations_b = annotations_titles + [
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(100*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         halign='right',
+         height = 30,
+         textangle = -21,
+         text = ('10/100k pop'),
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(10*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '5',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '1',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(0.1*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '0.1',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        ),
+    dict(x = np.log10(df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()),
+         y = np.log10(0.01*df_merged[df_merged['dt'] == most_recent_day]['population_2018'].max()/100000),
+         showarrow = False,
+         valign = 'top',
+         height = 30,
+         textangle = -21,
+         text = '0.01',
+         xref = 'x',
+         yref = 'y',
+         font=dict(family = label_font,
+                   size = label_size,
+                   color = label_col,),
+        )
+]
+
+visibility_a = [True, True, True, True, True, False, False, False, False, False, False, False]
+visibility_b = [False, False, False, False, False, True, True, True, True, True, True, True]
+
+lay = go.Layout(width = wide_px_small, 
+                height = height_px_small,
+                margin=dict(l=60, r=50, b=50, t=100, pad=4),
+                plot_bgcolor='white',
+                xaxis = dict(title='Confirmed cases',
+                             type = 'log',
+                             dtick = 1,
+                             ticks = 'outside',
+                             ticklen = tick_lenght/2,
+                             tickcolor = label_col,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showline=True,
+                             linecolor = label_col,
+                             showgrid = False,
+                            ),
+                yaxis = dict(title='Deaths',
+                             type = 'log',
+                             dtick = 1,
+                             ticks = 'outside',
+                             ticklen = tick_lenght/2,
+                             tickcolor = label_col,
+                             showgrid = False,
+                             showline=True,
+                             linecolor = label_col,
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 1.03, 
+                              y = 0.7),
+                showlegend = False,
+                annotations= annotations_a,
+                updatemenus=[dict(type = "buttons",
+                                  direction = "down",
+                                  buttons=list([dict(args = [{'visible': visibility_a},
+                                                             {'xaxis.title': 'Confirmed cases',
+                                                              'annotations': annotations_a,
+                                                             }],
+                                                     label = 'Observed case-fatality ratio',
+                                                     method = 'update'
+                                                    ),
+                                                dict(args = [{'visible': visibility_b},
+                                                             {'xaxis.title': 'Country Population',
+                                                              'annotations': annotations_b,
+                                                             }
+                                                            ],
+                                                     label = 'Deaths per 100,000 population',
+                                                     method = 'update'
+                                                    ),
+                                               ]),
+                                  pad = {"r": 10, "t": 0},
+                                  showactive = True,
+                                  x=0,
+                                  xanchor="left",
+                                  y=1.6,
+                                  yanchor="top",
+                                  bordercolor = 'lightgray',
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+    
+path = '../visuals/mortality/'
+out_file = open(path+'mortality_all_320.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+#df_merged[filt]['Lat'][69]
+#coordinates = (df_merged[filt]['Lat'][69], df_merged[filt]['Long'][69]), (df_merged[filt]['Lat'][69], df_merged[filt]['Long'][69])
+#reverse_geocode.search(coordinates)
+
+
+# In[25]:
+
+
+# Table with data
+most_recent_day = df_merged.sort_values('dt').dt.unique()[-1]
+tmp = df_merged[(df_merged['dt'] == most_recent_day) & (df_merged['deaths']>2)].sort_values('deaths', ascending = False).copy()
+tmp = tmp[['Country/Region', 'confirmed', 'deaths', 'MortalityRate', 'deaths_by100000pop']]
+tmp.rename(columns={'Country/Region': 'Country',
+                    'confirmed': 'Confirmed',
+                    'deaths': 'Deaths',
+                    'MortalityRate': 'Case-Fatality',
+                    'deaths_by100000pop': 'Deaths/100k pop.',
+                   }, inplace = True)
+
+tmp.sort_values('Deaths', ascending = False, inplace=True)
+tmp['Case-Fatality'] = ['{:.2f}%'.format(x) for x in tmp['Case-Fatality']]
+tmp['Deaths/100k pop.'] = ['{:.2f}'.format(x) for x in tmp['Deaths/100k pop.']]
+tmp['Confirmed'] = ['{:,}'.format(x) for x in tmp['Confirmed']]
+tmp['Deaths'] = ['{:,}'.format(x) for x in tmp['Deaths']]
+
+tmp.reset_index(drop=True, inplace = True)
+
+path = '../visuals/mortality/'
+tmp.to_json(path+'table.json', orient = 'columns')
+#tmp.head()
+#tmp.shape[0]
+
