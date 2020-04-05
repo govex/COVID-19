@@ -1109,7 +1109,7 @@ most_recent_day = df_merged.sort_values('dt').dt.unique()[-1]
 
 filt = ((df_merged['dt'] == most_recent_day) & (df_merged['deaths'] > 2))
 pattern = '|'.join(top10_country)
-top10_df_merged = df_merged[df_merged['Country/Region'].str.contains(pattern)][filt]
+top10_df_merged = df_merged[(df_merged['Country/Region'].str.contains(pattern) & filt)]
 
 # Plot
 data = [go.Scatter(x = df_merged[filt]['confirmed'],
@@ -1182,7 +1182,7 @@ data = [go.Scatter(x = df_merged[filt]['confirmed'],
                    marker = dict(color = 'orange', size = 6),
                    mode = 'markers',
                    hoverinfo = 'text',
-                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(df_merged[filt]['deaths_by100000pop'], 
+                   hovertext = [y+':<br>'+'{:.2f}'.format(x) for x,y in zip(df_merged[filt]['deaths_by100000pop'], 
                                                                           df_merged[filt]['Country/Region'])],
                    hoverlabel = dict(bordercolor = 'gray',
                                      bgcolor = 'white',
@@ -1200,7 +1200,7 @@ data = [go.Scatter(x = df_merged[filt]['confirmed'],
                                 )),
                    mode = 'markers',
                    hoverinfo = 'text',
-                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(top10_df_merged['deaths_by100000pop'], 
+                   hovertext = [y+':<br>'+'{:.2f}'.format(x) for x,y in zip(top10_df_merged['deaths_by100000pop'], 
                                                                           top10_df_merged['Country/Region'])],
                    hoverlabel = dict(bordercolor = 'gray',
                                      bgcolor = 'white',
@@ -1357,7 +1357,7 @@ annotations_b = annotations_titles + [
          halign='right',
          height = 30,
          textangle = -21,
-         text = ('10'+'<br>'+'per 100k population'),
+         text = ('100'+'<br>'+'per 100k population'),
          xref = 'x',
          yref = 'y',
          font=dict(family = label_font,
@@ -1370,7 +1370,7 @@ annotations_b = annotations_titles + [
          valign = 'top',
          height = 30,
          textangle = -21,
-         text = '5',
+         text = '10',
          xref = 'x',
          yref = 'y',
          font=dict(family = label_font,
@@ -1521,7 +1521,7 @@ most_recent_day = df_merged.sort_values('dt').dt.unique()[-1]
 
 filt = ((df_merged['dt'] == most_recent_day) & (df_merged['deaths'] > 2))
 pattern = '|'.join(top10_country)
-top10_df_merged = df_merged[df_merged['Country/Region'].str.contains(pattern)][filt]
+top10_df_merged = df_merged[(df_merged['Country/Region'].str.contains(pattern) & filt)]
 
 # Plot
 data = [go.Scatter(x = df_merged[filt]['confirmed'],
@@ -1580,7 +1580,7 @@ data = [go.Scatter(x = df_merged[filt]['confirmed'],
                    marker = dict(color = 'orange', size = 6),
                    mode = 'markers',
                    hoverinfo = 'text',
-                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(df_merged[filt]['deaths_by100000pop'], 
+                   hovertext = [y+':<br>'+'{:.2f}'.format(x) for x,y in zip(df_merged[filt]['deaths_by100000pop'], 
                                                                           df_merged[filt]['Country/Region'])],
                    hoverlabel = dict(bordercolor = 'gray',
                                      bgcolor = 'white',
@@ -1598,7 +1598,7 @@ data = [go.Scatter(x = df_merged[filt]['confirmed'],
                                 )),
                    mode = 'markers',
                    hoverinfo = 'text',
-                   hovertext = [y+':<br>'+'{:.1f}'.format(x) for x,y in zip(top10_df_merged['deaths_by100000pop'], 
+                   hovertext = [y+':<br>'+'{:.2f}'.format(x) for x,y in zip(top10_df_merged['deaths_by100000pop'], 
                                                                           top10_df_merged['Country/Region'])],
                    hoverlabel = dict(bordercolor = 'gray',
                                      bgcolor = 'white',
@@ -1729,7 +1729,7 @@ annotations_b = annotations_titles + [
          halign='right',
          height = 30,
          textangle = -21,
-         text = ('10/100k pop'),
+         text = ('100/100k pop'),
          xref = 'x',
          yref = 'y',
          font=dict(family = label_font,
@@ -1742,7 +1742,7 @@ annotations_b = annotations_titles + [
          valign = 'top',
          height = 30,
          textangle = -21,
-         text = '5',
+         text = '10',
          xref = 'x',
          yref = 'y',
          font=dict(family = label_font,
@@ -1910,4 +1910,3 @@ path = '../visuals/mortality/'
 tmp.to_json(path+'table.json', orient = 'columns')
 #tmp.head()
 #tmp.shape[0]
-
