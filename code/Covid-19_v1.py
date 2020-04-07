@@ -11,7 +11,7 @@ import datetime
 import plotly
 import plotly.graph_objs as go
 
-#pd.set_option('display.max_columns', 500)
+pd.set_option('display.max_columns', 500)
 #plotly.offline.init_notebook_mode(connected=True)
 
 
@@ -422,7 +422,7 @@ label_size_small = 8
 # Graph sizes
 width_px = 720
 height_px = 450
-wide_px_small = 360
+width_px_small = 360
 height_px_small = 275
 
 # Line size
@@ -820,41 +820,6 @@ lay = go.Layout(width = width_px,
                            ),
                 legend = dict(x = 1.03, 
                               y = 0.7),
-                annotations=[dict(x = 0.02,
-                                  y = 1.2,
-                                  showarrow = False,
-                                  text = '', #Mortality ratios for the most affected countries
-                                  xref = 'paper',
-                                  yref = 'paper',
-                                  font=dict(
-                                      family = title_font,
-                                      size = title_size,
-                                      color = title_col,),
-                                 ),
-                             dict(x = 0.02,
-                                  y = 1.1,
-                                  showarrow = False,
-                                  text = '',
-                                  xref = 'paper',
-                                  yref = 'paper',
-                                  font=dict(
-                                      family = subtitle_font,
-                                      size = subtitle_size,
-                                      color = subtitle_col,),
-                                 ),
-                             dict(x = 1.40,
-                                  y = 0.95,
-                                  showarrow = False,
-                                  text = '',
-                                  xref = 'paper',
-                                  yref = 'paper',
-                                  font=dict(
-                                      family = label_font,
-                                      size = label_size,
-                                      color = label_col,),
-                             
-                             )
-                            ],
                 updatemenus=[dict(
                                     type = "buttons",
                                     direction = "left",
@@ -977,7 +942,7 @@ data = [go.Bar(x = top10.sort_values(by = 'MortalityRate')['MortalityRate']*100,
               )
        ]
 
-lay = go.Layout(width = wide_px_small, 
+lay = go.Layout(width = width_px_small, 
                 height = height_px_small+80,
                 margin=dict(l=100, r=50, b=50, t=100, pad=4),
                 plot_bgcolor='white',
@@ -1093,7 +1058,7 @@ plot = plotly.offline.plot({'data':data,
                           )
     
 path = '../visuals/mortality/'
-out_file = open(path+'mortality_top10_320.html', 'w')
+out_file = open(path+'mortality_top10_360.html', 'w')
 out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
 out_file.write(plot)
 out_file.write('</body><html>')
@@ -1793,7 +1758,7 @@ annotations_b = annotations_titles + [
 visibility_a = [True, True, True, True, True, False, False, False, False, False, False, False]
 visibility_b = [False, False, False, False, False, True, True, True, True, True, True, True]
 
-lay = go.Layout(width = wide_px_small, 
+lay = go.Layout(width = width_px_small, 
                 height = height_px_small,
                 margin=dict(l=60, r=50, b=50, t=100, pad=4),
                 plot_bgcolor='white',
@@ -1873,7 +1838,7 @@ plot = plotly.offline.plot({'data':data,
                           )
     
 path = '../visuals/mortality/'
-out_file = open(path+'mortality_all_320.html', 'w')
+out_file = open(path+'mortality_all_360.html', 'w')
 out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
 out_file.write(plot)
 out_file.write('</body><html>')
@@ -1910,3 +1875,910 @@ path = '../visuals/mortality/'
 tmp.to_json(path+'table.json', orient = 'columns')
 #tmp.head()
 #tmp.shape[0]
+
+
+# ## <span style="color:orange">Timelines</span>
+# <hr style="border: 1px solid #D3D3D3" >
+# 
+# 
+
+# In[26]:
+
+
+df_merged.head()
+
+
+# In[27]:
+
+
+# Plot timeline confirmed top ten countries
+
+# Plot
+
+data = []
+for i, c in enumerate(top10_country):
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+
+conf_visible = [True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False]
+death_visible = [False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False]
+conf_pop_visible = [False, False, True, False, False, False, True, False, False, False, True, False,
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False]
+death_pop_visible = [False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True]
+
+lay = go.Layout(width = width_px, 
+                height = height_px, 
+                xaxis = dict(title='',
+                             ticks = 'inside',
+                             ticklen = tick_lenght-3,
+                             tickcolor = tick_col,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showgrid = False,
+                            ),
+                yaxis = dict(title='Number of Cases',
+                             type = 'linear',
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 0.0, 
+                              y = -0.23,
+                              orientation = 'h',
+                             ),
+                margin=dict(l = margin_l, r = margin_r, b = margin_b, t = margin_t, pad=0),
+                annotations=[dict(x = 0.0,
+                                  y = -0.25,
+                                  showarrow = False,
+                                  text = 'Click any country below to hide/show from the graph:',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = label_font,
+                                      size = label_size,
+                                      color = 'silver',),
+                                 ),
+                            ],
+                updatemenus=[dict(buttons=list([dict(args = ["yaxis.type", 'linear'],
+                                                     label = 'Linear',
+                                                     method = 'relayout'
+                                                    ),
+                                                dict(
+                                                    args = ["yaxis.type", 'log'],
+                                                    label = 'Logarithmic',
+                                                    method = 'relayout'
+                                                )
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.265,
+                                  xanchor = 'left',
+                                  y = 1.2,
+                                  yanchor = 'top'
+                                 ),
+                             dict(buttons=list([dict(args = [{'visible': conf_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed   ',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_visible, 'showlegend' : True }],
+                                                     label = 'Deaths',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': conf_pop_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_pop_visible, 'showlegend' : True }],
+                                                     label = 'Deaths/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.02,
+                                  xanchor = 'left',
+                                  y = 1.2,
+                                  yanchor = 'top'
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+
+path = '../visuals/timelines/'
+out_file = open(path+'timeline_date_720.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+
+# In[39]:
+
+
+# Plot timeline confirmed top ten countries (360)
+
+# Plot
+
+data = []
+for i, c in enumerate(top10_country):
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+
+conf_visible = [True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False]
+death_visible = [False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False]
+conf_pop_visible = [False, False, True, False, False, False, True, False, False, False, True, False,
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False]
+death_pop_visible = [False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True]
+
+lay = go.Layout(width = width_px_small-23, 
+                height = height_px_small+100, 
+                xaxis = dict(title='',
+                             ticks = 'inside',
+                             ticklen = tick_lenght-3,
+                             tickcolor = tick_col,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showgrid = False,
+                            ),
+                yaxis = dict(title='Number of Cases',
+                             type = 'linear',
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 0.0, 
+                              y = -0.40,
+                              orientation = 'h',
+                             ),
+                margin=dict(l = 50, r = 10, b = 10, t = 65, pad=0),
+                annotations=[dict(x = 0.0,
+                                  y = -0.45,
+                                  showarrow = False,
+                                  text = 'Click any country below to hide/show from the graph:',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = label_font,
+                                      size = label_size,
+                                      color = 'silver',),
+                                 ),
+                            ],
+                updatemenus=[dict(buttons=list([dict(args = ["yaxis.type", 'linear'],
+                                                     label = 'Linear',
+                                                     method = 'relayout'
+                                                    ),
+                                                dict(
+                                                    args = ["yaxis.type", 'log'],
+                                                    label = 'Logarithmic',
+                                                    method = 'relayout'
+                                                )
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.6,
+                                  xanchor = 'left',
+                                  y = 1.35,
+                                  yanchor = 'top'
+                                 ),
+                             dict(buttons=list([dict(args = [{'visible': conf_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed   ',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_visible, 'showlegend' : True }],
+                                                     label = 'Deaths',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': conf_pop_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_pop_visible, 'showlegend' : True }],
+                                                     label = 'Deaths/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.02,
+                                  xanchor = 'left',
+                                  y = 1.35,
+                                  yanchor = 'top'
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+
+path = '../visuals/timelines/'
+out_file = open(path+'timeline_date_360.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+
+# In[29]:
+
+
+# Plot timeline confirmed top ten countries
+
+# Plot
+
+data = []
+for i, c in enumerate(top10_country):
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+
+conf_visible = [True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False]
+death_visible = [False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False]
+conf_pop_visible = [False, False, True, False, False, False, True, False, False, False, True, False,
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False]
+death_pop_visible = [False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True]
+
+lay = go.Layout(width = width_px, 
+                height = height_px, 
+                #bargap = 0.2,
+                xaxis = dict(title='Days since 50th case confirmed',
+                             ticks = 'inside',
+                             ticklen = tick_lenght-3,
+                             tickcolor = tick_col,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showgrid = False,
+                            ),
+                yaxis = dict(title='Number of Cases',
+                             type = 'linear',
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 0.0, 
+                              y = -0.33,
+                              orientation = 'h',
+                             ),
+                margin=dict(l = margin_l, r = margin_r, b = margin_b, t = margin_t, pad=0),
+                annotations=[dict(x = 0.0,
+                                  y = -0.35,
+                                  showarrow = False,
+                                  text = 'Click any country below to hide/show from the graph:',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = label_font,
+                                      size = label_size,
+                                      color = 'silver',),
+                                 ),
+                            ],
+                updatemenus=[dict(buttons=list([dict(args = ["yaxis.type", 'linear'],
+                                                     label = 'Linear',
+                                                     method = 'relayout'
+                                                    ),
+                                                dict(
+                                                    args = ["yaxis.type", 'log'],
+                                                    label = 'Logarithmic',
+                                                    method = 'relayout'
+                                                )
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.265,
+                                  xanchor = 'left',
+                                  y = 1.2,
+                                  yanchor = 'top'
+                                 ),
+                             dict(buttons=list([dict(args = [{'visible': conf_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed   ',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_visible, 'showlegend' : True }],
+                                                     label = 'Deaths',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': conf_pop_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_pop_visible, 'showlegend' : True }],
+                                                     label = 'Deaths/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.02,
+                                  xanchor = 'left',
+                                  y = 1.2,
+                                  yanchor = 'top'
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+
+path = '../visuals/timelines/'
+out_file = open(path+'timeline_days_720.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+
+# In[38]:
+
+
+# Plot timeline confirmed top ten countries (360)
+
+# Plot
+
+data = []
+for i, c in enumerate(top10_country):
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           line = dict(width = 1.5),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           line = dict(width = 1.5),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           line = dict(width = 1.5),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].days_since_50th_conf,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths_by100000pop,
+                           name = c,
+                           marker = dict(color = top10_col[i]),
+                           line = dict(width = 1.5),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths_by100000pop],
+                           hoverlabel = dict(bordercolor = top10_col[i], 
+                                 bgcolor = 'white', 
+                                 font = dict(color = top10_col[i])),
+                           showlegend = False,
+                           visible = False
+                          ))
+
+conf_visible = [True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False, True, False, False, False, True, False, False, False,
+                True, False, False, False]
+death_visible = [False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False, False, True, False, False, False, True, False, False, 
+                 False, True, False, False]
+conf_pop_visible = [False, False, True, False, False, False, True, False, False, False, True, False,
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False, False, False, True, False, False, False, True, False, 
+                    False, False, True, False]
+death_pop_visible = [False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True, False, False, False, True, False, False, False, True, 
+                      False, False, False, True]
+
+lay = go.Layout(width = width_px_small-23, 
+                height = height_px_small+100, 
+                #bargap = 0.2,
+                xaxis = dict(title='',
+                             ticks = 'inside',
+                             ticklen = tick_lenght-3,
+                             tickcolor = tick_col,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showgrid = False,
+                            ),
+                yaxis = dict(title='Number of Cases',
+                             type = 'linear',
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                legend = dict(x = 0.0, 
+                              y = -0.45,
+                              orientation = 'h',
+                             ),
+                margin=dict(l = 50, r = 10, b = 10, t = 60, pad=0),
+                annotations=[dict(x = 0.0,
+                                  y = -0.50,
+                                  showarrow = False,
+                                  text = 'Click any country below to hide/show from the graph:',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = label_font,
+                                      size = label_size,
+                                      color = 'silver',),
+                                 ),
+                             dict(x = 0.5,
+                                  y = -0.3,
+                                  showarrow = False,
+                                  text = 'Days since 50th case confirmed',
+                                  xref = 'paper',
+                                  yref = 'paper',
+                                  font=dict(
+                                      family = label_font,
+                                      size = label_size+2,
+                                      color = label_col,),
+                                 ),
+                            ],
+                updatemenus=[dict(buttons=list([dict(args = ["yaxis.type", 'linear'],
+                                                     label = 'Linear',
+                                                     method = 'relayout'
+                                                    ),
+                                                dict(
+                                                    args = ["yaxis.type", 'log'],
+                                                    label = 'Logarithmic',
+                                                    method = 'relayout'
+                                                )
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.6,
+                                  xanchor = 'left',
+                                  y = 1.35,
+                                  yanchor = 'top'
+                                 ),
+                             dict(buttons=list([dict(args = [{'visible': conf_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed   ',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_visible, 'showlegend' : True }],
+                                                     label = 'Deaths',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': conf_pop_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_pop_visible, 'showlegend' : True }],
+                                                     label = 'Deaths/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.02,
+                                  xanchor = 'left',
+                                  y = 1.35,
+                                  yanchor = 'top'
+                                 ),
+                            ]
+               )
+
+
+fig = dict(data=data, layout=lay)
+#plotly.offline.iplot(fig)
+
+# Save JS
+plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+
+path = '../visuals/timelines/'
+out_file = open(path+'timeline_days_360.html', 'w')
+out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+out_file.write(plot)
+out_file.write('</body><html>')
+out_file.close()
+
+
+# In[37]:
+
+
+# Individual timeline country plots
+
+for i, c in enumerate(top10_country):
+    
+    data = []
+    
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed,
+                           name = c,
+                           marker = dict(color = '#FF9E1B'),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed],
+                           hoverlabel = dict(bordercolor = 'gray', 
+                                 bgcolor = 'white', 
+                                 font = dict(color = 'gray')),
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths,
+                           name = c,
+                           marker = dict(color = '#FF9E1B'),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:,}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths],
+                           hoverlabel = dict(bordercolor = 'gray', 
+                                 bgcolor = 'white', 
+                                 font = dict(color = 'gray')),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop,
+                           name = c,
+                           marker = dict(color = '#FF9E1B'),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].confirmed_by100000pop],
+                           hoverlabel = dict(bordercolor = 'gray', 
+                                 bgcolor = 'white', 
+                                 font = dict(color = 'gray')),
+                           showlegend = False,
+                           visible = False
+                          ))
+    data.append(go.Scatter(x = df_merged[df_merged['Country/Region'] == c].dt,
+                           y = df_merged[df_merged['Country/Region'] == c].deaths_by100000pop,
+                           name = c,
+                           marker = dict(color = '#FF9E1B'),
+                           hoverinfo = 'text',
+                           hovertext = [c+'<br>'+'{:.1f}'.format(x) for x in df_merged[df_merged['Country/Region'] == c].deaths_by100000pop],
+                           hoverlabel = dict(bordercolor = 'gray', 
+                                 bgcolor = 'white', 
+                                 font = dict(color = 'gray')),
+                           showlegend = False,
+                           visible = False
+                          ))
+    
+    conf_visible = [True, False, False, False]
+    death_visible = [False, True, False, False]
+    conf_pop_visible = [False, False, True, False]
+    death_pop_visible = [False, False, False, True]
+    
+    lay = go.Layout(width = width_px_small-23, 
+                height = 360, 
+                xaxis = dict(title='',
+                             ticks = 'inside',
+                             ticklen = tick_lenght-3,
+                             tickcolor = tick_col,
+                             rangemode = 'nonnegative',
+                             zeroline = False,
+                             showgrid = False,
+                            ),
+                yaxis = dict(title='Number of Cases',
+                             type = 'linear',
+                            ),
+                hovermode = 'closest',
+                font = dict(size = label_size,
+                            family = label_font,
+                            color = label_col,
+                           ),
+                showlegend = False,
+                margin=dict(l = 50, r = 10, b = 50, t = 65, pad=0),
+                updatemenus=[dict(buttons=list([dict(args = ["yaxis.type", 'linear'],
+                                                     label = 'Linear',
+                                                     method = 'relayout'
+                                                    ),
+                                                dict(
+                                                    args = ["yaxis.type", 'log'],
+                                                    label = 'Logarithmic',
+                                                    method = 'relayout'
+                                                )
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.6,
+                                  xanchor = 'left',
+                                  y = 1.17,
+                                  yanchor = 'top',
+                                 ),
+                             dict(buttons=list([dict(args = [{'visible': conf_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed   ',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_visible, 'showlegend' : True }],
+                                                     label = 'Deaths',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': conf_pop_visible, 'showlegend' : True }],
+                                                     label = 'Confirmed/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                                dict(args = [{'visible': death_pop_visible, 'showlegend' : True }],
+                                                     label = 'Deaths/100k pop.',
+                                                     method = 'restyle'
+                                                    ),
+                                               ]),
+                                  direction = "down",
+                                  pad = {"r": 10, "t": 10},
+                                  showactive = True,
+                                  x = 0.02,
+                                  xanchor = 'left',
+                                  y = 1.17,
+                                  yanchor = 'top'
+                                 ),
+                            ]
+               )
+    
+    fig = dict(data=data, layout=lay)
+    
+    # Save JS
+    plot = plotly.offline.plot({'data':data,
+                            'layout':lay},
+                           include_plotlyjs = False,
+                           output_type = 'div',
+                           config = dict(showLink = False,
+                                         modeBarButtonsToRemove = ['sendDataToCloud'],
+                                         displaylogo = False,
+                                         responsive = True)
+                          )
+    
+    path = '../visuals/timelines/'
+    out_file = open(path+'timeline_date_'+str(i)+'.html', 'w')
+    out_file.write('<!DOCTYPE html><html><head><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head><body>')
+    out_file.write(plot)
+    out_file.write('</body><html>')
+    out_file.close()
+
+#plotly.offline.iplot(fig)
+
+
+# In[32]:
+
+
+# Data to JSON
+most_recent_day = df_merged.sort_values('dt').dt.unique()[-1]
+tmp = df_merged[ (df_merged['dt'] == most_recent_day) & (df_merged['Country/Region'].isin(top10_country))].copy()
+tmp.sort_values(by = 'deaths', ascending = False, inplace = True)
+tmp = tmp[['Country/Region', 'days_since_1st_conf', 'first_confirmed', 
+           'confirmed_newcases', 'deaths_newcases']]
+tmp['graph_number'] = np.arange(10)
+tmp.set_index('Country/Region', inplace = True)
+tmp.rename(columns={'Country/Region': 'country',
+                    'first_confirmed': 'date_first_confirmed',
+                   }, inplace = True)
+path = '../visuals/timelines/'
+tmp.to_json(path+'country_info.json', orient = 'columns')
+
+#tmp
+
