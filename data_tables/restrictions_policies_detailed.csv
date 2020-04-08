@@ -1,0 +1,51 @@
+State,State code GEOID,State code STUSPS,Restriction details include,Statewide mandated stay at home order?,Urgency of restrictions,Effective date of executive restriction detailed
+Alabama,1,AL,"Suspension of certain public gatherings, closure of schools, and closure of certain businesses",No,Mandatory,3/19/20
+Alaska,2,AK,Shelter-in-place,Yes,Mandatory,3/28/20
+Arizona,4,AZ,Stay at home,Yes,Mandatory,3/31/20
+Arkansas,5,AR,"Closure of schools and certain businesses, ban on gatherings of 10 or more, and ban on dine-in service in restaurants",No,Mandatory,3/27/20
+California,6,CA,Stay at home,Yes,Mandatory,3/19/20
+Colorado,8,CO,Stay at home,Yes,Mandatory,3/26/20
+Connecticut,9,CT,Stay at home,Yes,Mandatory,3/23/20
+Delaware,10,DE,Shelter-in-place,Yes,Mandatory,3/24/20
+Florida,12,FL,Stay at home,Yes,Mandatory,4/2/20
+Georgia,13,GA,Shelter-in-place,Yes,Mandatory,4/3/20
+Hawaii,15,HI,Stay at home,Yes,Mandatory,3/25/20
+Idaho,16,ID,Stay at home,Yes,Mandatory,3/25/20
+Illinois,17,IL,Stay at home,Yes,Mandatory,3/21/20
+Indiana,18,IN,Stay at home,Yes,Mandatory,3/24/20
+Iowa,19,IA,"Closure of certain businesses, prohibition of gatherings of 10 people or more, and requiring restaurants to use takeout or delivery-only methods",No,Mandatory,3/16/20
+Kansas,20,KS,Stay at home,Yes,Mandatory,3/30/20
+Kentucky,21,KY,"""Healthy at home"" order, restaurants are open for eat-out options, and six-foot physical distancing is required",No,Mandatory,3/26/20
+Louisiana,22,LA,Stay at home,Yes,Mandatory,3/23/20
+Maine,23,ME,Stay at home,Yes,Mandatory,4/2/20
+Maryland,24,MD,Stay at home,Yes,Mandatory,3/30/20
+Massachusetts,25,MA,"Closed bars and restaurants, limited gatherings, and a stay at home advisory",No,Mandatory,3/24/20
+Michigan,26,MI,Stay at home,Yes,Mandatory,3/24/20
+Minnesota,27,MN,Shelter-in-place,Yes,Mandatory,3/27/20
+Mississippi,28,MS,Stay at home,Yes,Mandatory,4/3/20
+Missouri,29,MO,Stay at home,Yes,Mandatory,4/6/20
+Montana,30,MT,Stay at home,Yes,Mandatory,3/28/20
+Nebraska,31,NE,Limited social gatherings and an out-of-state travel ban,No,Mandatory,3/17/20
+Nevada,32,NV,Stay at home,Yes,Mandatory,4/1/20
+New Hampshire,33,NH,Stay at home,Yes,Mandatory,3/27/20
+New Jersey,34,NJ,Stay at home,Yes,Mandatory,3/21/20
+New Mexico,35,NM,Stay at home,Yes,Mandatory,3/24/20
+New York,36,NY,Stay at home,Yes,Mandatory,3/22/20
+North Carolina,37,NC,Stay at home,Yes,Mandatory,3/30/20
+North Dakota,38,ND,"Nonessential businesses and schools close, restaurants limit service, mandatory quarantine for individuals who test positive and citizens returning from states on the CDC's widespread COVID-19 list, but no stay at home order",No,Mandatory,3/20/20
+Ohio,39,OH,Stay at home,Yes,Mandatory,3/23/20
+Oklahoma,40,OK,"""Safer at home"" policy for vulnerable populations, gatherings of 10 or more prohibited, and nonessential businesses closed",No,Mandatory,3/24/20
+Oregon,41,OR,Stay at home,Yes,Mandatory,3/23/20
+Pennsylvania,42,PA,Stay at home,Yes,Mandatory,4/1/20
+Rhode Island,44,RI,Stay at home,Yes,Mandatory,3/28/20
+South Carolina,45,SC,Stay at home,Yes,Mandatory,4/7/20
+South Dakota,46,SD,People over the age of 60 and those with respiratory or cardiac conditions are advised to remain home and enclosed retail businesses should modify business practices,No,Mandatory,3/19/20
+Tennessee,47,TN,Stay at home,Yes,Mandatory,3/31/20
+Texas,48,TX,Stay at home,Yes,Mandatory,4/2/20
+Utah,49,UT,"Work from home encouraged, travel should be limited to essential, and businesses and nonprofits should respond in a flexible way",No,Mandated for certain counties,3/30/20
+Vermont,50,VT,Stay at home,Yes,Mandatory,3/24/20
+Virginia,51,VA,Stay at home,Yes,Mandatory,3/30/20
+Washington,53,WA,Stay at home,Yes,Mandatory,3/23/20
+West Virginia,54,WV,Stay at home,Yes,Mandatory,3/24/20
+Wisconsin,55,WI,Stay at home,Yes,Mandatory,3/25/20
+Wyoming,56,WY,Closure of businesses and schools,No,Mandatory,3/27/20
