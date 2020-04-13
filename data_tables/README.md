@@ -1,6 +1,6 @@
 ## Data sources
 
-- World population: World Bank
+- World population: [World Bank](https://data.worldbank.org/indicator/sp.pop.totl)
 - State restrictions: State Public Health Agency websites or dedicated state coronavirus information pages
 - Hubei events: 
     - [Hubei Government Daily Reports](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/index_17.shtml)
