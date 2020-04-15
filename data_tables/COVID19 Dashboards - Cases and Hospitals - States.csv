@@ -11,7 +11,7 @@ Florida,https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e42
 Georgia,https://dph.georgia.gov/covid-19-daily-status-report,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No
 Hawaii,https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/,No,No,No,No,Yes,No,No,No,No,No,No
 Idaho,https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2,No,No,No,No,Yes,No,No,Yes,No,No,No
-Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No
+Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
 Indiana,https://coronavirus.in.gov/,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No
 Iowa,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,No,No,No,No,Yes,No,No,Yes,No,No,No
 Kansas,https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No
@@ -34,7 +34,7 @@ New York (death info on linked page),https://covid19tracker.health.ny.gov/views/
 North Carolina,https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No
 North Dakota,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,No,No,No,No,Yes,No,No,Yes,No,No,No
 Ohio,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No
-Oklahoma,https://coronavirus.health.ok.gov/,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No
+Oklahoma,https://coronavirus.health.ok.gov/,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No
 Oregon,https://govstatus.egov.com/OR-OHA-COVID-19,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No
 Pennsylvania,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,No,No,No,No,Yes,No,No,No,No,No,No
 Rhode Island,https://health.ri.gov/data/covid-19/,No,No,No,No,Yes,No,No,Yes,No,No,No
