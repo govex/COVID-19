@@ -1,5 +1,5 @@
 State,Main Dashboard,Race - Test,Race - Case,Race- Death,Age -Test,Age -Case,Age - Death,Gender - Test,Gender - Case,Gender - Death,Co-Morbidities - Death,Co-Morbidities - other (describe)
-Alabama,https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7,No,Yes,No,No,Yes,No,No,Yes,No,No,No
+Alabama,https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No
 Alaska,https://coronavirus-response-alaska-dhss.hub.arcgis.com/,No,No,No,No,Yes,No,No,Yes,No,No,No
 Arizona,https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
 Arkansas,https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647,No,No,No,No,No,No,No,No,No,No,No
@@ -13,7 +13,7 @@ Hawaii,https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/cur
 Idaho,https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2,No,No,No,No,Yes,No,No,Yes,No,No,No
 Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
 Indiana,https://coronavirus.in.gov/,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No
-Iowa,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,No,No,No,No,Yes,No,No,Yes,No,No,No
+Iowa,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,No,Yes,No,No,Yes,No,No,Yes,No,No,No
 Kansas,https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No
 Kentucky,https://www.arcgis.com/apps/MapSeries/index.html?appid=24fb11ce078549548938c24a0e6faa09,No,No,No,No,Yes,No,No,Yes,No,No,No
 Louisiana,http://ldh.la.gov/Coronavirus/,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No
