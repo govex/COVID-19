@@ -29,7 +29,7 @@ Montana,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demograph
 Nebraska,https://nebraska.maps.arcgis.com/apps/opsdashboard/index.html#/4213f719a45647bc873ffb58783ffef3,No,No,No
 Nevada,https://nvhealthresponse.nv.gov/,No,No,No
 New Hampshire,https://www.nh.gov/covid19/,No,No,No
-New Jersey,https://covid19.nj.gov/,No,Yes,No
+New Jersey,https://covid19.nj.gov/,No,Yes,Yes
 New Mexico,https://cvprovider.nmhealth.org/public-dashboard.html,No,Yes,No
 New York (death info on linked page),https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n,No,No,Yes
 North Carolina,https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count,No,Yes,Yes
