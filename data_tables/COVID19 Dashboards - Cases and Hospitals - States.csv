@@ -6,9 +6,9 @@ Arkansas,https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b60
 California,https://public.tableau.com/views/COVID-19PublicDashboard/Covid-19Public?:embed=y&:display_count=no&:showVizHome=no,No,Yes,Yes
 Colorado,https://covid19.colorado.gov/case-data,No,Yes,Yes
 Connecticut (pdf download),https://portal.ct.gov/Coronavirus,No,Yes,Yes
-Delaware,https://coronavirus.delaware.gov/,No,No,No
+Delaware,https://coronavirus.delaware.gov/,No,Yes,Yes
 District of Columbia,https://coronavirus.dc.gov/page/coronavirus-data,No,Yes,Yes
-Florida,https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429,No,Yes,No
+Florida,https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429,No,Yes,Yes
 Georgia,https://dph.georgia.gov/covid-19-daily-status-report,No,Yes,Yes
 Hawaii,https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/,No,Yes,No
 Idaho,https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/Story1,No,No,Yes
@@ -28,7 +28,7 @@ Missouri,https://health.mo.gov/living/healthcondiseases/communicable/novel-coron
 Montana,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics,No,Yes,No
 Nebraska,https://nebraska.maps.arcgis.com/apps/opsdashboard/index.html#/4213f719a45647bc873ffb58783ffef3,No,No,No
 Nevada,https://nvhealthresponse.nv.gov/,No,No,No
-New Hampshire,https://www.nh.gov/covid19/,No,No,No
+New Hampshire,https://www.nh.gov/covid19/,No,Yes,No
 New Jersey,https://covid19.nj.gov/,No,Yes,Yes
 New Mexico,https://cvprovider.nmhealth.org/public-dashboard.html,No,Yes,No
 New York (death info on linked page),https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n,No,No,Yes
