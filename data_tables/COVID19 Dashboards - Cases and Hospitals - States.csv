@@ -18,7 +18,7 @@ Iowa,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,No,Yes,No
 Kansas,https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData,Yes,Yes,Yes
 Kentucky,https://govstatus.egov.com/kycovid19,No,No,No
 Louisiana,http://ldh.la.gov/Coronavirus/,No,No,Yes
-Maine,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,No,No,No
+Maine,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,No,Yes,No
 Maryland,https://coronavirus.maryland.gov/,No,Yes,Yes
 Massachusetts (pdf download),https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-,No,Yes,Yes
 Michigan,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html",No,Yes,Yes
@@ -28,7 +28,7 @@ Missouri,https://health.mo.gov/living/healthcondiseases/communicable/novel-coron
 Montana,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics,No,Yes,No
 Nebraska,https://nebraska.maps.arcgis.com/apps/opsdashboard/index.html#/4213f719a45647bc873ffb58783ffef3,No,No,No
 Nevada,https://nvhealthresponse.nv.gov/,No,No,No
-New Hampshire,https://www.nh.gov/covid19/,No,Yes,No
+New Hampshire,https://www.nh.gov/covid19/,No,Yes,Yes
 New Jersey,https://covid19.nj.gov/,No,Yes,Yes
 New Mexico,https://cvprovider.nmhealth.org/public-dashboard.html,No,Yes,No
 New York (death info on linked page),https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n,No,No,Yes
@@ -36,7 +36,7 @@ North Carolina,https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-n
 North Dakota,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,No,No,No
 Ohio,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards,No,Yes,Yes
 Oklahoma,https://coronavirus.health.ok.gov/,No,Yes,Yes
-Oregon,https://govstatus.egov.com/OR-OHA-COVID-19,No,Yes,No
+Oregon,https://govstatus.egov.com/OR-OHA-COVID-19,No,Yes,Yes
 Pennsylvania,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,No,Yes,Yes
 Rhode Island,https://health.ri.gov/data/covid-19/,No,Yes,Yes
 South Carolina,https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/testing-sc-data-covid-19,No,Yes,Yes
