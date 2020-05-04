@@ -14,7 +14,7 @@ Hawaii,https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/cur
 Idaho,https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/Story1,No,No,Yes
 Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,Yes,Yes,Yes
 Indiana,https://coronavirus.in.gov/,No,Yes,Yes
-Iowa,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,No,Yes,No
+Iowa,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,No,Yes,Yes
 Kansas,https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData,Yes,Yes,Yes
 Kentucky,https://govstatus.egov.com/kycovid19,No,No,No
 Louisiana,http://ldh.la.gov/Coronavirus/,No,No,Yes
@@ -40,7 +40,7 @@ Oregon,https://govstatus.egov.com/OR-OHA-COVID-19,No,Yes,Yes
 Pennsylvania,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,No,Yes,Yes
 Rhode Island,https://health.ri.gov/data/covid-19/,No,Yes,Yes
 South Carolina,https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/testing-sc-data-covid-19,No,Yes,Yes
-South Dakota,https://doh.sd.gov/news/coronavirus.aspx#SD,No,No,Yes
+South Dakota,https://doh.sd.gov/news/coronavirus.aspx#SD,No,Yes,No
 Tennessee,https://www.tn.gov/health/cedep/ncov.html,No,Yes,Yes
 Texas,https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83,No,Yes,Yes
 Utah,https://coronavirus-dashboard.utah.gov/,No,Yes,No
