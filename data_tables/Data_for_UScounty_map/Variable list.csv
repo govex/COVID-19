@@ -1,0 +1,13 @@
+plain_text_variable,acs2018_variable,description
+name,NAME,County name
+B02001_001E,B02001_001E,Total Pop
+B02001_002E,B02001_002E,White alone
+B02001_003E,B02001_003E, Black or African American alone
+B02001_004E,B02001_004E, American Indian and Alaska Native alone
+B02001_005E,B02001_005E, Asian alone
+B02001_006E,B02001_006E, Native Hawaiian and Other Pacific Islander alone
+B02001_007E,B02001_007E, Some other race alone
+B02001_008E,B02001_008E, Two or more races
+B03003_001E,B03003_001E,Hispanic total population
+B03003_002E,B03003_002E,Not Hispanic or Latino origin
+B03003_003E,B03003_003E,Hispanic or Latino Origin
