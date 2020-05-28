@@ -2,7 +2,7 @@ State,Main Dashboard,Race - Test,Race - Case,Race- Death
 Alabama,https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7,No,Yes,Yes
 Alaska,http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx,No,Yes,Yes
 Arizona,https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home,No,Yes,Yes
-Arkansas,https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647,No,Yes,Yes
+Arkansas,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,No,Yes,Yes
 California,https://public.tableau.com/views/COVID-19PublicDashboard/Covid-19Public?:embed=y&:display_count=no&:showVizHome=no,No,Yes,Yes
 Colorado,https://covid19.colorado.gov/case-data,No,Yes,Yes
 Connecticut (pdf download),https://portal.ct.gov/Coronavirus,No,Yes,Yes
@@ -14,7 +14,7 @@ Hawaii,https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/cur
 Idaho,https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/Story1,No,Yes,Yes
 Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,Yes,Yes,Yes
 Indiana,https://coronavirus.in.gov/,No,Yes,Yes
-Iowa,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,No,Yes,Yes
+Iowa,https://coronavirus.iowa.gov/,No,Yes,Yes
 Kansas,https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData,Yes,Yes,Yes
 Kentucky,https://govstatus.egov.com/kycovid19,No,Yes,No
 Louisiana,http://ldh.la.gov/Coronavirus/,No,No,Yes
