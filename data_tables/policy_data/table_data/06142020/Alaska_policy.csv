@@ -1,4 +1,4 @@
-date,policy
+date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 "March 3, 2020","The Division of Insurance sent a bulletin allowing access to drug refills during quarantine, promoting utilization of telemedicine, and stating their preparedness plan for COVID-19."
 "March 6, 2020",The Division of Insurance issued anotherbulletinregarding coverage requirements for cost sharing and coverage of respiratory viruses including COVID-19.
 "March 11, 2020",Governor Dunleavyissueda declarationof public health disaster emergency in response to the COVID-19 anticipated outbreak. 
