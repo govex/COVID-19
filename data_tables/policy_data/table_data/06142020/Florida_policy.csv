@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 1-Mar-20,"Governor DeSantis signed anexecutive orderdirecting the state health officer to declare a public health emergency and take any actions needed to protect the public health.
 
 The order directs the Florida Department of Health to actively monitor all persons meeting the CDC definition of a Person Under Investigation (PUI) for at least 14 days or until the PUI tests negative for COVID-19. Active monitoring will include at least: a) a risk assessment within 24 hours of when the individual meets the criteria for a PUI and b) twice daily temperature checks.
