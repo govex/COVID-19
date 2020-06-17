@@ -1,4 +1,4 @@
-date,policy
+date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 "March 1, 2020","Rhode Islandestablishedan Incident Command System response to organize state agency preparedness and response activities. It includes staff from numerous state agencies, including emergency management, behavioral health, education, human services, environmental management, and others."
 "March 1, 2020","The Rhode Island Department of Health is coordinating with other state agencies and community organizations to support anyone doing self-quarantining to ensure that people who are remaining at home have the support services they need. This includes support with everyday needs, such as prescriptions and groceries."
 "March 11, 2020",Governor Raimondoissued guidancefor large events in Rhode Islandto help contain the spread of COVID-19.
@@ -97,8 +97,7 @@ Family Court  parents who have join custody of their children and feels a modifi
 "April 7, 2020"," The Governor announced plans to extend the following executive orders until May 8:All gatherings of more than five people are prohibited;Restaurants, bars and cafes will be closed to dine-in services;Public recreation and entertainment businesses and all close-contact businesses will remain closed; Anyone returning to the state from domestic or international travel by any mode of transportation must self-quarantine for 14 days; All open meetings must take place by phone or video conferencing; Health insurers must cover telemedicine for primary care, specialty care and behavioral health; and, Extending the time period that law enforcement has to complete a background check for a gun permit from seven to 30 days. "
 "April 7, 2020"," The Governor signed an executive order ensuring that hospitals provide data to the state regarding supplies, patients being treated for COVID-19, and testing. "
 "April 8, 2020", The Governor announced      several updates to the states ongoing response efforts:Extending the closure for all non-essential businesses        including residential and commercial evictions  through May 17;Partnering with SalesForce to create a secure database       that will allow RIDOH and the National Guard to conduct contact tracing       more efficiently and effectively;Providing free fabric to all Rhode Island residents to       make their own fabric face coverings. 
-"April
-9, 2020"," The Governor signed
+"April 9, 2020"," The Governor signed
 an executive order, clarifying Rhode Islands requirements around quarantine
 and isolation:Anyone
 diagnosed with COVID-19 must self-isolate;People
@@ -111,7 +110,7 @@ several updates related to the states ongoing response efforts:Allowing the Depa
 "April 13, 2020", The Governor announced that Goldman Sachs committed $10 million for loans for small businesses in Rhode Island through a partnership with Rhode Island Commerce Corporation and with Community Reinvestment Fund. 
 "April 14, 2020"," The Governor signed an executive order clarifying the states directive around face coverings. Beginning April 18:All employees of customer-facing businesses, office-based businesses, manufacturers and non-profits, must wear cloth face coverings while at work; All customer-facing businesses must take steps to remind customers to wear face coverings; and, Face coverings can include scarves, bandanas, and other homemade and non-factory-made masks. "
 "April 14, 2020"," The Governor announced that HealthSourceRI, the state-based health insurance exchange, is extending their special open enrollment period through April 30. "
-"April 14 – Rhode Island Commerce in partnership with the RI Department of Business Regulations issued guidelines for businesses to keep workers safe.  , 2020",April 14  Rhode Island Commerce in partnership with the RI Department of Business Regulations issued guidelines for businesses to keep workers safe.  
+"April 14, 2020"," Rhode Island Commerce in partnership with the RI Department of Business Regulations issued guidelines for businesses to keep workers safe.  , 2020",April 14  Rhode Island Commerce in partnership with the RI Department of Business Regulations issued guidelines for businesses to keep workers safe.  
 "April 15, 2020"," The Governor unveiled a data dashboard that provides key metrics and county-specific testing and case rates, among other things. "
 "April 15, 2020"," The Governor launched RI Havens, a website that connects those in need of a safe space to quarantine with hotel rooms across the state offered at significantly discounted rates. "
 "April 16, 2020", The Governor unveiled the states modeling projection for coronavirus hospitalizations through mid-May.
