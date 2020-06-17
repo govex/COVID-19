@@ -1,13 +1,13 @@
-date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
-"March 7, 2020",Governor Lamont announced thatConnecticutis partnering with United Way of Connecticut tolaunch an information hotlinefor questions from the public regarding issues related to the spread of coronavirus (COVID-19).
-"March 9, 2020",The Governor also issuedan immediate freeze on state employee travel on state business outside of Connecticut until further notice.
-"March 9, 2020",TheDepartmentof Insurance hasabulletinwhich encouragesinsurers to consider waiving cost sharing forCOVID-19 testing and also highlights other related benefits.
-"March 10, 2020","Governor Lamontdeclared civil preparedness and public health emergencies.The declarationstriggerprice gouging laws, and make clear that municipal leaders have emergency powers to mitigate disasters and emergencies"
-"March 10, 2020",The Connecticut Insurance Department is notifying travel insurance companies about the emergency declarations and will be monitoring their compliance with the terms of their policies.
-"March 10, 2020",Governor Lamont announcedthathis administration isworking with health insurance carriers in Connecticut to cover the costs for COVID-19 testingand to assureaccess to maintenance prescription drug medications (excluding controlled substances).
-"March 11, 2020",Connecticut Insurance Department CommissionerMaisissueda notice to all travel insurersconducting business in Connecticut. The notice instructs insurers to accommodate travel cancellation requests under the terms of the policiestaking into accounttheseriousness of the circumstances and the civil preparedness and public health emergencies issued by Governor Lamont.
-"March 11, 2020","Governor Lamontmadean emergency requestfrom the Strategic National Supply for a total of 540,000 additional N-95 protective masks."
-"March 12, 2020","Connecticutsignedan executive order that takes several actions:
+date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+7-Mar-20,Governor Lamont announced thatConnecticutis partnering with United Way of Connecticut tolaunch an information hotlinefor questions from the public regarding issues related to the spread of coronavirus (COVID-19).,,,,,,,,,,,Y
+9-Mar-20,The Governor also issuedan immediate freeze on state employee travel on state business outside of Connecticut until further notice.,Y,,,,,,,Y,,,
+9-Mar-20,TheDepartmentof Insurance hasabulletinwhich encouragesinsurers to consider waiving cost sharing forCOVID-19 testing and also highlights other related benefits.,,,,,,,,,,,Y
+10-Mar-20,"Governor Lamontdeclared civil preparedness and public health emergencies.The declarationstriggerprice gouging laws, and make clear that municipal leaders have emergency powers to mitigate disasters and emergencies",,,,,,,Y,,,,
+10-Mar-20,The Connecticut Insurance Department is notifying travel insurance companies about the emergency declarations and will be monitoring their compliance with the terms of their policies.,,,,,,,,,,,Y
+10-Mar-20,Governor Lamont announcedthathis administration isworking with health insurance carriers in Connecticut to cover the costs for COVID-19 testingand to assureaccess to maintenance prescription drug medications (excluding controlled substances).,,,,,,,,,,,Y
+11-Mar-20,Connecticut Insurance Department CommissionerMaisissueda notice to all travel insurersconducting business in Connecticut. The notice instructs insurers to accommodate travel cancellation requests under the terms of the policiestaking into accounttheseriousness of the circumstances and the civil preparedness and public health emergencies issued by Governor Lamont.,,,,,,,,,,,Y
+11-Mar-20,"Governor Lamontmadean emergency requestfrom the Strategic National Supply for a total of 540,000 additional N-95 protective masks.",,,,,,,,,,Y,Y
+12-Mar-20,"Connecticutsignedan executive order that takes several actions:
 
 Prohibits all events in the state with over 250people;
 Modifies the state law requiring schools to be in for 180days;
@@ -17,9 +17,9 @@ Relaxes attendance rules for police academy trainees.
 The Connecticut Department of Motor Vehiclesordereda 90-day extension on all license renewals.
 Connecticut has made anemergency requestfrom the Strategic National Supply for a total of 540,000 additional N-95 protective masks.
 
-"
-"March 13, 2020"," The Governor signed an executive order granting the commissioner of the Department of Public Health additional authority to restrict visitation to facilitates such as nursing home facilities, residential care homes, and chronic disease hospitals."
-"March 14, 2020"," The Governor signed his third executive order since the enactment of the emergency declarations earlier in the week. The latest order:
+",Y,,,,Y,,,,,Y,
+13-Mar-20," The Governor signed an executive order granting the commissioner of the Department of Public Health additional authority to restrict visitation to facilitates such as nursing home facilities, residential care homes, and chronic disease hospitals.",Y,,,,,,,,,,
+14-Mar-20," The Governor signed his third executive order since the enactment of the emergency declarations earlier in the week. The latest order:
 
 Relaxes in-person open meeting requirements to minimize large gatherings, with safeguards to provide remote public access;
 
@@ -41,10 +41,10 @@ Authorizes the Commissioner of Early Childhood to waive certain licensing and ot
 
 Authorizes the Office of Health Strategy to waive Certificates of Need and other requirements to ensure adequate availability of healthcare resources and facilities.
 
-"
-"March 14, 2020"," The Governor directed telework requirements to be eased for certain executive branch state employees, allowing an increased number of employees to work from home. He is also providing executive branch state employees who cannot report to work due to COVID-19 14 days of paid time off."
-"March 14, 2020", The Connecticut National Guard is aiding the state with requests for assistance.
-"March 15, 2020"," The Governor signed an executive order taking the following actions:
+",Y,,,,,,,,,,Y
+14-Mar-20," The Governor directed telework requirements to be eased for certain executive branch state employees, allowing an increased number of employees to work from home. He is also providing executive branch state employees who cannot report to work due to COVID-19 14 days of paid time off.",,,,,,,,,,,Y
+14-Mar-20, The Connecticut National Guard is aiding the state with requests for assistance.,,,,,,,,,,,Y
+15-Mar-20," The Governor signed an executive order taking the following actions:
 
 Cancels classes at all public schools statewide effective March 17 through at least March 31, 2020.
 
@@ -66,11 +66,11 @@ Extends the Department of Revenue Services filing deadline for certain annual st
 
 Releases a set of rules to pharmacies so they can begin producing and selling their own hand sanitizer while ensuring its effectiveness and safety.
 
-"
-"March 15, 2020", The State Department of Education received a waiver from the federal government allowing students who receive meals under the school lunch program to continue receiving those meals during school closures and consume them at home.
-"March 15 – The Connecticut Department of Economic and Community Development offered business resources through the state’s Coronavirus website, 2020","March 15  The Connecticut Department of Economic and Community Development offered business resources through the states Coronavirus website, including: A Small Business hotline phone number; tax filing extensions from the Department of Revenue Services; information on business interruption insurance from the states Insurance Department; and information on SBA assistance and unemployment assistance."
-"March 16, 2020", The Governor announced that small businesses and nonprofit organizations in Connecticut that have been negatively impacted by the global COVID-19 outbreak are now eligible for disaster relief loans of up to $2 million from the U.S. Small Business Administration.
-"March 16, 2020"," The Governor signed his fifth executive order, which directs the following actions:
+",,,,,,,,,,,Y
+15-Mar-20, The State Department of Education received a waiver from the federal government allowing students who receive meals under the school lunch program to continue receiving those meals during school closures and consume them at home.,,,,,Y,,,,,,Y
+"March 15 – The Connecticut Department of Economic and Community Development offered business resources through the state’s Coronavirus website, 2020","March 15  The Connecticut Department of Economic and Community Development offered business resources through the states Coronavirus website, including: A Small Business hotline phone number; tax filing extensions from the Department of Revenue Services; information on business interruption insurance from the states Insurance Department; and information on SBA assistance and unemployment assistance.",,,,,,,,,,,Y
+16-Mar-20, The Governor announced that small businesses and nonprofit organizations in Connecticut that have been negatively impacted by the global COVID-19 outbreak are now eligible for disaster relief loans of up to $2 million from the U.S. Small Business Administration.,,,,,,,,,,,Y
+16-Mar-20," The Governor signed his fifth executive order, which directs the following actions:
 
 Revises the previously enacted prohibition on large gatherings to a capacity of 50 people, and adds religious gatherings to the list of activities subject to the limit.
 
@@ -83,12 +83,12 @@ Requires closure of on-side operations at off-track betting facility operations,
 
 Requires closure of gyms, fitness studios, and movie theaters, effective 8:00 PM on March 16.
 
-"
-"March 16, 2020", Drive-through testing has been approved at seven Connecticut hospitals.
-"March 16, 2020"," The Connecticut Office of Health Strategy provided guidelines for a streamlined application, review, and approval process so healthcare providers can adjust treatment services for those afflicted with COVID-19."
-"March 16, 2020"," The Mashantucket Pequot and Mohegan Tribal Nations will temporarily close casino and resort properties on sovereign reservation lands in eastern Connecticut amid concerns about the coronavirus. The casinos will close at 8PM on Tuesday, March 17 for a two-week period."
-"March 16, 2020"," The Governors of Connecticut, New York and New Jersey announced a regional approach to combatting the novel coronavirus throughout the tri-state area."
-"March 17, 2020"," The Governor signed his sixth executive order building upon his efforts to encourage mitigation strategies that slow down transmission of the virus. The provisions of the order include the following:
+",Y,,,,,,,,,,
+16-Mar-20, Drive-through testing has been approved at seven Connecticut hospitals.,,,,Y,,,,,,,Y
+16-Mar-20," The Connecticut Office of Health Strategy provided guidelines for a streamlined application, review, and approval process so healthcare providers can adjust treatment services for those afflicted with COVID-19.",,,,,,Y,,,,,Y
+16-Mar-20," The Mashantucket Pequot and Mohegan Tribal Nations will temporarily close casino and resort properties on sovereign reservation lands in eastern Connecticut amid concerns about the coronavirus. The casinos will close at 8PM on Tuesday, March 17 for a two-week period.",Y,,,,,,,,,,
+16-Mar-20," The Governors of Connecticut, New York and New Jersey announced a regional approach to combatting the novel coronavirus throughout the tri-state area.",,,,,,,,,,,Y
+17-Mar-20," The Governor signed his sixth executive order building upon his efforts to encourage mitigation strategies that slow down transmission of the virus. The provisions of the order include the following:
 
 Modifies previously enacted waiver of 180-day school year to grant broader flexibility to school districts;
 
@@ -101,11 +101,11 @@ Extends expiration dates for permits, licenses, and other credentials administer
 
 Suspends the requirement that public assistance benefit overpayments be immediately recouped.
 
-"
-"March 17, 2020", The Department of Economic and Community Development launched the COVID-19 Business Emergency Response Unit to aid businesses in economic recovery.
-"March 17, 2020"," The Department of Motor Vehicles and Revenue Services suspended in-person visits at all of their branches. Certain deadlines are being extended, and customers are also encouraged to conduct transactions online."
-"March 17, 2020"," The Department of Energy and Environmental Protection suspended enforcement activities at bottle collection facilities, giving stores discretion to shut them down. They are also suspending in-person visits at their main office."
-"March 18, 2020"," The Governor issued an executive order to:
+",,,,,,,,,,,Y
+17-Mar-20, The Department of Economic and Community Development launched the COVID-19 Business Emergency Response Unit to aid businesses in economic recovery.,,,,,,,,,,,Y
+17-Mar-20," The Department of Motor Vehicles and Revenue Services suspended in-person visits at all of their branches. Certain deadlines are being extended, and customers are also encouraged to conduct transactions online.",,,,,,,,,,,Y
+17-Mar-20," The Department of Energy and Environmental Protection suspended enforcement activities at bottle collection facilities, giving stores discretion to shut them down. They are also suspending in-person visits at their main office.",,,,,,,,,,,Y
+18-Mar-20," The Governor issued an executive order to:
 
 Closed large indoor malls and places of amusement (but not parks and open space areas) effective 8:00 p.m. on March 19;
 
@@ -118,9 +118,9 @@ Provide flexibility for critical legal functions regarding conservators and comp
 
 Exempt certain schools inside state facilities from the school cancellation order.
 
-"
-"March 18, 2020", Connecticuts health insurance marketplace announced a new special enrollment period for residents who are uninsured.
-"March 18, 2020"," The Governors of Connecticut, New York and New Jersey announced that the Governor of Pennsylvania is joining their coalition to implement a regional approach to combatting COVID-19. The Governors expanded their previous orders to include:
+",Y,,,,,Y,,,,,
+18-Mar-20, Connecticuts health insurance marketplace announced a new special enrollment period for residents who are uninsured.,,,,,,,,,,,Y
+18-Mar-20," The Governors of Connecticut, New York and New Jersey announced that the Governor of Pennsylvania is joining their coalition to implement a regional approach to combatting COVID-19. The Governors expanded their previous orders to include:
 
 Limiting crowd capacity for social and recreational gatherings to 50 people;
 
@@ -130,8 +130,8 @@ Closing restaurants and bars for on premise service and move to take-out and del
 
 Temporary closing of movie theaters, gyms, and casinos.
 
-"
-"March 19, 2020"," The Governor issued an executive order taking the following actions:
+",Y,,,,,,,,,,
+19-Mar-20," The Governor issued an executive order taking the following actions:
 
 Postponing Connecticuts presidential primary from April 28 to June 2, 2020.
 
@@ -150,15 +150,15 @@ Expanding the ability of patients and doctors to use telehealth for healthcare s
 
 Temporarily suspending in-person investigation visits regarding suspected elder abuse and extending timelines for reporting investigation results.
 
-"
-"March 19, 2020", The Governor announced Connecticuts 2020 presidential primary election will be rescheduled to June 2.
-"March 20, 2020", The Governor launched a framework for the donation of Personal Protective Equipment (PPE).
-"March 20, 2020"," The Governor issued an executive order directing all non-essential businesses and not-for-profit entities in Connecticut to prohibit all in-person functions if they are able to, effective March 23, 2020 at 8:00 PM."
-"March 20, 2020"," The Connecticut Department of Revenue Services announced it is extending filing and payment deadlines for personal income tax returns to July 15, 2020."
-"March 20, 2020"," The Connecticut Department of Motor Vehicles announced a series of new extensions and waivers on several credentials, including vehicle registrations, emissions testing, and other items."
-"March 21, 2020"," The Governor issued an executive order providing broad relief for municipalities regarding procedures, notice requirements, and deadlines for various proceedings and decisions. In addition, the executive order enacts several necessary changes related to Medicare Part D and HUSKY B costs, student privacy, visitation in the Department of Children and Families facilities, pharmacy regulations, and corporate meetings."
-"March 22, 2020"," The Governor delivered a recorded voice message to more than four million phone numbers in Connecticut through the states CTAlert system in an effort to urge all residents to Stay Safe, Stay Home as part of a larger initiative."
-"March 23, 2020"," The Governor issued an executive order taking the following actions:
+",Y,,,,,,,,,,
+19-Mar-20, The Governor announced Connecticuts 2020 presidential primary election will be rescheduled to June 2.,,,,,,,,,,,Y
+20-Mar-20, The Governor launched a framework for the donation of Personal Protective Equipment (PPE).,,,,,,,,,,Y,Y
+20-Mar-20," The Governor issued an executive order directing all non-essential businesses and not-for-profit entities in Connecticut to prohibit all in-person functions if they are able to, effective March 23, 2020 at 8:00 PM.",Y,,,,,,,,,,
+20-Mar-20," The Connecticut Department of Revenue Services announced it is extending filing and payment deadlines for personal income tax returns to July 15, 2020.",,,,,,,,,,,Y
+20-Mar-20," The Connecticut Department of Motor Vehicles announced a series of new extensions and waivers on several credentials, including vehicle registrations, emissions testing, and other items.",,,,,,,,,,,Y
+21-Mar-20," The Governor issued an executive order providing broad relief for municipalities regarding procedures, notice requirements, and deadlines for various proceedings and decisions. In addition, the executive order enacts several necessary changes related to Medicare Part D and HUSKY B costs, student privacy, visitation in the Department of Children and Families facilities, pharmacy regulations, and corporate meetings.",,,,,,,,,,,Y
+22-Mar-20," The Governor delivered a recorded voice message to more than four million phone numbers in Connecticut through the states CTAlert system in an effort to urge all residents to Stay Safe, Stay Home as part of a larger initiative.",,,,,,,,,,,Y
+23-Mar-20," The Governor issued an executive order taking the following actions:
 
 Suspends non-critical probate court operations;
 
@@ -174,11 +174,11 @@ Modifies regulatory requirements to protect public health and safety; and
 
 Suspends certain requirements regarding the temporary hire of care workers at long-term care facilities.
 
-"
-"March 23, 2020"," The Governors Stay Safe, Stay Home executive order directed non-essential workers statewide to work from home."
-"March 23, 2020"," The Governor announced drive-through testing sites have been added at 5 more hospitals, bringing the statewide total of these alternate testing locations to 21."
-"March 23, 2020", The Connecticut Department of Public Health signed an order easing the rules for out-of-state practitioners to provide services in Connecticut.
-"March 24, 2020"," The Governor issued an executive order taking the following actions:
+",,,,,,,,,,,Y
+23-Mar-20," The Governors Stay Safe, Stay Home executive order directed non-essential workers statewide to work from home.",Y,,,,,,,,,,
+23-Mar-20," The Governor announced drive-through testing sites have been added at 5 more hospitals, bringing the statewide total of these alternate testing locations to 21.",,,,Y,,,,,,,Y
+23-Mar-20, The Connecticut Department of Public Health signed an order easing the rules for out-of-state practitioners to provide services in Connecticut.,,,,,,Y,,,,,Y
+24-Mar-20," The Governor issued an executive order taking the following actions:
 
 Extends the cancellation of classes at public schools statewide through at least April 20;
 
@@ -203,9 +203,9 @@ Suspends in-person purchase of copies of vital records at the Department of Publ
 
 Modifies the requirement that marriage licenses be obtained in the town where the marriage will be celebrated.
 
-"
-"March 24, 2020", The Governor announced the creation of a task force of superintendents to oversee distribution of remote learning resources.
-"March 25, 2020"," The Governor issued an executive order with the following actions:
+",Y,,,,,Y,,,,,
+24-Mar-20, The Governor announced the creation of a task force of superintendents to oversee distribution of remote learning resources.,,,,,Y,,,,,,
+25-Mar-20," The Governor issued an executive order with the following actions:
 
 Authorizing state agencies to extend statutory regulatory administrative deadlines by 90 days;
 
@@ -215,10 +215,10 @@ Suspending mandatory statutory filing requirements for Freedom of Information Ac
 
 Tolling of time periods for Department of Transportation final determinations on permits.
 
-"
-"March 25, 2020", The Governor announced the launch of the Connecticut Recovery Bridge Loan Program to provide zero-interest loan programs to Connecticut small businesses and nonprofits.
-"March 25, 2020"," The Connecticuts Office of Healthcare Strategy (OHS) issued an order further streamlining the approval and licensure process for the states hospitals to simply complete a notification form, rather than apply for a Certificate of Need waiver."
-"March 26, 2020"," The Governor issued an executive order taking the following actions:
+",,,,,,,,,,,Y
+25-Mar-20, The Governor announced the launch of the Connecticut Recovery Bridge Loan Program to provide zero-interest loan programs to Connecticut small businesses and nonprofits.,,,,,,,,,,,Y
+25-Mar-20," The Connecticuts Office of Healthcare Strategy (OHS) issued an order further streamlining the approval and licensure process for the states hospitals to simply complete a notification form, rather than apply for a Certificate of Need waiver.",,,,,,Y,,,,,Y
+26-Mar-20," The Governor issued an executive order taking the following actions:
 
 Restricts all social and recreational gatherings to no more than five people;
 
@@ -243,22 +243,22 @@ Suspends 21-month limit on Temporary Family Assistance; and
 
 Suspends school testing assessments for the 2019-2020 school year.
 
-"
-"March 26, 2020", The Governor submitted a request for a Presidential Major Disaster Declaration to the Federal Emergency Management Agency (FEMA).
-"March 27, 2020"," The Centers for Medicare & Medicaid Services (CMS) approved Connecticuts request for a Section 1135 Medicaid waiver. The approved waiver enables Connecticut to provide flexibilities in Medicaid provider screening and enrollment, lift prior authorization requirements, allow for reimbursement facility services in alternative settings, extend fair hearing timelines, and waive public comment and tribal consultation requirements for certain changes to the Medicaid state plan"
-"March 27, 2020"," The Governor issued an executive order taking the following actions:
+",Y,,,,Y,,,,,,
+26-Mar-20, The Governor submitted a request for a Presidential Major Disaster Declaration to the Federal Emergency Management Agency (FEMA).,,,,,,,Y,,,,Y
+27-Mar-20," The Centers for Medicare & Medicaid Services (CMS) approved Connecticuts request for a Section 1135 Medicaid waiver. The approved waiver enables Connecticut to provide flexibilities in Medicaid provider screening and enrollment, lift prior authorization requirements, allow for reimbursement facility services in alternative settings, extend fair hearing timelines, and waive public comment and tribal consultation requirements for certain changes to the Medicaid state plan",,,,,,,,,,,Y
+27-Mar-20," The Governor issued an executive order taking the following actions:
 
 Suspending of license renewals and inspections by the Department of Public Health, modifying certain state statutes to authorize the Commissioner of Public Health to waive licensing, renewal, and inspection requirements;
 Modifying certain state statutes to allow health care providers to provide direct patient care at a health care facility or institution, with the permission of such facility or institution, using the identification badge from their own healthcare facility or institution;
 Waiving certain state statutes to permit the compounding of alcohol-based hand sanitizer production and the production of medical devices, including personal protective equipment used to assist in the treatment of COVID-19, without being required to register as a manufacturer; and
 Authorizing the Commissioner of Early Childhood to waive the fees required to be paid by the parents or legal guardians of children eligible for remote early intervention services such as the Birth-to-Three program.
 
-"
-"March 27, 2020", The Connecticut Department of Motor Vehicles (DMV) approved a request from licensed driving schools in the state to provide online classroom training to their students.
-"March 28, 2020", The Governor issued an executive order authorizing to provide for non-congregant housing for persons at risk.
-"March 29, 2020", The Governor announced that the President has approved his request in declaring a Major Disaster for the State of Connecticut.
-"March 29, 2020"," The Connecticut Department of Public Health issued an order directing state, local, and private sector partners to transition the homeless population into alternative, less congested housing for the purpose of providing adequate social distancing between all individuals."
-"March 30, 2020"," The Governor issued an executive order taking the following actions:
+",,,,,,,,,,,Y
+27-Mar-20, The Connecticut Department of Motor Vehicles (DMV) approved a request from licensed driving schools in the state to provide online classroom training to their students.,,,,,,,,,,,Y
+28-Mar-20, The Governor issued an executive order authorizing to provide for non-congregant housing for persons at risk.,,,,,,,,,,,Y
+29-Mar-20, The Governor announced that the President has approved his request in declaring a Major Disaster for the State of Connecticut.,,,,,,,Y,,,,Y
+29-Mar-20," The Connecticut Department of Public Health issued an order directing state, local, and private sector partners to transition the homeless population into alternative, less congested housing for the purpose of providing adequate social distancing between all individuals.",,,,,,,,,,,Y
+30-Mar-20," The Governor issued an executive order taking the following actions:
 
 Requirement of limited group sizes in childcare: The order requires all childcare facilities to limit group sizes to no more than 10 children in one space.
 
@@ -268,15 +268,15 @@ Enhancement of health procedures for all operating childcare programs: The order
 
 Authorization of remote notarization: The order eliminates all existing legal requirements to have a signature on any document witnessed by a third party, except in the case of a last will and testament.
 
-"
-"March 30, 2020"," The Department of Public Health (DPH) issued an order suspending the need for all DPH licensees to renew their licenses throughout the duration of the declared COVID-19 emergency.
+",Y,,,,,,,,,,Y
+30-Mar-20," The Department of Public Health (DPH) issued an order suspending the need for all DPH licensees to renew their licenses throughout the duration of the declared COVID-19 emergency.
 
 DPH also temporarily modified the authority of sub registrars of vital statistics, who are appointed by the local registrars of vital statistics, allowing them to issue burial transit, removal, and cremation permits for any death occurring in any town within the state for the duration of the public health and civil preparedness emergency.
 
-"
-"March 30, 2020", The Department of Revenue Services (DRS) announced that it will be granting a two-month extension of filing and payment deadlines for certain small businesses.
-"March 30, 2020"," The Governor announced the Governors Health System Response Team who will advise on the proper allocation and distribution of needed resources, supplies, and personnel."
-"March 31, 2020"," The Governor issued an executive order taking the following actions:
+",,,,,,,,,,,Y
+30-Mar-20, The Department of Revenue Services (DRS) announced that it will be granting a two-month extension of filing and payment deadlines for certain small businesses.,,,,,,,,,,,Y
+30-Mar-20," The Governor announced the Governors Health System Response Team who will advise on the proper allocation and distribution of needed resources, supplies, and personnel.",,,,,,,,,,,Y
+31-Mar-20," The Governor issued an executive order taking the following actions:
 
 Continuation of funding for boards of education;
 
@@ -292,8 +292,8 @@ Restrictions on entrance to state parks, forests, and other lands; and
 
 Permitting curbside pickup of alcoholic beverages.
 
-"
-"March 31, 2020"," The Governor announced an agreement with more than 50 credit unions and banks in Connecticut to offer mortgage relief to the states residents and businesses. Under the agreement, the following relief policies are being offered by participating financial institutions:
+",Y,,,,Y,,,,,,
+31-Mar-20," The Governor announced an agreement with more than 50 credit unions and banks in Connecticut to offer mortgage relief to the states residents and businesses. Under the agreement, the following relief policies are being offered by participating financial institutions:
 
 90-day grace period for all mortgage payments;
 
@@ -306,9 +306,9 @@ No new foreclosures for 60 days; and
 
 No credit score changes for accessing relief.
 
-"
-"March 31, 2020"," The Connecticut Office of Health Strategy (OHS) released revised guidance and is now including outpatient surgical facilities among those required to simply complete a notification form, rather than apply for a Certificate of Need (CON) waiver."
-"April 1, 2020"," The Governor issued an executive order taking the following actions:
+",,,,,,,,,,,Y
+31-Mar-20," The Connecticut Office of Health Strategy (OHS) released revised guidance and is now including outpatient surgical facilities among those required to simply complete a notification form, rather than apply for a Certificate of Need (CON) waiver.",,,,,,,,,,,Y
+1-Apr-20," The Governor issued an executive order taking the following actions:
 
 Requiring retail establishment to take additional protective measures to reduce the risk of transmission;
 
@@ -342,48 +342,46 @@ Extending of deadline to file income and expense statement to August 15; and
 
 Suspending of non-judicial tax sales.
 
-"
-"April 1, 2020", The Governor announcedthe creation of 4-CT charitable organization uniting donors with nonprofit providers.
-"April 2, 2020"," The Governor issued an executive order taking the following actions: Prohibition on non-essential lodging except in the case for certain populations; Further clarification of limits on restaurants, bars, and private clubs; Suspension of notarization requirement related to Connecticut Recovery Bridge Loan Program; Flexibility to maintain adequate child care infrastructure; Suspension of rehearing rights for temporary rate increases for certain health care providers; and Alternative to affidavits in relation to orders of protection and relief. "
-"April 2, 2020"," Access Health CT, Connecticuts health insurance marketplace, announced that it is extending the deadline for the new special enrollment period for uninsured residents to enroll in health insurance plans."
-"April 2, 2020", The Department of Social Services announced that it is extending the application period for the Connecticut Energy Assistance Program.
-"April 2, 2020", The Department of Social Services extended the Emergency Supplemental Nutrition Program (SNAP) benefits to nearly half of Connecticut SNAP participants on April 9 and April 20.
-"April 2, 2020"," The Department of Revenue Services announced that the filing and payment deadline for gift tax returns is being extended until July 15, 2020."
-"April 3, 2020", The Governor announced that the states 213 nursing homes are receiving a 10 percent across-the-board increase in Medicaid payments to help meet extraordinary costs from the public health emergency. 
-"April 4, 2020", The Governor announced FEMA approved Connecticuts request to include domestic violence survivors in non-congregate housing guidelines.
-"April 5, 2020"," The Governor issued an executive order taking the following actions: Protecting health care professionals and health care facilities, including nursing homes and field hospitals, from lawsuits for acts or omissions undertaken in good faith in support of the states COVID-19 response; and Protecting those who are uninsured and those who are insured and are treated by an out-of-network emergency services health care provider from surprise bills and other significant costs. "
-"April 7, 2020", The Governorissued an executive order taking the following actions:Prescribing additional protective measures for essential businesses;Waiving the application fees for temporary permits for each of the health care professions;Allowing recent medical school and other medical profession graduates who are not yet licensed to participate in the states COVID-19 response for the duration of the public health and civil preparedness emergency;Allowing for those who have recently completed an accredited graduate degree program in marital and family therapy offered by a postgraduate clinical training program to practice without a license for the duration of the public health and civil preparedness emergency;Allowing recent graduates with a degree in clinical mental health counseling who are not yet licensed to practice as a professional counselor associate without obtaining a license for the duration of the public health and civil preparedness emergency; andReplacing the section of Executive Order No. 7U which adds protection from liability for common law claims  in addition to the previously enacted protection from liability for statutory claims  for healthcare workers and providers.
-"April 7, 2020"," The Governor announced that manufacturers can apply for grants of up to $75,000 to assist in the production of critical equipment and supplies."
-"April 8, 2020","      The Governor announced a partnership with      Connecticuts long-term care facilities to collaborate on a medical surge      plan that includes the establishment of COVID-19 recovery centers in      nursing homes to accept patients who can be discharged from acute care      hospitals, but are still impacted by COVID-19 infection."
-"April 9, 2020","The Governor issued an executive order that takes several actions:Suspending and modifying tax deadlines and collection efforts pursuant to Executive Order No. 7S, Section 6;Preventing an increased experience rating based on COVID-19 unemployment claims;Limiting the coil cleaning requirements for certain establishments; Suspending the delivery signature requirement suspended;Waiving the requirement that businesses with certain permits that have closed for sixty days or less notify the Department of Consumer Protection of the closure;Providing an ninety-day provisional permits for Liquor Control Commission;Extending the renewal date for on-premise liquor permits; andWaving the need for an permit to be recorded with the town clerk. "
-"April 9, 2020"," The Governor announced minority and women-owned businesses with 20 or fewer employees can now apply for a zero-interest line of credit up to $20,000 to help them navigate the economic downturn caused by the coronavirus pandemic."
-"April 9, 2020", The Governor announced plans to sign an executive order extending the date for which classes at all public schools statewide remain canceled until at least May 20.
-"April 10, 2020"," The Governor issued an executive order that enacts a series of protections for residential renters struggling to pay their housing costs and allowing them to receive grace periods over the next several months. The order also takes the following actions:Extending all previously enacted closures, distancing, and safety measures  including for schools, restaurants, bars, retail stores, gyms, and other establishments  through at least May 20, 2020. Lifting restrictions on commercial activity in Connecticut highway rest areas and permits food trucks to set up in these locations with the goal of feeding hungry truckers and other essential workers.Modifying state statutes to authorize the commissioner of the Department of Education to temporarily defer any requirements regarding certification testing for educators as he deems necessary to address the impact of COVID-19 risks."
-"April 11, 2020"," The Governor issued an executive order implementing the medical surge plan for long-term care facilities, which will establish COVID-19 recovery centers in certain nursing homes throughout the state that will accept patients who can be discharged from acute care hospitals but are still impacted by COVID-19 infection."
-"April 13, 2020","The Connecticut Department of Social Services (DSS) announced the allocation of over $3.8 million in federal food assistance to two of the states largest food banks, including the Connecticut Food Bank, which will receive $1.9 million for food and nearly $650,000 for administrative costs, and Foodshare, which will receive nearly $1 million for food and $300,00 for administrative costs."
-"April 13, 2020"," The Governor announced the creation of a group of health and business experts, the Reopen Connecticut Advisory Group, who will consult and advise the Governor on reopening Connecticuts economy."
-"April 14, 2020"," The Governor issued an executive order taking the following actions:Temporarily waiving certain requirements related to state contracts in order to expedite the procurement of essential goods and services, including personal protective equipment (PPE); Allowing property owners or their attorney or agent to appear before a board of assessment appeals using remote technology instead of in person;Suspending of license requirements for unarmed security officers who may be licensed in another state to work in Connecticut. "
-"April 14, 2020"," The Connecticut Department of Revenue Services extended the filing and payment deadlines of certain returns until July 15, 2020."
-"April 15, 2020", To Governor issued an executive order permitting the Department of Social Services to temporarily waive the statutory moratorium on new beds at certain nursing homes.
-"April 15, 2020"," The Connecticut Insurance Commissioner approved up to $25,000 no-cost life insurance coverage for front-line health care workers and fully-insured health plan members can receive COVID-19 treatment with no out-of-pocket costs"
-"April 15, 2020", The Governor announced that he has submitted a supplementary request to the President of the United States requesting the Federal Emergency Management (FEMA) cover 100 percent of the costs Connecticut has incurred to save lives and protect public health and safety and to extend financial assistance directly to affected Connecticut residents.
-"April 17, 2020"," The Governor announced that the State of Connecticut has formed a partnership with CVS Health in an initiative that will make free, rapid COVID-19 tests available to eligible Connecticut residents. "
-"April 17, 2020"," The Governor ordered that Connecticuts 2020 presidential primary election be rescheduled to Tuesday, August 11, 2020."
-"April 17, 2020", The Governor issued an executive order requiring cloth face coverings or higher level of protection for any person in a public place in Connecticut who is unable to or does not maintain a safe social distance of approximately six feet.
-"April 17, 2020", The Governor announced the launch of a Talk It Out hotline for families to relieve the stress of caring for children during pandemic.
-"April 17, 2020", The Connecticut Department of Revenue Services (DRS) launched a new assistance program designed to help taxpayers subject to current DRS collections matters who have been impacted by the COVID-19 pandemic.
-"April 18, 2020"," The Connecticut Department of Economic and Community Development formed partnerships with SoFi, a leading online personal finance company, and Equifax, a global data, analytics and technology company, to lower costs and expedite loan processing and payments under the Connecticut Recovery Bridge Loan Program."
-"April 18, 2020"," The Governor, along with New York Governor Cuomo and New Jersey Governor Murphy, announced that marinas, boatyards and marine manufacturers in their states will be allowed to open for personal use as long as strict social distancing and sanitization protocols are followed."
-"April 19, 2020", The Governor announced that he is directing his administration to boost Medicaid payments for all of the states 215 nursing homes by an additional five percent above the recently announced ten percent increase. 
-"April 19, 2020"," The Governor, along with the governors of New York, Massachusetts, Rhode Island, New Jersey, Pennsylvania and Delaware, announced their appointees that will serve on the multi-state, regional council to restore the economy and get people back to work. The appointees include a health expert, an economic development expert and the respective chief of staff from each state."
-"April 20, 2020", The Governor announced a partnership with the developers of the How We Feel app to anonymously provide scientists with critical health information needed to understand the spread of COVID-19.
-"April
-21, 2020"," The Governor announced
+",,,,,,,,,,Y,Y
+1-Apr-20, The Governor announcedthe creation of 4-CT charitable organization uniting donors with nonprofit providers.,,,,,,,,,,,Y
+2-Apr-20," The Governor issued an executive order taking the following actions: Prohibition on non-essential lodging except in the case for certain populations; Further clarification of limits on restaurants, bars, and private clubs; Suspension of notarization requirement related to Connecticut Recovery Bridge Loan Program; Flexibility to maintain adequate child care infrastructure; Suspension of rehearing rights for temporary rate increases for certain health care providers; and Alternative to affidavits in relation to orders of protection and relief. ",,,,,,,,,,,Y
+2-Apr-20," Access Health CT, Connecticuts health insurance marketplace, announced that it is extending the deadline for the new special enrollment period for uninsured residents to enroll in health insurance plans.",,,,,,,,,,,Y
+2-Apr-20, The Department of Social Services announced that it is extending the application period for the Connecticut Energy Assistance Program.,,,,,,,,,,,Y
+2-Apr-20, The Department of Social Services extended the Emergency Supplemental Nutrition Program (SNAP) benefits to nearly half of Connecticut SNAP participants on April 9 and April 20.,,,,,,,,,,,Y
+2-Apr-20," The Department of Revenue Services announced that the filing and payment deadline for gift tax returns is being extended until July 15, 2020.",,,,,,,,,,,Y
+3-Apr-20, The Governor announced that the states 213 nursing homes are receiving a 10 percent across-the-board increase in Medicaid payments to help meet extraordinary costs from the public health emergency. ,,,,,,,,,,,Y
+4-Apr-20, The Governor announced FEMA approved Connecticuts request to include domestic violence survivors in non-congregate housing guidelines.,,,,,,,,,,,Y
+5-Apr-20," The Governor issued an executive order taking the following actions: Protecting health care professionals and health care facilities, including nursing homes and field hospitals, from lawsuits for acts or omissions undertaken in good faith in support of the states COVID-19 response; and Protecting those who are uninsured and those who are insured and are treated by an out-of-network emergency services health care provider from surprise bills and other significant costs. ",,,,,,Y,,,,,Y
+7-Apr-20, The Governorissued an executive order taking the following actions:Prescribing additional protective measures for essential businesses;Waiving the application fees for temporary permits for each of the health care professions;Allowing recent medical school and other medical profession graduates who are not yet licensed to participate in the states COVID-19 response for the duration of the public health and civil preparedness emergency;Allowing for those who have recently completed an accredited graduate degree program in marital and family therapy offered by a postgraduate clinical training program to practice without a license for the duration of the public health and civil preparedness emergency;Allowing recent graduates with a degree in clinical mental health counseling who are not yet licensed to practice as a professional counselor associate without obtaining a license for the duration of the public health and civil preparedness emergency; andReplacing the section of Executive Order No. 7U which adds protection from liability for common law claims  in addition to the previously enacted protection from liability for statutory claims  for healthcare workers and providers.,,,,,,Y,,,,Y,Y
+7-Apr-20," The Governor announced that manufacturers can apply for grants of up to $75,000 to assist in the production of critical equipment and supplies.",,,,,,,,,,,Y
+8-Apr-20,"      The Governor announced a partnership with      Connecticuts long-term care facilities to collaborate on a medical surge      plan that includes the establishment of COVID-19 recovery centers in      nursing homes to accept patients who can be discharged from acute care      hospitals, but are still impacted by COVID-19 infection.",,,,,,Y,,,,,Y
+9-Apr-20,"The Governor issued an executive order that takes several actions:Suspending and modifying tax deadlines and collection efforts pursuant to Executive Order No. 7S, Section 6;Preventing an increased experience rating based on COVID-19 unemployment claims;Limiting the coil cleaning requirements for certain establishments; Suspending the delivery signature requirement suspended;Waiving the requirement that businesses with certain permits that have closed for sixty days or less notify the Department of Consumer Protection of the closure;Providing an ninety-day provisional permits for Liquor Control Commission;Extending the renewal date for on-premise liquor permits; andWaving the need for an permit to be recorded with the town clerk. ",,,,,,,,,,,Y
+9-Apr-20," The Governor announced minority and women-owned businesses with 20 or fewer employees can now apply for a zero-interest line of credit up to $20,000 to help them navigate the economic downturn caused by the coronavirus pandemic.",,,,,,,,,,,Y
+9-Apr-20, The Governor announced plans to sign an executive order extending the date for which classes at all public schools statewide remain canceled until at least May 20.,Y,,,,Y,,,,,,
+10-Apr-20," The Governor issued an executive order that enacts a series of protections for residential renters struggling to pay their housing costs and allowing them to receive grace periods over the next several months. The order also takes the following actions:Extending all previously enacted closures, distancing, and safety measures  including for schools, restaurants, bars, retail stores, gyms, and other establishments  through at least May 20, 2020. Lifting restrictions on commercial activity in Connecticut highway rest areas and permits food trucks to set up in these locations with the goal of feeding hungry truckers and other essential workers.Modifying state statutes to authorize the commissioner of the Department of Education to temporarily defer any requirements regarding certification testing for educators as he deems necessary to address the impact of COVID-19 risks.",Y,Y,,,,,,,,Y,
+11-Apr-20," The Governor issued an executive order implementing the medical surge plan for long-term care facilities, which will establish COVID-19 recovery centers in certain nursing homes throughout the state that will accept patients who can be discharged from acute care hospitals but are still impacted by COVID-19 infection.",,,,,,Y,,,,,
+13-Apr-20,"The Connecticut Department of Social Services (DSS) announced the allocation of over $3.8 million in federal food assistance to two of the states largest food banks, including the Connecticut Food Bank, which will receive $1.9 million for food and nearly $650,000 for administrative costs, and Foodshare, which will receive nearly $1 million for food and $300,00 for administrative costs.",,,,,,,,,Y,,
+13-Apr-20," The Governor announced the creation of a group of health and business experts, the Reopen Connecticut Advisory Group, who will consult and advise the Governor on reopening Connecticuts economy.",,,,,,,,,,,Y
+14-Apr-20," The Governor issued an executive order taking the following actions:Temporarily waiving certain requirements related to state contracts in order to expedite the procurement of essential goods and services, including personal protective equipment (PPE); Allowing property owners or their attorney or agent to appear before a board of assessment appeals using remote technology instead of in person;Suspending of license requirements for unarmed security officers who may be licensed in another state to work in Connecticut. ",,,,,,,,,,Y,Y
+14-Apr-20," The Connecticut Department of Revenue Services extended the filing and payment deadlines of certain returns until July 15, 2020.",,,,,,,,,,,Y
+15-Apr-20, To Governor issued an executive order permitting the Department of Social Services to temporarily waive the statutory moratorium on new beds at certain nursing homes.,,,,,,,,,,,Y
+15-Apr-20," The Connecticut Insurance Commissioner approved up to $25,000 no-cost life insurance coverage for front-line health care workers and fully-insured health plan members can receive COVID-19 treatment with no out-of-pocket costs",,,,,,,,,,,Y
+15-Apr-20, The Governor announced that he has submitted a supplementary request to the President of the United States requesting the Federal Emergency Management (FEMA) cover 100 percent of the costs Connecticut has incurred to save lives and protect public health and safety and to extend financial assistance directly to affected Connecticut residents.,,,,,,,,,,,Y
+17-Apr-20," The Governor announced that the State of Connecticut has formed a partnership with CVS Health in an initiative that will make free, rapid COVID-19 tests available to eligible Connecticut residents. ",,,,Y,,,,,,,
+17-Apr-20," The Governor ordered that Connecticuts 2020 presidential primary election be rescheduled to Tuesday, August 11, 2020.",,,,,,,,,,,Y
+17-Apr-20, The Governor issued an executive order requiring cloth face coverings or higher level of protection for any person in a public place in Connecticut who is unable to or does not maintain a safe social distance of approximately six feet.,,,,,,,,,,Y,
+17-Apr-20, The Governor announced the launch of a Talk It Out hotline for families to relieve the stress of caring for children during pandemic.,,,,,,,,,,,Y
+17-Apr-20, The Connecticut Department of Revenue Services (DRS) launched a new assistance program designed to help taxpayers subject to current DRS collections matters who have been impacted by the COVID-19 pandemic.,,,,,,,,,,,Y
+18-Apr-20," The Connecticut Department of Economic and Community Development formed partnerships with SoFi, a leading online personal finance company, and Equifax, a global data, analytics and technology company, to lower costs and expedite loan processing and payments under the Connecticut Recovery Bridge Loan Program.",,,,,,,,,,,Y
+18-Apr-20," The Governor, along with New York Governor Cuomo and New Jersey Governor Murphy, announced that marinas, boatyards and marine manufacturers in their states will be allowed to open for personal use as long as strict social distancing and sanitization protocols are followed.",,Y,,,,,,,,,
+19-Apr-20, The Governor announced that he is directing his administration to boost Medicaid payments for all of the states 215 nursing homes by an additional five percent above the recently announced ten percent increase. ,,,,,,,,,,,Y
+19-Apr-20," The Governor, along with the governors of New York, Massachusetts, Rhode Island, New Jersey, Pennsylvania and Delaware, announced their appointees that will serve on the multi-state, regional council to restore the economy and get people back to work. The appointees include a health expert, an economic development expert and the respective chief of staff from each state.",,,,,,,,,,,Y
+20-Apr-20, The Governor announced a partnership with the developers of the How We Feel app to anonymously provide scientists with critical health information needed to understand the spread of COVID-19.,,,,,,,,,,,Y
+21-Apr-20," The Governor announced
 a new initiative between Hartford HealthCare and Quest Diagnostics, with
 support from the State of Connecticut, that will significantly increase the
-capacity of COVID-19 testing in the state from 500 tests per day to 2,500."
-"April
-21, 2020"," The Governor issued
+capacity of COVID-19 testing in the state from 500 tests per day to 2,500.",,,,Y,,,,,,,Y
+21-Apr-20," The Governor issued
 an executive order taking the following actions:Extension of
 applicability of Executive Order No. 7S, Section 7 to include additional
 critical and time-sensitive municipal fiscal actions;Clarification of time
@@ -397,87 +395,87 @@ of decree of legal separation;Alternative to
 in-court canvas prior to entrance of final agreement;Alternative to
 physical presence when findings on the record are required; andRevised financial
 protections for people covered by insurance who receive out-of-network health
-care services during the public health emergency."
-"April 21, 2020"," The Governor, in collaboration with other states, announced that the State of Connecticut has secured relief options with many private student loan servicers whose borrowers are not covered by the recently adopted federal CARES Act. This new initiative will benefit Connecticut residents with privately held student loans."
-"April 21, 2020", The Governor announced an Request for Applications (RFP) seeking organizations to partner with the state in its efforts to significantly scale-up its daily COVID-19 testing capacity as part of its efforts to reopen the states economy.
-"April 22, 2020"," The Governor issued an executive order taking the following actions:Additions to the definition of telehealth provider;Flexibility for Medicaid-enrolled providers and in-network providers for commercial fully insured health insurance to perform telehealth through additional methods;Additions to permissible out-of-state healthcare providers;Participation in intern, resident physician, or United States Medical Officer candidate training programs prior to permit issuance; Participation in resident physician assistant program prior to permit issuance;Temporary suspension of physician assistant supervision restrictions;Temporary suspension of in-person supervision requirement for advanced practice registered nurses;Provision of services by respiratory care therapist and respiratory care technician students;Suspension of continuing education requirement for health care providers; andModification of 36-month age limit for Birth-to-Three services"
-"April 22, 2020", The Governor announced the Connecticut Department of Mental Health and Addiction Services (DMHAS) received a $2 million grant from the U.S. Substance Abuse and Mental Health Services Administration. The funding will be used by DMHAS to launch the Connecticut COVID-19 Behavioral Health Response and Assistance (Connecticut COBHRA) initiative. 
-"April 23, 2020"," The Governor issued an executive order taking the following actions:Mandatory reporting by managed residential communities;Mandatory reporting by nursing homes;Civil penalties for failure to comply with mandatory reporting;Waiving certain Medicaid prior authorization requirements;Waiving Medicaid bed reservation requirements for residents who are on leave from intermediate care facilities for individuals with intellectual disabilities; andWaiving requirements for signed delivery receipt for medical equipment, devices and supplies"
-"April 23, 2020", The Governor announced the members who will serve on the Reopen Connecticut Advisory Group. The group will act in consultation with his administration and legislative leadership on the reopening of Connecticuts economy and education system.
-"April 23, 2020"," The Governor announced the launch of a program to coordinate housing solutions for individuals re-entering society. The program will assist recently discharged individuals, who would otherwise be homeless, identify and secure alternative housing solutions. "
-"April 24, 2020", The Governor issued an executive order providing additional flexibility for Medicaid-enrolled providers to perform telehealth through audio-only methods for new patients.
-"April 25, 2020"," The Governor announced his administration is partnering with the Connecticut Business and Industry Association (CBIA) on an initiative to distribute free face coverings to eligible, essential small businesses with fewer than 50 employees."
-"April 27, 2020"," The Office of Early Childhood has launched the CTCARES for Frontline Workers Program, which was created to help frontline workers struggling with the costs of child care."
-"April 28, 2020", The Governor announced the Department of Labor has begun issuing supplemental $600 stimulus payments for unemployment benefits.
-"April 29, 2020"," The Department of Labor launched a website that breaks down information on people who have filed for unemployment in the state by age, industry, gender, and town to assist state and municipal governments develop responsible re-opening strategies. "
-"April 30, 2020"," The Governor announced the states phased-in approach to reopening Connecticuts economy beginning May 20, 2020."
-"April 30, 2020", The Governor issued an executive order taking the following actions:Extension of payment time for sealed ticket revenue due to the state;Waiver of notarization requirement for embalmers affidavit accompanying death certificates;Temporary suspension of controlled substance registration;Modification of state contracting statutes to facilitate the emergency procurement of essential services;Modification of state contracting authorities to facilitate the emergency procurement of essential services;Modification of state construction requirements to facilitate the emergency provision of construction and construction-related services; andExtension of existing contracts to prevent gaps in necessary services.
-"April 30, 2020", The Department of Social Services announced its preparing to implement new coverage for uninsured children and adults in the HUSKY Health program.
-"April 30, 2020", The Department of Labor launched new system for self-employed to apply for federal unemployment benefits under the federal Pandemic Unemployment Assistance (PUA) Program.
-"April 30, 2020"," The Judicial Branch announced that effective immediately, parties who have an agreement may have their family court cases resolved without having to come to court."
-"May 1, 2020", The Governor announced      that the Federal Emergency Management Agency (FEMA) has approved another      portion of hisongoing requestfor disaster assistance as part      of the State of Connecticuts Major Disaster Declaration for funding for      crisis counseling.
-"May 1, 2020", The Governor issued      an executive order taking the following actions:Mandatory       suspension of annual town meeting or referendum to adopt budget; andAuthorization       for common-interest communities to hold meetings remotely.
-"May 3, 2020"," The Governor along with New York Governor      Andrew M. Cuomo, New Jersey Governor Phil Murphy, Massachusetts Governor      Charlie Baker, Rhode Island Governor Gina Raimondo, Pennsylvania Governor      Tom Wolf, and Delaware Governor John Carney announced a joint multi-state agreement to      develop a regional supply chain for personal protective equipment, other      medical equipment and testing."
-"May 4, 2020"," The Governor announced the statewide expansion of a program that will make free online learning licenses available to recipients of unemployment insurance, including those who have been impacted by the economic fallout of the public health crisis."
-"May 5, 2020"," The Governor issued an executive order taking the      following actions:Extension of school class cancellations for remainder       of school year;Authorization for the Department of Social Services       commissioner to temporarily waive, modify, or suspend home health       regulatory requirements; Extension of the start date for imposition of a late       fee for obtaining dog licenses from July 1, 2020 to August 1, 2020; andAuthority to waive certain requirements for the       issuance of vouchers under the Farmers Market Nutrition Program for       Women, Infants, and Children."
-"May 5, 2020", The Governor ordered in-person classes at all K-12 public school facilities      to remain canceled for the rest of the 2019-2020 academic year and      continue providing distance learning during this period.
-"May 5, 2020"," The Connecticut Department of Revenue      Services (DRS) extended the application deadline for municipalities to submit      their locally approved Neighborhood Assistance Act project proposals until      July 31, 2020."
-"May 6, 2020"," The Governor issued an executive order taking the following actions:Suspension of reapplication filing requirement for the Homeowners Elderly/Disabled, Circuit Breaker Tax Relief Program, and for the Homeowners Elderly/Disabled Freeze Tax Relief Program;Permitting distance learning and remote testing certification for Connecticut Department of Energy and Environmental Protection (DEEP) programs;Extending the period of validity of approval for tolling of land use and building permits; andAllowance of suspension of in-person voting requirements by members of the public for critical and time-sensitive municipal decisions."
-"May 6, 2020"," The Attorney General William Tong, U.S. Attorney John Durham, representatives of the Federal Bureau of Investigation, and Chief States Attorney Richard Colangelo announced the formation of a joint federal-state task force combatting COVID-19-related fraud in Connecticut."
-"May 6, 2020"," The Governor announced that Summer, a social enterprise that assists student loan borrowers, is providing Connecticut residents financially impacted by the COVID-19 crisis with free assistance managing their student loans."
-"May 6, 2020", The Governor announced the Education Committee of the Reopen Connecticut Advisory Group is recommending a gradual reopening of higher education campuses  at the discretion of each institution and depending on health conditions.
-"May 7, 2020", The Governor issued an executive order permitting pharmacists to order and administer Food and Drug Administration tests.
-"May 7, 2020",The Connecticut Department of Labor announced that it has made active the filing site so those who are self-employed can complete the necessary filing applications for Pandemic Unemployment Assistance (PUA).
-"May 7, 2020", The Governor announced his administration is utilizing seven criteria in its consideration for Phase 1 of Connecticuts reopening efforts
-"May 7, 2020", The Governor announced his administration is suspending the requirement that patients receive a referral from a physician or other prescribing medical provider prior to being administered a test.
-"May 8, 2020"," The Department of Economic and Community Development (DECD) committed an additional $3 million to the COVID-19 Business Response Program, which provides financial relief to minority-owned and women-owned small businesses negatively impacted by the coronavirus pandemic."
-"May 8, 2020", The Department of Revenue Services announced that it is extending the deadline for filing certain protests with its appellate division by 90 days.
-"May 9, 2020", The Governor announced that his administration has released documents detailing specific rules that eligible businesses falling under phase 1 of Connecticuts reopening plans must follow amid the ongoing COVID-19 pandemic.The Department of Economic and Community Development (DECD) announced the formation of the Reopen Connecticut Small Business Implementation Task Force to support small business on how to implement the new guidelines.
-"May 9, 2020", The Governor issued an order implementing standards at nursing homes to ensure loved ones can speak with their families either through windows or video conferencing
-"May 11, 2020", The Governor issued an executive order making modifications to the petitioning process for the August primary.
-"May 11, 2020", The Governor announced the state has opened an COVID-19 only nursing home designed to handle patients elderly patients discharged from hospitals and to help prevent outbreaks at other nursing homes.
-"May 12, 2020"," The Governor issued an executive order taking the following actions:Allowing municipalities to expedite changes to their zoning rules or other ordinances to expand outdoor dining;Creating an expedited approval process for restaurants and other establishments that serve food to get fast-tracked permission to create or expand outdoor dining areas;Allowing other businesses such as retail stores to get fast-tracked permission to sell goods on the sidewalk or in other outdoor areas, including shared spaces or spaces provided by municipalities;Allowing restaurants and other businesses who already have liquor permits to serve alcohol only with food without applying for a separate patio or extension of use permit; andAllowing private clubs to sell alcohol only to their members for delivery or pickup."
-"May 13, 2020", The Governor issued an executive order taking the following actions:Waiving of statutory vote on supplemental federal block grant;Permitting remote participation in member meetings;Waiving of certain regulatory limitations on the amount of support that can be provided to caregiver relatives;Modifying the grace period for April and May rent;Authorizing the Office of Policy and Management (OPM) to direct Department of Social Services (DSS) to provide Coronavirus Relief Fund distributions to nursing home facilities;Authorizing the OPM to direct DSS to provide Coronavirus Relief Fund distributions to COVID recovery facilities and alternate COVID recovery facilities;Authorizing additional COVID-19 related hardship relief funding under the Coronavirus Relief Fund to nursing home facilities;Protecting Coronavirus Relief Fund distribution determinations from rehearing or appeal; andExtending and sunset of suspension of tax on single-use plastic checkout bags.
-"May 13, 2020", The Connecticut Office of Early Childhood announced that it has launched CTCARES for Family Child Care to provide support to licensed family child care providers during the COVID-19 public health emergency and beyond.
-"May 14, 2020", The Governor announced CVS Health is opening 12 new COVID-19 test sites at select CVS Pharmacy drive-thru locations in Connecticut.
-"May 13, 2020",- The Centers for Medicare and Medicaid Services (CMS) approved Connecticuts second request for a Medicaid 1135 waiver. The waiver allows Connecticut to reimburse for Home and Community-Based Services(HCBS) in additional settings
-"May 14, 2020", The Governor issued an executive order requiring procedures for local appointments and elections requiring in-person vote.
-"May 14, 2020", The Governor announced Connecticut businesses eligible to open on or soon after May 20 are required to self-certify to demonstrate they understand and will comply with COVID-19 rules and regulations set by the state.
-"May 14, 2020", The Governor announced that the State of Connecticut is receiving $111 million in federal coronavirus relief aid for the states school districts that will be used to support continued learning and address educational disruptions.
-"May 14, 2020", The Governor submitted his 2020-21 May Revision budget proposal to the Legislature  a balanced plan to close a budget gap of more than $54 billion brought on by the COVID-19 recession.
-"May 15, 2020"," The Governor announced that the first wave of Dell laptops  part of a total 60,000 that are being donated to Connecticut high schools by the Partnership for Connecticut  are arriving slightly ahead of schedule and will begin to be distributed to districts starting next week."
-"May 15, 2020"," The Governor announced that the state will be distributing 50,000 infrared thermometers it has secured for small businesses, nonprofits, and places of worship to support safe reopening activities."
-"May 15, 2020"," The Governor announced that Connecticut state parks that feature beaches along the states shoreline will be open Friday, May 22, though with capacity limitations. Visitors are advised to follow social distancing guidelines."
-"May 16, 2020"," The Governor announced a partnership with UnitedHealth Group, United Way 211, and DoorDash to pilot a free meal delivery service for higher risk populations, The pilot will begin in the Greater Hartford area."
-"May 18, 2020"," The Governor announced an executive order taking the following actions:Reopening Phase 1;Enforcement of sector rules governing the reopening of businesses;Extension of prohibition on large gatherings to June 20, 2020;Extension of restrictions on off-track betting, indoor fitness, and movie theaters to June 20;Further clarification of limits on restaurants, bars, and private clubs  mixed drinks permitted for takeout or delivery;Limitation on the operation of day camps;Enhanced health procedures for all day camps;Cancellation of resident camp operations;Limitation on the operation of summer and educational programs operated by local or regional boards of education; andSuspension or modification of regulatory requirements to protect public health and safety."
-"May 18, 2020", The Governor and Governor Gina Raimondo of Rhode Island announced their intention to align the reopening of hair salons and barbershops in their respective states in early June.
-"May 18, 2020", The Governor released a guidance document that was developed through a collaborative working group organized by his administration and provides best practices for dentist offices that are considering expanding their operations beyond emergency care in the coming days.
-"May 18, 2020", The Governor released an online guide to help small businesses comply with COVID-19 safety guidance and manage the broader reopening process.
-"May 20, 2020"," The Governor issued an executive order allowing all registered voters in Connecticut to vote absentee in the August 11, 2020 primary elections."
-"May 20, 2020", The Governor announced the establishment of new enforcement protocols to ensure businesses follow the Sector Rules for May 20th Reopen.
-"May 20, 2020"," The Connecticut Department of Energy and Environmental Protection (DEEP) released a plan that outlines current guidelines around the operation and use of Connecticut state park grounds, trails, beaches, boat launches, and other areas."
-"May 20, 2020"," The Connecticut Insurance Commissioner announced that additional frontline health care workers and volunteers in Connecticut are now eligible to receive up to $25,000 of free term life insurance."
-"May 21, 2020", The Governor issued an executive order taking the following actions:Authority for the Department of Energy and Environmental Protection (DEEP) to issue rental refunds for events taking place in state parks;Modification of age limit for early intervention coverage; andWaiver of requirement for guest books at private clubs.
-"May 21, 2020", The Connecticut Department of Motor Vehicles (DMV) announced its previously enacted 90-day extension for residents with expiring credentials is being extended to a total of 180 days.
-"May 21, 2020"," The Governor announced that CVS Health is opening 13 new COVID-19 test sites at select CVS Pharmacy drive-thru locations in Connecticut. These test sites, which are set to open on Friday, May 22, 2020, come in addition to the 12 locations the company previously opened in the state on May 15."
-"May 23, 2020", The Governor announced that the Connecticut Department of Transportation has approved a permit for Mystic Pizza to use a state highway right-of-way to add outdoor dining as the restaurant makes efforts to comply with the requirements of phase 1 of Connecticuts reopening plans.
-"May 22, 2020"," The Connecticut Department of Social Services announced children enrolled in school meals program will soon receive additional, emergency SNAP benefits."
-"May 22, 2020"," The Connecticut Department of Labor was awarded $2.33 million federal grant to create disaster relief jobs, employment and training services."
-"May 26, 2020"," The Governor released their Reopen Connecticut report, which contains recommendations from the Reopen Connecticut Advisory Group on the reopening of Connecticuts economy and education system."
-"May 26, 2020"," The Federal Emergency Management Agency (FEMA) approved the Lamont administrations request to provide an extension for its non-congregate housing programs until July 2, 2020."
-"May 27, 2020", The Governor issued an executive order permitting the creation of a temporary nurse aide position to assist health care providers and other health-related services.
-"May 29, 2020", The Governor issued an executive order taking the following actions:Reopening of barbershops and hair salons on June 1; and Amending prohibitions on large gatherings.
-"May 29, 2020"," The Connecticut Public Utility Regulatory Authority (PURA) announced that the utility shut-off moratorium for non-residential customers in the state will continue through July 1, 2020."
-"June 1, 2020"," The Governor issued an executive order taking the following actions:Mandatory COVID-19 testing for staff of private and municipal nursing homes, residential communities, and assisted living agencies; andAllows the Connecticut Department of Labor to consider, when determining a workers eligibility for unemployment benefits, whether COVID-19 means returning to work would pose an unreasonable risk to the health of a member of that workers household."
-"June 2, 2020"," The Governor announced that the State of Connecticut is partnering in a first-of-its-kind, statewide project to quantify the spread of COVID-19 within the state by conducting a seroprevalence study of 1,400 randomized, representative Connecticut residents."
-"June 2, 2020", The Governor issued an executive order amending the limitation on program sizes in child care.
-"June 3, 2020"," The Governor announced that the state is partnering with philanthropic organizations in an effort to provide emergency assistance to vulnerable residents who are otherwise ineligible from receiving assistance through federal pandemic relief programs, including those from within the undocumented community."
-"June 4, 2020", The Governor issued an executive order taking the following actions:Technical clarifications regarding the ballot petitioning process for the August 2020 primary and November 2020 general election; andFurther clarification of limits on alcohol service and sales related to catering.
-"June 4, 2020"," The Governor and Banking Commissioner announced that over 45 banks and credit unions have agreed to extend their voluntary participation in the Connecticut Mortgage Relief Program, which provides relief to consumers facing financial hardship due to COVID-19."
-"June 4, 2020"," The Governor announced that his administration is establishing the Connecticut Municipal Coronavirus Relief Fund Program, which will set a process by which municipal governments will receive reimbursements from the state using the federally supported Coronavirus Relief Fund to offset their expenses."
-"June 5, 2020"," The Governor issued an executive order taking the following actions:Modification of safety rules for drive-in religious gatherings;Safety rules for drive-in graduations; andSuspension of the involuntary discharge of nursing facility residents and residential care home residents who may be discharged to homeless shelters, except during emergency situations or with respect to COVID-19 recovered discharges."
-"June 7, 2020"," The Governor announced that his administration has released documents detailing specific rules that eligible businesses falling under phase 2 of Connecticuts reopening plans must follow amid the ongoing COVID-19 pandemic. The second phase takes effect Wednesday, June 17."
-"June 8, 2020"," The Governor announced that he is ordering an independent, third-party review to be conducted of the preparation and response to the COVID-19 pandemic inside of Connecticuts nursing homes and assisted living facilities."
-"June 9, 2020"," The Connecticut Department of Public Health released an order ensuring that people with disabilities have reasonable access to support personnel in hospital settings in a manner that is consistent with disability rights laws and the health and safety of patients, health care providers, and support persons."
-"June 10, 2020", The Governor issued an executive order taking the following actions:Resumption of court filing deadlines;Modifications to DMV functions; andModifications to Executive Order No. 7E.
-"June 11, 2020"," The Governor announced the launch of the CT Back to Work Initiative that will provide workers and businesses with high-quality, user-friendly career tools to assist those who have been impacted by the economic fallout from the public health emergency."
+care services during the public health emergency.",,,,,,,,,,,Y
+21-Apr-20," The Governor, in collaboration with other states, announced that the State of Connecticut has secured relief options with many private student loan servicers whose borrowers are not covered by the recently adopted federal CARES Act. This new initiative will benefit Connecticut residents with privately held student loans.",,,,,,,,,,,Y
+21-Apr-20, The Governor announced an Request for Applications (RFP) seeking organizations to partner with the state in its efforts to significantly scale-up its daily COVID-19 testing capacity as part of its efforts to reopen the states economy.,,,,Y,,,,,,,Y
+22-Apr-20," The Governor issued an executive order taking the following actions:Additions to the definition of telehealth provider;Flexibility for Medicaid-enrolled providers and in-network providers for commercial fully insured health insurance to perform telehealth through additional methods;Additions to permissible out-of-state healthcare providers;Participation in intern, resident physician, or United States Medical Officer candidate training programs prior to permit issuance; Participation in resident physician assistant program prior to permit issuance;Temporary suspension of physician assistant supervision restrictions;Temporary suspension of in-person supervision requirement for advanced practice registered nurses;Provision of services by respiratory care therapist and respiratory care technician students;Suspension of continuing education requirement for health care providers; andModification of 36-month age limit for Birth-to-Three services",,,,,,Y,,,,,Y
+22-Apr-20, The Governor announced the Connecticut Department of Mental Health and Addiction Services (DMHAS) received a $2 million grant from the U.S. Substance Abuse and Mental Health Services Administration. The funding will be used by DMHAS to launch the Connecticut COVID-19 Behavioral Health Response and Assistance (Connecticut COBHRA) initiative. ,,,,,,Y,,,Y,,Y
+23-Apr-20," The Governor issued an executive order taking the following actions:Mandatory reporting by managed residential communities;Mandatory reporting by nursing homes;Civil penalties for failure to comply with mandatory reporting;Waiving certain Medicaid prior authorization requirements;Waiving Medicaid bed reservation requirements for residents who are on leave from intermediate care facilities for individuals with intellectual disabilities; andWaiving requirements for signed delivery receipt for medical equipment, devices and supplies",,,,,,,,,,,Y
+23-Apr-20, The Governor announced the members who will serve on the Reopen Connecticut Advisory Group. The group will act in consultation with his administration and legislative leadership on the reopening of Connecticuts economy and education system.,,,,,,,,,,,Y
+23-Apr-20," The Governor announced the launch of a program to coordinate housing solutions for individuals re-entering society. The program will assist recently discharged individuals, who would otherwise be homeless, identify and secure alternative housing solutions. ",,,,,,,,,,,Y
+24-Apr-20, The Governor issued an executive order providing additional flexibility for Medicaid-enrolled providers to perform telehealth through audio-only methods for new patients.,,,,,,Y,,,,,Y
+25-Apr-20," The Governor announced his administration is partnering with the Connecticut Business and Industry Association (CBIA) on an initiative to distribute free face coverings to eligible, essential small businesses with fewer than 50 employees.",,,,,,,,,,Y,Y
+27-Apr-20," The Office of Early Childhood has launched the CTCARES for Frontline Workers Program, which was created to help frontline workers struggling with the costs of child care.",,,,,,,,,,,Y
+28-Apr-20, The Governor announced the Department of Labor has begun issuing supplemental $600 stimulus payments for unemployment benefits.,,,,,,,,,,,Y
+29-Apr-20," The Department of Labor launched a website that breaks down information on people who have filed for unemployment in the state by age, industry, gender, and town to assist state and municipal governments develop responsible re-opening strategies. ",,,,,,,,,,,Y
+30-Apr-20," The Governor announced the states phased-in approach to reopening Connecticuts economy beginning May 20, 2020.",,Y,,,,,,,,,
+30-Apr-20, The Governor issued an executive order taking the following actions:Extension of payment time for sealed ticket revenue due to the state;Waiver of notarization requirement for embalmers affidavit accompanying death certificates;Temporary suspension of controlled substance registration;Modification of state contracting statutes to facilitate the emergency procurement of essential services;Modification of state contracting authorities to facilitate the emergency procurement of essential services;Modification of state construction requirements to facilitate the emergency provision of construction and construction-related services; andExtension of existing contracts to prevent gaps in necessary services.,,,,,,,,,,,Y
+30-Apr-20, The Department of Social Services announced its preparing to implement new coverage for uninsured children and adults in the HUSKY Health program.,,,,,,Y,,,,,Y
+30-Apr-20, The Department of Labor launched new system for self-employed to apply for federal unemployment benefits under the federal Pandemic Unemployment Assistance (PUA) Program.,,,,,,,,,,,Y
+30-Apr-20," The Judicial Branch announced that effective immediately, parties who have an agreement may have their family court cases resolved without having to come to court.",,,,,,,,,,,Y
+1-May-20, The Governor announced      that the Federal Emergency Management Agency (FEMA) has approved another      portion of hisongoing requestfor disaster assistance as part      of the State of Connecticuts Major Disaster Declaration for funding for      crisis counseling.,,,,,,,,,,,Y
+1-May-20, The Governor issued      an executive order taking the following actions:Mandatory       suspension of annual town meeting or referendum to adopt budget; andAuthorization       for common-interest communities to hold meetings remotely.,,,,,,,,,,,Y
+3-May-20," The Governor along with New York Governor      Andrew M. Cuomo, New Jersey Governor Phil Murphy, Massachusetts Governor      Charlie Baker, Rhode Island Governor Gina Raimondo, Pennsylvania Governor      Tom Wolf, and Delaware Governor John Carney announced a joint multi-state agreement to      develop a regional supply chain for personal protective equipment, other      medical equipment and testing.",,,,Y,,,,,,Y,Y
+4-May-20," The Governor announced the statewide expansion of a program that will make free online learning licenses available to recipients of unemployment insurance, including those who have been impacted by the economic fallout of the public health crisis.",,,,,,,,,,,Y
+5-May-20," The Governor issued an executive order taking the      following actions:Extension of school class cancellations for remainder       of school year;Authorization for the Department of Social Services       commissioner to temporarily waive, modify, or suspend home health       regulatory requirements; Extension of the start date for imposition of a late       fee for obtaining dog licenses from July 1, 2020 to August 1, 2020; andAuthority to waive certain requirements for the       issuance of vouchers under the Farmers Market Nutrition Program for       Women, Infants, and Children.",Y,,,,Y,,,,,,Y
+5-May-20, The Governor ordered in-person classes at all K-12 public school facilities      to remain canceled for the rest of the 2019-2020 academic year and      continue providing distance learning during this period.,Y,,,,Y,,,,,,
+5-May-20," The Connecticut Department of Revenue      Services (DRS) extended the application deadline for municipalities to submit      their locally approved Neighborhood Assistance Act project proposals until      July 31, 2020.",,,,,,,,,,,Y
+6-May-20," The Governor issued an executive order taking the following actions:Suspension of reapplication filing requirement for the Homeowners Elderly/Disabled, Circuit Breaker Tax Relief Program, and for the Homeowners Elderly/Disabled Freeze Tax Relief Program;Permitting distance learning and remote testing certification for Connecticut Department of Energy and Environmental Protection (DEEP) programs;Extending the period of validity of approval for tolling of land use and building permits; andAllowance of suspension of in-person voting requirements by members of the public for critical and time-sensitive municipal decisions.",,,,,,,,,,,Y
+6-May-20," The Attorney General William Tong, U.S. Attorney John Durham, representatives of the Federal Bureau of Investigation, and Chief States Attorney Richard Colangelo announced the formation of a joint federal-state task force combatting COVID-19-related fraud in Connecticut.",,,,,,,,,,,Y
+6-May-20," The Governor announced that Summer, a social enterprise that assists student loan borrowers, is providing Connecticut residents financially impacted by the COVID-19 crisis with free assistance managing their student loans.",,,,,,,,,,,Y
+6-May-20, The Governor announced the Education Committee of the Reopen Connecticut Advisory Group is recommending a gradual reopening of higher education campuses  at the discretion of each institution and depending on health conditions.,,Y,,,,,,,,,Y
+7-May-20, The Governor issued an executive order permitting pharmacists to order and administer Food and Drug Administration tests.,,,,,,,,,,,Y
+7-May-20,The Connecticut Department of Labor announced that it has made active the filing site so those who are self-employed can complete the necessary filing applications for Pandemic Unemployment Assistance (PUA).,,,,,,,,,,,Y
+7-May-20, The Governor announced his administration is utilizing seven criteria in its consideration for Phase 1 of Connecticuts reopening efforts,,,,,,,,,,,Y
+7-May-20, The Governor announced his administration is suspending the requirement that patients receive a referral from a physician or other prescribing medical provider prior to being administered a test.,,,,Y,,,,,,,Y
+8-May-20," The Department of Economic and Community Development (DECD) committed an additional $3 million to the COVID-19 Business Response Program, which provides financial relief to minority-owned and women-owned small businesses negatively impacted by the coronavirus pandemic.",,,,,,,,,Y,,Y
+8-May-20, The Department of Revenue Services announced that it is extending the deadline for filing certain protests with its appellate division by 90 days.,,,,,,,,,,,Y
+9-May-20, The Governor announced that his administration has released documents detailing specific rules that eligible businesses falling under phase 1 of Connecticuts reopening plans must follow amid the ongoing COVID-19 pandemic.The Department of Economic and Community Development (DECD) announced the formation of the Reopen Connecticut Small Business Implementation Task Force to support small business on how to implement the new guidelines.,,,,,,,,,,,Y
+9-May-20, The Governor issued an order implementing standards at nursing homes to ensure loved ones can speak with their families either through windows or video conferencing,,,,,,,,,,,Y
+11-May-20, The Governor issued an executive order making modifications to the petitioning process for the August primary.,,,,,,,,,,,Y
+11-May-20, The Governor announced the state has opened an COVID-19 only nursing home designed to handle patients elderly patients discharged from hospitals and to help prevent outbreaks at other nursing homes.,,,,,,,,,,,Y
+12-May-20," The Governor issued an executive order taking the following actions:Allowing municipalities to expedite changes to their zoning rules or other ordinances to expand outdoor dining;Creating an expedited approval process for restaurants and other establishments that serve food to get fast-tracked permission to create or expand outdoor dining areas;Allowing other businesses such as retail stores to get fast-tracked permission to sell goods on the sidewalk or in other outdoor areas, including shared spaces or spaces provided by municipalities;Allowing restaurants and other businesses who already have liquor permits to serve alcohol only with food without applying for a separate patio or extension of use permit; andAllowing private clubs to sell alcohol only to their members for delivery or pickup.",,Y,,,,,,,,,
+13-May-20, The Governor issued an executive order taking the following actions:Waiving of statutory vote on supplemental federal block grant;Permitting remote participation in member meetings;Waiving of certain regulatory limitations on the amount of support that can be provided to caregiver relatives;Modifying the grace period for April and May rent;Authorizing the Office of Policy and Management (OPM) to direct Department of Social Services (DSS) to provide Coronavirus Relief Fund distributions to nursing home facilities;Authorizing the OPM to direct DSS to provide Coronavirus Relief Fund distributions to COVID recovery facilities and alternate COVID recovery facilities;Authorizing additional COVID-19 related hardship relief funding under the Coronavirus Relief Fund to nursing home facilities;Protecting Coronavirus Relief Fund distribution determinations from rehearing or appeal; andExtending and sunset of suspension of tax on single-use plastic checkout bags.,,,,,,,,,,,Y
+13-May-20, The Connecticut Office of Early Childhood announced that it has launched CTCARES for Family Child Care to provide support to licensed family child care providers during the COVID-19 public health emergency and beyond.,,,,,,,,,,,Y
+14-May-20, The Governor announced CVS Health is opening 12 new COVID-19 test sites at select CVS Pharmacy drive-thru locations in Connecticut.,,,,Y,,,,,,,Y
+13-May-20,- The Centers for Medicare and Medicaid Services (CMS) approved Connecticuts second request for a Medicaid 1135 waiver. The waiver allows Connecticut to reimburse for Home and Community-Based Services(HCBS) in additional settings,,,,,,,,,,,Y
+14-May-20, The Governor issued an executive order requiring procedures for local appointments and elections requiring in-person vote.,,,,,,,,,,,Y
+14-May-20, The Governor announced Connecticut businesses eligible to open on or soon after May 20 are required to self-certify to demonstrate they understand and will comply with COVID-19 rules and regulations set by the state.,,,,,,,,,,,Y
+14-May-20, The Governor announced that the State of Connecticut is receiving $111 million in federal coronavirus relief aid for the states school districts that will be used to support continued learning and address educational disruptions.,,,,,Y,,,,Y,,Y
+14-May-20, The Governor submitted his 2020-21 May Revision budget proposal to the Legislature  a balanced plan to close a budget gap of more than $54 billion brought on by the COVID-19 recession.,,,,,,,,,Y,,Y
+15-May-20," The Governor announced that the first wave of Dell laptops  part of a total 60,000 that are being donated to Connecticut high schools by the Partnership for Connecticut  are arriving slightly ahead of schedule and will begin to be distributed to districts starting next week.",,,,,,,,,,,Y
+15-May-20," The Governor announced that the state will be distributing 50,000 infrared thermometers it has secured for small businesses, nonprofits, and places of worship to support safe reopening activities.",,,,,,,,,,,Y
+15-May-20," The Governor announced that Connecticut state parks that feature beaches along the states shoreline will be open Friday, May 22, though with capacity limitations. Visitors are advised to follow social distancing guidelines.",,Y,,,,,,,,,
+16-May-20," The Governor announced a partnership with UnitedHealth Group, United Way 211, and DoorDash to pilot a free meal delivery service for higher risk populations, The pilot will begin in the Greater Hartford area.",,,,,,,,,,,Y
+18-May-20," The Governor announced an executive order taking the following actions:Reopening Phase 1;Enforcement of sector rules governing the reopening of businesses;Extension of prohibition on large gatherings to June 20, 2020;Extension of restrictions on off-track betting, indoor fitness, and movie theaters to June 20;Further clarification of limits on restaurants, bars, and private clubs  mixed drinks permitted for takeout or delivery;Limitation on the operation of day camps;Enhanced health procedures for all day camps;Cancellation of resident camp operations;Limitation on the operation of summer and educational programs operated by local or regional boards of education; andSuspension or modification of regulatory requirements to protect public health and safety.",,Y,,,,,,,,,
+18-May-20, The Governor and Governor Gina Raimondo of Rhode Island announced their intention to align the reopening of hair salons and barbershops in their respective states in early June.,,,,,,,,,,,Y
+18-May-20, The Governor released a guidance document that was developed through a collaborative working group organized by his administration and provides best practices for dentist offices that are considering expanding their operations beyond emergency care in the coming days.,,,,,,Y,,,,,
+18-May-20, The Governor released an online guide to help small businesses comply with COVID-19 safety guidance and manage the broader reopening process.,,,,,,,,,,,Y
+20-May-20," The Governor issued an executive order allowing all registered voters in Connecticut to vote absentee in the August 11, 2020 primary elections.",,,,,,,,,,,Y
+20-May-20, The Governor announced the establishment of new enforcement protocols to ensure businesses follow the Sector Rules for May 20th Reopen.,,Y,,,,,,,,,
+20-May-20," The Connecticut Department of Energy and Environmental Protection (DEEP) released a plan that outlines current guidelines around the operation and use of Connecticut state park grounds, trails, beaches, boat launches, and other areas.",,Y,,,,,,,,,
+20-May-20," The Connecticut Insurance Commissioner announced that additional frontline health care workers and volunteers in Connecticut are now eligible to receive up to $25,000 of free term life insurance.",,,,,,,,,,,Y
+21-May-20, The Governor issued an executive order taking the following actions:Authority for the Department of Energy and Environmental Protection (DEEP) to issue rental refunds for events taking place in state parks;Modification of age limit for early intervention coverage; andWaiver of requirement for guest books at private clubs.,,,,,,,,,,,Y
+21-May-20, The Connecticut Department of Motor Vehicles (DMV) announced its previously enacted 90-day extension for residents with expiring credentials is being extended to a total of 180 days.,,,,,,,,,,,Y
+21-May-20," The Governor announced that CVS Health is opening 13 new COVID-19 test sites at select CVS Pharmacy drive-thru locations in Connecticut. These test sites, which are set to open on Friday, May 22, 2020, come in addition to the 12 locations the company previously opened in the state on May 15.",,,,Y,,,,,,,
+23-May-20, The Governor announced that the Connecticut Department of Transportation has approved a permit for Mystic Pizza to use a state highway right-of-way to add outdoor dining as the restaurant makes efforts to comply with the requirements of phase 1 of Connecticuts reopening plans.,,,,,,,,,,,Y
+22-May-20," The Connecticut Department of Social Services announced children enrolled in school meals program will soon receive additional, emergency SNAP benefits.",,,,,,,,,,,Y
+22-May-20," The Connecticut Department of Labor was awarded $2.33 million federal grant to create disaster relief jobs, employment and training services.",,,,,,,,,Y,,Y
+26-May-20," The Governor released their Reopen Connecticut report, which contains recommendations from the Reopen Connecticut Advisory Group on the reopening of Connecticuts economy and education system.",,,,,,,,,,,Y
+26-May-20," The Federal Emergency Management Agency (FEMA) approved the Lamont administrations request to provide an extension for its non-congregate housing programs until July 2, 2020.",,,,,,,,,,,Y
+27-May-20, The Governor issued an executive order permitting the creation of a temporary nurse aide position to assist health care providers and other health-related services.,,,,,,Y,,,,,Y
+29-May-20, The Governor issued an executive order taking the following actions:Reopening of barbershops and hair salons on June 1; and Amending prohibitions on large gatherings.,,Y,,,,,,,,,
+29-May-20," The Connecticut Public Utility Regulatory Authority (PURA) announced that the utility shut-off moratorium for non-residential customers in the state will continue through July 1, 2020.",,,,,,,,,,,Y
+1-Jun-20," The Governor issued an executive order taking the following actions:Mandatory COVID-19 testing for staff of private and municipal nursing homes, residential communities, and assisted living agencies; andAllows the Connecticut Department of Labor to consider, when determining a workers eligibility for unemployment benefits, whether COVID-19 means returning to work would pose an unreasonable risk to the health of a member of that workers household.",,,,Y,,,,,,,Y
+2-Jun-20," The Governor announced that the State of Connecticut is partnering in a first-of-its-kind, statewide project to quantify the spread of COVID-19 within the state by conducting a seroprevalence study of 1,400 randomized, representative Connecticut residents.",,,,,,,,,,,Y
+2-Jun-20, The Governor issued an executive order amending the limitation on program sizes in child care.,,,,,,,,,,,Y
+3-Jun-20," The Governor announced that the state is partnering with philanthropic organizations in an effort to provide emergency assistance to vulnerable residents who are otherwise ineligible from receiving assistance through federal pandemic relief programs, including those from within the undocumented community.",,,,,,,,,,,Y
+4-Jun-20, The Governor issued an executive order taking the following actions:Technical clarifications regarding the ballot petitioning process for the August 2020 primary and November 2020 general election; and Further clarification of limits on alcohol service and sales related to catering.,,,,,,,,,,,Y
+4-Jun-20," The Governor and Banking Commissioner announced that over 45 banks and credit unions have agreed to extend their voluntary participation in the Connecticut Mortgage Relief Program, which provides relief to consumers facing financial hardship due to COVID-19.",,,,,,,,,,,Y
+4-Jun-20," The Governor announced that his administration is establishing the Connecticut Municipal Coronavirus Relief Fund Program, which will set a process by which municipal governments will receive reimbursements from the state using the federally supported Coronavirus Relief Fund to offset their expenses.",,,,,,,,,,,Y
+5-Jun-20," The Governor issued an executive order taking the following actions: Modification of safety rules for drive-in religious gatherings ;Safety rules for drive-in graduations; and Suspension of the involuntary discharge of nursing facility residents and residential care home residents who may be discharged to homeless shelters, except during emergency situations or with respect to COVID-19 recovered discharges.",Y,,,,,,,,,,
+7-Jun-20," The Governor announced that his administration has released documents detailing specific rules that eligible businesses falling under phase 2 of Connecticuts reopening plans must follow amid the ongoing COVID-19 pandemic. The second phase takes effect Wednesday, June 17.",,,,,,,,,,,Y
+8-Jun-20," The Governor announced that he is ordering an independent, third-party review to be conducted of the preparation and response to the COVID-19 pandemic inside of Connecticuts nursing homes and assisted living facilities.",,,,,,,,,,,Y
+9-Jun-20," The Connecticut Department of Public Health released an order ensuring that people with disabilities have reasonable access to support personnel in hospital settings in a manner that is consistent with disability rights laws and the health and safety of patients, health care providers, and support persons.",,,,,,,,,,,Y
+10-Jun-20, The Governor issued an executive order taking the following actions:Resumption of court filing deadlines;Modifications to DMV functions; and Modifications to Executive Order No. 7E.,Y,,,,,,,,,,
+11-Jun-20," The Governor announced the launch of the CT Back to Work Initiative that will provide workers and businesses with high-quality, user-friendly career tools to assist those who have been impacted by the economic fallout from the public health emergency.",,,,,,,,,,,Y
