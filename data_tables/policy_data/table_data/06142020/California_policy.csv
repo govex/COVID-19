@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 2-Mar-20,Governor Newsom isrequestingemergency action fromthelegislature to make available up to $20 million for the COVID-19 response.,,,,,,,,Y,,,Y
 3-Mar-20,"Californias Public Health Department announced that it received federal approval to use some of its emergency planning reserves of 21 million N95 filtering facepiece masks in certain low-risk situations to relieve pressure on the supply chain. March 4, 2020Governor Newsom declared a state of emergency to help state prepare for broader spread of COVID-19.",,,,,,,,,Y,,Y
 5-Mar-20,"March 5,2020 California Employee Development Departmentannouncedsupport services to individuals affected by COVID-19 in California.",,,,,,,,,,,Y
@@ -77,7 +77,7 @@ For at least 90 days, financial institutions will waive or refund for select fee
 ",,,,,,,,,,,Y
 27-Mar-20," The Governor issued an executive order banning the enforcement of eviction orders for renters through May 31, 2020.",,,,,,,,,,,Y
 27-Mar-20, The Governor issued an executive order to enhance the authority of Californias Judicial Branch to take emergency action to conduct business and continue to operate.,,,,,,,,,,,Y
-"March 27 – The California Labor & Workforce Development Agency removed waiting periods for unemployment and disability insurance and developed a chart of benefits available for workers affected by COVID, 2020",March 27  The California Labor & Workforce Development Agency removed waiting periods for unemployment and disability insurance and developed a chart of benefits available for workers affected by COVID-19. ,,,,,,,,,,,Y
+27-Mar-20,The California Labor & Workforce Development Agency removed waiting periods for unemployment and disability insurance and developed a chart of benefits available for workers affected by COVID-19. ,,,,,,,,,,,Y
 29-Mar-20," The Governor announced leading social media companies, businesses, leaders and individuals from across the state have leapt into action to partner and support the COVID-19 public awareness campaign.",,,,,,,,,,,Y
 30-Mar-20," The Governor issued an executive order that will provide tax, regulatory and licensing extensions for businesses.",,,,,,,,,,,Y
 30-Mar-20," The Governor issued an executive order that will temporarily expand the health care workforce and allow health care facilities to staff at least an additional 50,000 hospital beds known as the California Health Corps.",,,,,,,,,,,Y
