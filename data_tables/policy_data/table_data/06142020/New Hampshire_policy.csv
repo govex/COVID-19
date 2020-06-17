@@ -1,4 +1,4 @@
-date,policy
+date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 "March 12, 2020","Governor Sununu announced a new order, issued by the states Insurance Commissioner, requiring health insurers to cover services associated with testing of COVID-19. It outlines a series of actions that health insurers must take, such as offering telehealth services and expanding access to prescription drug refills."
 "March 15, 2020", The Governor issued an emergency order closing all public schools in the state while also providing guidance to districts on remote learning plans.
 "March 16, 2020", The Governor limited scheduled public gatherings over 50 people and required that all bars and restaurants transition to offsite eating options.
