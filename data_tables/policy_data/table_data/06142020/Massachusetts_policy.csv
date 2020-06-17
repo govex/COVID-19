@@ -1,4 +1,4 @@
-date,policy
+date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 "March 4, 2020","Governor Baker announced that due to the emergency health situation, the state is urging colleges and universities to cancel upcoming organized international trips."
 "March 10, 2020",Governor Bakerdeclaredastate of emergency.
 "March 10, 2020",Broad restrictions are imposed on travel for many state employees
