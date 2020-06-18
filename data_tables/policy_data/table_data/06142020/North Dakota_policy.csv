@@ -1,113 +1,67 @@
-date,policy,Restrict/Close,Opening (State),Opening (County),Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
-"March 3, 2020","The North Dakota Department of Healthhasdeveloped an online surveyfor people who have traveled internationally within the past 14 days to complete. Upon completion of the survey, North Dakotans will receive information about how to monitor themselves for symptoms of COVID-19 and what to do if symptoms develop."
-"March 12, 2020",Governor Burgumreleased recommendationsaroundlarge events and public gatherings.
-"March 13, 2020",Governor Burgum declared a state of emergency
-"March 15, 2020",-The Governor ordered all K-12 schools to close from March 16-March 20 to slow the spread of COVID-19.
-"March 17, 2020"," The Department of Commerce partnered with the Greater North Dakota Chamber (GNDC) to provide a weekly business briefing via conference call to GNDC members and businesses, trade associations, and local chambers of commerce to discuss current solutions for stressors caused by COVID-19."
-"March 18, 2020",- The Governor signed an executive order allowing K-12 schools to not make up instructional time lost due to COVID-19 related closures.
-"March 19, 2020", The Governor signed an executive order directing bars and restaurants to close to on-site patrons.
-"March 19, 2020", The Governor signed an executive order temporarily suspending certain licensure requirements for health care and behavioral health care workers to allow them to work in the state if theyre appropriately licensed in another state.
-"March 19, 2020", The Governor announced additional guidance for K-12 schools to continue educating students through alternative delivery methods beginning April 1.
-"March 19, 2020"," The North Dakota Development Board voted to suspend all payments, both principal and interest, for all outstanding North Dakota Development Fund Loans for 30 days."
-"March 20, 2020"," The Governor signed three executive orders to reduce regulatory burdens and improve services for North Dakotans. Taken together, these waivers:
-
+date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+3-Mar-20,"The North Dakota Department of Health has developed an online survey for people who have traveled internationally within the past 14 days to complete. Upon completion of the survey, North Dakotans will receive information about how to monitor themselves for symptoms of COVID-19 and what to do if symptoms develop.",,,,,,,,,,,Y
+12-Mar-20,Governor Burgum released recommendations around large events and public gatherings.,,,,,,,,,,,Y
+13-Mar-20,Governor Burgum declared a state of emergency,,,,,,,Y,,,,
+15-Mar-20,The Governor ordered all K-12 schools to close from March 16-March 20 to slow the spread of COVID-19.,Y,,,,Y,,,,,,
+17-Mar-20," The Department of Commerce partnered with the Greater North Dakota Chamber (GNDC) to provide a weekly business briefing via conference call to GNDC members and businesses, trade associations, and local chambers of commerce to discuss current solutions for stressors caused by COVID-19.",,,,,,,,,,,Y
+18-Mar-20,The Governor signed an executive order allowing K-12 schools to not make up instructional time lost due to COVID-19 related closures.,,,,,Y,,,,,,
+19-Mar-20, The Governor signed an executive order directing bars and restaurants to close to on-site patrons.,Y,,,,,,,,,,
+19-Mar-20, The Governor signed an executive order temporarily suspending certain licensure requirements for health care and behavioral health care workers to allow them to work in the state if theyre appropriately licensed in another state.,,,,,,Y,,,,,
+19-Mar-20, The Governor announced additional guidance for K-12 schools to continue educating students through alternative delivery methods beginning April 1.,,,,,Y,,,,,,
+19-Mar-20," The North Dakota Development Board voted to suspend all payments, both principal and interest, for all outstanding North Dakota Development Fund Loans for 30 days.",,,,,,,,,,,Y
+20-Mar-20," The Governor signed three executive orders to reduce regulatory burdens and improve services for North Dakotans. Taken together, these waivers:
 Require immediate changes to the unemployment insurance process by expanding eligibility;
-
-
 Order state agencies to identify any state laws, rules, or regulations that hinder or delay their ability to render maximum assistance;
-
-
 Recognize any North Dakota drivers license or motor vehicle registration that expired on or after March 1, as valid and current as long as the executive order is in effect;
-
-
 Expand telehealth services to limit in-person visits and assist residents practicing social distancing; and
-
-
-Include medical imaging and radiation therapy professionals to the list of health professionals who can work in the state if theyre appropriately licensed in another state.
-
-"
-"March 21, 2020"," The Governor signed an executive order expanding testing locations across the state. Specifically, the Governor authorized licensed pharmacists to administer COVID-19 tests and issue emergency refills for medications for up to a 30-day supply."
-"March 22, 2020", The Governorissued an executive orderrequesting school districts submit distance learning plans by March 27 and begin instruction no later than April 1.
-"March 22, 2020"," The North Dakota Department of Commerce issued these COVID-19 state resources: North Dakota Development Fund Loans, Childcare Loan Program, and Rural Growth Incentive Program Emergency Loans."
-"March 25, 2020"," The Governor issued an executive order extending workers compensation coverage to first responders and health care providers who encounter an infected person. Notably, the executive order:
-
+Include medical imaging and radiation therapy professionals to the list of health professionals who can work in the state if theyre appropriately licensed in another state.",,,,,,Y,,,,Y,Y
+21-Mar-20," The Governor signed an executive order expanding testing locations across the state. Specifically, the Governor authorized licensed pharmacists to administer COVID-19 tests and issue emergency refills for medications for up to a 30-day supply.",,,,,,,,,,,
+22-Mar-20, The Governor issued an executive order requesting school districts submit distance learning plans by March 27 and begin instruction no later than April 1.,,,,,Y,,,,,,
+22-Mar-20," The North Dakota Department of Commerce issued these COVID-19 state resources: North Dakota Development Fund Loans, Childcare Loan Program, and Rural Growth Incentive Program Emergency Loans.",,,,,,,,,,,Y
+25-Mar-20," The Governor issued an executive order extending workers compensation coverage to first responders and health care providers who encounter an infected person. Notably, the executive order:
 Provides up to 14 days of medical and wage replacement benefits if first responders and health care providers are quarantined, and
-
-
-Provides employees who contract the virus on the job with full workers compensation benefits just like any other compensable work injury claim.
-
-"
-"March 25, 2020","- The Centers for Medicare & Medicaid Services (CMS)approvedNorth Dakotas request for a Section 1135 Medicaid waiver. The approved waiver enables North Dakota to provide flexibilities in Medicaid provider screening and enrollment, forgo certain pre-admission screening and annual resident review assessments, lift prior authorization requirements, extend fair hearing and appeals timelines, and modify time frames for tribal consultations for certain COVID-19-related Medicaid State Plan Amendments."
-"March 26, 2020"," The Governor unveiled a child care initiative with the following elements:
-
+Provides employees who contract the virus on the job with full workers compensation benefits just like any other compensable work injury claim.",,,,,,Y,,,,,
+25-Mar-20,"The Centers for Medicare & Medicaid Services (CMS) approved North Dakotas request for a Section 1135 Medicaid waiver. The approved waiver enables North Dakota to provide flexibilities in Medicaid provider screening and enrollment, forgo certain pre-admission screening and annual resident review assessments, lift prior authorization requirements, extend fair hearing and appeals timelines, and modify time frames for tribal consultations for certain COVID-19-related Medicaid State Plan Amendments.",,,,,,Y,,,,,
+26-Mar-20," The Governor unveiled a child care initiative with the following elements:
 Providing guidance on how child care providers can continue to safely serve children through modified operating practices;
-
-
 Establishing a Child Care Emergency Operating Grant to cover operating costs associated with the modified practices and to sustain vital child care services; and,
-
-
-Providing added flexibility to allow school districts to help care for children in grades K-5 whose parents are frontline workers.
-
-"
-"March 26, 2020"," The Governor issued an Executive Order waiving the requirement that counties must provide at least one physical polling location on primary election day; accordingly, this gives counties the flexibility and local control to conduct the June 9 primary election by mail ballot only  if the county chooses to do so."
-"March 27, 2020", The Governor issued an executive order that expanded business closures as the number of confirmed cases attributed to community spread surpassed the number of travel-related or close-contact cases.
-"March 27, 2020"," The Governor issued an executive order suspending payment of unemployment taxes and suspending interest on all Workforce Safety & Insurance employer accounts, which will allow them to focus on preserving their business operations and retaining critical cash flow."
-"March 29, 2020"," The Governor requested a major disaster declaration to support public infrastructure and facilities; mitigation grants for counties and tribal nations; assistance for individuals and households, and supplemental nutrition and transitional sheltering assistance, among other aid."
-"March 30, 2020"," The Governor amended Executive Order 2020-10.1 allowing certain public school districts to open facilities through the month of May, for the limited purpose of providing childcare services to children in grades K-5 only, for K-12 teachers and other health, safety and lifeline worker households."
-"March 30, 2020"," The Governor issued Executive Order 2020-16 suspending the open meeting requirement of a physical meeting room and a speakerphone or monitor at a physical location, when members of the governing body are attending remotely."
-"March 30, 2020", The Governor issued Executive Order 2020-17 temporarily suspending deadlines for public libraries to submit state aid applications and reports.
-"March 31, 2020"," The Governor announced the activation of North Dakotas Workforce Coordination Center to connect businesses with the volunteers and workforce they need to support effected health care providers, industries, and agencies."
-"April 1, 2020", The Governor announced that the President granted the governors request for a major disaster declaration to make federal assistance available to support North Dakotas state and local response efforts.
-"April 1, 2020", The Governor issued an executive order waiving the mandatory one-week waiting period for unemployment benefits.
-"April 1, 2020", The Governor amended Executive Order 2020-06.2 extending business closures until April 20.
-"April 2, 2020", The Governor signed an executive order giving school districts the flexibility to hold elections by mail ballot between April 1 and June 30.
-"April 3, 2020", The Governor announced a pilot project Operation Drive-In to expand COVID-19 testing and improve contact tracing. 
-"April 3, 2020", The Governor issued an executive order that temporarily suspends certain requirements related to health care and behavioral health licensing statutes to allow medical professionals with inactive or lapsed licenses to return to the work force. 
-"April 6, 2020"," The Governor signed an executive order, requiring individuals who test positive for COVID-19 to self-quarantine in their place of residence for no less than 14 days or as directed by order of the State Health Officer. "
-"April 6, 2020"," The Governor signed an executive order, suspending visitation to long-term care facilities, including skilled nursing facilities and basic care facilities. "
-"April 6, 2020", The North Dakota Department of Human Services waived the in-person interview requirement for TANF to expand access to the program.
-"April 7, 2020"," The Governor, in partnership with ProudCrowd, launched a free mobile app, Care19, that will more efficiently and effectively identify individuals who may have had contact with people who have tested positive. "
-"April 7, 2020"," The Governor issued four executive orders aimed at shoring up the pandemic impacts on school districts, agribusiness, fuel retailers and others in North Dakota. These actions include:Granting flexibility to school districts to hold mail ballot-only elections;Suspending the requirement that a school district conduct a written performance review for staff that have been employed for more than three years;Allowing winter-grade fuel to be sold until May 20 instead of the traditional April 1 cutoff date; and,Suspending the pesticide applicator certification for the use of non-restricted disinfectants during the public health emergency. "
-"April
-13, 2020"," The Governor signed
-an executive order allowing for changes necessary to maintain critical
-operations for vulnerable youths being served in Psychiatric Residential
-Treatment Facilities and Qualified Residential Treatment Programs. Specifically,
-the order:Suspends
-state regulations that require routine health care checks that are not
-available and are not urgent;Allows
-for alternative service options such as telehealth; Allows
-for state background checks while national checks are suspended during this
-emergency"
-"April
-14, 2020"," The Governor outlined
-the finalized hospital surge plan, stressing that its the governments
-responsibility to plan for the worst-case scenario, and in that regard, the
-state is well-prepared. The plan is based on three tiers:Tier
-1: Existing hospital capacity with current staff, supplies and equipment.Tier
-2A:
-Hospitals increase their bed capacity and stretch staff through scheduling,
-with a surge of equipment from the state medical cache as requests.B:
-Hospitals further increase capacity with a surge of equipment, supplies and
-staff from the state.Tier
-3: Establishing minimal care facilities that would be used only if hospitals in
-the region have reached their maximum level of surge capacity with beds,
-supplies, equipment and staff that can be provided through state
-resources. "
-"April 15, 2020"," The Governor issued an amended executive order that extends closures for an additional 10 days for businesses, including recreational facilities, health clubs, and athletic facilities, among other retailers. "
-"April 15, 2020"," The Governor outlined a path forward to easing social distancing policies, that hinges on key capabilities such as mass testing capacity, targeted case-based interventions, and adequate PPE availability for the health care system and the public, among other things. "
-"April 18, 2020", The Governor announced that a rapid response team that tested employees on April 16 at a Grand Forks manufacturing plant confirmed an additional 88 COVID-19 cases. The outbreak was contained and all employees were directed to self-quarantine for 14 days. 
-"April 22, 2020", The Governor outlined a plan to significantly increase testing capacity for COVID-19.
-"April 23, 2020", The Governor announced that the CARES Act funding will help cover unemployment insurance costs that arent otherwise reimbursed by the federal government. 
-"April 27, 2020"," The Governor announced they will lift restrictions that were placed on businesses, while implementing new guidelines and standard operating procedures for businesses as they resume or continue operations. "
-"April 28, 2020", The Governor released North Dakota Smart Restart protocols for businesses resuming or continuing operations during the COVID-19 pandemic. 
-"April 29, 2020", The Governor issued an amended executive order providing additional guidance for businesses that are resuming or continuing operations under the North Dakota Smart Restart protocols. 
-"May 1, 2020"," The Governor issued an executive order directing schools to provide education via distance learning which will remain in effect through the end of the current school year to help slow the spread and protect students, staff, and communities. "
-"May 6, 2020", The Governor announced the Red River Valley COVID-19 Task Force to address an increasing concentration of COVID-19 cases in Cass county.
-"May 8, 2020"," The Governor announced the state will begin operating the Battelle Critical Care Decontamination System for PPE that allows the state to provide shipping and N95 decontamination at no charge to health care organizations, EMS agencies, public health, public safety agencies, funeral homes, dental offices, and optometry and chiropractic clinics, among others."
-"May 11, 2020"," The Governor announced North Dakota schools will be allowed to host several activities, including summer school and college admissions testing, beginning June 1."
-"May 15, 2020"," The Governor announced guidelines for large gatherings, banquets, ballrooms and event venues as part of the ND Smart Restart Plan."
-"May 19, 2020", The Governor announced an emergency rule change to allow residents of basic care facilities to keep the Economic Impact Payments provided as part of the CARES Act.
-"May 20, 2020", The Governor announced the state will launch a smartphone application using exposure notification technology developed by Apple and Google available to public health agencies to assist with COVID-19 contact tracing.
-"May 29, 2020"," The Governor announced the state is moving to the next phase of its reopening plan. With the move from moderate to low risk level:The recommendation for capacity in bars and restaurants increases from 50 to 75 percent;The recommendation for banquets/weddings increases from 50 percent occupancy up to 250 attendees, to 75 percent occupancy up to 500 attendees;Recommended movie theater capacity increases from 20 percent to 65 percent; and,Fitness centers may consider holding classes with high inhalation/exhalation exchange with social distancing, whereas those classes were not recommended under the moderate risk level."
-"June 5, 2020"," The Governor signed anexecutive orderthat modifies restrictions on visitation at long-term care facilities in North Dakota during the pandemic, allowing for a phased approach to resuming visitation as outlined in the states Vulnerable Population Protection Plan."
+Providing added flexibility to allow school districts to help care for children in grades K-5 whose parents are frontline workers.",,,,,Y,,,,,,Y
+26-Mar-20," The Governor issued an Executive Order waiving the requirement that counties must provide at least one physical polling location on primary election day; accordingly, this gives counties the flexibility and local control to conduct the June 9 primary election by mail ballot only  if the county chooses to do so.",,,,,,,,,,,Y
+27-Mar-20, The Governor issued an executive order that expanded business closures as the number of confirmed cases attributed to community spread surpassed the number of travel-related or close-contact cases.,,,,,,,,,,,Y
+27-Mar-20," The Governor issued an executive order suspending payment of unemployment taxes and suspending interest on all Workforce Safety & Insurance employer accounts, which will allow them to focus on preserving their business operations and retaining critical cash flow.",,,,,,,,,,,Y
+29-Mar-20," The Governor requested a major disaster declaration to support public infrastructure and facilities; mitigation grants for counties and tribal nations; assistance for individuals and households, and supplemental nutrition and transitional sheltering assistance, among other aid.",,,,,,,,,,,Y
+30-Mar-20," The Governor amended Executive Order 2020-10.1 allowing certain public school districts to open facilities through the month of May, for the limited purpose of providing childcare services to children in grades K-5 only, for K-12 teachers and other health, safety and lifeline worker households.",,Y,,,Y,,,,,,
+30-Mar-20," The Governor issued Executive Order 2020-16 suspending the open meeting requirement of a physical meeting room and a speakerphone or monitor at a physical location, when members of the governing body are attending remotely.",,,,,,,,,,,Y
+30-Mar-20, The Governor issued Executive Order 2020-17 temporarily suspending deadlines for public libraries to submit state aid applications and reports.,,,,,,,,,,,Y
+31-Mar-20," The Governor announced the activation of North Dakotas Workforce Coordination Center to connect businesses with the volunteers and workforce they need to support effected health care providers, industries, and agencies.",,,,,,Y,,,,,Y
+1-Apr-20, The Governor announced that the President granted the governors request for a major disaster declaration to make federal assistance available to support North Dakotas state and local response efforts.,,,,,,,,,,,Y
+1-Apr-20, The Governor issued an executive order waiving the mandatory one-week waiting period for unemployment benefits.,,,,,,,,,,,Y
+1-Apr-20, The Governor amended Executive Order 2020-06.2 extending business closures until April 20.,Y,,,,,,,,,,
+2-Apr-20, The Governor signed an executive order giving school districts the flexibility to hold elections by mail ballot between April 1 and June 30.,,,,,,,,,,,Y
+3-Apr-20, The Governor announced a pilot project Operation Drive-In to expand COVID-19 testing and improve contact tracing. ,,,,Y,,,,,,,
+3-Apr-20, The Governor issued an executive order that temporarily suspends certain requirements related to health care and behavioral health licensing statutes to allow medical professionals with inactive or lapsed licenses to return to the work force. ,,,,,,Y,,,,,
+6-Apr-20," The Governor signed an executive order, requiring individuals who test positive for COVID-19 to self-quarantine in their place of residence for no less than 14 days or as directed by order of the State Health Officer. ",Y,,,,,,,,,,
+6-Apr-20," The Governor signed an executive order, suspending visitation to long-term care facilities, including skilled nursing facilities and basic care facilities. ",Y,,,,,,,,,,
+6-Apr-20, The North Dakota Department of Human Services waived the in-person interview requirement for TANF to expand access to the program.,,,,,,,,,,,Y
+7-Apr-20," The Governor, in partnership with ProudCrowd, launched a free mobile app, Care19, that will more efficiently and effectively identify individuals who may have had contact with people who have tested positive. ",,,,,,Y,,,,,Y
+7-Apr-20," The Governor issued four executive orders aimed at shoring up the pandemic impacts on school districts, agribusiness, fuel retailers and others in North Dakota. These actions include: Granting flexibility to school districts to hold mail ballot-only elections; Suspending the requirement that a school district conduct a written performance review for staff that have been employed for more than three years; Allowing winter-grade fuel to be sold until May 20 instead of the traditional April 1 cutoff date; and, Suspending the pesticide applicator certification for the use of non-restricted disinfectants during the public health emergency. ",,,,,Y,,,,,,Y
+13-Apr-20," The Governor signed an executive order allowing for changes necessary to maintain critical operations for vulnerable youths being served in Psychiatric Residential Treatment Facilities and Qualified Residential Treatment Programs. Specifically, the order: Suspends state regulations that require routine health care checks that are not available and are not urgent; Allows for alternative service options such as telehealth; Allows
+for state background checks while national checks are suspended during this emergency.",,,,,,Y,,,,,
+14-Apr-20," The Governor outlined the finalized hospital surge plan, stressing that its the governments responsibility to plan for the worst-case scenario, and in that regard, the state is well-prepared. The plan is based on three tiers: Tier 1: Existing hospital capacity with current staff, supplies and equipment.Tier 2A: Hospitals increase their bed capacity and stretch staff through scheduling, with a surge of equipment from the state medical cache as requests. B: Hospitals further increase capacity with a surge of equipment, supplies and staff from the state.Tier 3: Establishing minimal care facilities that would be used only if hospitals in the region have reached their maximum level of surge capacity with beds, supplies, equipment and staff that can be provided through state resources. ",,,,,,Y,,,,,
+15-Apr-20," The Governor issued an amended executive order that extends closures for an additional 10 days for businesses, including recreational facilities, health clubs, and athletic facilities, among other retailers. ",Y,,,,,,,,,,
+15-Apr-20," The Governor outlined a path forward to easing social distancing policies, that hinges on key capabilities such as mass testing capacity, targeted case-based interventions, and adequate PPE availability for the health care system and the public, among other things. ",,,,,,,,,,Y,Y
+18-Apr-20, The Governor announced that a rapid response team that tested employees on April 16 at a Grand Forks manufacturing plant confirmed an additional 88 COVID-19 cases. The outbreak was contained and all employees were directed to self-quarantine for 14 days. ,,,,,,,,,,,Y
+22-Apr-20, The Governor outlined a plan to significantly increase testing capacity for COVID-19.,,,,Y,,,,,,,
+23-Apr-20, The Governor announced that the CARES Act funding will help cover unemployment insurance costs that arent otherwise reimbursed by the federal government. ,,,,,,,,,,,Y
+27-Apr-20," The Governor announced they will lift restrictions that were placed on businesses, while implementing new guidelines and standard operating procedures for businesses as they resume or continue operations. ",,,,,,,,,,,Y
+28-Apr-20, The Governor released North Dakota Smart Restart protocols for businesses resuming or continuing operations during the COVID-19 pandemic. ,,,,,,,,,,,Y
+29-Apr-20, The Governor issued an amended executive order providing additional guidance for businesses that are resuming or continuing operations under the North Dakota Smart Restart protocols. ,,,,,,,,,,,Y
+1-May-20," The Governor issued an executive order directing schools to provide education via distance learning which will remain in effect through the end of the current school year to help slow the spread and protect students, staff, and communities. ",,,,,Y,,,,,,
+6-May-20, The Governor announced the Red River Valley COVID-19 Task Force to address an increasing concentration of COVID-19 cases in Cass county.,,,,,,,,,,,Y
+8-May-20," The Governor announced the state will begin operating the Battelle Critical Care Decontamination System for PPE that allows the state to provide shipping and N95 decontamination at no charge to health care organizations, EMS agencies, public health, public safety agencies, funeral homes, dental offices, and optometry and chiropractic clinics, among others.",,,,,,Y,,,,,
+11-May-20," The Governor announced North Dakota schools will be allowed to host several activities, including summer school and college admissions testing, beginning June 1.",,Y,,,,,,,,,
+15-May-20," The Governor announced guidelines for large gatherings, banquets, ballrooms and event venues as part of the ND Smart Restart Plan.",,,,,,,,,,,Y
+19-May-20, The Governor announced an emergency rule change to allow residents of basic care facilities to keep the Economic Impact Payments provided as part of the CARES Act.,,,,,,,,,,,Y
+20-May-20, The Governor announced the state will launch a smartphone application using exposure notification technology developed by Apple and Google available to public health agencies to assist with COVID-19 contact tracing.,,,,,,Y,,,,,
+29-May-20," The Governor announced the state is moving to the next phase of its reopening plan. With the move from moderate to low risk level: The recommendation for capacity in bars and restaurants increases from 50 to 75 percent; The recommendation for banquets/weddings increases from 50 percent occupancy up to 250 attendees, to 75 percent occupancy up to 500 attendees; Recommended movie theater capacity increases from 20 percent to 65 percent; and, Fitness centers may consider holding classes with high inhalation/exhalation exchange with social distancing, whereas those classes were not recommended under the moderate risk level.",,Y,,,,,,,,,
+5-Jun-20," The Governor signed an executive orderthat modifies restrictions on visitation at long-term care facilities in North Dakota during the pandemic, allowing for a phased approach to resuming visitation as outlined in the states Vulnerable Population Protection Plan.",,Y,,,,,,,,,
