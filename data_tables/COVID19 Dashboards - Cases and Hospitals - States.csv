@@ -18,7 +18,7 @@ Iowa,https://coronavirus.iowa.gov/,No,Yes,Yes
 Kansas,https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData,Yes,Yes,Yes
 Kentucky,https://govstatus.egov.com/kycovid19,No,Yes,Yes
 Louisiana,http://ldh.la.gov/Coronavirus/,No,No,Yes
-Maine,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,No,Yes,No
+Maine,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,No,Yes,Yes
 Maryland,https://coronavirus.maryland.gov/,No,Yes,Yes
 Massachusetts (pdf download),https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-,No,Yes,Yes
 Michigan,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html",No,Yes,Yes
@@ -43,7 +43,7 @@ South Carolina,https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-di
 South Dakota,https://doh.sd.gov/news/coronavirus.aspx#SD,No,Yes,No
 Tennessee,https://www.tn.gov/health/cedep/ncov.html,No,Yes,Yes
 Texas,https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83,No,Yes,Yes
-Utah,https://coronavirus-dashboard.utah.gov/,No,Yes,No
+Utah,https://coronavirus-dashboard.utah.gov/,No,Yes,Yes
 Vermont,https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont,No,Yes,Yes
 Virginia,http://www.vdh.virginia.gov/coronavirus/,No,Yes,Yes
 Washington,https://www.doh.wa.gov/Emergencies/Coronavirus,No,Yes,Yes
