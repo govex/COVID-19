@@ -1,7 +1,5 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
-12-Mar-20,"Governor Carney issued a State of Emergency declaration to prepare for the spread of Coronavirus (COVID-19).The emergency declaration also: RequiresThe Delaware National Guard to take precautionary and responsive actions to assist with Delawares response to thecoronavirus; Advises event organizers in Delaware to cancel non-essential public gatherings of 100 people or more, to prevent community spread ofcoronavirus; Allows the State of Delaware to conduct public meetings electronically to prevent unnecessary publicgatherings; Prohibits price gouging, or an excessive price increase of goods or services, during the coronavirus outbreak.
-
-",Y,,,,,,,,,,
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+12-Mar-20,"Governor Carney issued a State of Emergency declaration to prepare for the spread of Coronavirus (COVID-19).The emergency declaration also: Requires The Delaware National Guard to take precautionary and responsive actions to assist with Delawares response to the coronavirus; Advises event organizers in Delaware to cancel non-essential public gatherings of 100 people or more, to prevent community spread ofcoronavirus; Allows the State of Delaware to conduct public meetings electronically to prevent unnecessary public gatherings; Prohibits price gouging, or an excessive price increase of goods or services, during the coronavirus outbreak.",Y,,,,,,,,,,
 13-Mar-20,The Governor directed a two-week closure of Delaware public schools,Y,,,,Y,,,,,,
 16-Mar-20,The Delaware Department of Education received a waiver from the federal government to allow school nutrition programs to provide meals to students during the closure.,Y,,,,,,,,,,
 14-Mar-20,The Governor authorized all executive branch agencies to conduct public meetings electronically to prevent unnecessary public gatherings until further notice.,Y,,,,,,,,,,
@@ -15,14 +13,7 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 20-Mar-20,"The Governor announced the state and Dogfish Head Craft Brewery are partnering to make more, much-needed hand sanitizer available to the state government.",,,,,,,,,,,Y
 21-Mar-20,"The Governor issued a third modification to his emergency declaration, ordering Delaware beaches closed. The public is prohibited from accessing the beach except to exercise or walk dogs where dogs are permitted.",Y,,,,,,,,,,
 22-Mar-20,"The Governor issued the fourth and fifth modifications to his emergency declaration, ordering Delawareans to stay at home whenever possible and closing all non-essential businesses in Delaware to help fight the spread of COVID-19.",Y,,,,,,Y,,,,
-23-Mar-20,"The Governor declared a Public Health Emergency andThe Delaware Emergency Management Agency (DEMA) andThe Delaware Division of Public Health (DPH) issued a companion order focused on the following:
-
-Nurses, doctors, mental health care providers, pharmacists and other health care professionals who have active licenses or certificates of good standing in any U.S. jurisdiction are authorized to provide in-person health care services in Delaware throughout the emergency, as well as telemedicine services; and
-
-
-Delaware health care professionals whose licenses expired in the last five years are authorized to provide health care services in Delaware, assuming their licenses were in good standing for the five-year period.
-
-",,,,,,,Y,,,,
+23-Mar-20,"The Governor declared a Public Health Emergency and The Delaware Emergency Management Agency (DEMA) andThe Delaware Division of Public Health (DPH) issued a companion order focused on the following: Nurses, doctors, mental health care providers, pharmacists and other health care professionals who have active licenses or certificates of good standing in any U.S. jurisdiction are authorized to provide in-person health care services in Delaware throughout the emergency, as well as telemedicine services; and Delaware health care professionals whose licenses expired in the last five years are authorized to provide health care services in Delaware,  assuming their licenses were in good standing for the five-year period.",,,,,,Y,Y,,,,Y
 23-Mar-20,"The Governor ordered all Delaware schools to remain closed through at least Friday, May 15, 2020.",Y,,,,,,,,,,
 24-Mar-20,"The Governor issued the sixth modification to his State of Emergency declaration, moving Delawares presidential primary to June 2, and suspending residential foreclosures and evictions.",,,,,,,Y,,,,
 25-Mar-20,The Governor announced a modified state of emergency requiring insurers not to cancel or fail to renew the insurance policies of those people and business facing economic impacts.,,,,,,,,,,,Y
@@ -60,7 +51,7 @@ Delaware health care professionals whose licenses expired in the last five years
 18-May-20,"The Governor announced a public strategy to plan for the safe reopening of Delaware school buildings. Three COVID-19 School Reopening Working Groups (Health and Wellness, Academics and Equity, and Operations and Services) will adviseThe Delaware Department of Education (DOE), Delaware school districts and charter schools on ways to safely and effectively reopen Delaware school buildings.",,Y,,,,,,,,,
 19-May-20,The Governor announced additional interim steps for retail and restaurant businesses to expand operations by appointment beginning tomorrow; restaurants can apply to expand outdoor seating effective June 1.,,Y,,,,,,,,,
 21-May-20," The Division of Public Health (DPH) announced it was awarded a $67 million Epidemiology Laboratory Capacity (ELC) grant from the Centers for Disease Control and Prevention to implement expanded testing capacity for COVID-19, and support the establishment of a modernized public health epidemiologic surveillance system.",,,,,,,,,,,Y
-22-May-20,"The Governor issued an modificationto his State of Emergency declaration, formalizing steps to allow restaurants to expand outdoor seating capacity.",,Y,,,,,,,,,
+22-May-20,"The Governor issued an modification to his State of Emergency declaration, formalizing steps to allow restaurants to expand outdoor seating capacity.",,Y,,,,,,,,,
 22-May-20,The Governor launched an public education campaign with beach towns as Delaware beaches reopen.,,,,,,,,,,,Y
 22-May-20,The Governor announced an proactive Community-based COVID-19 testing strategy working with partners state-wide.,,,,,,,,,,,Y
 26-May-20,The Governor announced the state will lift the ban on short-term rental units and the mandatory 14-day quarantine for out-of-state travelers on June 1.,,Y,,,,,,,,,
@@ -69,3 +60,4 @@ Delaware health care professionals whose licenses expired in the last five years
 2-Jun-20,"The Governor announced that Phase 2 of Delawares economic reopening will begin at 8:00 a.m. on Monday June 15. Retail establishments, restaurants and other businesses that were permitted to open at 30 percent of stated fire capacity in Phase 1 may expand to 60 percent of stated fire occupancy in Phase 2.",,Y,,,,,,,,,
 6-Jun-20,The Governor extended the State of Emergency declaration in place to limit the spread of COVID-19.,Y,,,,,,,,,,
 19-Jun-20,"The Governor issued the 22nd modification to his State of Emergency Order, permitting an expansion of youth sports activities and personal care services to 60 percent if safety guidelines.",,Y,,,,,,,,,
+25-Jun-20,The Governor announced a delay in moving to Phase 3 of Delaware’s economic reopening.,Y,,,,,,,,,,
