@@ -1,4 +1,4 @@
-﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 1-Mar-20,"Rhode Island established an Incident Command System response to organize state agency preparedness and response activities. It includes staff from numerous state agencies, including emergency management, behavioral health, education, human services, environmental management, and others.",,,,,,,,,,,Y
 1-Mar-20,"The Rhode Island Department of Health is coordinating with other state agencies and community organizations to support anyone doing self-quarantining to ensure that people who are remaining at home have the support services they need. This includes support with everyday needs, such as prescriptions and groceries.",,,,,,,,,,,Y
 11-Mar-20,Governor Raimondo issued guidance for large events in Rhode Island to help contain the spread of COVID-19.,,,,,,,,,,,Y
@@ -9,24 +9,47 @@
 18-Mar-20, The Governor signed an executive order that directs health insurers to cover telemedicine visits.,,,,,,Y,,,,,
 18-Mar-20, The Public Utilities Commission issued an emergency declaration that places a moratorium on public utilities terminating services.,,,,,,,,,,,Y
 18-Mar-20, The Department of Health announced that out-of-state health care providers can obtain a temporary 90-day license to practice in the state.,,,,,,Y,,,,,
-19-Mar-20, The Governor made several important announcements about the states evolving response strategy: State courts will not process any residential or commercial evictions for the next 30 days. Rhode Islanders who suspect price gouging or COVID-19 scams should report them to the Attorney Generals office. The state created an online form so organizations can donate laboratory supplies and personal protective equipment to fill gaps in due to increased testing demand.,,,,,,,,,,,Y
+19-Mar-20," The Governor made several important announcements about the states evolving response strategy:
+State courts will not process any residential or commercial evictions for the next 30 days.
+Rhode Islanders who suspect price gouging or COVID-19 scams should report them to the Attorney Generals office.
+The state created an online form so organizations can donate laboratory supplies and personal protective equipment to fill gaps in due to increased testing demand.",,,,,,Y,,,,,Y
 20-Mar-20," The Governor activated the Rhode Island National Guard, allowing 1,000 Guardsmen and Guardswomen to train civilian medical personnel, staff call centers, and distribute food and necessities to the most vulnerable.",,,,,,,,,,,Y
 20-Mar-20," The Governor extended the 2019 tax filing and payment deadlines to July 15, consistent with changes made in federal law.",,,,,,,,,,,Y
 24-Mar-20, The Governor announced several initiatives designed to assist frontline workers who may need child care services.,,,,,,,,,,,Y
-25-Mar-20," The Governor announced new guidelines for retailers and grocers, which must, among other things: Allow no more than 20 percent of state fire capacity in the store at a time; Designate employees to monitor social distancing and assist customers; Offer exclusive hours for those in high-risk populations; and Assign employee(s) to ensure the CDC cleaning guidelines are followed.",Y,,,,,,,,,,Y
+25-Mar-20," The Governor announced new guidelines for retailers and grocers, which must, among other things:
+Allow no more than 20 percent of state fire capacity in the store at a time;
+Designate employees to monitor social distancing and assist customers;
+Offer exclusive hours for those in high-risk populations; and
+Assign employee(s) to ensure the CDC cleaning guidelines are followed.",Y,,,,,,,,,Y,Y
 25-Mar-20," The Centers for Medicare & Medicaid Services (CMS) approved Rhode Islands request for a Section 1135 Medicaid waiver. The approved waiver enables Rhode Island to provide flexibilities in Medicaid provider screening and enrollment, forgo certain pre-admission screening and annual resident review assessments, lift prior authorization requirements, and extend fair hearingand appeals timelines.",,,,,,Y,,,,,
 26-Mar-20, The Governor signed an Executive Order mandating that anyone who has traveled to New York by any form of transportation must self-quarantine for 14 days upon arrival in Rhode Island. The order applies to anyone who has been in New York in the past 14 days and going forward.,Y,,,,,,,,,,
 26-Mar-20," The Governor announced that small business owners can now receive 45 minutes of free tech support via teleconference or over the phone, which is being coordinated by Rhode Island Commerce and staffed by volunteers from tech companies.",,,,,,,,,,,Y
 27-Mar-20, The Governor extended several regulations and announced several changes to the states SNAP program to provide maximum relief as provided by the CARES Act.,,,,,,,,,,,Y
-28-Mar-20," The Governor announced several state actions, including: Issuing a stay-at-home order until April 13; Ordering anyone coming to Rhode Island by any mode of transportation after visiting another state for a non-work-related purpose to self-quarantine for 14 days; Limiting gatherings to groups no more than 5; and Closing all non-critical retail businesses.",Y,,,,,,,,,,
-29-Mar-20, The Governor announced several state actions including: Directing all out-of-state drivers to pull over at information stations; Suspending all childcare licenses until April 4; Suspending all Medicaid terminations at quarterly income verifications; and Allowing a 90-day extension on DMV expirations for March or April.,,,,,,,,,,,Y
+28-Mar-20," The Governor announced several state actions, including:
+Issuing a stay-at-home order until April 13;
+Ordering anyone coming to Rhode Island by any mode of transportation after visiting another state for a non-work-related purpose to self-quarantine for 14 days;
+Limiting gatherings to groups no more than 5; and,
+Closing all non-critical retail businesses.",Y,,,,,,,,,,
+29-Mar-20," The Governor announced several state actions including:
+Directing all out-of-state drivers to pull over at information stations, staffed by the National Guard in partnership with the Department of Health;
+Suspending all childcare licenses until April 4;
+Suspending all Medicaid terminations at quarterly income verifications; and,
+Allowing a 90-day extension on DMV expirations for March or April.
+",,,,,,,,,,,Y
 30-Mar-20, The Governor delayed the states presidential primary to June 2 and will send all registered Rhode Islanders a mail ballot application in the coming weeks.,,,,,,,,,,,Y
 30-Mar-20," The Governor mandated all child care providers (centers and families) to close, while the state reevaluates child care license suspensions on a week to week basis.",Y,,,,,,,,,,
-30-Mar-20," The Governor announced several education initiatives: Rhode Island schools will continue distance learning through the month of April; All households that have a smart phone with a WiFi hotspot feature and have cell phone service from one of the four most common providers in the state (Verizon, AT&T, T-Mobile, and Sprint) will be able to activate the hot spot feature free of charge; All Rhode Island students are challenged to read every single day during the month of April all thirty days; and A special press conference will be held this week specifically for kids to have their voices heard and questions answered.",Y,,,,Y,,,,,,Y
+30-Mar-20," The Governor announced several education initiatives:
+Rhode Island schools will continue distance learning through the month of April;
+All households that have a smart phone with a WiFi hotspot feature and have cell phone service from one of the four most common providers in the state (Verizon, AT&T, T-Mobile, and Sprint) will be able to activate the hot spot feature free of charge;
+All Rhode Island students are challenged to read every single day during the month of April  all thirty days; and,
+A special press conference will be held this week specifically for kids to have their voices heard and questions answered.",Y,,,,Y,,,,,,Y
 31-Mar-20," The Superior Court established the Business Recovery Plan, whereby courts will use a non-liquidating receivership model to supervise and provide protections for Rhode Island businesses so they can remain operational, access new working capital, and pay debts.",,,,,,,,,,,Y
 31-Mar-20," The Department of Environmental Management announced the temporary closure of Rhode Island state parks and beaches, along with their parking areas, beginning April 3 and until further notice.",Y,,,,,,,,,,
 31-Mar-20," The Governor announced three fully operational drive-through testing sites that allows the states to expand testing to additional populations: people who are older than 65, people with underlying medical conditions, and critical infrastructure workers  all of which still must be symptomatic and be referred by a medical provider.",,,,Y,,,,,,,
-1-Apr-20," The Governor announced several state initiatives to provide relief for individuals and families, including: RI Delivers a connection to help those living in quarantine or isolation so they have the supportive services they need to safely remain at home and monitor their symptoms; Bridge Loan Program a partnership with the Local Initiative Support Corporation and the Rhode Island Hospitality Association providing additional funding to restaurants and small businesses (up to 10 employees); and Family Court parents who have join custody of their children and feels a modification to visitation is warranted, they may go to Family Court if a resolution between the parents cant be reached.",,,,,,,,,,,Y
+1-Apr-20," The Governor announced several state initiatives to provide relief for individuals and families, including:
+RI Delivers  a connection to help those living in quarantine or isolation so they have the supportive services they need to safely remain at home and monitor their symptoms;
+Bridge Loan Program  a partnership with the Local Initiative Support Corporation and the Rhode Island Hospitality Association providing additional funding to restaurants and small businesses (up to 10 employees); and,
+Family Court  parents who have join custody of their children and feels a modification to visitation is warranted, they may go to Family Court if a resolution between the parents cant be reached.",,,,,,,,,,,Y
 2-Apr-20," The Governor expanded testing criteria to include all Rhode Islanders who have symptoms, while underscoring the critical need for people who are experiencing symptoms to practice social distancing and voluntarily self-isolate.",,,,Y,,,,,,,
 3-Apr-20," The Department of Environmental Management reminded Rhode Islanders that state parks, beaches and campgrounds are closed until at least May 1st. ",,,,,,,,,,,Y
 3-Apr-20," A partnership among Rhode Island Commerce, Local Initiative Support Corporation (LISC), the Rhode Island Hospitality Association and Bank Newport is providing loans to restaurants or business with 1 to 10 employees need immediate cash while they await an SBA Emergency Injury Disaster Loan advance. ",,,,,,,,,,,Y
@@ -108,6 +131,3 @@
 12-Jun-20, The Governor announced asymptomatic restaurant workers and bus drivers can now receive free testing.,,,,Y,,,,,,,
 12-Jun-20," The Governor announced that the state is allocating $500,000 in financial incentives to landlords that rent to housing-insecure or homeless Rhode Islanders.",,,,,,,,,,,Y
 12-Jun-20, The Governor launched a website dedicated to tracking coronavirus spending.,,,,,,,,,,,Y
-26-Jun-20," The Rhode Island Department of Labor and Training announced new maximum weekly benefit amounts for unemployment and temporary disability insurance programs, beginning July 1.",,,,,,,,,,,Y
-29-Jun-20, The Governor announced the state will move into Phase 3 on June 30.,,Y,,,,,,,,,
-29-Jun-20," The Governor extended the following executive orders through August 3: Face coverings: Face coverings must be worn in public – both indoors and outdoors – whenever six feet of social distance cannot be maintained; Telemedicine: Health insurers must cover telemedicine for primary care, specialty care, and mental and behavioral health care conducted over the phone or by videoconference. Reimbursement rates for providers must be the same as reimbursement rates for in-office visits; Disaster declaration: The state of emergency declaration ensures that Rhode Island has access to all the necessary resources to support the response to the pandemic; Firearms: The Governor extended the time period that law enforcement has to complete a background check for a gun permit from seven days to 30 days; Quarantine: People must follow the state’s quarantine and isolation guidance.",,,,,,,,,,Y,Y
