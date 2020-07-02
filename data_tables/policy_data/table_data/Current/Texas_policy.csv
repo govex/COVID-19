@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 6-Mar-20,"Governor Abbott issued a statement regarding price-gouging of medical supplies, pointing out that should there be extensive reports of price-gouging,The Governor can grant the Texas Attorney General broader powers to prosecute those cases.",,,,,,,,,,,Y
 11-Mar-20,"Governor Abbott and the Texas Department of Insurance requested insurersand HMOs to waive copayments, co-insurance, and deductibles for testing and telemedicine visits for the diagnosis of coronavirus, that is consistent with CDC guidance.",,,,,,Y,,,,,Y
 11-Mar-20,Governor Abbott and the Texas Department of State Health Service surged  Texans to take preventative measures,,,,,,,,,,,Y
@@ -16,11 +16,7 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 18-Mar-20,"The Texas Education Agency (TEA) announced a collaboration with Local Education Agencies (LEA) on the Texas Students MealFinder Map launching March 20. The map, available on the TEA website, will allow parents to locate LEA facilities serving meals to the community.",,,,,,,,,,,Y
 18-Mar-20,"The Governor issued a waiver allowing restaurants to deliver alcoholic beverages with food purchases to patrons. He also directed the Texas Alcoholic Beverage Commission to waive certain provisions to allow manufacturers, wholesalers, and retailers of alcoholic beverages to repurchase or sell back unopened product.",,,,,,,,,,,Y
 18-Mar-20,The Governor announced immediate closure of all driver license offices across the state.,Y,,,,,,,,,,
-19-Mar-20,"The Governor issued a series of Executive Orders to accomplish the following:
-Order No. 1: Prohibiting public gatherings of 10 or more people.
-Order No. 2: Discouraging dine-in at restaurants and bars, or visitation of gyms and massage parlors.
-Order No. 3: Prohibiting visitation to nursing homes, retirement homes, or long-term care facilities.
-Order No. 4: Closing schools.",Y,,,,Y,,,,,,
+19-Mar-20,"The Governor issued a series of Executive Orders to accomplish the following: Order No. 1: Prohibiting public gatherings of 10 or more people; Order No. 2: Discouraging dine-in at restaurants and bars, or visitation of gyms and massage parlors; Order No. 3: Prohibiting visitation to nursing homes, retirement homes, or long-term care facilities; Order No. 4: Closing schools.",Y,,,,,,,,,,
 19-Mar-20,The Commissioner of the Texas Department of State Health Services declared a state of public health disaster for the state of Texas.,,,,,,Y,,,,,Y
 20-Mar-20,The Governor directed the Texas Department of Criminal Justice to temporarily suspend inmate fees for health care services related to COVID-19.,,,,,,Y,,,,,Y
 20-Mar-20,"The Texas Supreme Court issued an emergency order suspending residential eviction proceedings through April 19, 2020.",,,,,,,,,,,Y
@@ -28,10 +24,7 @@ Order No. 4: Closing schools.",Y,,,,Y,,,,,,
 20-Mar-20,The Governor announced the temporary suspension of certain provisions of the Texas Alcoholic Beverage Code to allow for refunds of application fees to businesses who applied for temporary event permits for events that were later cancelled.,,,,,,,,,,,Y
 20-Mar-20,The Governor temporarily waived regulations to allow pharmacists to conduct telephonic consultations and removed regulations to enable pharmacies to operate at full strength.,,,,,,Y,,,,,
 20-Mar-20,"The Governor issued a proclamation, postponing the runoff primary election until July 14, 2020.",,,,,,,,,,,Y
-21-Mar-20,"The Governor waived regulations to expand the Texas nursing workforce by:
-Allowing temporary permit extensions to practice for graduate nurses and vocational nurses that havent yet taken the licensing exam;
-Allowing students in their final year of nursing school to meet clinical objectives by exceeding the 50% limit on stimulated experiences; and
-Allowing nurses with inactive licenses or retired nurses to reactivate their licenses.",,,,,,Y,,,,,
+21-Mar-20,The Governor waived regulations to expand the Texas nursing workforce by: Allowing temporary permit extensions to practice for graduate nurses and vocational nurses that havent yet taken the licensing exam; Allowing students in their final year of nursing school to meet clinical objectives by exceeding the 50% limit on stimulated experiences; and Allowing nurses with inactive licenses or retired nurses to reactivate their licenses.,,,,,,,,,,,Y
 22-Mar-20,The Governor signed an Executive Order postponing non-immediate surgeries and procedures to expand hospital bed capacity.,Y,,,,,,,,,,
 22-Mar-20,"The Governor announced the creation of Supply Chain Strike Force, responsible for collaboration between public and private sectors to supply health care facilities with necessary supplies and resources.",,,,,,Y,,,,,Y
 23-Mar-20,The Governor announced that Texas received $36.9 million from the CDC as part of the initial allotment from the first emergency coronavirus bill passed by Congress. The Texas Department of State Health Services will distribute $19.5 million to 43 local health departments.,,,,,,Y,,,,,Y
@@ -141,8 +134,14 @@ Allowing nurses with inactive licenses or retired nurses to reactivate their lic
 10-Jun-20,"The Governor partnered with baseball Hall-Of-Famer, Nolan Ryan, to release a PSA titled Dont Be A Knucklehead, encouraging Texans to follow effective health and safety protocols.",,,,,,,,,,,Y
 11-Jun-20,The Governor renewed the states disaster declaration for COVID-19.,,,,,,,,,,,Y
 15-Jun-20,"The Governor partnered with Jaylon Smith of the Dallas Cowboys to release a new PSA entitled Wear A Mask On And Off The Field, urging Texans to wear masks and follow other health safety guidelines.",,,,,,,,,,,Y
-16-Jun-20,"The Governor and the Executive Vice Chancellor for Health Affairs of the University of Texas provided an update on Texas� hospital capacity, stating that despite an uptick in cases, there continues to be abundant hospital capacity.The Governor also urged Texans to continue to look out for their own health and that of those around them.",,,,,,Y,,,,,Y
+16-Jun-20,"The Governor and the Executive Vice Chancellor for Health Affairs of the University of Texas provided an update on Texas’ hospital capacity, stating that despite an uptick in cases, there continues to be abundant hospital capacity.The Governor also urged Texans to continue to look out for their own health and that of those around them.",,,,,,Y,,,,,Y
 23-Jun-20,The Governor expanded the authority of mayors and county judges to impose restrictions on outdoor gatherings of over 100 people.,,,Y,,,,,,,,
 23-Jun-20,The Governor directed the Health and Human Services Commission to enact emergency rules to provide strict health and safety standards and procedures for child care centers.,,,,,,Y,,,,,Y
 24-Jun-20,The Governor and the UT Southwestern Medical Center released a new Spanish-language public service announcement on how Texans can protect themselves from COVID-19.,,,,,,,,,,,Y
 24-Jun-20,"The Governor announced that the Texas Division of Emergency Management, in partnership with the Texas Military Department, will begin distributing 3-ply surgical masks to every Texan who undergoes COVID-19 testing at state-run mobile test collection sites.",,,,,,Y,,,,,
+25-Jun-20,"The Governor issued an Executive Order to ensure hospital bed availability for COVID-19 patients. The Order suspends elective surgeries at hospitals in Bexar, Dallas, Harris, and Travis counties.",Y,,,,,,,,,,
+25-Jun-20,The Governor announced that Texas will pause any further phases of reopening. Businesses permitted to open under previous phases may continue to operate at designated occupancy levels and minimum standard health protocols.,Y,,,,,,,,,,
+26-Jun-20," The Governor issued an Executive Order limiting certain businesses and services, including: Closing bars and similar establishments that receive more than 51% of their gross receipts from the sale of alcoholic beverages; Limiting capacity for dine-in service at restaurants; Closing rafting and tubing businesses; and Requiring outdoor gatherings of more than 100 people to be approved by local governments.",Y,,,,,,,,,,
+26-Jun-20,The Governor announced that the federal government granted his request to extend operations of Community Based Testing Sites across Texas.,,,,,,,,,,,Y
+29-Jun-20," The Governor announced that the Texas Health and Human Services Commission is extending the application deadline for the federal Pandemic-Electronic Benefit Transfer program, to July 31.",,,,,,,,,,,Y
+29-Jun-20," The Governor and University of Texas Head Football Coach Tom Herman released a PSA titled “The Power of Teamwork”, urging Texans to work together to mitigate the spread of COVID-19.",,,,,,,,,,,Y
