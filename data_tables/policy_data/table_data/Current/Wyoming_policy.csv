@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 9-Mar-20,"Governor Gordon addressed the Wyoming legislature regarding members who attended CPAC, advising members to monitor their  health and followrecommendations of health care professionals.",,,,,,,,,,,Y
 13-Mar-20,Governor Gordon declared a state of emergency in Wyoming.,,,,,,,Y,,,,
 15-Mar-20,The Governor recommended that all schools remain closed until April 3. The recommendation must go to ocal superintendents and school boards who have final authority on the issue.,,,Y,,,,,,,,
@@ -33,3 +33,5 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 4-Jun-20,"The Governor instructed state agencies to immediately take action to further reduce spending and prepare for deeper cuts; the reduction plan requires agencies to prepare for more drastic scenarios, in addition to a current state hiring freeze and limitation on large contracts.",,,,,,,,,Y,,
 10-Jun-20,"The Governor released updated public health orders to take effect on June 15. The orders will continue to ease restrictions on public gatherings; allow indoor gatherings of up to 250 people; and allow K-12 schools, community colleges, the University, and other educational institutions to reopen facilities and resume in-person instruction for all students.",,Y,,,,,,,,,
 17-Jun-20,"The Wyoming Department of Health issued updated guidance to allow long-term care facilities to permit in-person visitation outdoors under specific guidance, including designated spacing, limiting visitors to two people, and requiring screening of visitors for symptoms of respiratory illness.",,Y,,,,,,,,,
+1-Jul-20,"The Governor announced Care19 Diary, a free mobile application designed to help with the COVID-19 contact tracing.",,,,,,,,,,,Y
+1-Jul-20,The Wyoming Superintendent announced the release of a “Smart Start” guidance document for school districts as they prepare for the fall semester of the 2020-2021 school year.,,,,,,,,,,,Y
