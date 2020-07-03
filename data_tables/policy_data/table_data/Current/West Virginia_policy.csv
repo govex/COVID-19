@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 4-Mar-20,"Governor Justice held a meeting to discuss coordination of precautionary measures and preparations for COVID-19. Following the meeting, Governor Justice announced that he had issued a State Preparedness Plan for West Virginia.",,,,,,,,,,,Y
 4-Mar-20,Governor Justiceissued a State of Preparedness Proclamation.,,,,,,,,,,,Y
 9-Mar-20,The West Virginia Department of Health and Human Services announcedthe creation of a hotline to answer questions of the public and medical providers concerning COVID-19.,,,,,,Y,,,,,Y
@@ -69,7 +69,7 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 19-May-20,"The Governor signed an executive order, allowing Week 4 businesses to begin reopening on May 21.",,Y,,,,,,,,,
 19-May-20,The Governor issued additional guidance documents for businesses and entities that are part of Week 5 reopening under the states Comeback plan.,,,,,,,,,,,Y
 20-May-20,The Governor announced that West Virginia State Parks will offer historic discounts on lodging for West Virginia residents between June 1 and Aug 31.,,,,,,,,,,,Y
-20-May-20,"The Governor announced continued efforts to test susceptible populations across West Virginia, providing free, optional testing to all residents in several counties experiencing higher rates of COVID-19.",,,,,,,,,,,
+20-May-20,"The Governor announced continued efforts to test susceptible populations across West Virginia, providing free, optional testing to all residents in several counties experiencing higher rates of COVID-19.",,,,,,,,,,,Y
 21-May-20,"The Governor announced that swimming pools, bowling alleys, pool halls, roller rinks, and other indoor amusement locations will be permitted to reopen on May 30, under additional guidelines.The Governor also added movie theaters to the list of establishments reopening under Week 6 of the states comeback plan.",,Y,,,,,,,,,
 22-May-20,The Governor provided an update on the increased monitoring efforts in two Eastern Panhandle counties that triggered the states Heightened Alert System.,,,,,,,,,,,Y
 22-May-20,"The Governor signed an executive order to formally allow businesses scheduled to reopen on May 26 to resume operations on that date. Businesses permitted to reopen, with restrictions, include:State Park cabins and lodges to in-state residents;Indoor bars at 50% capacity and outdoor bars;Museums and visitor centers; andZoos.",,Y,,,,,,,,,
@@ -95,4 +95,7 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 15-Jun-20,The Governor announced that $6.3 million in CARES Act grant funding has been distributed across the state.,,,,,,,,,,,Y
 15-Jun-20,The Governor announced the beginning of Week 8 of the states Comeback plan.,,,,,,,,,,,Y
 19-Jun-20,The Governor signed an executive order formally allowing scheduled Week 9 reopenings to begin on June 22. Approved reopenings include: Youth sports games with spectators; Outdoor sporting events with spectators; Outdoor equestrian events with spectators; and Summer Youth Camps.,,Y,,,,,,,,,
-24-Jun-20,"The Governor announced that the DHHR�s Bureau for Children and Families will issue a one-time payment to foster care families, child placing agencies, and residential and emergency shelters to support costs related to the COVID-19.",,,,,,,,,,,Y
+24-Jun-20,"The Governor announced that the DHHR’s Bureau for Children and Families will issue a one-time payment to foster care families, child placing agencies, and residential and emergency shelters to support costs related to the COVID-19.",,,,,,,,,,,Y
+26-Jun-20," The Governor announced a proposed distribution of $1.25 billion in federal CARES Act funding to local governments, small businesses, Fairmont hospital, and other COVID-19 public projects.",,,,,,,,,,,Y
+30-Jun-20," The Governor issued an executive order suspending the regulatory statute requiring that racetrack table game licensees pay the West Virginia Lottery Commission as part of their application for renewal by July 1, 2020, extending the due date until October 1, 2020.",,,,,,,,,,,Y
+1-Jul-20," The Governor issued an executive order formally permitting the reopening of fairs, festivals, amusement parks, rides, and outdoor open-air concerts.",,Y,,,,,,,,,
