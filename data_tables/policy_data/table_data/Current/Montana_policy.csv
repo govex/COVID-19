@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 3-Mar-20,Governor Bullock activated the Governors Coronavirus Task Force to coordinate efforts across state government responding to COVID-19.,,,,,,,,,,,Y
 12-Mar-20,"Governor Bullock declared a state of emergency, which gives him the authority to use $16 million dollars in state fundsand additional personnel from the National Guardto respond to COVID-19.",,,,,,,Y,,,,
 15-Mar-20,"The Governor issued guidance closing all public elementary and secondary education schools, limiting mass gatherings of more than 50 people and suspending visitors from all nursing homes. Additionally, the guidance increases the legal weight limit for commercial vehicles by 10%, in an effort to provide more supplies and resources for the state, as well as mobilizing the National Guard to respond when necessary.",Y,,,,Y,,,,,,Y
@@ -44,4 +44,5 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 22-May-20,The Governor announced Montanas unemployment rate was at 11.3% in April due to impacts created by the pandemic.,,,,,,,,,,,Y
 17-Jun-20,"The Governor announced the creation of the Montana Loan Deferment Program, which will allow businesses and other entities to defer payments on existing loans for six to twelve months and free up a significant amount of otherwise dedicated capital for the borrower to leverage on a monthly basis.",,,,,,,,,,,Y
 17-Jun-20,"The Governor announced $108,550 in grants to six organizations to continue operating emergency food services in response to the pandemic.",,,,,,,,,,,Y
-18-Jun-20,"The Governor visited the Confederated Salish and Kootenai Tribes, whose community testing event marks the completion of the first round of COVID-19 community testing in Montana�s tribal communities.",,,,Y,,,,,,,Y
+18-Jun-20,"The Governor visited the Confederated Salish and Kootenai Tribes, whose community testing event marks the completion of the first round of COVID-19 community testing in Montana’s tribal communities.",,,,Y,,,,,,,Y
+26-Jun-20, The Governor announced that over $1 million in grant funding has been awarded from the Montana Agriculture Adaptability Program which is designed to provide relief to small and medium-sized food and agriculture businesses.,,,,,,,,,,,Y

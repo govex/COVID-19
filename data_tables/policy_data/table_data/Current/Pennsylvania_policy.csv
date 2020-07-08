@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 5-Mar-20,"State officials have updated their travel guidance for residents. Anyone who has arrived from China or Iran, and anyone who has returned from Italy or South Korea, within the last 14 days, are required to contact the public health department and practice social distancing for 14 days post travel.",Y,,,,,,,,,,
 5-Mar-20,The state updated their interim guidance for healthcare professionals responding to potential coronavirus cases.,,,,,,,,,,,Y
 7-Mar-20,"Governor Wolf iscoordinating with legislative leaderson a package that would aim to allocate resources towards supporting county and municipal health departments, secure equipment and personnel, disseminate public health messaging, and support care for the senior population and those most at risk for infection.",,,,,,Y,,,,,Y
@@ -7,20 +7,9 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 12-Mar-20,Governor Wolf provided guidance for Montgomery County and the state of Pennsylvania on reducing the spread of the virus.,,,,,,,,,,,Y
 13-Mar-20,Governor Wolf announces closure of Pennsylvania schools.,Y,,,,Y,,,,,,
 15-Mar-20,"The Governor issued an order to close all dine-in facilities starting on March 16 in Allegheny, Bucks, Chester, Delaware, and Montgomery counties for the next 14 days.",Y,,,,,,,,,,
-16-Mar-20,"The Governor issued statewide mitigation efforts beginning on March 17 which include the following:
-Closing of all restaurants and dine-in services
-A no-visitor policy for correctional facilities and nursing homes
-Restrictions around non-essential travel
-Closure of licensed childcare centers
-Closure of adult day care centers, adult training facilities, Provocations facilities, LIFE centers and Senior Community Centers
-Visitor restrictions for state centers to ensure health and safety for individuals with an intellectual disability
-Visitor restrictions for assisted living and personal care homes to minimize exposure to our seniors and individuals with disabilities
-Telework or a 10 workday paid absence for individuals who do not have telework capability.",Y,,,,,,,,,,Y
+16-Mar-20,"The Governor issued statewide mitigation efforts beginning on March 17 which include the following: Closing of all restaurants and dine-in services, A no-visitor policy for correctional facilities and nursing homes, Restrictions around non-essential travel, Closure of licensed childcare centers, Closure of adult day care centers, adult training facilities, Provocations facilities, LIFE centers and Senior Community Centers, Visitor restrictions for state centers to ensure health and safety for individuals with an intellectual disability, Visitor restrictions for assisted living and personal care homes to minimize exposure to our seniors and individuals with disabilities, Telework or a 10 workday paid absence for individuals who do not have telework capability.",Y,,,,,,,,,,
 16-Mar-20,The Governor issued guidance for non-essential businesses across the state to close for at least 14 days to help mitigate the spread of COVID-19.,Y,,,,,,,,,,
-18-Mar-20," The Governors of Connecticut, New York and New Jersey announced that the Governor of Pennsylvania is joining their coalition to implement a regional approach to combatting COVID-19. The Governors expanded their previous orders to include:
-Limiting crowd capacity for social and recreational gatherings to 50 people;
-Closing restaurants and bars for on premise service and move to take-out and delivery services only; and
-Temporary closing of movie theaters, gyms, and casinos.",Y,,,,,,,,,,Y
+18-Mar-20,"The Governors of Connecticut, New York and New Jersey announced that the Governor of Pennsylvania is joining their coalition to implement a regional approach to combatting COVID-19. The Governors expanded their previous orders to include: Limiting crowd capacity for social and recreational gatherings to 50 people; Closing restaurants and bars for on premise service and move to take-out and delivery services only; and Temporary closing of movie theaters, gyms, and casinos.",Y,,,,,,,,,,
 19-Mar-20, The Governor signed an executive order suspending all non-life-sustaining business.,Y,,,,,,,,,,
 19-Mar-20, The Governor announced the availability of low-interest loans for small businesses and eligible non-profits in all 67 counties in the state through the U.S. Small Business Administration.,,,,,,,,,,,Y
 23-Mar-20, The Governor issued targeted Stay at Home orders to seven highest-burden counties that will be in effect until April 6.,Y,,,,,,,,,,
@@ -30,10 +19,7 @@ Temporary closing of movie theaters, gyms, and casinos.",Y,,,,,,,,,,Y
 25-Mar-20," The Governor expanded the Stay at Home order to Lehigh and Northampton counties, bringing the total number of counties under a stay at home directive in Pennsylvania to 10.",Y,,,,,,,,,,
 26-Mar-20," The Governor announced a web portal to source needed supplies for medical providers, emergency responders, and health care professionals.",,,,,,Y,,,,,
 26-Mar-20," The Governor announced $50 million in transferred state funding will be spent to purchase medical equipment and supplies for hospitals, nursing homes, and emergency workers.",,,,,,,,,,,Y
-26-Mar-20," The Governor submitted a letter to the U.S. Department of Agriculture requesting the USDA:
-Waive eligibility requirements for the Emergency Food Assistance Program;
-Reconsider Pennsylvanias request for temporary waivers to allow more food to be distributed at school feeding sites and food banks; and
-Reconsider its interpretation of recent changes to the Supplemental Nutrition Assistance Program to allow for additional flexibility.",,,,,,,,,,,Y
+26-Mar-20,The Governor submitted a letter to the U.S. Department of Agriculture requesting the USDA: Waive eligibility requirements for the Emergency Food Assistance Program; Reconsider Pennsylvanias request for temporary waivers to allow more food to be distributed at school feeding sites and food banks; and Reconsider its interpretation of recent changes to the Supplemental Nutrition Assistance Program to allow for additional flexibility.,,,,,,,,,,,Y
 27-Mar-20," The Centers for Medicare & Medicaid Services (CMS) approved Pennsylvanias request for a Section 1135 Medicaid waiver. The approved waiver enables Pennsylvania to provide flexibilities in Medicaid provider screening and enrollment, forgo certain pre-admission screening and annual resident review assessments, lift prior authorization requirements, allow for reimbursement facility services in alternative settings, and extend fair hearing timelines",,,,,,Y,,,,,
 27-Mar-20," The Governor signed House Bill 1232, which provides $50 million to purchase medical equipment and supplies for hospitals, nursing facilities and emergency medical services.",,,,,,Y,,,,,
 27-Mar-20," The Governor signed Senate Bill 751, which waives the requirement for schools to be in session at least 180 days, provides for continuity of education plans, ensures school employees are paid during the closure, and provides the Secretary of Education with authority to waive student teacher and standardized assessments.",,,,,Y,,,,,,
@@ -130,11 +116,17 @@ Reconsider its interpretation of recent changes to the Supplemental Nutrition As
 15-Jun-20," The Governor announced nine additional COVID-19 drive-thru testing sites will open in Walmart parking lots across the state, beginning on June 17, bringing the total to 19 sites at Walmart locations.",,,,Y,,,,,,,
 15-Jun-20," The Governor announced that individuals with intellectual disabilities, autism and the providers of support services for these vulnerable populations will receive $260 million in CARES Act funding to help provide a continuity of services.",,,,,,,,,,,Y
 16-Jun-20,The Governor announced more than $10 million in funding through the federal HOME Investment Partnerships Program to support affordable housing projects across the commonwealth.,,,,,,,,,,,Y
-16-Jun-20,The Governor announced the availability of $40 million in funding through the federal CARES Act to support Pennsylvania�s dairy industry and food security programs.,,,,,,,,,,,Y
+16-Jun-20,The Governor announced the availability of $40 million in funding through the federal CARES Act to support Pennsylvania’s dairy industry and food security programs.,,,,,,,,,,,Y
 16-Jun-20,The Governor announced that the School Safety and Security Committee approved the opening of two funding announcements totaling $157.5 million that school entities are immediately eligible to apply for to address COVID-19-related health and safety needs for the 2020-2021 school year.,,,,,Y,Y,,,,,
-17-Jun-20,"The Governor announced the seven project awardees of $175,603 in new funding through the Manufacturing PA Innovation Program COVID-19 Challenge to address the commonwealth�s response to the COVID-19 pandemic.",,,,,,,,,,,Y
+17-Jun-20,"The Governor announced the seven project awardees of $175,603 in new funding through the Manufacturing PA Innovation Program COVID-19 Challenge to address the commonwealth’s response to the COVID-19 pandemic.",,,,,,,,,,,Y
 17-Jun-20,"The Governor announced that Pennsylvania is one of three states that has had a downward trajectory of COVID-19 cases for more than 42 days, according to the Centers for Disease Control and Prevention proprietary data for states. The other two states are Montana and Hawaii.",,,,,,,,,,,Y
 18-Jun-20,The Governor reminded Pennsylvanians that mask-wearing is required when entering any business in all counties in the state in both yellow and green phases of reopening.,,,,,,,,,,,Y
 18-Jun-20,The Governor and Secretary of Health signed amended green phase orders for the 8 counties moving to green on June 19.,,Y,,,,,,,,,
 19-Jun-20,The Governor announced that 12 additional counties will move to the green phase of reopening on June 26.,,Y,,,,,,,,,
 23-Jun-20,The Governor noted that research confirms the importance of wearing masks to stop the spread of COVID-19 and that Pennsylvanians are required to wear masks when entering any business in all counties in both yellow and green phases of reopening.,Y,,,,,,,,,,
+25-Jun-20, The Governor signed amended green phase orders for the 12 counties moving to green on June 26.,,,Y,,,,,,,,
+26-Jun-20, The Governor announced the availability of $20 million in grant funding for cultural organizations and museums to offset lost revenue.,,,,,,,,,,,Y
+26-Jun-20," The Governor announced that Lebanon County is slated to move to the green phase of reopening on July 3, putting all 67 counties in green.",,,Y,,,,,,,,
+26-Jun-20, The Governor reminded all Pennsylvania residents and businesses that masks are mandatory when visiting a business.,Y,,,,,,,,,,
+28-Jun-20," The Governor commended the Allegheny County Executive and Health Department for the additional mitigations the county is putting in place in response to significant COVID-19 case increases over the past few days, emphasizing that the situation in Allegheny County is a reminder for the entire state to follow mask-wearing and other mitigation requirements.",Y,,,,,,,,,,
+29-Jun-20," The Governor announced that small businesses across Pennsylvania can apply for grants, beginning June 30, to offset lost revenue caused by the COVID-19 pandemic and the resulting shutdown order.",,,,,,,,,,,Y

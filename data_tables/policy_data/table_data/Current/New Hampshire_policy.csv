@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 12-Mar-20,"Governor Sununu announced a new order, issued by the state's Insurance Commissioner, requiring health insurers to cover services associated with testing of COVID-19. It outlines a series of actions that health insurers must take, such as offering telehealth services and expanding access to prescription drug refills.",,,,,,Y,,,,,Y
 15-Mar-20,The Governor issued an emergency order closing all public schools in the state while also providing guidance to districts on remote learning plans.,Y,,,,Y,,,,,,
 16-Mar-20,The Governor limited scheduled public gatherings over 50 people and required that all bars and restaurants transition to offsite eating options.,Y,,,,,,,,,,
@@ -63,5 +63,6 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 5-Jun-20,The Governor issued Executive Order 2020-10 which is the fourth extension declaring a state of emergency.,,,,,,,Y,,,,
 10-Jun-20,The Governor commented on the states current case count and provided a thorough list of all state actions taken during the pandemic.,,,,,,,,,,,Y
 11-Jun-20,"The Governor released additional reopening guidelines for activities such as youth sports, entertainment centers, libraries, and museums. He additionally announced the expiration of the state's stay at home order.",,Y,,,,,,,,,
-17-Jun-20,"The Governor issued Emergency Order #53 which is an amendment to Emergency Order #36, Ensuring Worker�s Compensation Coverage for New Hampshire First Responders Exposed to COVID-19.",,,,,,,,,,,Y
+17-Jun-20,"The Governor issued Emergency Order #53 which is an amendment to Emergency Order #36, Ensuring Worker’s Compensation Coverage for New Hampshire First Responders Exposed to COVID-19.",,,,,,,,,,,Y
 18-Jun-20,"Using CARES Act funding, the Governor announced a Request for Proposals for the Connecting NH- Emergency Broadband Expansion Program, which is seeking proposals to provide high speed internet connectivity to as many unserved New Hampshire properties as possible at the least cost to the State.",,,,,,,,,,,Y
+26-Jun-20,"The Governor issued Executive Order 2020-14, along with Exhibit J to Emergency Order #29 which extends the state of emergency declaration and provides waivers for annual fees.",,,,,,,Y,,,,Y

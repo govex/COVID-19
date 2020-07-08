@@ -1,39 +1,18 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 4-Mar-20, Virginia's public health and safety experts established an Incident Management Team across state government to lead the Commonwealths planning and responsefor COVID-19.,,,,,,,,,,,Y
 11-Mar-20,Governor Northam issued a statement addressing plans to enable state employee teleworking. He also encouraged private businesses to explore telework and paid time-off options.,,,,,,,,,,,Y
 12-Mar-20,"Governor Northam declared a State of Emergency on 12 March to address COVID-19. Guidance included a ban on out-of-state travel, implementation of telework policies, cancelling specially scheduled state events for 30 days, and urging avoidance of large public gatherings.",Y,,,,,,Y,,,,
 13-Mar-20,The Governor ordered all K-12 schools in Virginia to close for a minimum of two weeks.,Y,,,,Y,,,,,,
 15-Mar-20,The Governor announced a temporary ban on all public events of more than 100 people.,Y,,,,,,,,,,
-16-Mar-20,The Governor joinedThe Governor of Maryland and the Mayor of the District of Columbia in calling on the President to add the National Capital Region to the list of priority locations for federal supported COVID-19 testing sites.,,,,,,,,,,,Y
-17-Mar-20,"The Governor announced additional steps to mitigate the spread of COVID-19, including:
-Recommending reduction of public gatherings of more than 10 people, in accordance with federal guidelines;
-Encouraging those with chronic health conditions and those aged 65 or older to self-quarantine;
-Mandating restaurants, fitness centers, and theaters reduce capacity to 10 people, or to close;
-And closing Virginia's 75 DMV offices to the public.",Y,,,,,,,,,,
-17-Mar-20,"The Governor moved to increase support to affected workers and employers by:
-Directing the Commissioner of the Virginia Employment Commission to waive the one-week waiting period to receive unemployment benefits;
-Enhancing unemployment eligibility to include those directed to self-quarantine by a medical or public health official;
-Granting affected workers special considerations on deadlines for mandatory re-employment appointments and work search requirements;
-Activating regional workforce teams to support employers who have slowed or ceased operations;
-Waiving financial penalties for employers who experience an increase in workers requesting unemployment benefits;
-Authorizing funding through the Workforce Innovation and Opportunity Act for employers to remain open; and
-Directing employers to follow U.S. Department of Labor guidance on workplace safety.",,,,,,,,,,,Y
+16-Mar-20,The Governor joined The Governor of Maryland and the Mayor of the District of Columbia in calling on the President to add the National Capital Region to the list of priority locations for federal supported COVID-19 testing sites.,,,,,,,,,,,Y
+17-Mar-20,"The Governor announced additional steps to mitigate the spread of COVID-19, including: Recommending reduction of public gatherings of more than 10 people, in accordance with federal guidelines; Encouraging those with chronic health conditions and those aged 65 or older to self-quarantine; Mandating restaurants, fitness centers, and theaters reduce capacity to 10 people, or to close; And closing Virginia's 75 DMV offices to the public.",Y,,,,,,,,,,
+17-Mar-20,The Governor moved to increase support to affected workers and employers by: Directing the Commissioner of the Virginia Employment Commission to waive the one-week waiting period to receive unemployment benefits; Enhancing unemployment eligibility to include those directed to self-quarantine by a medical or public health official; Granting affected workers special considerations on deadlines for mandatory re-employment appointments and work search requirements; Activating regional workforce teams to support employers who have slowed or ceased operations; Waiving financial penalties for employers who experience an increase in workers requesting unemployment benefits; Authorizing funding through the Workforce Innovation and Opportunity Act for employers to remain open; and Directing employers to follow U.S. Department of Labor guidance on workplace safety.,,,,,,,,,,,Y
 17-Mar-20,"The Governor and the Health Commissioner issued a Public Health Emergency Order to enforce a prohibition on more than 10 patrons in restaurants, fitness centers, and theaters.",Y,,,,,,,,,,
-19-Mar-20,"The Governor announced the following actions.
-Increased access to health care for Medicaid members and low-income residents including waived co-pays and expanded access to telehealth.
-Modifications to Virginia's Child Care Subsidy Program to expand eligibility and ensure continued support for essential personnel.
-Approved Economic Injury Disaster Loan to support Virginia small businesses.
-Suspension of in-person visitations to state correctional facilities.
-Suspension of Motor Vehicle Safety Inspections for 60 days.",Y,,,,,Y,,,,,Y
+19-Mar-20,The Governor announced the following actions: Increased access to health care for Medicaid members and low-income residents including waived co-pays and expanded access to telehealth; Modifications to Virginia's Child Care Subsidy Program to expand eligibility and ensure continued support for essential personnel; Approved Economic Injury Disaster Loan to support Virginia small businesses; Suspension of in-person visitations to state correctional facilities; Suspension of Motor Vehicle Safety Inspections for 60 days.,Y,,,,,,,,,,Y
 20-Mar-20,The Governor signed an Executive Order giving hospitals and nursing homes more flexibility to add beds.,,,,,,Y,,,,,
 21-Mar-20," The Virginia Department of Health amended testing criteria, giving additional priority to first responders and medical professionals who have had contact with confirmed cases.",,,,Y,,,,,,,
-23-Mar-20,"The Governor issued Executive Order 53:
-Orders the closure of non-essential businesses and permits carry-out food and alcohol services, and delineates essential businesses;
-Bans gatherings of more than 10 people;
-Closes all K-12 schools for the remainder of the academic school year; and
-Urges Virginians to stay home except for essential travel.
-The order will remain in effect until April 23.",Y,,,,Y,,,,,,
-23-Mar-20,- The Centers for Medicare & Medicaid Services (CMS) approved Virginia's request for a Section 1135 Medicaid waiver. The approved waiver enables Virginia to lift prior authorization requirements and extend fair hearing and appeals timelines in its Medicaid program.,,,,,,Y,,,,,
+23-Mar-20,"The Governor issued Executive Order 53: Orders the closure of non-essential businesses and permits carry-out food and alcohol services, and delineates essential businesses; Bans gatherings of more than 10 people; Closes all K-12 schools for the remainder of the academic school year; and Urges Virginians to stay home except for essential travel. The order will remain in effect until April 23.",Y,,,,Y,,,,,,
+23-Mar-20,The Centers for Medicare & Medicaid Services (CMS) approved Virginia's request for a Section 1135 Medicaid waiver. The approved waiver enables Virginia to lift prior authorization requirements and extend fair hearing and appeals timelines in its Medicaid program.,,,,,,Y,,,,,
 25-Mar-20,The Governor and the State Health Commissioner directed all hospitals to stop performing elective surgeries or procedures for the preservation of personal protective equipment (PPE).,Y,,,,,Y,,,,,
 27-Mar-20,The Governor encouraged Virginians to complete the 2020 Census online.,,,,,,,,,,,Y
 30-Mar-20,"The Governor issued a Stay at Home executive order, effective until June 10. Violation of the order will be considered a Class 1 misdemeanor.",Y,,,,,,,,,,
@@ -86,6 +65,8 @@ The order will remain in effect until April 23.",Y,,,,Y,,,,,,
 12-Jun-20,"The Governor announcedThe Governors Agriculture and Forestry Industries Development Fund Planning Grant program, intended to support agriculture and forestry-based businesses through the COVID-19 emergency.",,,,,,,,,,,Y
 12-Jun-20,"The Governor announced the expansion of the Framework for Addiction Analysis and Community Transformation (FAACT). The platform is being used to support the states response, mitigate spread, and maintain an adequate supply of resources.",,,,,,Y,,,,,Y
 15-Jun-20,The Governor announced more than $14.66 million for a new Economic Resilience and Recovery Program to address the short and long term impacts of COVID-19. The initiative was created through a restructuring of the Growth and Opportunity for Virginia (GO Virginia) funding.,,,,,,,,,,,Y
-16-Jun-20,"The Governor, First Lady, and Virginia Museum of Fine Arts Director announced the Virginia Artist Relief Program � a program to assist visual artists impacted by COVID-19. Under the program, 40 visual artists from the Commonwealth will be selected to receive a $5,000 grant.",,,,,,,,,,,Y
-18-Jun-20,"The Governor presented the third phase of the �Forward Virginia� plan, which continues to ease public health restrictions.",,Y,,,,,,,,,
+16-Jun-20,"The Governor, First Lady, and Virginia Museum of Fine Arts Director announced the Virginia Artist Relief Program – a program to assist visual artists impacted by COVID-19. Under the program, 40 visual artists from the Commonwealth will be selected to receive a $5,000 grant.",,,,,,,,,,,Y
+18-Jun-20,"The Governor presented the third phase of the “Forward Virginia” plan, which continues to ease public health restrictions.",,Y,,,,,,,,,
 19-Jun-20,The Governor announced new guidelines and testing requirements for reopening long-term care facilities. The Governor also outlined how the Commonwealth will direct $246 million to support long-term care facilities in their COVID-19 response.,,,,Y,,,,,,,Y
+29-Jun-20,"The Governor launched the Virginia Rent and Mortgage Relief Program (RMRP), which will provide $50 million in federal CARES Act funding for households facing eviction or foreclosure due to COVID-19.",,,,,,,,,,,Y
+30-Jun-20,"The Governor announced that bar seating and congregating areas in restaurants will remain prohibited except for those passing through. Restaurants may use non-bar seating in the bar area, if a minimum of six feet between tables is provided.",Y,,,,,,,,,,

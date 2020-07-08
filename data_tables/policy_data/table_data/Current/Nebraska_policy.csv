@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 13-Mar-20,Gov. Ricketts issued an emergency declaration for COVID-19,,,,,,,Y,,,,
 13-Mar-20,The Nebraska Department of Economic Development (DED) allocated Community Development Block Grant funds to assist qualified businesses impacted by the COVID-19 outbreak.,,,,,,,,,,,Y
 13-Mar-20,The Department of Economic Development (DED) allocated Community Development Block Grant (CDBG) funds to assist qualified businesses impacted by the COVID-19 outbreak. This funding is available through DEDs CDBG Economic Development funding category.,,,,,,,,,,,Y
@@ -49,4 +49,5 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 21-May-20,The Governor announced that new directed health measures for Phase I and Phase II will take effect on June 1 for certain districts in the state.,,,,,,Y,,,,,
 26-May-20,The Governor announced an executive order waiving the requirement for older Nebraskans to renew their drivers licenses in-person.,,,,,,,,,,,Y
 27-May-20,"The Governor announced that he will be using CARES Act funding to stabilize businesses and livestock producers; support community institutions to meet critical needs such as food security, shelter, and mental health care; reimburse state and local governments for coronavirus-related expenses; and shore up the States Unemployment Insurance Trust Fund and potential General Fund budget flexibility.",,,,,,,,,,,Y
-15-Jun-20,The Governor announced the next steps in the state�s phased plan to loosen restrictions which will take effect June 22. His administration also announced that school systems can expect to resume in-person instruction in the fall.,,Y,,,,,,,,,
+15-Jun-20,The Governor announced the next steps in the state’s phased plan to loosen restrictions which will take effect June 22. His administration also announced that school systems can expect to resume in-person instruction in the fall.,,Y,,,,,,,,,
+26-Jun-20," The Governor announced that the State of Nebraska’s Community CARES program is allocating $85 million to support community organizations such as food banks, shelters, and mental health care providers as they face increased demand for their services.",,,,,,,,,,,Y

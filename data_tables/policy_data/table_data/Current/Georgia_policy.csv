@@ -1,12 +1,10 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 2-Mar-20,"Governor Kemp announced a coronavirus task force to assess the states response and procedures for preventing, identifying, and addresses cases of COVID-19.",,,,,,,,,,,Y
 12-Mar-20,"Governor Kemp ordered most state employees to work from home, but has not shut down the state capitol. He also initiated a call to order for schools and daycare, which allows them to shutd own if local administratorsare in agreementto do so.",Y,,,,,,,,,,
 12-Mar-20,Governor Kemp requested 100 million in state funds to combat COVID-19.,,,,,,,,,,,Y
 13-Mar-20,Governor Kemp issued a public health emergency for the state.,,,,,,,,,,,Y
 14-Mar-20,"The Governor issued an executive order calling National Guard troops to active duty. The order calls up 2,000 National Guard troops to active duty to assist in response to the coronavirus outbreak in the state.",,,,,,,,,,,Y
-16-Mar-20,"The Georgia General Assembly grantedThe Governor expansive new emergency powers to combat COVID-19, including the ability to: Suspend laws and regulations prescribing state agency procedures; Compel a health care facility to provide services or transfer management to the state; Commandeer or utilize private property; Transfer state treasury funds; and Direct evacuations if necessary.
-
-",,,,,,,,,,,Y
+16-Mar-20,"The Georgia General Assembly granted The Governor expansive new emergency powers to combat COVID-19, including the ability to: Suspend laws and regulations prescribing state agency procedures; Compel a health care facility to provide services or transfer management to the state; Commandeer or utilize private property; Transfer state treasury funds; and Direct evacuations if necessary.",,,,,,,,,,,Y
 17-Mar-20,"The Governor ordered all public elementary, secondary, and post-secondary schools to be closed by March 18 through at least March 31.",Y,,,,,,,,,,
 17-Mar-20,The Governor in a press conference encouraged Georgians to support local businesses and drive-in/thru restaurants and take out options to bolster the local economy.,,,,,,,,,,,Y
 17-Mar-20,The Governor signed the amended fiscal year 2020 budget to tap into the states rainy-day fund for $100 million to combat COVID-19.,,,,,,,,,,,Y
@@ -86,3 +84,5 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 18-Jun-20,"The Governor announced that the state has received 22,188 resource requests to date. In response to these resource requests, including 3,860 from skilled nursing homes, the Georgia Emergency Management Agency has distributed 5,868,241 N95 masks, 8,894,220 surgical masks, 1,065,692 face shields, 1,468,628 gowns, 17,697,420 gloves, 428,880 Tyvek coveralls, 138,992 test kits, and 154 ventilators to date.",,,,,,Y,,,,,
 18-Jun-20,The Governor announced that he will be seeking a standardized testing waiver for 2020-21.,,,,,Y,,,,,,
 18-Jun-20,"The Governor announced that the Georgia Professional Standards Commission (GaPSC) voted to remove the edTPA assessment as a requirement for the certification of educators in Georgia, making it easier and less costly for teachers to get certified in the state.",,,,,Y,,,,,,
+29-Jun-20,The Governor issued guidance on CARES Act funding for various communities in Georgia.,,,,,,,,,,,Y
+29-Jun-20,The Governor signed two executive orders extending the Public Health State of Emergency and existing COVID-19 safety measures,Y,,,,,,Y,,,,

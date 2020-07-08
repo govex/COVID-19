@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 4-Mar-20,"Governor Baker announced that due to the emergency health situation, the state is urging colleges and universities to cancel upcoming organized international trips.",Y,,,,,,,,,,
 10-Mar-20,Governor Baker declared a state of emergency.,,,,,,,Y,,,,Y
 10-Mar-20,Broad restrictions are imposed on travel for many state employees,Y,,,,,,,,,,
@@ -73,4 +73,5 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 9-Jun-20,"The Governor filed An Act to Ensure the Collection of COVID-19 Data, which will build on legislation recently signed by the governor to expand data collection during the pandemic.The Governor also signed An Act Addressing COVID-19 Data Collection and Disparities in Treatment, which will allow for the collection and publication of additional data to understand the impact of COVID-19 on underserved and underrepresented populations and other groups.",,,,,,,,,,,Y
 15-Jun-20,The Governor announced the availability of pop-up testing sites throughout the Commonwealth for individuals who have recently participated in large gatherings.,,,,Y,,,,,,,
 18-Jun-20,"The Governor announced additional administrative tax relief measures for businesses, such as the postponing the collection of regular sales tax, meals tax, and room occupancy taxes for small businesses, as well as waiving all penalties and interest that would otherwise apply.",,,,,,,,,,,Y
-19-Jun-20,"The Governor announced that Step Two of Phase II of the Commonwealth�s four-phase reopening plan, Reopening Massachusetts, will begin on June 22.",,Y,,,,,,,,,
+19-Jun-20,"The Governor announced that Step Two of Phase II of the Commonwealth’s four-phase reopening plan, Reopening Massachusetts, will begin on June 22.",,Y,,,,,,,,,
+26-Jun-20,"The Governor unveiled a $275 million COVID-19 economic recovery package to generate economic growth. It additionally proposes to amend the scope of several proposed programs, to target funding towards specific communities including those hardest hit, reallocate funding among proposed authorizations to better address the significant economic impacts, and establish new tools to promote equity and drive economic growth in communities and among businesses facing barriers to entry.",,,,,,,,,,,Y
