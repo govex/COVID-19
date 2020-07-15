@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 11-Mar-20,Governor Hutchinson signed an executive order to declare a public health emergency to facilitate coordination and provide increased support to state agencies that are involved in response to the virus.,,,,,,,Y,,,,
 11-Mar-20,The Governor announced that members of his cabinet must approve state employees out-of-state business travel for the next 60 days.,,,,,,,,,,,Y
 12-Mar-20,"The Secretary of State ordered the closure of the Arkansas State Capitol to the public, effective March 13. Only authorized personnel will be permitted to enter the building for work purposes.",Y,,,,,,,,,,
@@ -21,8 +21,8 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 19-Mar-20,The Governor announced the Department of Human Services (DHS)temporarily relaxed limits on child-care providers to increase capacity by up to five children.,,,,,,,,,,,Y
 19-Mar-20,The Governor announced that the Supplemental Nutrition Assistance Program (SNAP) will suspend the work requirement through the end of April.,,,,,,,,,Y,,Y
 20-Mar-20,The Governor authorized the release of $30 million to the Department of Finance and Administration for the purchase of personal protective equipment (PPE) for health care professionals and first responders.,,,,,,,,,,,Y
-20-Mar-20,"The Governor issued an executive order expanding the provisions under the Telemedicine Act. The order includes the following provisions: Suspends provisions that require an in-person encounter or a face-to-face examination to allow time audio and visual means to establish a professional relationship; Allows reimbursement to health care providers who take advantage of this provision; and Suspends the Rules and Regulations of the Arkansas Board of Examiners in Counseling to allow licensed counselors to treat their clients by telephone.
-March 23.",,,,,,Y,,,,,Y
+20-Mar-20,The Governor issued an executive order expanding the provisions under the Telemedicine Act. The order includes the following provisions: Suspends provisions that require an in-person encounter or a face-to-face examination to allow time audio and visual means to establish a professional relationship; Allows reimbursement to health care providers who take advantage of this provision; and Suspends the Rules and Regulations of the Arkansas Board of Examiners in Counseling to allow licensed counselors to treat their clients by telephone.,,,,,,Y,,,,,Y
+23-Mar-20,"The Governor announced the extension of the tax filing and payment deadline to July 15, 2020.",,,,,,,,,,,Y
 24-Mar-20,"The Governor issued a directive closing in-person operations of all barbers, body art establishments and schools, cosmetology establishments, massage therapy clinics/spas, and medical spas.",Y,,,,,,,,,,
 24-Mar-20,The Governor issued executive order 20-05 to leverage telehealth allowing doctors to intake new patient over the phone.,,,,,,,,,,,Y
 25-Mar-20,The Governor issued the official call to legislators for an extraordinary session of the 92nd General Assembly to do the following: Create the COVID-19 Rainy Day Fund; Confirm gubernatorial appointees; and Provide for the payment of expenses and per diem of the House of Representatives and the Senate for this extraordinary session.,,,,,,,,,,,Y
@@ -70,5 +70,6 @@ March 23.",,,,,,Y,,,,,Y
 8-Jun-20,"The Governor announced the state will move to Phase 2 of reopening, easing restrictions on restaurants other businesses.",,Y,,,,,,,,,
 15-Jun-20,"The Governor issued three executive orders providing workers compensation coverage, medical immunity from civil liability, and business immunity from civil liability as a result of exposure to COVID-19.",,,,,,,,,,,Y
 19-Jun-20,"The Governor announced that nursing homes, and assisted-living and residential-care facilities will be able to resume limited family visits and other activities on July 1 if compliant with the public health guidelines of the Arkansas Department of Health.",,,,,,,,,,,Y
-2-Jul-20,The Governor announced registered voters who fear potential exposure may apply for an absentee ballot for November�s General Election.,,,,,,,,,,,Y
+2-Jul-20,The Governor announced registered voters who fear potential exposure may apply for an absentee ballot for November’s General Election.,,,,,,,,,,,Y
 3-Jul-20,The Governor issued an executive order permitting cities to implement an ordinance requiring mandatory face coverings.,,,Y,,,,,,,,
+10-Jul-20,The Governor and Secretary of State announced anyone who fears that going to a polling place on November 3rd will put his or her health at risk may request an absentee ballot.,,,,,,,,,,,Y
