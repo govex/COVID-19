@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 4-Mar-20,Governor Reeves established the Mississippi Coronavirus (COVID-19) Preparedness and Response Planning Steering Committee to coordinate efforts across state and local governments.,,,,,,,,,,,Y
 14-Mar-20,Governor Reeves declared a state of emergency.,,,,,,,Y,,,,
 16-Mar-20,The Governor signed two executive orders which: Activate the National Guard to support mobile testing units; Require agencies to keep essential employees and send non-essential employees home; Requests schools develop distance learning protocols and continue providing free or reduced lunches; and Provides paid leave for state and local employees who miss work due to COVID-19.,Y,,,Y,Y,,,,,,Y
@@ -8,9 +8,7 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 21-Mar-20,The Governor signed Executive Order 1462 that gives the Mississippi Department of Employment Security the ability to expedite payments to unemployed Mississippians and relax collection requirements on employers.,,,,,,,,,,,Y
 23-Mar-20,"The Governor announced that he is not currently ordering businesses to close, or for individuals to stay home.",,,,,,,,,,,Y
 23-Mar-20,"The Centers for Medicare & Medicaid Services (CMS) approved Mississippis request for a Section 1135 Medicaid waiver.The approved waiver enables Mississippi to provide flexibilities in Medicaid provider screening and enrollment, forgo certain pre-admission screening and annual resident review assessments, lift prior authorization requirements, allow for reimbursement facility services in alternative settings, and extend fair hearing and appeals timelines.",,,,,,Y,,,,,
-24-Mar-20,"The Governor signed Executive Order No. 1463 which: Limits mass gatherings to 10 or less; Suspends dine-in services at restaurants and bars; Restricts visits to hospitals, nursing homes, and long-term care facilities; Directs businesses to allow employees to work from home; and Defines essential businesses.
-
-",Y,,,,,,,,,,
+24-Mar-20,"The Governor signed Executive Order No. 1463 which: Limits mass gatherings to 10 or less; Suspends dine-in services at restaurants and bars; Restricts visits to hospitals, nursing homes, and long-term care facilities; Directs businesses to allow employees to work from home; and Defines essential businesses.",Y,,,,,,,,,,
 26-Mar-20,"The Governor issued a supplement to Executive Order No. 1463 to ensure uniform statewide parameters, such that: No measures can be adopted that are less restrictive than the executive order. Any existing local measures can remain in effect under the executive order, as long as they provide the same minimum standards established in the executive order and do not impose restrictions that would prevent essential services from operating.",,,,,,,,,,,Y
 30-Mar-20,The Mississippi Department of Human Services increased the maximum SNAP benefit levels for families impacted by COVID-19.,,,,,,,,,,,Y
 31-Mar-20,The Governor issued a shelter in place order for a county in the state due to increased cases in that region.,Y,,,,,,,,,,
@@ -39,5 +37,6 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 1-Jun-20,The Governor lifted the final orders that had closed businesses because of the pandemic.,,Y,,,,,,,,,
 9-Jun-20,"The Governor signed two executive orders which extends the safe-return order, which went into effect June 1, by an extra two weeks, and the second order moves to get government employees back to work.",,Y,,,,,,,,,
 15-Jun-20," Due to an increase in fraud, the Governor addressed the states response to unemployment fraud schemes related to the pandemic.",,,,,,,,,,,Y
-1-Jul-20,The Governor announced that the state�s reopening plan is currently on pause.,,,,,,,,,,,Y
+1-Jul-20,The Governor announced that the state’s reopening plan is currently on pause.,,,,,,,,,,,Y
 8-Jul-20,"The Governor stated that residents can expect to see county-specific orders very soon, with mandated masks and social distancing.  ",,,Y,,,,,,,,
+9-Jul-20, The Governor issued an executive order for 13 counties in the state to require face masks and put limits on businesses.,Y,,,,,,,,,,
