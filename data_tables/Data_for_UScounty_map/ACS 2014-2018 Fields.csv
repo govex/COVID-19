@@ -1,0 +1,905 @@
+Sort,TableName,VAR_NAME10,SHORT_DESC,LONG_DESC,WIDTH,PRECISION,Missing Values Possible (YES or blank),ACS Table/Field,SAS Var
+1,ACSTRESTPOP,ACSNATIVE,2014-2018 ACS Native Born Population,2014-2018 ACS Native Born Population,9,0,,B05002e2,acsborn1
+2,ACSTRESTPOP,ACSBORNRES,2014-2018 ACS Native/Born in State of Residence,2014-2018 ACS Native Population Born in State of Residence,9,0,,B05002e3,acsborn2
+3,ACSTRESTPOP,ACSBORNOST,2014-2018 ACS Native/Born in Other State,2014-2018 ACS Native Population Born in Other State,9,0,,B05002e4,acsborn3
+4,ACSTRESTPOP,ACSBORNNE,2014-2018 ACS Native/Born Oth State: Northeast,2014-2018 ACS Native Population Born in Other State: Northeast,9,0,,B05002e5,acsborn4
+5,ACSTRESTPOP,ACSBORNMW,2014-2018 ACS Native/Born Oth State: Midwest,2014-2018 ACS Native Population Born in Other State: Midwest,9,0,,B05002e6,acsborn5
+6,ACSTRESTPOP,ACSBORNS,2014-2018 ACS Native/Born Oth State: South,2014-2018 ACS Native Population Born in Other State: South,9,0,,B05002e7,acsborn6
+7,ACSTRESTPOP,ACSBORNW,2014-2018 ACS Native/Born Oth State: West,2014-2018 ACS Native Population Born in Other State: West,9,0,,B05002e8,acsborn7
+8,ACSTRESTPOP,ACSBORNOUT,2014-2018 ACS Native/Born Outside United States,2014-2018 ACS Native Population Born Outside of the United States,9,0,,B05002e9,acsborn8
+9,ACSTRESTPOP,ACSBORNPR,2014-2018 ACS Native/Born in Puerto Rico,2014-2018 ACS Native Population Born in Puerto Rico,9,0,,B05002e10,acsborn9
+10,ACSTRESTPOP,ACSBORNISL,2014-2018 ACS Native/Born US Island Area,2014-2018 ACS Native Population Born in US Island Areas,9,0,,B05002e11,acsborn10
+11,ACSTRESTPOP,ACSBORNABR,2014-2018 ACS Native/Born Abroad/Amer Parents,2014-2018 ACS Native Population Born Abroad to American Parent(s),9,0,,B05002e12,acsborn11
+12,ACSTRESTPOP,ACSFORBORN,2014-2018 ACS Foreign-born Population,2014-2018 ACS Foreign-born Population,9,0,,B05002e13,acsborn12
+13,ACSTRESTPOP,ACSNATCTZN,2014-2018 ACS Foreign-born: Naturalized US Citizen,2014-2018 ACS Foreign-born Pop: Naturalized U.S. Citizen,9,0,,B05002e14,acsborn13
+14,ACSTRESTPOP,ACSNOTCTZN,2014-2018 ACS Foreign-born: Not US Citizen,2014-2018 ACS Foreign-born Pop: Not a U.S. Citizen,9,0,,B05002e21,acsborn14
+15,ACSTRESTPOP,ACSASNAPOP,2014-2018 ACS Asian Alone Population,2014-2018 ACS Asian Alone Population,9,0,,B02015e1,acsasian1
+16,ACSTRESTPOP,ACSASNIND,2014-2018 ACS Asian Pop: Asian Indian,2014-2018 ACS Asian Population: Asian Indian,9,0,,B02015e2,acsasian2
+17,ACSTRESTPOP,ACSASNBANG,2014-2018 ACS Asian Pop: Bangladeshi,2014-2018 ACS Asian Population: Bangladeshi,9,0,,B02015e3,acsasian3
+18,ACSTRESTPOP,ACSASNBHUT,2014-2018 ACS Asian Pop: Bhutanese,2014-2018 ACS Asian Population: Bhutanese,9,0,,B02015e4,acsasian4
+19,ACSTRESTPOP,ACSASNBURM,2014-2018 ACS Asian Pop: Burmese,2014-2018 ACS Asian Population: Burmese,9,0,,B02015e5,acsasian5
+20,ACSTRESTPOP,ACSASNCAMB,2014-2018 ACS Asian Pop: Cambodian,2014-2018 ACS Asian Population: Cambodian,9,0,,B02015e6,acsasian6
+21,ACSTRESTPOP,ACSASNCHIN,2014-2018 ACS Asian Pop: Chinese,2014-2018 ACS Asian Population: Chinese except Taiwanese,9,0,,B02015e7,acsasian7
+22,ACSTRESTPOP,ACSASNFILI,2014-2018 ACS Asian Pop: Filipino,2014-2018 ACS Asian Population: Filipino,9,0,,B02015e8,acsasian8
+23,ACSTRESTPOP,ACSASNHMON,2014-2018 ACS Asian Pop: Hmong,2014-2018 ACS Asian Population: Hmong,9,0,,B02015e9,acsasian9
+24,ACSTRESTPOP,ACSASNINDO,2014-2018 ACS Asian Pop: Indonesian,2014-2018 ACS Asian Population: Indonesian,9,0,,B02015e10,acsasian10
+25,ACSTRESTPOP,ACSASNJAP,2014-2018 ACS Asian Pop: Japanese,2014-2018 ACS Asian Population: Japanese,9,0,,B02015e11,acsasian11
+26,ACSTRESTPOP,ACSASNKOR,2014-2018 ACS Asian Pop: Korean,2014-2018 ACS Asian Population: Korean,9,0,,B02015e12,acsasian12
+27,ACSTRESTPOP,ACSASNLAOT,2014-2018 ACS Asian Pop: Laotian,2014-2018 ACS Asian Population: Laotian,9,0,,B02015e13,acsasian13
+28,ACSTRESTPOP,ACSASNMALA,2014-2018 ACS Asian Pop: Malaysian,2014-2018 ACS Asian Population: Malaysian,9,0,,B02015e14,acsasian14
+29,ACSTRESTPOP,ACSASNMONG,2014-2018 ACS Asian Pop: Mongolian,2014-2018 ACS Asian Population: Mongolian,9,0,,B02015e15,acsasian15
+30,ACSTRESTPOP,ACSASNNEPA,2014-2018 ACS Asian Pop: Nepalese,2014-2018 ACS Asian Population: Nepalese,9,0,,B02015e16,acsasian16
+31,ACSTRESTPOP,ACSASNOKIN,2014-2018 ACS Asian Pop: Okinawan,2014-2018 ACS Asian Population: Okinawan,9,0,,B02015e17,acsasian17
+32,ACSTRESTPOP,ACSASNPAKI,2014-2018 ACS Asian Pop: Pakistani,2014-2018 ACS Asian Population: Pakistani,9,0,,B02015e18,acsasian18
+33,ACSTRESTPOP,ACSASNSRIL,2014-2018 ACS Asian Pop: Sri Lankan,2014-2018 ACS Asian Population: Sri Lankan,9,0,,B02015e19,acsasian19
+34,ACSTRESTPOP,ACSASNTAIW,2014-2018 ACS Asian Pop: Taiwanese,2014-2018 ACS Asian Population: Taiwanese,9,0,,B02015e20,acsasian20
+35,ACSTRESTPOP,ACSASNTHAI,2014-2018 ACS Asian Pop: Thai,2014-2018 ACS Asian Population: Thai,9,0,,B02015e21,acsasian21
+36,ACSTRESTPOP,ACSASNVIET,2014-2018 ACS Asian Pop: Vietnamese,2014-2018 ACS Asian Population: Vietnamese,9,0,,B02015e22,acsasian22
+37,ACSTRESTPOP,ACSASNOTH,2014-2018 ACS Asian Pop: Other Asian Specified,2014-2018 ACS Asian Population: Other Asian Specified,9,0,,B02015e23,acsasian23
+38,ACSTRESTPOP,ACSASNUNSP,2014-2018 ACS Asian Pop: Other Asian Not Specified,2014-2018 ACS Asian Population: Other Asian Not Specified,9,0,,B02015e24,acsasian24
+39,ACSTRESTPOP,ACSASN2UP,2014-2018 ACS Asian Pop: Two or More Asian,2014-2018 ACS Asian Population: Two or More Asian,9,0,,B02015e25,acsasian25
+40,ACSTRESTPOP,ACSHISPPOP,2014-2018 ACS Hispanic or Latino Population,2014-2018 ACS Hispanic or Latino Population,9,0,,B03001e3,acshisporigin1
+41,ACSTRESTPOP,ACSHMEXICN,2014-2018 ACS Hispanic Pop: Mexican,2014-2018 ACS Hispanic Population: Mexican,9,0,,B03001e4,acshisporigin2
+42,ACSTRESTPOP,ACSHPUERTO,2014-2018 ACS Hispanic Pop: Puerto Rican,2014-2018 ACS Hispanic Population: Puerto Rican,9,0,,B03001e5,acshisporigin3
+43,ACSTRESTPOP,ACSHCUBAN,2014-2018 ACS Hispanic Pop: Cuban,2014-2018 ACS Hispanic Population: Cuban,9,0,,B03001e6,acshisporigin4
+44,ACSTRESTPOP,ACSHDOMINC,2014-2018 ACS Hispanic Pop: Dominican,2014-2018 ACS Hispanic Population: Dominican,9,0,,B03001e7,acshisporigin5
+45,ACSTRESTPOP,ACSHCOSTA,2014-2018 ACS Hispanic Pop: Costa Rican,2014-2018 ACS Hispanic Population: Costa Rican,9,0,,B03001e9,acshisporigin6
+46,ACSTRESTPOP,ACSHGUATEM,2014-2018 ACS Hispanic Pop: Guatemalan,2014-2018 ACS Hispanic Population: Guatemalan,9,0,,B03001e10,acshisporigin7
+47,ACSTRESTPOP,ACSHHONDUR,2014-2018 ACS Hispanic Pop: Honduran,2014-2018 ACS Hispanic Population: Honduran,9,0,,B03001e11,acshisporigin8
+48,ACSTRESTPOP,ACSHNICARG,2014-2018 ACS Hispanic Pop: Nicaraguan,2014-2018 ACS Hispanic Population: Nicaraguan,9,0,,B03001e12,acshisporigin9
+49,ACSTRESTPOP,ACSHPANAM,2014-2018 ACS Hispanic Pop: Panamanian,2014-2018 ACS Hispanic Population: Panamanian,9,0,,B03001e13,acshisporigin10
+50,ACSTRESTPOP,ACSHSALVAD,2014-2018 ACS Hispanic Pop: Salvadoran,2014-2018 ACS Hispanic Population: Salvadoran,9,0,,B03001e14,acshisporigin11
+51,ACSTRESTPOP,ACSHOTHCA,2014-2018 ACS Hispanic Pop: Other Central American,2014-2018 ACS Hispanic Population: Other Central American,9,0,,B03001e15,acshisporigin12
+52,ACSTRESTPOP,ACSHARGENT,2014-2018 ACS Hispanic Pop: Argentinean,2014-2018 ACS Hispanic Population: Argentinean,9,0,,B03001e17,acshisporigin13
+53,ACSTRESTPOP,ACSHBOLIVN,2014-2018 ACS Hispanic Pop: Bolivian,2014-2018 ACS Hispanic Population: Bolivian,9,0,,B03001e18,acshisporigin14
+54,ACSTRESTPOP,ACSHCHILE,2014-2018 ACS Hispanic Pop: Chilean,2014-2018 ACS Hispanic Population: Chilean,9,0,,B03001e19,acshisporigin15
+55,ACSTRESTPOP,ACSHCOLOMB,2014-2018 ACS Hispanic Pop: Colombian,2014-2018 ACS Hispanic Population: Colombian,9,0,,B03001e20,acshisporigin16
+56,ACSTRESTPOP,ACSHECUADR,2014-2018 ACS Hispanic Pop: Ecuadorian,2014-2018 ACS Hispanic Population: Ecuadorian,9,0,,B03001e21,acshisporigin17
+57,ACSTRESTPOP,ACSHPARAGY,2014-2018 ACS Hispanic Pop: Paraguayan,2014-2018 ACS Hispanic Population: Paraguayan,9,0,,B03001e22,acshisporigin18
+58,ACSTRESTPOP,ACSHPERUVN,2014-2018 ACS Hispanic Pop: Peruvian,2014-2018 ACS Hispanic Population: Peruvian,9,0,,B03001e23,acshisporigin19
+59,ACSTRESTPOP,ACSHURUGYN,2014-2018 ACS Hispanic Pop: Uruguayan,2014-2018 ACS Hispanic Population: Uruguayan,9,0,,B03001e24,acshisporigin20
+60,ACSTRESTPOP,ACSHVENEZL,2014-2018 ACS Hispanic Pop: Venezuelan,2014-2018 ACS Hispanic Population: Venezuelan,9,0,,B03001e25,acshisporigin21
+61,ACSTRESTPOP,ACSHOTHSA,2014-2018 ACS Hispanic Pop: Other South American,2014-2018 ACS Hispanic Population: Other South American,9,0,,B03001e26,acshisporigin22
+62,ACSTRESTPOP,ACSHSPANRD,2014-2018 ACS Hispanic Pop: Spaniard,2014-2018 ACS Hispanic Population: Spaniard,9,0,,B03001e28,acshisporigin23
+63,ACSTRESTPOP,ACSHSPANSH,2014-2018 ACS Hispanic Pop: Spanish,2014-2018 ACS Hispanic Population: Spanish,9,0,,B03001e29,acshisporigin24
+64,ACSTRESTPOP,ACSHSPAMER,2014-2018 ACS Hispanic Pop: Spanish American,2014-2018 ACS Hispanic Population: Spanish American,9,0,,B03001e30,acshisporigin25
+65,ACSTRESTPOP,ACSHISPOTH,2014-2018 ACS Hispanic Pop: Oth Hispanic/Latino,2014-2018 ACS Hispanic Population: Other Hispanic/Latino,9,0,,B03001e31,acshisporigin26
+66,ACSTRESTPOP,ACSAPOP,2014-2018 ACS Pop Stating Single Ancestry,2014-2018 ACS Persons Reporting Single Ancestry,9,0,,B04004e1,acsancestry1
+67,ACSTRESTPOP,ACSAAFGHAN,2014-2018 ACS Ancestry: Afghan,2014-2018 ACS Ancestry: Afghan,9,0,,B04004e2,acsancestry2
+68,ACSTRESTPOP,ACSAALBAN,2014-2018 ACS Ancestry: Albanian,2014-2018 ACS Ancestry: Albanian,9,0,,B04004e3,acsancestry3
+69,ACSTRESTPOP,ACSAALSATN,2014-2018 ACS Ancestry: Alsatian,2014-2018 ACS Ancestry: Alsatian,9,0,,B04004e4,acsancestry4
+70,ACSTRESTPOP,ACSAAMER,2014-2018 ACS Ancestry: American,2014-2018 ACS Ancestry: American,9,0,,B04004e5,acsancestry5
+71,ACSTRESTPOP,ACSAEGYPTN,2014-2018 ACS Ancestry: Arab-Egyptian,2014-2018 ACS Ancestry: Arab - Egyptian,9,0,,B04004e7,acsancestry6
+72,ACSTRESTPOP,ACSAIRAQI,2014-2018 ACS Ancestry: Arab-Iraqi,2014-2018 ACS Ancestry: Arab - Iraqi,9,0,,B04004e8,acsancestry7
+73,ACSTRESTPOP,ACSAJORDAN,2014-2018 ACS Ancestry: Arab-Jordanian,2014-2018 ACS Ancestry: Arab - Jordanian,9,0,,B04004e9,acsancestry8
+74,ACSTRESTPOP,ACSALEBAN,2014-2018 ACS Ancestry: Arab-Lebanese,2014-2018 ACS Ancestry: Arab - Lebanese,9,0,,B04004e10,acsancestry9
+75,ACSTRESTPOP,ACSAMOROCC,2014-2018 ACS Ancestry: Arab-Moroccan,2014-2018 ACS Ancestry: Arab - Moroccan,9,0,,B04004e11,acsancestry10
+76,ACSTRESTPOP,ACSAPALEST,2014-2018 ACS Ancestry: Arab-Palestinian,2014-2018 ACS Ancestry: Arab - Palestinian,9,0,,B04004e12,acsancestry11
+77,ACSTRESTPOP,ACSASYRIAN,2014-2018 ACS Ancestry: Arab-Syrian,2014-2018 ACS Ancestry: Arab - Syrian,9,0,,B04004e13,acsancestry12
+78,ACSTRESTPOP,ACSAARAB,2014-2018 ACS Ancestry: Arab-Arab,2014-2018 ACS Ancestry: Arab - Arab,9,0,,B04004e14,acsancestry13
+79,ACSTRESTPOP,ACSAOARAB,2014-2018 ACS Ancestry: Arab-Other,2014-2018 ACS Ancestry: Arab - Other,9,0,,B04004e15,acsancestry14
+80,ACSTRESTPOP,ACSAARMEN,2014-2018 ACS Ancestry: Armenian,2014-2018 ACS Ancestry: Armenian,9,0,,B04004e16,acsancestry15
+81,ACSTRESTPOP,ACSAASSYRN,2014-2018 ACS Ancestry: Assyrian/Chald/Syriac,2014-2018 ACS Ancestry: Assyrian/Chaldean/Syriac,9,0,,B04004e17,acsancestry16
+82,ACSTRESTPOP,ACSAAUSTRL,2014-2018 ACS Ancestry: Australian,2014-2018 ACS Ancestry: Australian,9,0,,B04004e18,acsancestry17
+83,ACSTRESTPOP,ACSAAUSTRN,2014-2018 ACS Ancestry: Austrian,2014-2018 ACS Ancestry: Austrian,9,0,,B04004e19,acsancestry18
+84,ACSTRESTPOP,ACSABASQUE,2014-2018 ACS Ancestry: Basque,2014-2018 ACS Ancestry: Basque,9,0,,B04004e20,acsancestry19
+85,ACSTRESTPOP,ACSABELGN,2014-2018 ACS Ancestry: Belgian,2014-2018 ACS Ancestry: Belgian,9,0,,B04004e21,acsancestry20
+86,ACSTRESTPOP,ACSABRAZLN,2014-2018 ACS Ancestry: Brazilian,2014-2018 ACS Ancestry: Brazilian,9,0,,B04004e22,acsancestry21
+87,ACSTRESTPOP,ACSABRIT,2014-2018 ACS Ancestry: British,2014-2018 ACS Ancestry: British,9,0,,B04004e23,acsancestry22
+88,ACSTRESTPOP,ACSABULGAR,2014-2018 ACS Ancestry: Bulgarian,2014-2018 ACS Ancestry: Bulgarian,9,0,,B04004e24,acsancestry23
+89,ACSTRESTPOP,ACSACAJUN,2014-2018 ACS Ancestry: Cajun,2014-2018 ACS Ancestry: Cajun,9,0,,B04004e25,acsancestry24
+90,ACSTRESTPOP,ACSACANADN,2014-2018 ACS Ancestry: Canadian,2014-2018 ACS Ancestry: Canadian,9,0,,B04004e26,acsancestry25
+91,ACSTRESTPOP,ACSACRUSYN,2014-2018 ACS Ancestry: Carpatho Rusyn,2014-2018 ACS Ancestry: Carpatho Rusyn,9,0,,B04004e27,acsancestry26
+92,ACSTRESTPOP,ACSACELTIC,2014-2018 ACS Ancestry: Celtic,2014-2018 ACS Ancestry: Celtic,9,0,,B04004e28,acsancestry27
+93,ACSTRESTPOP,ACSACROATN,2014-2018 ACS Ancestry: Croatian,2014-2018 ACS Ancestry: Croatian,9,0,,B04004e29,acsancestry28
+94,ACSTRESTPOP,ACSACYPRIO,2014-2018 ACS Ancestry: Cypriot,2014-2018 ACS Ancestry: Cypriot,9,0,,B04004e30,acsancestry29
+95,ACSTRESTPOP,ACSACZECH,2014-2018 ACS Ancestry: Czech,2014-2018 ACS Ancestry: Czech,9,0,,B04004e31,acsancestry30
+96,ACSTRESTPOP,ACSACZECHO,2014-2018 ACS Ancestry: Czechoslovakian,2014-2018 ACS Ancestry: Czechoslovakian,9,0,,B04004e32,acsancestry31
+97,ACSTRESTPOP,ACSADANISH,2014-2018 ACS Ancestry: Danish,2014-2018 ACS Ancestry: Danish,9,0,,B04004e33,acsancestry32
+98,ACSTRESTPOP,ACSADUTCH,2014-2018 ACS Ancestry: Dutch,2014-2018 ACS Ancestry: Dutch,9,0,,B04004e34,acsancestry33
+99,ACSTRESTPOP,ACSAEEUROP,2014-2018 ACS Ancestry: Eastern European,2014-2018 ACS Ancestry: Eastern European,9,0,,B04004e35,acsancestry34
+100,ACSTRESTPOP,ACSAENGLSH,2014-2018 ACS Ancestry: English,2014-2018 ACS Ancestry: English,9,0,,B04004e36,acsancestry35
+101,ACSTRESTPOP,ACSAESTON,2014-2018 ACS Ancestry: Estonian,2014-2018 ACS Ancestry: Estonian,9,0,,B04004e37,acsancestry36
+102,ACSTRESTPOP,ACSAEUROPN,2014-2018 ACS Ancestry: European,2014-2018 ACS Ancestry: European,9,0,,B04004e38,acsancestry37
+103,ACSTRESTPOP,ACSAFINNSH,2014-2018 ACS Ancestry: Finnish,2014-2018 ACS Ancestry: Finnish,9,0,,B04004e39,acsancestry38
+104,ACSTRESTPOP,ACSAFRENCH,2014-2018 ACS Ancestry: French (excl Basque),2014-2018 ACS Ancestry: French (except Basque),9,0,,B04004e40,acsancestry39
+105,ACSTRESTPOP,ACSAFRNCAN,2014-2018 ACS Ancestry: French Canadian,2014-2018 ACS Ancestry: French Canadian,9,0,,B04004e41,acsancestry40
+106,ACSTRESTPOP,ACSAGERMAN,2014-2018 ACS Ancestry: German,2014-2018 ACS Ancestry: German,9,0,,B04004e42,acsancestry41
+107,ACSTRESTPOP,ACSAGERRUS,2014-2018 ACS Ancestry: German Russian,2014-2018 ACS Ancestry: German Russian,9,0,,B04004e43,acsancestry42
+108,ACSTRESTPOP,ACSAGREEK,2014-2018 ACS Ancestry: Greek,2014-2018 ACS Ancestry: Greek,9,0,,B04004e44,acsancestry43
+109,ACSTRESTPOP,ACSAGUYAN,2014-2018 ACS Ancestry: Guyanese,2014-2018 ACS Ancestry: Guyanese,9,0,,B04004e45,acsancestry44
+110,ACSTRESTPOP,ACSAHUNGAR,2014-2018 ACS Ancestry: Hungarian,2014-2018 ACS Ancestry: Hungarian,9,0,,B04004e46,acsancestry45
+111,ACSTRESTPOP,ACSAICELAN,2014-2018 ACS Ancestry: Icelander,2014-2018 ACS Ancestry: Icelander,9,0,,B04004e47,acsancestry46
+112,ACSTRESTPOP,ACSAIRAN,2014-2018 ACS Ancestry: Iranian,2014-2018 ACS Ancestry: Iranian,9,0,,B04004e48,acsancestry47
+113,ACSTRESTPOP,ACSAIRISH,2014-2018 ACS Ancestry: Irish,2014-2018 ACS Ancestry: Irish,9,0,,B04004e49,acsancestry48
+114,ACSTRESTPOP,ACSAISRAEL,2014-2018 ACS Ancestry: Israeli,2014-2018 ACS Ancestry: Israeli,9,0,,B04004e50,acsancestry49
+115,ACSTRESTPOP,ACSAITALN,2014-2018 ACS Ancestry: Italian,2014-2018 ACS Ancestry: Italian,9,0,,B04004e51,acsancestry50
+116,ACSTRESTPOP,ACSALATVIA,2014-2018 ACS Ancestry: Latvian,2014-2018 ACS Ancestry: Latvian,9,0,,B04004e52,acsancestry51
+117,ACSTRESTPOP,ACSALITHUA,2014-2018 ACS Ancestry: Lithuanian,2014-2018 ACS Ancestry: Lithuanian,9,0,,B04004e53,acsancestry52
+118,ACSTRESTPOP,ACSALUXEMB,2014-2018 ACS Ancestry: Luxemburger,2014-2018 ACS Ancestry: Luxemburger,9,0,,B04004e54,acsancestry53
+119,ACSTRESTPOP,ACSAMACEDO,2014-2018 ACS Ancestry: Macedonian,2014-2018 ACS Ancestry: Macedonian,9,0,,B04004e55,acsancestry54
+120,ACSTRESTPOP,ACSAMALT,2014-2018 ACS Ancestry: Maltese,2014-2018 ACS Ancestry: Maltese,9,0,,B04004e56,acsancestry55
+121,ACSTRESTPOP,ACSANWZEAL,2014-2018 ACS Ancestry: New Zealander,2014-2018 ACS Ancestry: New Zealander,9,0,,B04004e57,acsancestry56
+122,ACSTRESTPOP,ACSANEUROP,2014-2018 ACS Ancestry: Northern European,2014-2018 ACS Ancestry: Northern European,9,0,,B04004e58,acsancestry57
+123,ACSTRESTPOP,ACSANORWEG,2014-2018 ACS Ancestry: Norwegian,2014-2018 ACS Ancestry: Norwegian,9,0,,B04004e59,acsancestry58
+124,ACSTRESTPOP,ACSAPAGERM,2014-2018 ACS Ancestry: Pennsylvania German,2014-2018 ACS Ancestry: Pennsylvania German,9,0,,B04004e60,acsancestry59
+125,ACSTRESTPOP,ACSAPOLISH,2014-2018 ACS Ancestry: Polish,2014-2018 ACS Ancestry: Polish,9,0,,B04004e61,acsancestry60
+126,ACSTRESTPOP,ACSAPORTUG,2014-2018 ACS Ancestry: Portuguese,2014-2018 ACS Ancestry: Portuguese,9,0,,B04004e62,acsancestry61
+127,ACSTRESTPOP,ACSARMNIAN,2014-2018 ACS Ancestry: Romanian,2014-2018 ACS Ancestry: Romanian,9,0,,B04004e63,acsancestry62
+128,ACSTRESTPOP,ACSARUSSN,2014-2018 ACS Ancestry: Russian,2014-2018 ACS Ancestry: Russian,9,0,,B04004e64,acsancestry63
+129,ACSTRESTPOP,ACSASCANDV,2014-2018 ACS Ancestry: Scandinavian,2014-2018 ACS Ancestry: Scandinavian,9,0,,B04004e65,acsancestry64
+130,ACSTRESTPOP,ACSASIRISH,2014-2018 ACS Ancestry: Scotch-Irish,2014-2018 ACS Ancestry: Scotch-Irish,9,0,,B04004e66,acsancestry65
+131,ACSTRESTPOP,ACSASCOTT,2014-2018 ACS Ancestry: Scottish,2014-2018 ACS Ancestry: Scottish,9,0,,B04004e67,acsancestry66
+132,ACSTRESTPOP,ACSASERB,2014-2018 ACS Ancestry: Serbian,2014-2018 ACS Ancestry: Serbian,9,0,,B04004e68,acsancestry67
+133,ACSTRESTPOP,ACSASLAVIC,2014-2018 ACS Ancestry: Slavic,2014-2018 ACS Ancestry: Slavic,9,0,,B04004e69,acsancestry68
+134,ACSTRESTPOP,ACSASLOVAK,2014-2018 ACS Ancestry: Slovak,2014-2018 ACS Ancestry: Slovak,9,0,,B04004e70,acsancestry69
+135,ACSTRESTPOP,ACSASLOVEN,2014-2018 ACS Ancestry: Slovene,2014-2018 ACS Ancestry: Slovene,9,0,,B04004e71,acsancestry70
+136,ACSTRESTPOP,ACSASOVIET,2014-2018 ACS Ancestry: Soviet Union,2014-2018 ACS Ancestry: Soviet Union,9,0,,B04004e72,acsancestry71
+137,ACSTRESTPOP,ACSACAPEVR,2014-2018 ACS Ancestry: Subsahrn African-Cape Verdean,2014-2018 ACS Ancestry: Sub-Saharan African-Cape Verdean,9,0,,B04004e74,acsancestry72
+138,ACSTRESTPOP,ACSAETHIOP,2014-2018 ACS Ancestry: Subsahrn African-Ethiopian,2014-2018 ACS Ancestry: Sub-Saharan African-Ethiopian,9,0,,B04004e75,acsancestry73
+139,ACSTRESTPOP,ACSAGHANAN,2014-2018 ACS Ancestry: Subsahrn African-Ghanaian,2014-2018 ACS Ancestry: Sub-Saharan African-Ghanaian,9,0,,B04004e76,acsancestry74
+140,ACSTRESTPOP,ACSAKENYAN,2014-2018 ACS Ancestry: Subsahrn African-Kenyan,2014-2018 ACS Ancestry: Sub-Saharan African-Kenyan,9,0,,B04004e77,acsancestry75
+141,ACSTRESTPOP,ACSALIBER,2014-2018 ACS Ancestry: Subsahrn African-Liberian,2014-2018 ACS Ancestry: Sub-Saharan African-Liberian,9,0,,B04004e78,acsancestry76
+142,ACSTRESTPOP,ACSANIGER,2014-2018 ACS Ancestry: Subsahrn African-Nigerian,2014-2018 ACS Ancestry: Sub-Saharan African-Nigerian,9,0,,B04004e79,acsancestry77
+143,ACSTRESTPOP,ACSASENEGL,2014-2018 ACS Ancestry: Subsahrn African-Senegalese,2014-2018 ACS Ancestry: Sub-Saharan African-Senegalese,9,0,,B04004e80,acsancestry78
+144,ACSTRESTPOP,ACSASLEONE,2014-2018 ACS Ancestry: Subsahrn African-S.Leonean,2014-2018 ACS Ancestry: Sub-Saharan African-Sierra Leonean,9,0,,B04004e81,acsancestry79
+145,ACSTRESTPOP,ACSASOMALI,2014-2018 ACS Ancestry: Subsahrn African-Somali,2014-2018 ACS Ancestry: Sub-Saharan African-Somali,9,0,,B04004e82,acsancestry80
+146,ACSTRESTPOP,ACSASAFRIC,2014-2018 ACS Ancestry: Subsahrn African-South African,2014-2018 ACS Ancestry: Sub-Saharan African-South African,9,0,,B04004e83,acsancestry81
+147,ACSTRESTPOP,ACSASUDAN,2014-2018 ACS Ancestry: Subsahrn African-Sudanese,2014-2018 ACS Ancestry: Sub-Saharan African-Sudanese,9,0,,B04004e84,acsancestry82
+148,ACSTRESTPOP,ACSAUGANDN,2014-2018 ACS Ancestry: Subsahrn African-Ugandan,2014-2018 ACS Ancestry: Sub-Saharan African-Ugandan,9,0,,B04004e85,acsancestry83
+149,ACSTRESTPOP,ACSAZIMBAB,2014-2018 ACS Ancestry: Subsahrn African-Zimbabwean,2014-2018 ACS Ancestry: Sub-Saharan African-Zimbabwean,9,0,,B04004e86,acsancestry84
+150,ACSTRESTPOP,ACSAAFRIC,2014-2018 ACS Ancestry: Subsahrn African-African,2014-2018 ACS Ancestry: Sub-Saharan African-African,9,0,,B04004e87,acsancestry85
+151,ACSTRESTPOP,ACSAOSSAFR,2014-2018 ACS Ancestry: Subsahrn African-Other,2014-2018 ACS Ancestry: Sub-Saharan African-Other,9,0,,B04004e88,acsancestry86
+152,ACSTRESTPOP,ACSASWEDSH,2014-2018 ACS Ancestry: Swedish,2014-2018 ACS Ancestry: Swedish,9,0,,B04004e89,acsancestry87
+153,ACSTRESTPOP,ACSASWISS,2014-2018 ACS Ancestry: Swiss,2014-2018 ACS Ancestry: Swiss,9,0,,B04004e90,acsancestry88
+154,ACSTRESTPOP,ACSATURKSH,2014-2018 ACS Ancestry: Turkish,2014-2018 ACS Ancestry: Turkish,9,0,,B04004e91,acsancestry89
+155,ACSTRESTPOP,ACSAUKRAIN,2014-2018 ACS Ancestry: Ukrainian,2014-2018 ACS Ancestry: Ukrainian,9,0,,B04004e92,acsancestry90
+156,ACSTRESTPOP,ACSAWELSH,2014-2018 ACS Ancestry: Welsh,2014-2018 ACS Ancestry: Welsh,9,0,,B04004e93,acsancestry91
+157,ACSTRESTPOP,ACSABAHAM,2014-2018 ACS Ancestry: W.Indian-Bahamian,2014-2018 ACS Ancestry: West Indian-Bahamian,9,0,,B04004e95,acsancestry92
+158,ACSTRESTPOP,ACSABARBAD,2014-2018 ACS Ancestry: W.Indian-Barbadian,2014-2018 ACS Ancestry: West Indian-Barbadian,9,0,,B04004e96,acsancestry93
+159,ACSTRESTPOP,ACSABELIZN,2014-2018 ACS Ancestry: W.Indian-Belizean,2014-2018 ACS Ancestry: West Indian-Belizean,9,0,,B04004e97,acsancestry94
+160,ACSTRESTPOP,ACSABERMUD,2014-2018 ACS Ancestry: W.Indian-Bermudan,2014-2018 ACS Ancestry: West Indian-Bermudan,9,0,,B04004e98,acsancestry95
+161,ACSTRESTPOP,ACSABRWIND,2014-2018 ACS Ancestry: W.Indian-British W.Indian,2014-2018 ACS Ancestry: West Indian-British West Indian,9,0,,B04004e99,acsancestry96
+162,ACSTRESTPOP,ACSADUWIND,2014-2018 ACS Ancestry: W.Indian-Dutch W.Indian,2014-2018 ACS Ancestry: West Indian-Dutch West Indian,9,0,,B04004e100,acsancestry97
+163,ACSTRESTPOP,ACSAHAITN,2014-2018 ACS Ancestry: W.Indian-Haitian,2014-2018 ACS Ancestry: West Indian-Haitian,9,0,,B04004e101,acsancestry98
+164,ACSTRESTPOP,ACSAJAMAIC,2014-2018 ACS Ancestry: W.Indian-Jamaican,2014-2018 ACS Ancestry: West Indian-Jamaican,9,0,,B04004e102,acsancestry99
+165,ACSTRESTPOP,ACSATRINID,2014-2018 ACS Ancestry: W.Indian-Trinidad & Tobago,2014-2018 ACS Ancestry: West Indian-Trinidad & Tobago,9,0,,B04004e103,acsancestry100
+166,ACSTRESTPOP,ACSAUSVIRG,2014-2018 ACS Ancestry: W.Indian-U.S. Virgin Islander,2014-2018 ACS Ancestry: West Indian-US Virgin Islander,9,0,,B04004e104,acsancestry101
+167,ACSTRESTPOP,ACSAWIND,2014-2018 ACS Ancestry: W.Indian-West Indian,2014-2018 ACS Ancestry: West Indian-West Indian,9,0,,B04004e105,acsancestry102
+168,ACSTRESTPOP,ACSAOWIND,2014-2018 ACS Ancestry: W.Indian-Other W.Indian,2014-2018 ACS Ancestry: West Indian-Other West Indian,9,0,,B04004e106,acsancestry103
+169,ACSTRESTPOP,ACSAYUGOSL,2014-2018 ACS Ancestry: Yugoslavian,2014-2018 ACS Ancestry: Yugoslavian,9,0,,B04004e107,acsancestry104
+170,ACSTRESTPOP,ACSAOTHGRP,2014-2018 ACS Ancestry: Other Groups,2014-2018 ACS Ancestry: Other Groups,9,0,,B04004e108,acsancestry105
+171,ACSTRESTPOP,ACSMWRKR,2014-2018 ACS Male Workers Age 16+,2014-2018 ACS Male Workers Age 16+,9,0,,B08006e18,acssxtransp1
+172,ACSTRESTPOP,ACSMDRALON,2014-2018 ACS Male Workers 16+: Drove Alone,2014-2018 ACS Male Workers 16+ Drove Alone to Work,9,0,,B08006e20,acssxtransp2
+173,ACSTRESTPOP,ACSMCARPL,2014-2018 ACS Male Workers 16+: Carpooled,2014-2018 ACS Male Workers 16+ Carpooled,9,0,,B08006e21,acssxtransp3
+174,ACSTRESTPOP,ACSMPUBTRN,2014-2018 ACS Male Workers 16+: Public Transport,2014-2018 ACS Male Workers 16+ Took Public Transportation,9,0,,B08006e25,acssxtransp4
+175,ACSTRESTPOP,ACSMBICYCL,2014-2018 ACS Male Workers 16+: Bicycled,2014-2018 ACS Male Workers 16+ Bicycled,9,0,,B08006e31,acssxtransp5
+176,ACSTRESTPOP,ACSMWALKED,2014-2018 ACS Male Workers 16+: Walked,2014-2018 ACS Male Workers 16+ Walked,9,0,,B08006e32,acssxtransp6
+177,ACSTRESTPOP,ACSMOTHTRN,2014-2018 ACS Male Workers 16+: Other Means,2014-2018 ACS Male Workers 16+ Took Other Means of Transportation,9,0,,B08006e33,acssxtransp7
+178,ACSTRESTPOP,ACSMWRKHM,2014-2018 ACS Male Workers 16+: Worked at Home,2014-2018 ACS Male Workers 16+ Worked at Home,9,0,,B08006e34,acssxtransp8
+179,ACSTRESTPOP,ACSFWRKR,2014-2018 ACS Female Workers Age 16+,2014-2018 ACS Female Workers Age 16+,9,0,,B08006e35,acssxtransp9
+180,ACSTRESTPOP,ACSFDRALON,2014-2018 ACS Female Workers 16+: Drove Alone,2014-2018 ACS Female Workers 16+ Drove Alone to Work,9,0,,B08006e37,acssxtransp10
+181,ACSTRESTPOP,ACSFCARPL,2014-2018 ACS Female Workers 16+: Carpooled,2014-2018 ACS Female Workers 16+ Carpooled,9,0,,B08006e38,acssxtransp11
+182,ACSTRESTPOP,ACSFPUBTRN,2014-2018 ACS Female Workers 16+: Public Transport,2014-2018 ACS Female Workers 16+ Took Public Transportation,9,0,,B08006e42,acssxtransp12
+183,ACSTRESTPOP,ACSFBICYCL,2014-2018 ACS Female Workers 16+: Bicycled,2014-2018 ACS Female Workers 16+ Bicycled,9,0,,B08006e48,acssxtransp13
+184,ACSTRESTPOP,ACSFWALKED,2014-2018 ACS Female Workers 16+: Walked,2014-2018 ACS Female Workers 16+ Walked,9,0,,B08006e49,acssxtransp14
+185,ACSTRESTPOP,ACSFOTHTRN,2014-2018 ACS Female Workers 16+: Other Means,2014-2018 ACS Female Workers 16+ Took Other Means of Transportation,9,0,,B08006e50,acssxtransp15
+186,ACSTRESTPOP,ACSFWRKHM,2014-2018 ACS Female Workers 16+: Worked at Home,2014-2018 ACS Female Workers 16+ Worked at Home,9,0,,B08006e51,acssxtransp16
+187,ACSTRESTPOP,ACSWRKRHH,2014-2018 ACS Workers 16+ in Households,2014-2018 ACS Workers Age 16+ in Households,9,0,,B08014e1,acssxveh1
+188,ACSTRESTPOP,ACSMVEH0,2014-2018 ACS Male Workers 16+: No Vehicle,2014-2018 ACS Male Workers 16+ in Households with No Vehicles,9,0,,B08014e9,acssxveh2
+189,ACSTRESTPOP,ACSMVEH1,2014-2018 ACS Male Workers 16+: 1 Vehicle,2014-2018 ACS Male Workers 16+ in Households with 1 Vehicle,9,0,,B08014e10,acssxveh3
+190,ACSTRESTPOP,ACSMVEH2UP,2014-2018 ACS Male Workers 16+: 2+ Vehicle,2014-2018 ACS Male Workers 16+ in Households with 2+ Vehicles,9,0,,B08014e11 + B08014e12 + B08014e13 + B08014e14,acssxveh4
+191,ACSTRESTPOP,ACSFVEH0,2014-2018 ACS Female Workers 16+: No Vehicle,2014-2018 ACS Female Workers 16+ in Households with No Vehicles,9,0,,B08014e16,acssxveh5
+192,ACSTRESTPOP,ACSFVEH1,2014-2018 ACS Female Workers 16+: 1 Vehicle,2014-2018 ACS Female Workers 16+ in Households with 1 Vehicle,9,0,,B08014e17,acssxveh6
+193,ACSTRESTPOP,ACSFVEH2UP,2014-2018 ACS Female Workers 16+: 2+ Vehicle,2014-2018 ACS Female Workers 16+ in Households with 2+ Vehicles,9,0,,B08014e18 + B08014e19 + B08014e20 + B08014e21,acssxveh7
+194,ACSTRESTPOP,ACSP25POV,2014-2018 ACS Pop 25+/Poverty is Determined,2014-2018 ACS Population 25+ for whom Poverty Status is Determined,9,0,,B17003e1,acssxpoveduc1
+195,ACSTRESTPOP,ACSP25BPOV,2014-2018 ACS Pop 25+/Inc Below Poverty Level,2014-2018 ACS Population 25+ with Income Below Poverty Level,9,0,,B17003e2,acssxpoveduc2
+196,ACSTRESTPOP,ACSMBPLTHS,2014-2018 ACS Male 25+/Below Pov: < High School Grad,2014-2018 ACS Male 25+ Below Poverty: < High School Grad,9,0,,B17003e4,acssxpoveduc3
+197,ACSTRESTPOP,ACSMBPHSGR,2014-2018 ACS Male 25+/Below Pov: High School Grad,2014-2018 ACS Male 25+ Below Poverty: High School Grad,9,0,,B17003e5,acssxpoveduc4
+198,ACSTRESTPOP,ACSMBPCOLL,2014-2018 ACS Male 25+/Below Pov: Some College,2014-2018 ACS Male 25+ Below Poverty: Some College,9,0,,B17003e6,acssxpoveduc5
+199,ACSTRESTPOP,ACSMBPBACH,2014-2018 ACS Male 25+/Below Pov: Bachelor Deg+,2014-2018 ACS Male 25+ Below Poverty: Bachelor/Higher,9,0,,B17003e7,acssxpoveduc6
+200,ACSTRESTPOP,ACSFBPLTHS,2014-2018 ACS Female 25+/Below Pov: < High School Grad,2014-2018 ACS Female 25+ Below Poverty: < High School Grad,9,0,,B17003e9,acssxpoveduc7
+201,ACSTRESTPOP,ACSFBPHSGR,2014-2018 ACS Female 25+/Below Pov: High School Grad,2014-2018 ACS Female 25+ Below Poverty: High School Grad,9,0,,B17003e10,acssxpoveduc8
+202,ACSTRESTPOP,ACSFBPCOLL,2014-2018 ACS Female 25+/Below Pov: Some College,2014-2018 ACS Female 25+ Below Poverty: Some College,9,0,,B17003e11,acssxpoveduc9
+203,ACSTRESTPOP,ACSFBPBACH,2014-2018 ACS Female 25+/Below Pov:Bachelor Deg+,2014-2018 ACS Female 25+ Below Poverty: Bachelor/Higher,9,0,,B17003e12,acssxpoveduc10
+204,ACSTRESTPOP,ACSP25APOV,2014-2018 ACS Pop 25+/Inc at/Above Poverty Level,2014-2018 ACS Population 25+ w/Income at/Above Poverty Level,9,0,,B17003e13,acssxpoveduc11
+205,ACSTRESTPOP,ACSMAPLTHS,2014-2018 ACS Male 25+ at/Above Pov: < High School Grad,2014-2018 ACS Male 25+ at/Above Poverty: < High School Grad,9,0,,B17003e15,acssxpoveduc12
+206,ACSTRESTPOP,ACSMAPHSGR,2014-2018 ACS Male 25+ at/Above Pov: High School Grad,2014-2018 ACS Male 25+ at/Above Poverty: High School Grad,9,0,,B17003e16,acssxpoveduc13
+207,ACSTRESTPOP,ACSMAPCOLL,2014-2018 ACS Male 25+ at/Above Pov: Some College,2014-2018 ACS Male 25+ at/Above Poverty: Some College,9,0,,B17003e17,acssxpoveduc14
+208,ACSTRESTPOP,ACSMAPBACH,2014-2018 ACS Male 25+ at/Above Pov: Bachelor Deg+,2014-2018 ACS Male 25+ at/Above Poverty: Bachelor/Higher,9,0,,B17003e18,acssxpoveduc15
+209,ACSTRESTPOP,ACSFAPLTHS,2014-2018 ACS Female 25+ at/Above Pov: < High Sch Grad,2014-2018 ACS Female 25+ at/Above Poverty: < High School Grad,9,0,,B17003e20,acssxpoveduc16
+210,ACSTRESTPOP,ACSFAPHSGR,2014-2018 ACS Female 25+ at/Above Pov: High Sch Grad,2014-2018 ACS Female 25+ at/Above Poverty: High School Grad,9,0,,B17003e21,acssxpoveduc17
+211,ACSTRESTPOP,ACSFAPCOLL,2014-2018 ACS Female 25+ at/Above Pov: Some College,2014-2018 ACS Female 25+ at/Above Poverty: Some College,9,0,,B17003e22,acssxpoveduc18
+212,ACSTRESTPOP,ACSFAPBACH,2014-2018 ACS Female 25+ at/Above Pov:Bachelor Deg+,2014-2018 ACS Female 25+ at/Above Poverty: Bachelor/Higher,9,0,,B17003e23,acssxpoveduc19
+213,ACSTRESTPOP,ACSP16POV,2014-2018 ACS Pop 16+/Poverty is Determined,2014-2018 ACS Population 16+ whom Poverty Status is Determined,9,0,,B17005e1,acssxpovLF1
+214,ACSTRESTPOP,ACSP16BPOV,2014-2018 ACS Pop 16+/Income Below Poverty Level,2014-2018 ACS Population 16+ Below Poverty Level,9,0,,B17005e2,acssxpovLF2
+215,ACSTRESTPOP,ACSMBPINLF,2014-2018 ACS Male 16+/Below Pov: in Labor Force,2014-2018 ACS Male 16+ Below Poverty: in Labor Force,9,0,,B17005e4,acssxpovLF3
+216,ACSTRESTPOP,ACSMBPEMP,2014-2018 ACS Male 16+/Below Pov: Employed,2014-2018 ACS Male 16+ Below Poverty: Employed,9,0,,B17005e5,acssxpovLF4
+217,ACSTRESTPOP,ACSMBPUNEM,2014-2018 ACS Male 16+/Below Pov: UnEmployed,2014-2018 ACS Male 16+ Below Poverty: Unemployed,9,0,,B17005e6,acssxpovLF5
+218,ACSTRESTPOP,ACSMBPNOLF,2014-2018 ACS Male 16+/Below Pov: Not in Labor Force,2014-2018 ACS Male 16+ Below Poverty: Not in Labor Force,9,0,,B17005e7,acssxpovLF6
+219,ACSTRESTPOP,ACSFBPINLF,2014-2018 ACS Female 16+/Below Pov: in Labor Force,2014-2018 ACS Female 16+ Below Poverty: in Labor Force,9,0,,B17005e9,acssxpovLF7
+220,ACSTRESTPOP,ACSFBPEMP,2014-2018 ACS Female 16+/Below Pov: Employed,2014-2018 ACS Female 16+ Below Poverty: Employed,9,0,,B17005e10,acssxpovLF8
+221,ACSTRESTPOP,ACSFBPUNEM,2014-2018 ACS Female 16+/Below Pov: UnEmployed,2014-2018 ACS Female 16+ Below Poverty: Unemployed,9,0,,B17005e11,acssxpovLF9
+222,ACSTRESTPOP,ACSFBPNOLF,2014-2018 ACS Female 16+/Below Pov: Not in Labor Force,2014-2018 ACS Female 16+ Below Poverty: Not in Labor Force,9,0,,B17005e12,acssxpovLF10
+223,ACSTRESTPOP,ACSP16APOV,2014-2018 ACS Pop 16+/Income at/Above Poverty,2014-2018 ACS Population 16+ w/Income at/Above Poverty Level,9,0,,B17005e13,acssxpovLF11
+224,ACSTRESTPOP,ACSMAPINLF,2014-2018 ACS Male 16+ at/Above Pov:in Labor Force,2014-2018 ACS Male 16+ at/Above Poverty: in Labor Force,9,0,,B17005e15,acssxpovLF12
+225,ACSTRESTPOP,ACSMAPEMP,2014-2018 ACS Male 16+ at/Above Pov:Employed,2014-2018 ACS Male 16+ at/Above Poverty: Employed,9,0,,B17005e16,acssxpovLF13
+226,ACSTRESTPOP,ACSMAPUNEM,2014-2018 ACS Male 16+ at/Above Pov:UnEmployed,2014-2018 ACS Male 16+ at/Above Poverty: Unemployed,9,0,,B17005e17,acssxpovLF14
+227,ACSTRESTPOP,ACSMAPNOLF,2014-2018 ACS Male 16+ at/Above Pov:Not in Labor Force,2014-2018 ACS Male 16+ at/Above Poverty: Not in Labor Force,9,0,,B17005e18,acssxpovLF15
+228,ACSTRESTPOP,ACSFAPINLF,2014-2018 ACS Female 16+ at/Above Pov:in Labor Force,2014-2018 ACS Female 16+ at/Above Poverty: in Labor Force,9,0,,B17005e20,acssxpovLF16
+229,ACSTRESTPOP,ACSFAPEMP,2014-2018 ACS Female 16+ at/Above Pov:Employed,2014-2018 ACS Female 16+ at/Above Poverty: Employed,9,0,,B17005e21,acssxpovLF17
+230,ACSTRESTPOP,ACSFAPUNEM,2014-2018 ACS Female 16+ at/Above Pov:UnEmployed,2014-2018 ACS Female 16+ at/Above Poverty: Unemployed,9,0,,B17005e22,acssxpovLF18
+231,ACSTRESTPOP,ACSFAPNOLF,2014-2018 ACS Female 16+ at/Above Pov:Not in Labor Force,2014-2018 ACS Female 16+ at/Above Poverty: Not in Labor Force,9,0,,B17005e23,acssxpovLF19
+232,ACSTRESTPOP,ACSWHTPOV,2014-2018 ACS White-Poverty Determined,2014-2018 ACS White Pop: Poverty Status is Determined,9,0,,B17020Ae1,acsracepov1
+233,ACSTRESTPOP,ACSWHTBPOV,2014-2018 ACS White-Inc Below Poverty Level,2014-2018 ACS White Pop Below Poverty Level,9,0,,B17020Ae2,acsracepov2
+234,ACSTRESTPOP,ACSWHTAPOV,2014-2018 ACS White-Inc at/Above Poverty Level,2014-2018 ACS White Pop at/Above Poverty Level,9,0,,B17020Ae10,acsracepov3
+235,ACSTRESTPOP,ACSBLKPOV,2014-2018 ACS Black-Poverty Determined,2014-2018 ACS Black Pop: Poverty Status is Determined,9,0,,B17020Be1,acsracepov4
+236,ACSTRESTPOP,ACSBLKBPOV,2014-2018 ACS Black-Inc Below Poverty Level,2014-2018 ACS Black Pop Below Poverty Level,9,0,,B17020Be2,acsracepov5
+237,ACSTRESTPOP,ACSBLKAPOV,2014-2018 ACS Black-Inc at/Above Poverty Level,2014-2018 ACS Black Pop at/Above Poverty Level,9,0,,B17020Be10,acsracepov6
+238,ACSTRESTPOP,ACSAIPOV,2014-2018 ACS Amer Indian-Poverty Determined,2014-2018 ACS American Indian Pop: Poverty Status is Determined,9,0,,B17020Ce1,acsracepov7
+239,ACSTRESTPOP,ACSAIBPOV,2014-2018 ACS Amer Indian-Inc Below Poverty Level,2014-2018 ACS American Indian Pop Below Poverty Level,9,0,,B17020Ce2,acsracepov8
+240,ACSTRESTPOP,ACSAIAPOV,2014-2018 ACS Amer Indian-Inc at/Above Poverty Level,2014-2018 ACS American Indian Pop at/Above Poverty Level,9,0,,B17020Ce10,acsracepov9
+241,ACSTRESTPOP,ACSASNPOV,2014-2018 ACS Asian-Poverty Determined,2014-2018 ACS Asian Pop: Poverty Status is Determined,9,0,,B17020De1,acsracepov10
+242,ACSTRESTPOP,ACSASNBPOV,2014-2018 ACS Asian-Inc Below Poverty Level,2014-2018 ACS Asian Pop Below Poverty Level,9,0,,B17020De2,acsracepov11
+243,ACSTRESTPOP,ACSASNAPOV,2014-2018 ACS Asian-Inc at/Above Poverty Level,2014-2018 ACS Asian Pop at/Above Poverty Level,9,0,,B17020De10,acsracepov12
+244,ACSTRESTPOP,ACSPIPOV,2014-2018 ACS Pac Islander-Poverty Determined,2014-2018 ACS Pacific Islander Pop: Poverty Status is Determined,9,0,,B17020Ee1,acsracepov13
+245,ACSTRESTPOP,ACSPIBPOV,2014-2018 ACS Pac Islander-Inc Below Poverty Level,2014-2018 ACS Pacific Islander Pop Below Poverty Level,9,0,,B17020Ee2,acsracepov14
+246,ACSTRESTPOP,ACSPIAPOV,2014-2018 ACS Pac Islander-Inc at/Above Poverty Level,2014-2018 ACS Pacific Islander Pop at/Above Poverty Level,9,0,,B17020Ee10,acsracepov15
+247,ACSTRESTPOP,ACSOTHPOV,2014-2018 ACS Other Race-Poverty Determined,2014-2018 ACS Other Race Pop: Poverty Status is Determined,9,0,,B17020Fe1,acsracepov16
+248,ACSTRESTPOP,ACSOTHBPOV,2014-2018 ACS Other Race-Inc Below Poverty Level,2014-2018 ACS Other Race Pop Below Poverty Level,9,0,,B17020Fe2,acsracepov17
+249,ACSTRESTPOP,ACSOTHAPOV,2014-2018 ACS Other Race-Inc at/Above Poverty Level,2014-2018 ACS Other Race Pop at/Above Poverty Level,9,0,,B17020Fe10,acsracepov18
+250,ACSTRESTPOP,ACSMLTPOV,2014-2018 ACS 2+ Races-Poverty Determined,2014-2018 ACS Multiple Races Pop: Poverty Status is Determined,9,0,,B17020Ge1,acsracepov19
+251,ACSTRESTPOP,ACSMLTBPOV,2014-2018 ACS 2+ Races-Inc Below Poverty Level,2014-2018 ACS Multiple Races Pop Below Poverty Level,9,0,,B17020Ge2,acsracepov20
+252,ACSTRESTPOP,ACSMLTAPOV,2014-2018 ACS 2+ Races-Inc at/Above Poverty Level,2014-2018 ACS Multiple Races Pop at/Above Poverty Level,9,0,,B17020Ge10,acsracepov21
+253,ACSTRESTPOP,ACSWNHPOV,2014-2018 ACS White Non-Hisp-Poverty Determined,2014-2018 ACS White Non-Hispanic Pop: Poverty Status is Determined,9,0,,B17020He1,acsracepov22
+254,ACSTRESTPOP,ACSWNHBPOV,2014-2018 ACS White Non-Hisp-Inc Below Poverty Level,2014-2018 ACS White Non-Hispanic Pop Below Poverty Level,9,0,,B17020He2,acsracepov23
+255,ACSTRESTPOP,ACSWNHAPOV,2014-2018 ACS White Non-Hisp-Inc at/Above Poverty Lvl,2014-2018 ACS White Non-Hispanic Pop w/Inc at/Above Poverty Level,9,0,,B17020He10,acsracepov24
+256,ACSTRESTPOP,ACSHSPPOV,2014-2018 ACS Hispanic-Poverty Determined,2014-2018 ACS Hispanic Pop: Poverty Status is Determined,9,0,,B17020Ie1,acsracepov25
+257,ACSTRESTPOP,ACSHSPBPOV,2014-2018 ACS Hispanic-Inc Below Poverty Level,2014-2018 ACS Hispanic Pop Below Poverty Level,9,0,,B17020Ie2,acsracepov26
+258,ACSTRESTPOP,ACSHSPAPOV,2014-2018 ACS Hispanic-Inc at/Above Poverty Level,2014-2018 ACS Hispanic Pop at/Above Poverty Level,9,0,,B17020Ie10,acsracepov27
+259,ACSTRESTHH,ACSFSBPOV,2014-2018 ACS HH Below Pov: Rcv Food Stamps/SNAP,2014-2018 ACS HHs Below Poverty that Received Food Stamps/SNAP,9,0,,B22003e3,acsSNAP1
+260,ACSTRESTHH,ACSFSAPOV,2014-2018 ACS HH at/Abv Pov: Rcv Food Stamps/SNAP,2014-2018 ACS HHs at/Above Poverty that Received Food Stamps/SNAP,9,0,,B22003e4,acsSNAP2
+261,ACSTRESTHH,ACSFSU18,2014-2018 ACS HH w/Pop <18: Rcv Food Stamps/SNAP,2014-2018 ACS HHs w/Population <18 that Received Food Stamps/SNAP,9,0,,B22002e3,acsSNAP3
+262,ACSTRESTHH,ACSFSNU18,2014-2018 ACS HH w/No Pop <18: Rcv Food Stamps/SNAP,2014-2018 ACS HHs w/No Population <18 that Received Food Stamps/SNAP,9,0,,B22002e9,acsSNAP4
+263,ACSTRESTHH,ACSFSP60,2014-2018 ACS HH w/Pop 60+: Rcv Food Stamps/SNAP,2014-2018 ACS HHs w/Population 60+ that Received Food Stamps/SNAP,9,0,,B22001e3,acsSNAP5
+264,ACSTRESTHH,ACSFSNP60,2014-2018 ACS HH w/No Pop 60+: Rcv Food Stamps/SNAP,2014-2018 ACS HHs w/No Population 60+ that Received Food Stamps/SNAP,9,0,,B22001e4,acsSNAP6
+265,ACSTRESTHH,ACSNFSBPOV,2014-2018 ACS HH Below Pov: No Food Stamps/SNAP,2014-2018 ACS HHs Below Poverty No Food Stamps/SNAP Received,9,0,,B22003e6,acsSNAP7
+266,ACSTRESTHH,ACSNFSAPOV,2014-2018 ACS HH at/Abv Pov: No Food Stamps/SNAP,2014-2018 ACS HHs at/Above Poverty No Food Stamps/SNAP Received,9,0,,B22003e7,acsSNAP8
+267,ACSTRESTHH,ACSNFSU18,2014-2018 ACS HH w/Pop <18: No Food Stamps/SNAP,2014-2018 ACS HHs w/Population <18 No Food Stamps/SNAP Received,9,0,,B22002e16,acsSNAP9
+268,ACSTRESTHH,ACSNFSNU18,2014-2018 ACS HH No Pop <18: No Food Stamps/SNAP,2014-2018 ACS HHs w/No Population <18 No Food Stamps/SNAP Received,9,0,,B22002e22,acsSNAP10
+269,ACSTRESTHH,ACSNFSP60,2014-2018 ACS HH w/Pop 60+: No Food Stamps/SNAP,2014-2018 ACS HHs w/Population 60+ No Food Stamps/SNAP Received,9,0,,B22001e6,acsSNAP11
+270,ACSTRESTHH,ACSNFSNP60,2014-2018 ACS HH No Pop 60+: No Food Stamps/SNAP,2014-2018 ACS HHs w/No Population 60+ No Food Stamps/SNAP Received,9,0,,B22001e7,acsSNAP12
+271,ACSTRESTHH,ACSMEDI1PH,2014-2018 ACS Median HH Income/1-Pers HH,2014-2018 ACS Median Household Income: 1-Person Households,9,0,YES,B19019e2,acsmedincsz1
+272,ACSTRESTHH,ACSMEDI2PH,2014-2018 ACS Median HH Income/2-Pers HH,2014-2018 ACS Median Household Income: 2-Person Households,9,0,YES,B19019e3,acsmedincsz2
+273,ACSTRESTHH,ACSMEDI3PH,2014-2018 ACS Median HH Income/3-Pers HH,2014-2018 ACS Median Household Income: 3-Person Households,9,0,YES,B19019e4,acsmedincsz3
+274,ACSTRESTHH,ACSMEDI4PH,2014-2018 ACS Median HH Income/4-Pers HH,2014-2018 ACS Median Household Income: 4-Person Households,9,0,YES,B19019e5,acsmedincsz4
+275,ACSTRESTHH,ACSMEDI5PH,2014-2018 ACS Median HH Income/5-Pers HH,2014-2018 ACS Median Household Income: 5-Person Households,9,0,YES,B19019e6,acsmedincsz5
+276,ACSTRESTHH,ACSMEDI6PH,2014-2018 ACS Median HH Income/6-Pers HH,2014-2018 ACS Median Household Income: 6-Person Households,9,0,YES,B19019e7,acsmedincsz6
+277,ACSTRESTHH,ACSMEDI7PH,2014-2018 ACS Median HH Income/7+Pers HH,2014-2018 ACS Median Household Income: 7+ Person Households,9,0,YES,B19019e8,acsmedincsz7
+278,ACSTRESTHH,ACSWHTHHR,2014-2018 ACS HH Income Base/White HHr,2014-2018 ACS Households with White Householder,9,0,,B19001Ae1,acsincrace1
+279,ACSTRESTHH,ACSWHTI0,2014-2018 ACS White HHr/Income <$10000,2014-2018 ACS Households with White HHr/Income <$10000,9,0,,B19001Ae2,acsincrace2
+280,ACSTRESTHH,ACSWHTI10,2014-2018 ACS White HHr/Income $10000-$14999,2014-2018 ACS Households with White HHr/Income $10000-$14999,9,0,,B19001Ae3,acsincrace3
+281,ACSTRESTHH,ACSWHTI15,2014-2018 ACS White HHr/Income $15000-$19999,2014-2018 ACS Households with White HHr/Income $15000-$19999,9,0,,B19001Ae4,acsincrace4
+282,ACSTRESTHH,ACSWHTI20,2014-2018 ACS White HHr/Income $20000-$24999,2014-2018 ACS Households with White HHr/Income $20000-$24999,9,0,,B19001Ae5,acsincrace5
+283,ACSTRESTHH,ACSWHTI25,2014-2018 ACS White HHr/Income $25000-$29999,2014-2018 ACS Households with White HHr/Income $25000-$29999,9,0,,B19001Ae6,acsincrace6
+284,ACSTRESTHH,ACSWHTI30,2014-2018 ACS White HHr/Income $30000-$34999,2014-2018 ACS Households with White HHr/Income $30000-$34999,9,0,,B19001Ae7,acsincrace7
+285,ACSTRESTHH,ACSWHTI35,2014-2018 ACS White HHr/Income $35000-$39999,2014-2018 ACS Households with White HHr/Income $35000-$39999,9,0,,B19001Ae8,acsincrace8
+286,ACSTRESTHH,ACSWHTI40,2014-2018 ACS White HHr/Income $40000-$44999,2014-2018 ACS Households with White HHr/Income $40000-$44999,9,0,,B19001Ae9,acsincrace9
+287,ACSTRESTHH,ACSWHTI45,2014-2018 ACS White HHr/Income $45000-$49999,2014-2018 ACS Households with White HHr/Income $45000-$49999,9,0,,B19001Ae10,acsincrace10
+288,ACSTRESTHH,ACSWHTI50,2014-2018 ACS White HHr/Income $50000-$59999,2014-2018 ACS Households with White HHr/Income $50000-$59999,9,0,,B19001Ae11,acsincrace11
+289,ACSTRESTHH,ACSWHTI60,2014-2018 ACS White HHr/Income $60000-$74999,2014-2018 ACS Households with White HHr/Income $60000-$74999,9,0,,B19001Ae12,acsincrace12
+290,ACSTRESTHH,ACSWHTI75,2014-2018 ACS White HHr/Income $75000-$99999,2014-2018 ACS Households with White HHr/Income $75000-$99999,9,0,,B19001Ae13,acsincrace13
+291,ACSTRESTHH,ACSWHTI100,2014-2018 ACS White HHr/Income $100000-$124999,2014-2018 ACS Households with White HHr/Income $100000-$124999,9,0,,B19001Ae14,acsincrace14
+292,ACSTRESTHH,ACSWHTI125,2014-2018 ACS White HHr/Income $125000-$149999,2014-2018 ACS Households with White HHr/Income $125000-$149999,9,0,,B19001Ae15,acsincrace15
+293,ACSTRESTHH,ACSWHTI150,2014-2018 ACS White HHr/Income $150000-$199999,2014-2018 ACS Households with White HHr/Income $150000-$199999,9,0,,B19001Ae16,acsincrace16
+294,ACSTRESTHH,ACSWHTI200,2014-2018 ACS White HHr/Income $200000+,2014-2018 ACS Households with White HHr/Income $200000+,9,0,,B19001Ae17,acsincrace17
+295,ACSTRESTHH,ACSMEDWHTI,2014-2018 ACS Median HH Income/White HHr,2014-2018 ACS Median Household Income: White Householder,9,0,YES,B19013Ae1,acsmedincrace1
+296,ACSTRESTHH,ACSAGGWHTI,2014-2018 ACS Aggr HH Income/White HHr,2014-2018 ACS Aggregate Household Income: White Householder,15,0,YES,B19025Ae1,acsaggincrace1
+297,ACSTRESTHH,ACSBLKHHR,2014-2018 ACS HH Income Base/Black HHr,2014-2018 ACS Households with Black Householder,9,0,,B19001Be1,acsincrace18
+298,ACSTRESTHH,ACSBLKI0,2014-2018 ACS Black HHr/Inc <$10000,2014-2018 ACS Households with Black HHr/Income <$10000,9,0,,B19001Be2,acsincrace19
+299,ACSTRESTHH,ACSBLKI10,2014-2018 ACS Black HHr/Inc $10K-14999,2014-2018 ACS Households with Black HHr/Income $10000-$14999,9,0,,B19001Be3,acsincrace20
+300,ACSTRESTHH,ACSBLKI15,2014-2018 ACS Black HHr/Inc $15K-19999,2014-2018 ACS Households with Black HHr/Income $15000-$19999,9,0,,B19001Be4,acsincrace21
+301,ACSTRESTHH,ACSBLKI20,2014-2018 ACS Black HHr/Inc $20K-24999,2014-2018 ACS Households with Black HHr/Income $20000-$24999,9,0,,B19001Be5,acsincrace22
+302,ACSTRESTHH,ACSBLKI25,2014-2018 ACS Black HHr/Inc $25K-29999,2014-2018 ACS Households with Black HHr/Income $25000-$29999,9,0,,B19001Be6,acsincrace23
+303,ACSTRESTHH,ACSBLKI30,2014-2018 ACS Black HHr/Inc $30K-34999,2014-2018 ACS Households with Black HHr/Income $30000-$34999,9,0,,B19001Be7,acsincrace24
+304,ACSTRESTHH,ACSBLKI35,2014-2018 ACS Black HHr/Inc $35K-39999,2014-2018 ACS Households with Black HHr/Income $35000-$39999,9,0,,B19001Be8,acsincrace25
+305,ACSTRESTHH,ACSBLKI40,2014-2018 ACS Black HHr/Inc $40K-44999,2014-2018 ACS Households with Black HHr/Income $40000-$44999,9,0,,B19001Be9,acsincrace26
+306,ACSTRESTHH,ACSBLKI45,2014-2018 ACS Black HHr/Inc $45K-49999,2014-2018 ACS Households with Black HHr/Income $45000-$49999,9,0,,B19001Be10,acsincrace27
+307,ACSTRESTHH,ACSBLKI50,2014-2018 ACS Black HHr/Inc $50K-59999,2014-2018 ACS Households with Black HHr/Income $50000-$59999,9,0,,B19001Be11,acsincrace28
+308,ACSTRESTHH,ACSBLKI60,2014-2018 ACS Black HHr/Inc $60K-74999,2014-2018 ACS Households with Black HHr/Income $60000-$74999,9,0,,B19001Be12,acsincrace29
+309,ACSTRESTHH,ACSBLKI75,2014-2018 ACS Black HHr/Inc $75K-99999,2014-2018 ACS Households with Black HHr/Income $75000-$99999,9,0,,B19001Be13,acsincrace30
+310,ACSTRESTHH,ACSBLKI100,2014-2018 ACS Black HHr/Inc $100K-124999,2014-2018 ACS Households with Black HHr/Income $100000-$124999,9,0,,B19001Be14,acsincrace31
+311,ACSTRESTHH,ACSBLKI125,2014-2018 ACS Black HHr/Inc $125K-149999,2014-2018 ACS Households with Black HHr/Income $125000-$149999,9,0,,B19001Be15,acsincrace32
+312,ACSTRESTHH,ACSBLKI150,2014-2018 ACS Black HHr/Inc $150K-199999,2014-2018 ACS Households with Black HHr/Income $150000-$199999,9,0,,B19001Be16,acsincrace33
+313,ACSTRESTHH,ACSBLKI200,2014-2018 ACS Black HHr/Inc $200000+,2014-2018 ACS Households with Black HHr/Income $200000+,9,0,,B19001Be17,acsincrace34
+314,ACSTRESTHH,ACSMEDBLKI,2014-2018 ACS Median HH Income/Black HHr,2014-2018 ACS Median Household Income: Black Householder,9,0,YES,B19013Be1,acsmedincrace2
+315,ACSTRESTHH,ACSAGGBLKI,2014-2018 ACS Aggr HH Income/Black HHr,2014-2018 ACS Aggregate Household Income: Black Householder,15,0,YES,B19025Be1,acsaggincrace2
+316,ACSTRESTHH,ACSAIHHR,2014-2018 ACS HH Inc Base/Amer Indian HHr,2014-2018 ACS Households with American Indian Householder,9,0,,B19001Ce1,acsincrace35
+317,ACSTRESTHH,ACSAII0,2014-2018 ACS AI HHr/Inc <$10000,2014-2018 ACS Households w/Amer Indian HHr/Income <$10000,9,0,,B19001Ce2,acsincrace36
+318,ACSTRESTHH,ACSAII10,2014-2018 ACS Amer Indian  HHr/Inc $10K-14999,2014-2018 ACS Households w/Amer Indian HHr/Income $10000-$14999,9,0,,B19001Ce3,acsincrace37
+319,ACSTRESTHH,ACSAII15,2014-2018 ACS Amer Indian  HHr/Inc $15K-19999,2014-2018 ACS Households w/Amer Indian HHr/Income $15000-$19999,9,0,,B19001Ce4,acsincrace38
+320,ACSTRESTHH,ACSAII20,2014-2018 ACS Amer Indian  HHr/Inc $20K-24999,2014-2018 ACS Households w/Amer Indian HHr/Income $20000-$24999,9,0,,B19001Ce5,acsincrace39
+321,ACSTRESTHH,ACSAII25,2014-2018 ACS Amer Indian  HHr/Inc $25K-29999,2014-2018 ACS Households w/Amer Indian HHr/Income $25000-$29999,9,0,,B19001Ce6,acsincrace40
+322,ACSTRESTHH,ACSAII30,2014-2018 ACS Amer Indian  HHr/Inc $30K-34999,2014-2018 ACS Households w/Amer Indian HHr/Income $30000-$34999,9,0,,B19001Ce7,acsincrace41
+323,ACSTRESTHH,ACSAII35,2014-2018 ACS Amer Indian  HHr/Inc $35K-39999,2014-2018 ACS Households w/Amer Indian HHr/Income $35000-$39999,9,0,,B19001Ce8,acsincrace42
+324,ACSTRESTHH,ACSAII40,2014-2018 ACS Amer Indian  HHr/Inc $40K-44999,2014-2018 ACS Households w/Amer Indian HHr/Income $40000-$44999,9,0,,B19001Ce9,acsincrace43
+325,ACSTRESTHH,ACSAII45,2014-2018 ACS Amer Indian  HHr/Inc $45K-49999,2014-2018 ACS Households w/Amer Indian HHr/Income $45000-$49999,9,0,,B19001Ce10,acsincrace44
+326,ACSTRESTHH,ACSAII50,2014-2018 ACS Amer Indian  HHr/Inc $50K-59999,2014-2018 ACS Households w/Amer Indian HHr/Income $50000-$59999,9,0,,B19001Ce11,acsincrace45
+327,ACSTRESTHH,ACSAII60,2014-2018 ACS Amer Indian  HHr/Inc $60K-74999,2014-2018 ACS Households w/Amer Indian HHr/Income $60000-$74999,9,0,,B19001Ce12,acsincrace46
+328,ACSTRESTHH,ACSAII75,2014-2018 ACS Amer Indian  HHr/Inc $75K-99999,2014-2018 ACS Households w/Amer Indian HHr/Income $75000-$99999,9,0,,B19001Ce13,acsincrace47
+329,ACSTRESTHH,ACSAII100,2014-2018 ACS Amer Indian  HHr/Inc $100K-124999,2014-2018 ACS Households w/Amer Indian HHr/Income $100000-$124999,9,0,,B19001Ce14,acsincrace48
+330,ACSTRESTHH,ACSAII125,2014-2018 ACS Amer Indian  HHr/Inc $125K-149999,2014-2018 ACS Households w/Amer Indian HHr/Income $125000-$149999,9,0,,B19001Ce15,acsincrace49
+331,ACSTRESTHH,ACSAII150,2014-2018 ACS Amer Indian  HHr/Inc $150K-199999,2014-2018 ACS Households w/Amer Indian HHr/Income $150000-$199999,9,0,,B19001Ce16,acsincrace50
+332,ACSTRESTHH,ACSAII200,2014-2018 ACS Amer Indian  HHr/Inc $200000+,2014-2018 ACS Households w/Amer Indian HHr/Income $200000+,9,0,,B19001Ce17,acsincrace51
+333,ACSTRESTHH,ACSMEDAII,2014-2018 ACS Median HH Inc/Amer Indian HHr,2014-2018 ACS Median Household Income: American Indian Householder,9,0,YES,B19013Ce1,acsmedincrace3
+334,ACSTRESTHH,ACSAGGAII,2014-2018 ACS Aggr HH Inc/Amer Indian HHr,2014-2018 ACS Aggregate Household Income: American Indian Householder,15,0,YES,B19025Ce1,acsaggincrace3
+335,ACSTRESTHH,ACSASNHHR,2014-2018 ACS HH Income Base/Asian HHr,2014-2018 ACS Households with Asian Householder,9,0,,B19001De1,acsincrace52
+336,ACSTRESTHH,ACSASNI0,2014-2018 ACS Asian HHr/Inc <$10000,2014-2018 ACS Households with Asian HHr/Income <$10000,9,0,,B19001De2,acsincrace53
+337,ACSTRESTHH,ACSASNI10,2014-2018 ACS Asian HHr/Inc $10K-14999,2014-2018 ACS Households with Asian HHr/Income $10000-$14999,9,0,,B19001De3,acsincrace54
+338,ACSTRESTHH,ACSASNI15,2014-2018 ACS Asian HHr/Inc $15K-19999,2014-2018 ACS Households with Asian HHr/Income $15000-$19999,9,0,,B19001De4,acsincrace55
+339,ACSTRESTHH,ACSASNI20,2014-2018 ACS Asian HHr/Inc $20K-24999,2014-2018 ACS Households with Asian HHr/Income $20000-$24999,9,0,,B19001De5,acsincrace56
+340,ACSTRESTHH,ACSASNI25,2014-2018 ACS Asian HHr/Inc $25K-29999,2014-2018 ACS Households with Asian HHr/Income $25000-$29999,9,0,,B19001De6,acsincrace57
+341,ACSTRESTHH,ACSASNI30,2014-2018 ACS Asian HHr/Inc $30K-34999,2014-2018 ACS Households with Asian HHr/Income $30000-$34999,9,0,,B19001De7,acsincrace58
+342,ACSTRESTHH,ACSASNI35,2014-2018 ACS Asian HHr/Inc $35K-39999,2014-2018 ACS Households with Asian HHr/Income $35000-$39999,9,0,,B19001De8,acsincrace59
+343,ACSTRESTHH,ACSASNI40,2014-2018 ACS Asian HHr/Inc $40K-44999,2014-2018 ACS Households with Asian HHr/Income $40000-$44999,9,0,,B19001De9,acsincrace60
+344,ACSTRESTHH,ACSASNI45,2014-2018 ACS Asian HHr/Inc $45K-49999,2014-2018 ACS Households with Asian HHr/Income $45000-$49999,9,0,,B19001De10,acsincrace61
+345,ACSTRESTHH,ACSASNI50,2014-2018 ACS Asian HHr/Inc $50K-59999,2014-2018 ACS Households with Asian HHr/Income $50000-$59999,9,0,,B19001De11,acsincrace62
+346,ACSTRESTHH,ACSASNI60,2014-2018 ACS Asian HHr/Inc $60K-74999,2014-2018 ACS Households with Asian HHr/Income $60000-$74999,9,0,,B19001De12,acsincrace63
+347,ACSTRESTHH,ACSASNI75,2014-2018 ACS Asian HHr/Inc $75K-99999,2014-2018 ACS Households with Asian HHr/Income $75000-$99999,9,0,,B19001De13,acsincrace64
+348,ACSTRESTHH,ACSASNI100,2014-2018 ACS Asian HHr/Inc $100K-124999,2014-2018 ACS Households with Asian HHr/Income $100000-$124999,9,0,,B19001De14,acsincrace65
+349,ACSTRESTHH,ACSASNI125,2014-2018 ACS Asian HHr/Inc $125K-149999,2014-2018 ACS Households with Asian HHr/Income $125000-$149999,9,0,,B19001De15,acsincrace66
+350,ACSTRESTHH,ACSASNI150,2014-2018 ACS Asian HHr/Inc $150K-199999,2014-2018 ACS Households with Asian HHr/Income $150000-$199999,9,0,,B19001De16,acsincrace67
+351,ACSTRESTHH,ACSASNI200,2014-2018 ACS Asian HHr/Inc $200000+,2014-2018 ACS Households with Asian HHr/Income $200000+,9,0,,B19001De17,acsincrace68
+352,ACSTRESTHH,ACSMEDASNI,2014-2018 ACS Median HH Income/Asian HHr,2014-2018 ACS Median Household Income: Asian Householder,9,0,YES,B19013De1,acsmedincrace4
+353,ACSTRESTHH,ACSAGGASNI,2014-2018 ACS Aggr HH Income/Asian HHr,2014-2018 ACS Aggregate Household Income: Asian Householder,15,0,YES,B19025De1,acsaggincrace4
+354,ACSTRESTHH,ACSPIHHR,2014-2018 ACS HH Income Base/Pac Islander HHr,2014-2018 ACS Households with Pacific Islander Householder,9,0,,B19001Ee1,acsincrace69
+355,ACSTRESTHH,ACSPII0,2014-2018 ACS Pac Islander HHr/Inc <$10000,2014-2018 ACS Households w/Pacific Islander HHr/Income <$10000,9,0,,B19001Ee2,acsincrace70
+356,ACSTRESTHH,ACSPII10,2014-2018 ACS Pac Islander HHr/Inc $10K-14999,2014-2018 ACS Households w/Pacific Islander HHr/Income $10000-$14999,9,0,,B19001Ee3,acsincrace71
+357,ACSTRESTHH,ACSPII15,2014-2018 ACS Pac Islander HHr/Inc $15K-19999,2014-2018 ACS Households w/Pacific Islander HHr/Income $15000-$19999,9,0,,B19001Ee4,acsincrace72
+358,ACSTRESTHH,ACSPII20,2014-2018 ACS Pac Islander HHr/Inc $20K-24999,2014-2018 ACS Households w/Pacific Islander HHr/Income $20000-$24999,9,0,,B19001Ee5,acsincrace73
+359,ACSTRESTHH,ACSPII25,2014-2018 ACS Pac Islander HHr/Inc $25K-29999,2014-2018 ACS Households w/Pacific Islander HHr/Income $25000-$29999,9,0,,B19001Ee6,acsincrace74
+360,ACSTRESTHH,ACSPII30,2014-2018 ACS Pac Islander HHr/Inc $30K-34999,2014-2018 ACS Households w/Pacific Islander HHr/Income $30000-$34999,9,0,,B19001Ee7,acsincrace75
+361,ACSTRESTHH,ACSPII35,2014-2018 ACS Pac Islander HHr/Inc $35K-39999,2014-2018 ACS Households w/Pacific Islander HHr/Income $35000-$39999,9,0,,B19001Ee8,acsincrace76
+362,ACSTRESTHH,ACSPII40,2014-2018 ACS Pac Islander HHr/Inc $40K-44999,2014-2018 ACS Households w/Pacific Islander HHr/Income $40000-$44999,9,0,,B19001Ee9,acsincrace77
+363,ACSTRESTHH,ACSPII45,2014-2018 ACS Pac Islander HHr/Inc $45K-49999,2014-2018 ACS Households w/Pacific Islander HHr/Income $45000-$49999,9,0,,B19001Ee10,acsincrace78
+364,ACSTRESTHH,ACSPII50,2014-2018 ACS Pac Islander HHr/Inc $50K-59999,2014-2018 ACS Households w/Pacific Islander HHr/Income $50000-$59999,9,0,,B19001Ee11,acsincrace79
+365,ACSTRESTHH,ACSPII60,2014-2018 ACS Pac Islander HHr/Inc $60K-74999,2014-2018 ACS Households w/Pacific Islander HHr/Income $60000-$74999,9,0,,B19001Ee12,acsincrace80
+366,ACSTRESTHH,ACSPII75,2014-2018 ACS Pac Islander HHr/Inc $75K-99999,2014-2018 ACS Households w/Pacific Islander HHr/Income $75000-$99999,9,0,,B19001Ee13,acsincrace81
+367,ACSTRESTHH,ACSPII100,2014-2018 ACS Pac Islander HHr/Inc $100K-124999,2014-2018 ACS Households w/Pacific Islander HHr/Income $100000-$124999,9,0,,B19001Ee14,acsincrace82
+368,ACSTRESTHH,ACSPII125,2014-2018 ACS Pac Islander HHr/Inc $125K-149999,2014-2018 ACS Households w/Pacific Islander HHr/Income $125000-$149999,9,0,,B19001Ee15,acsincrace83
+369,ACSTRESTHH,ACSPII150,2014-2018 ACS Pac Islander HHr/Inc $150K-199999,2014-2018 ACS Households w/Pacific Islander HHr/Income $150000-$199999,9,0,,B19001Ee16,acsincrace84
+370,ACSTRESTHH,ACSPII200,2014-2018 ACS Pac Islander HHr/Inc $200000+,2014-2018 ACS Households w/Pacific Islander HHr/Income $200000+,9,0,,B19001Ee17,acsincrace85
+371,ACSTRESTHH,ACSMEDPII,2014-2018 ACS Median HH Inc/Pac Islander HHr,2014-2018 ACS Median Household Income: Pacific Islander Householder,9,0,YES,B19013Ee1,acsmedincrace5
+372,ACSTRESTHH,ACSAGGPII,2014-2018 ACS Aggr HH Income/Pac Islander HHr,2014-2018 ACS Aggregate Household Income: Pacific Islander Householder,15,0,YES,B19025Ee1,acsaggincrace5
+373,ACSTRESTHH,ACSOTHHHR,2014-2018 ACS HH Inc Base/Other Race HHr,2014-2018 ACS Households with Other Race Householder,9,0,,B19001Fe1,acsincrace86
+374,ACSTRESTHH,ACSOTHI0,2014-2018 ACS Other Race HHr/Inc <$10000,2014-2018 ACS Households w/Other Race HHr/Income <$10000,9,0,,B19001Fe2,acsincrace87
+375,ACSTRESTHH,ACSOTHI10,2014-2018 ACS Other Race HHr/Inc $10K-14999,2014-2018 ACS Households w/Other Race HHr/Income $10000-$14999,9,0,,B19001Fe3,acsincrace88
+376,ACSTRESTHH,ACSOTHI15,2014-2018 ACS Other Race HHr/Inc $15K-19999,2014-2018 ACS Households w/Other Race HHr/Income $15000-$19999,9,0,,B19001Fe4,acsincrace89
+377,ACSTRESTHH,ACSOTHI20,2014-2018 ACS Other Race HHr/Inc $20K-24999,2014-2018 ACS Households w/Other Race HHr/Income $20000-$24999,9,0,,B19001Fe5,acsincrace90
+378,ACSTRESTHH,ACSOTHI25,2014-2018 ACS Other Race HHr/Inc $25K-29999,2014-2018 ACS Households w/Other Race HHr/Income $25000-$29999,9,0,,B19001Fe6,acsincrace91
+379,ACSTRESTHH,ACSOTHI30,2014-2018 ACS Other Race HHr/Inc $30K-34999,2014-2018 ACS Households w/Other Race HHr/Income $30000-$34999,9,0,,B19001Fe7,acsincrace92
+380,ACSTRESTHH,ACSOTHI35,2014-2018 ACS Other Race HHr/Inc $35K-39999,2014-2018 ACS Households w/Other Race HHr/Income $35000-$39999,9,0,,B19001Fe8,acsincrace93
+381,ACSTRESTHH,ACSOTHI40,2014-2018 ACS Other Race HHr/Inc $40K-44999,2014-2018 ACS Households w/Other Race HHr/Income $40000-$44999,9,0,,B19001Fe9,acsincrace94
+382,ACSTRESTHH,ACSOTHI45,2014-2018 ACS Other Race HHr/Inc $45K-49999,2014-2018 ACS Households w/Other Race HHr/Income $45000-$49999,9,0,,B19001Fe10,acsincrace95
+383,ACSTRESTHH,ACSOTHI50,2014-2018 ACS Other Race HHr/Inc $50K-59999,2014-2018 ACS Households w/Other Race HHr/Income $50000-$59999,9,0,,B19001Fe11,acsincrace96
+384,ACSTRESTHH,ACSOTHI60,2014-2018 ACS Other Race HHr/Inc $60K-74999,2014-2018 ACS Households w/Other Race HHr/Income $60000-$74999,9,0,,B19001Fe12,acsincrace97
+385,ACSTRESTHH,ACSOTHI75,2014-2018 ACS Other Race HHr/Inc $75K-99999,2014-2018 ACS Households w/Other Race HHr/Income $75000-$99999,9,0,,B19001Fe13,acsincrace98
+386,ACSTRESTHH,ACSOTHI100,2014-2018 ACS Other Race HHr/Inc $100K-124999,2014-2018 ACS Households w/Other Race HHr/Income $100000-$124999,9,0,,B19001Fe14,acsincrace99
+387,ACSTRESTHH,ACSOTHI125,2014-2018 ACS Other Race HHr/Inc $125K-149999,2014-2018 ACS Households w/Other Race HHr/Income $125000-$149999,9,0,,B19001Fe15,acsincrace100
+388,ACSTRESTHH,ACSOTHI150,2014-2018 ACS Other Race HHr/Inc $150K-199999,2014-2018 ACS Households w/Other Race HHr/Income $150000-$199999,9,0,,B19001Fe16,acsincrace101
+389,ACSTRESTHH,ACSOTHI200,2014-2018 ACS Other Race HHr/Inc $200000+,2014-2018 ACS Households w/Other Race HHr/Income $200000+,9,0,,B19001Fe17,acsincrace102
+390,ACSTRESTHH,ACSMEDOTHI,2014-2018 ACS Median HH Inc/Other Race HHr,2014-2018 ACS Median Household Income: Other Race Householder,9,0,YES,B19013Fe1,acsmedincrace6
+391,ACSTRESTHH,ACSAGGOTHI,2014-2018 ACS Aggr HH Inc/Other Race HHr,2014-2018 ACS Aggregate Household Income: Other Race Householder,15,0,YES,B19025Fe1,acsaggincrace6
+392,ACSTRESTHH,ACSMLTHHR,2014-2018 ACS HH Inc Base/2+ Races HHr,2014-2018 ACS Households with Multiple Races Householder,9,0,,B19001Ge1,acsincrace103
+393,ACSTRESTHH,ACSMLTI0,2014-2018 ACS 2+ Races HHr/Inc <$10000,2014-2018 ACS Households w/Multiple Races HHr/Income <$10000,9,0,,B19001Ge2,acsincrace104
+394,ACSTRESTHH,ACSMLTI10,2014-2018 ACS 2+ Races HHr/Inc $10K-14999,2014-2018 ACS Households w/Multiple Races HHr/Income $10000-$14999,9,0,,B19001Ge3,acsincrace105
+395,ACSTRESTHH,ACSMLTI15,2014-2018 ACS 2+ Races HHr/Inc $15K-19999,2014-2018 ACS Households w/Multiple Races HHr/Income $15000-$19999,9,0,,B19001Ge4,acsincrace106
+396,ACSTRESTHH,ACSMLTI20,2014-2018 ACS 2+ Races HHr/Inc $20K-24999,2014-2018 ACS Households w/Multiple Races HHr/Income $20000-$24999,9,0,,B19001Ge5,acsincrace107
+397,ACSTRESTHH,ACSMLTI25,2014-2018 ACS 2+ Races HHr/Inc $25K-29999,2014-2018 ACS Households w/Multiple Races HHr/Income $25000-$29999,9,0,,B19001Ge6,acsincrace108
+398,ACSTRESTHH,ACSMLTI30,2014-2018 ACS 2+ Races HHr/Inc $30K-34999,2014-2018 ACS Households w/Multiple Races HHr/Income $30000-$34999,9,0,,B19001Ge7,acsincrace109
+399,ACSTRESTHH,ACSMLTI35,2014-2018 ACS 2+ Races HHr/Inc $35K-39999,2014-2018 ACS Households w/Multiple Races HHr/Income $35000-$39999,9,0,,B19001Ge8,acsincrace110
+400,ACSTRESTHH,ACSMLTI40,2014-2018 ACS 2+ Races HHr/Inc $40K-44999,2014-2018 ACS Households w/Multiple Races HHr/Income $40000-$44999,9,0,,B19001Ge9,acsincrace111
+401,ACSTRESTHH,ACSMLTI45,2014-2018 ACS 2+ Races HHr/Inc $45K-49999,2014-2018 ACS Households w/Multiple Races HHr/Income $45000-$49999,9,0,,B19001Ge10,acsincrace112
+402,ACSTRESTHH,ACSMLTI50,2014-2018 ACS 2+ Races HHr/Inc $50K-59999,2014-2018 ACS Households w/Multiple Races HHr/Income $50000-$59999,9,0,,B19001Ge11,acsincrace113
+403,ACSTRESTHH,ACSMLTI60,2014-2018 ACS 2+ Races HHr/Inc $60K-74999,2014-2018 ACS Households w/Multiple Races HHr/Income $60000-$74999,9,0,,B19001Ge12,acsincrace114
+404,ACSTRESTHH,ACSMLTI75,2014-2018 ACS 2+ Races HHr/Inc $75K-99999,2014-2018 ACS Households w/Multiple Races HHr/Income $75000-$99999,9,0,,B19001Ge13,acsincrace115
+405,ACSTRESTHH,ACSMLTI100,2014-2018 ACS 2+ Races HHr/Inc $100K-124999,2014-2018 ACS Households w/Multiple Races HHr/Income $100000-$124999,9,0,,B19001Ge14,acsincrace116
+406,ACSTRESTHH,ACSMLTI125,2014-2018 ACS 2+ Races HHr/Inc $125K-149999,2014-2018 ACS Households w/Multiple Races HHr/Income $125000-$149999,9,0,,B19001Ge15,acsincrace117
+407,ACSTRESTHH,ACSMLTI150,2014-2018 ACS 2+ Races HHr/Inc $150K-199999,2014-2018 ACS Households w/Multiple Races HHr/Income $150000-$199999,9,0,,B19001Ge16,acsincrace118
+408,ACSTRESTHH,ACSMLTI200,2014-2018 ACS 2+ Races HHr/Inc $200000+,2014-2018 ACS Households w/Multiple Races HHr/Income $200000+,9,0,,B19001Ge17,acsincrace119
+409,ACSTRESTHH,ACSMEDMLTI,2014-2018 ACS Median HH Inc/2+ Races HHr,2014-2018 ACS Median Household Income: Multiple Races Householder,9,0,YES,B19013Ge1,acsmedincrace7
+410,ACSTRESTHH,ACSAGGMLTI,2014-2018 ACS Aggr HH Inc/2+ Races HHr,2014-2018 ACS Aggregate Household Income: Multiple Races Householder,15,0,YES,B19025Ge1,acsaggincrace7
+411,ACSTRESTHH,ACSWNHHHR,2014-2018 ACS HH Inc Base/White Non-Hisp HHr,2014-2018 ACS Households with White Non-Hispanic Householder,9,0,,B19001He1,acsincrace120
+412,ACSTRESTHH,ACSWNHI0,2014-2018 ACS White Non-Hisp HHr/Inc <$10000,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc <$10000,9,0,,B19001He2,acsincrace121
+413,ACSTRESTHH,ACSWNHI10,2014-2018 ACS White Non-Hisp HHr/Inc $10K-14999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $10000-$14999,9,0,,B19001He3,acsincrace122
+414,ACSTRESTHH,ACSWNHI15,2014-2018 ACS White Non-Hisp HHr/Inc $15K-19999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $15000-$19999,9,0,,B19001He4,acsincrace123
+415,ACSTRESTHH,ACSWNHI20,2014-2018 ACS White Non-Hisp HHr/Inc $20K-24999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $20000-$24999,9,0,,B19001He5,acsincrace124
+416,ACSTRESTHH,ACSWNHI25,2014-2018 ACS White Non-Hisp HHr/Inc $25K-29999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $25000-$29999,9,0,,B19001He6,acsincrace125
+417,ACSTRESTHH,ACSWNHI30,2014-2018 ACS White Non-Hisp HHr/Inc $30K-34999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $30000-$34999,9,0,,B19001He7,acsincrace126
+418,ACSTRESTHH,ACSWNHI35,2014-2018 ACS White Non-Hisp HHr/Inc $35K-39999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $35000-$39999,9,0,,B19001He8,acsincrace127
+419,ACSTRESTHH,ACSWNHI40,2014-2018 ACS White Non-Hisp HHr/Inc $40K-44999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $40000-$44999,9,0,,B19001He9,acsincrace128
+420,ACSTRESTHH,ACSWNHI45,2014-2018 ACS White Non-Hisp HHr/Inc $45K-49999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $45000-$49999,9,0,,B19001He10,acsincrace129
+421,ACSTRESTHH,ACSWNHI50,2014-2018 ACS White Non-Hisp HHr/Inc $50K-59999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $50000-$59999,9,0,,B19001He11,acsincrace130
+422,ACSTRESTHH,ACSWNHI60,2014-2018 ACS White Non-Hisp HHr/Inc $60K-74999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $60000-$74999,9,0,,B19001He12,acsincrace131
+423,ACSTRESTHH,ACSWNHI75,2014-2018 ACS White Non-Hisp HHr/Inc $75K-99999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $75000-$99999,9,0,,B19001He13,acsincrace132
+424,ACSTRESTHH,ACSWNHI100,2014-2018 ACS White Non-Hisp HHr/Inc $100K-124999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $100000-$124999,9,0,,B19001He14,acsincrace133
+425,ACSTRESTHH,ACSWNHI125,2014-2018 ACS White Non-Hisp HHr/Inc $125K-149999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $125000-$149999,9,0,,B19001He15,acsincrace134
+426,ACSTRESTHH,ACSWNHI150,2014-2018 ACS White Non-Hisp HHr/Inc $150K-199999,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $150000-$199999,9,0,,B19001He16,acsincrace135
+427,ACSTRESTHH,ACSWNHI200,2014-2018 ACS White Non-Hisp HHr/Inc $200000+,2014-2018 ACS Households w/White Non-Hispanic HHr/Inc $200000+,9,0,,B19001He17,acsincrace136
+428,ACSTRESTHH,ACSMEDWNHI,2014-2018 ACS Median HH Inc/White Non-Hisp HHr,2014-2018 ACS Median Household Income: White Non-Hispanic Householder,9,0,YES,B19013He1,acsmedincrace8
+429,ACSTRESTHH,ACSAGGWNHI,2014-2018 ACS Aggr HH Inc/White Non-Hisp HHr,2014-2018 ACS Aggregate Household Income: White Non-Hispanic Householder,15,0,YES,B19025He1,acsaggincrace8
+430,ACSTRESTHH,ACSHSPHHR,2014-2018 ACS HH Income Base/Hispanic HHr,2014-2018 ACS Households with Hispanic Householder,9,0,,B19001Ie1,acsincrace137
+431,ACSTRESTHH,ACSHSPI0,2014-2018 ACS Hispanic HHr/Inc <$10000,2014-2018 ACS Households w/Hispanic HHr/Income <$10000,9,0,,B19001Ie2,acsincrace138
+432,ACSTRESTHH,ACSHSPI10,2014-2018 ACS Hispanic HHr/Inc $10K-14999,2014-2018 ACS Households w/Hispanic HHr/Income $10000-$14999,9,0,,B19001Ie3,acsincrace139
+433,ACSTRESTHH,ACSHSPI15,2014-2018 ACS Hispanic HHr/Inc $15K-19999,2014-2018 ACS Households w/Hispanic HHr/Income $15000-$19999,9,0,,B19001Ie4,acsincrace140
+434,ACSTRESTHH,ACSHSPI20,2014-2018 ACS Hispanic HHr/Inc $20K-24999,2014-2018 ACS Households w/Hispanic HHr/Income $20000-$24999,9,0,,B19001Ie5,acsincrace141
+435,ACSTRESTHH,ACSHSPI25,2014-2018 ACS Hispanic HHr/Inc $25K-29999,2014-2018 ACS Households w/Hispanic HHr/Income $25000-$29999,9,0,,B19001Ie6,acsincrace142
+436,ACSTRESTHH,ACSHSPI30,2014-2018 ACS Hispanic HHr/Inc $30K-34999,2014-2018 ACS Households w/Hispanic HHr/Income $30000-$34999,9,0,,B19001Ie7,acsincrace143
+437,ACSTRESTHH,ACSHSPI35,2014-2018 ACS Hispanic HHr/Inc $35K-39999,2014-2018 ACS Households w/Hispanic HHr/Income $35000-$39999,9,0,,B19001Ie8,acsincrace144
+438,ACSTRESTHH,ACSHSPI40,2014-2018 ACS Hispanic HHr/Inc $40K-44999,2014-2018 ACS Households w/Hispanic HHr/Income $40000-$44999,9,0,,B19001Ie9,acsincrace145
+439,ACSTRESTHH,ACSHSPI45,2014-2018 ACS Hispanic HHr/Inc $45K-49999,2014-2018 ACS Households w/Hispanic HHr/Income $45000-$49999,9,0,,B19001Ie10,acsincrace146
+440,ACSTRESTHH,ACSHSPI50,2014-2018 ACS Hispanic HHr/Inc $50K-59999,2014-2018 ACS Households w/Hispanic HHr/Income $50000-$59999,9,0,,B19001Ie11,acsincrace147
+441,ACSTRESTHH,ACSHSPI60,2014-2018 ACS Hispanic HHr/Inc $60K-74999,2014-2018 ACS Households w/Hispanic HHr/Income $60000-$74999,9,0,,B19001Ie12,acsincrace148
+442,ACSTRESTHH,ACSHSPI75,2014-2018 ACS Hispanic HHr/Inc $75K-99999,2014-2018 ACS Households w/Hispanic HHr/Income $75000-$99999,9,0,,B19001Ie13,acsincrace149
+443,ACSTRESTHH,ACSHSPI100,2014-2018 ACS Hispanic HHr/Inc $100K-124999,2014-2018 ACS Households w/Hispanic HHr/Income $100000-$124999,9,0,,B19001Ie14,acsincrace150
+444,ACSTRESTHH,ACSHSPI125,2014-2018 ACS Hispanic HHr/Inc $125K-149999,2014-2018 ACS Households w/Hispanic HHr/Income $125000-$149999,9,0,,B19001Ie15,acsincrace151
+445,ACSTRESTHH,ACSHSPI150,2014-2018 ACS Hispanic HHr/Inc $150K-199999,2014-2018 ACS Households w/Hispanic HHr/Income $150000-$199999,9,0,,B19001Ie16,acsincrace152
+446,ACSTRESTHH,ACSHSPI200,2014-2018 ACS Hispanic HHr/Inc $200000+,2014-2018 ACS Households w/Hispanic HHr/Income $200000+,9,0,,B19001Ie17,acsincrace153
+447,ACSTRESTHH,ACSMEDHSPI,2014-2018 ACS Median HH Income/Hispanic HHr,2014-2018 ACS Median Household Income: Hispanic Householder,9,0,YES,B19013Ie1,acsmedincrace9
+448,ACSTRESTHH,ACSAGGHSPI,2014-2018 ACS Aggr HH Income/Hispanic HHr,2014-2018 ACS Aggregate Household Income: Hispanic Householder,15,0,YES,B19025Ie1,acsaggincrace9
+449,ACSTRESTHH,ACSEARN0,2014-2018 ACS Family Households: No Earners,2014-2018 ACS Family Households with No Earners,9,0,,B19122e2,acsearn1
+450,ACSTRESTHH,ACSEARN1,2014-2018 ACS Family Households: 1 Earner,2014-2018 ACS Family Households with 1 Earner,9,0,,B19122e3,acsearn2
+451,ACSTRESTHH,ACSEARN2,2014-2018 ACS Family Households: 2 Earners,2014-2018 ACS Family Households with 2 Earners,9,0,,B19122e4,acsearn3
+452,ACSTRESTHH,ACSEARN3,2014-2018 ACS Family Households: 3+ Earners,2014-2018 ACS Family Households with 3+ Earners,9,0,,B19122e5,acsearn4
+453,ACSTRMOEPOP,MOENATIVE,2014-2018 MOE Native Born Population,2014-2018 MOE Native Born Population,9,0,,B05002m2,moeborn1
+454,ACSTRMOEPOP,MOEBORNRES,2014-2018 MOE Native/Born in State of Residence,2014-2018 MOE Native Population Born in State of Residence,9,0,,B05002m3,moeborn2
+455,ACSTRMOEPOP,MOEBORNOST,2014-2018 MOE Native/Born in Other State,2014-2018 MOE Native Population Born in Other State,9,0,,B05002m4,moeborn3
+456,ACSTRMOEPOP,MOEBORNNE,2014-2018 MOE Native/Born Oth State: Northeast,2014-2018 MOE Native Population Born in Other State: Northeast,9,0,,B05002m5,moeborn4
+457,ACSTRMOEPOP,MOEBORNMW,2014-2018 MOE Native/Born Oth State: Midwest,2014-2018 MOE Native Population Born in Other State: Midwest,9,0,,B05002m6,moeborn5
+458,ACSTRMOEPOP,MOEBORNS,2014-2018 MOE Native/Born Oth State: South,2014-2018 MOE Native Population Born in Other State: South,9,0,,B05002m7,moeborn6
+459,ACSTRMOEPOP,MOEBORNW,2014-2018 MOE Native/Born Oth State: West,2014-2018 MOE Native Population Born in Other State: West,9,0,,B05002m8,moeborn7
+460,ACSTRMOEPOP,MOEBORNOUT,2014-2018 MOE Native/Born Outside United States,2014-2018 MOE Native Population Born Outside of the United States,9,0,,B05002m9,moeborn8
+461,ACSTRMOEPOP,MOEBORNPR,2014-2018 MOE Native/Born in Puerto Rico,2014-2018 MOE Native Population Born in Puerto Rico,9,0,,B05002m10,moeborn9
+462,ACSTRMOEPOP,MOEBORNISL,2014-2018 MOE Native/Born US Island Area,2014-2018 MOE Native Population Born in US Island Areas,9,0,,B05002m11,moeborn10
+463,ACSTRMOEPOP,MOEBORNABR,2014-2018 MOE Native/Born Abroad/Amer Parents,2014-2018 MOE Native Population Born Abroad to American Parent(s),9,0,,B05002m12,moeborn11
+464,ACSTRMOEPOP,MOEFORBORN,2014-2018 MOE Foreign-born Population,2014-2018 MOE Foreign-born Population,9,0,,B05002m13,moeborn12
+465,ACSTRMOEPOP,MOENATCTZN,2014-2018 MOE Foreign-born: Naturalized US Citizen,2014-2018 MOE Foreign-born Pop: Naturalized U.S. Citizen,9,0,,B05002m14,moeborn13
+466,ACSTRMOEPOP,MOENOTCTZN,2014-2018 MOE Foreign-born: Not US Citizen,2014-2018 MOE Foreign-born Pop: Not a U.S. Citizen,9,0,,B05002m21,moeborn14
+467,ACSTRMOEPOP,MOEASNAPOP,2014-2018 MOE Asian Alone Population,2014-2018 MOE Asian Alone Population,9,0,,B02015m1,moeasian1
+468,ACSTRMOEPOP,MOEASNIND,2014-2018 MOE Asian Pop: Asian Indian,2014-2018 MOE Asian Population: Asian Indian,9,0,,B02015m2,moeasian2
+469,ACSTRMOEPOP,MOEASNBANG,2014-2018 MOE Asian Pop: Bangladeshi,2014-2018 MOE Asian Population: Bangladeshi,9,0,,B02015m3,moeasian3
+470,ACSTRMOEPOP,MOEASNBHUT,2014-2018 MOE Asian Pop: Bhutanese,2014-2018 MOE Asian Population: Bhutanese,9,0,,B02015m4,moeasian4
+471,ACSTRMOEPOP,MOEASNBURM,2014-2018 MOE Asian Pop: Burmese,2014-2018 MOE Asian Population: Burmese,9,0,,B02015m5,moeasian5
+472,ACSTRMOEPOP,MOEASNCAMB,2014-2018 MOE Asian Pop: Cambodian,2014-2018 MOE Asian Population: Cambodian,9,0,,B02015m6,moeasian6
+473,ACSTRMOEPOP,MOEASNCHIN,2014-2018 MOE Asian Pop: Chinese,2014-2018 MOE Asian Population: Chinese except Taiwanese,9,0,,B02015m7,moeasian7
+474,ACSTRMOEPOP,MOEASNFILI,2014-2018 MOE Asian Pop: Filipino,2014-2018 MOE Asian Population: Filipino,9,0,,B02015m8,moeasian8
+475,ACSTRMOEPOP,MOEASNHMON,2014-2018 MOE Asian Pop: Hmong,2014-2018 MOE Asian Population: Hmong,9,0,,B02015m9,moeasian9
+476,ACSTRMOEPOP,MOEASNINDO,2014-2018 MOE Asian Pop: Indonesian,2014-2018 MOE Asian Population: Indonesian,9,0,,B02015m10,moeasian10
+477,ACSTRMOEPOP,MOEASNJAP,2014-2018 MOE Asian Pop: Japanese,2014-2018 MOE Asian Population: Japanese,9,0,,B02015m11,moeasian11
+478,ACSTRMOEPOP,MOEASNKOR,2014-2018 MOE Asian Pop: Korean,2014-2018 MOE Asian Population: Korean,9,0,,B02015m12,moeasian12
+479,ACSTRMOEPOP,MOEASNLAOT,2014-2018 MOE Asian Pop: Laotian,2014-2018 MOE Asian Population: Laotian,9,0,,B02015m13,moeasian13
+480,ACSTRMOEPOP,MOEASNMALA,2014-2018 MOE Asian Pop: Malaysian,2014-2018 MOE Asian Population: Malaysian,9,0,,B02015m14,moeasian14
+481,ACSTRMOEPOP,MOEASNMONG,2014-2018 MOE Asian Pop: Mongolian,2014-2018 MOE Asian Population: Mongolian,9,0,,B02015m15,moeasian15
+482,ACSTRMOEPOP,MOEASNNEPA,2014-2018 MOE Asian Pop: Nepalese,2014-2018 MOE Asian Population: Nepalese,9,0,,B02015m16,moeasian16
+483,ACSTRMOEPOP,MOEASNOKIN,2014-2018 MOE Asian Pop: Okinawan,2014-2018 MOE Asian Population: Okinawan,9,0,,B02015m17,moeasian17
+484,ACSTRMOEPOP,MOEASNPAKI,2014-2018 MOE Asian Pop: Pakistani,2014-2018 MOE Asian Population: Pakistani,9,0,,B02015m18,moeasian18
+485,ACSTRMOEPOP,MOEASNSRIL,2014-2018 MOE Asian Pop: Sri Lankan,2014-2018 MOE Asian Population: Sri Lankan,9,0,,B02015m19,moeasian19
+486,ACSTRMOEPOP,MOEASNTAIW,2014-2018 MOE Asian Pop: Taiwanese,2014-2018 MOE Asian Population: Taiwanese,9,0,,B02015m20,moeasian20
+487,ACSTRMOEPOP,MOEASNTHAI,2014-2018 MOE Asian Pop: Thai,2014-2018 MOE Asian Population: Thai,9,0,,B02015m21,moeasian21
+488,ACSTRMOEPOP,MOEASNVIET,2014-2018 MOE Asian Pop: Vietnamese,2014-2018 MOE Asian Population: Vietnamese,9,0,,B02015m22,moeasian22
+489,ACSTRMOEPOP,MOEASNOTH,2014-2018 MOE Asian Pop: Other Asian Specified,2014-2018 MOE Asian Population: Other Asian Specified,9,0,,B02015m23,moeasian23
+490,ACSTRMOEPOP,MOEASNUNSP,2014-2018 MOE Asian Pop: Other Asian Not Specified,2014-2018 MOE Asian Population: Other Asian Not Specified,9,0,,B02015m24,moeasian24
+491,ACSTRMOEPOP,MOEASN2UP,2014-2018 MOE Asian Pop: Two or More Asian,2014-2018 MOE Asian Population: Two or More Asian,9,0,,B02015m25,moeasian25
+492,ACSTRMOEPOP,MOEHISPPOP,2014-2018 MOE Hispanic or Latino Population,2014-2018 MOE Hispanic or Latino Population,9,0,,B03001m3,moehisporigin1
+493,ACSTRMOEPOP,MOEHMEXICN,2014-2018 MOE Hispanic Pop: Mexican,2014-2018 MOE Hispanic Population: Mexican,9,0,,B03001m4,moehisporigin2
+494,ACSTRMOEPOP,MOEHPUERTO,2014-2018 MOE Hispanic Pop: Puerto Rican,2014-2018 MOE Hispanic Population: Puerto Rican,9,0,,B03001m5,moehisporigin3
+495,ACSTRMOEPOP,MOEHCUBAN,2014-2018 MOE Hispanic Pop: Cuban,2014-2018 MOE Hispanic Population: Cuban,9,0,,B03001m6,moehisporigin4
+496,ACSTRMOEPOP,MOEHDOMINC,2014-2018 MOE Hispanic Pop: Dominican,2014-2018 MOE Hispanic Population: Dominican,9,0,,B03001m7,moehisporigin5
+497,ACSTRMOEPOP,MOEHCOSTA,2014-2018 MOE Hispanic Pop: Costa Rican,2014-2018 MOE Hispanic Population: Costa Rican,9,0,,B03001m9,moehisporigin6
+498,ACSTRMOEPOP,MOEHGUATEM,2014-2018 MOE Hispanic Pop: Guatemalan,2014-2018 MOE Hispanic Population: Guatemalan,9,0,,B03001m10,moehisporigin7
+499,ACSTRMOEPOP,MOEHHONDUR,2014-2018 MOE Hispanic Pop: Honduran,2014-2018 MOE Hispanic Population: Honduran,9,0,,B03001m11,moehisporigin8
+500,ACSTRMOEPOP,MOEHNICARG,2014-2018 MOE Hispanic Pop: Nicaraguan,2014-2018 MOE Hispanic Population: Nicaraguan,9,0,,B03001m12,moehisporigin9
+501,ACSTRMOEPOP,MOEHPANAM,2014-2018 MOE Hispanic Pop: Panamanian,2014-2018 MOE Hispanic Population: Panamanian,9,0,,B03001m13,moehisporigin10
+502,ACSTRMOEPOP,MOEHSALVAD,2014-2018 MOE Hispanic Pop: Salvadoran,2014-2018 MOE Hispanic Population: Salvadoran,9,0,,B03001m14,moehisporigin11
+503,ACSTRMOEPOP,MOEHOTHCA,2014-2018 MOE Hispanic Pop: Other Central American,2014-2018 MOE Hispanic Population: Other Central American,9,0,,B03001m15,moehisporigin12
+504,ACSTRMOEPOP,MOEHARGENT,2014-2018 MOE Hispanic Pop: Argentinean,2014-2018 MOE Hispanic Population: Argentinean,9,0,,B03001m17,moehisporigin13
+505,ACSTRMOEPOP,MOEHBOLIVN,2014-2018 MOE Hispanic Pop: Bolivian,2014-2018 MOE Hispanic Population: Bolivian,9,0,,B03001m18,moehisporigin14
+506,ACSTRMOEPOP,MOEHCHILE,2014-2018 MOE Hispanic Pop: Chilean,2014-2018 MOE Hispanic Population: Chilean,9,0,,B03001m19,moehisporigin15
+507,ACSTRMOEPOP,MOEHCOLOMB,2014-2018 MOE Hispanic Pop: Colombian,2014-2018 MOE Hispanic Population: Colombian,9,0,,B03001m20,moehisporigin16
+508,ACSTRMOEPOP,MOEHECUADR,2014-2018 MOE Hispanic Pop: Ecuadorian,2014-2018 MOE Hispanic Population: Ecuadorian,9,0,,B03001m21,moehisporigin17
+509,ACSTRMOEPOP,MOEHPARAGY,2014-2018 MOE Hispanic Pop: Paraguayan,2014-2018 MOE Hispanic Population: Paraguayan,9,0,,B03001m22,moehisporigin18
+510,ACSTRMOEPOP,MOEHPERUVN,2014-2018 MOE Hispanic Pop: Peruvian,2014-2018 MOE Hispanic Population: Peruvian,9,0,,B03001m23,moehisporigin19
+511,ACSTRMOEPOP,MOEHURUGYN,2014-2018 MOE Hispanic Pop: Uruguayan,2014-2018 MOE Hispanic Population: Uruguayan,9,0,,B03001m24,moehisporigin20
+512,ACSTRMOEPOP,MOEHVENEZL,2014-2018 MOE Hispanic Pop: Venezuelan,2014-2018 MOE Hispanic Population: Venezuelan,9,0,,B03001m25,moehisporigin21
+513,ACSTRMOEPOP,MOEHOTHSA,2014-2018 MOE Hispanic Pop: Other South American,2014-2018 MOE Hispanic Population: Other South American,9,0,,B03001m26,moehisporigin22
+514,ACSTRMOEPOP,MOEHSPANRD,2014-2018 MOE Hispanic Pop: Spaniard,2014-2018 MOE Hispanic Population: Spaniard,9,0,,B03001m28,moehisporigin23
+515,ACSTRMOEPOP,MOEHSPANSH,2014-2018 MOE Hispanic Pop: Spanish,2014-2018 MOE Hispanic Population: Spanish,9,0,,B03001m29,moehisporigin24
+516,ACSTRMOEPOP,MOEHSPAMER,2014-2018 MOE Hispanic Pop: Spanish American,2014-2018 MOE Hispanic Population: Spanish American,9,0,,B03001m30,moehisporigin25
+517,ACSTRMOEPOP,MOEHISPOTH,2014-2018 MOE Hispanic Pop: Oth Hispanic/Latino,2014-2018 MOE Hispanic Population: Other Hispanic/Latino,9,0,,B03001m31,moehisporigin26
+518,ACSTRMOEPOP,MOEAPOP,2014-2018 MOE Pop Stating Single Ancestry,2014-2018 MOE Persons Reporting Single Ancestry,9,0,,B04004m1,moeancestry1
+519,ACSTRMOEPOP,MOEAAFGHAN,2014-2018 MOE Ancestry: Afghan,2014-2018 MOE Ancestry: Afghan,9,0,,B04004m2,moeancestry2
+520,ACSTRMOEPOP,MOEAALBAN,2014-2018 MOE Ancestry: Albanian,2014-2018 MOE Ancestry: Albanian,9,0,,B04004m3,moeancestry3
+521,ACSTRMOEPOP,MOEAALSATN,2014-2018 MOE Ancestry: Alsatian,2014-2018 MOE Ancestry: Alsatian,9,0,,B04004m4,moeancestry4
+522,ACSTRMOEPOP,MOEAAMER,2014-2018 MOE Ancestry: American,2014-2018 MOE Ancestry: American,9,0,,B04004m5,moeancestry5
+523,ACSTRMOEPOP,MOEAEGYPTN,2014-2018 MOE Ancestry: Arab-Egyptian,2014-2018 MOE Ancestry: Arab - Egyptian,9,0,,B04004m7,moeancestry6
+524,ACSTRMOEPOP,MOEAIRAQI,2014-2018 MOE Ancestry: Arab-Iraqi,2014-2018 MOE Ancestry: Arab - Iraqi,9,0,,B04004m8,moeancestry7
+525,ACSTRMOEPOP,MOEAJORDAN,2014-2018 MOE Ancestry: Arab-Jordanian,2014-2018 MOE Ancestry: Arab - Jordanian,9,0,,B04004m9,moeancestry8
+526,ACSTRMOEPOP,MOEALEBAN,2014-2018 MOE Ancestry: Arab-Lebanese,2014-2018 MOE Ancestry: Arab - Lebanese,9,0,,B04004m10,moeancestry9
+527,ACSTRMOEPOP,MOEAMOROCC,2014-2018 MOE Ancestry: Arab-Moroccan,2014-2018 MOE Ancestry: Arab - Moroccan,9,0,,B04004m11,moeancestry10
+528,ACSTRMOEPOP,MOEAPALEST,2014-2018 MOE Ancestry: Arab-Palestinian,2014-2018 MOE Ancestry: Arab - Palestinian,9,0,,B04004m12,moeancestry11
+529,ACSTRMOEPOP,MOEASYRIAN,2014-2018 MOE Ancestry: Arab-Syrian,2014-2018 MOE Ancestry: Arab - Syrian,9,0,,B04004m13,moeancestry12
+530,ACSTRMOEPOP,MOEAARAB,2014-2018 MOE Ancestry: Arab-Arab,2014-2018 MOE Ancestry: Arab - Arab,9,0,,B04004m14,moeancestry13
+531,ACSTRMOEPOP,MOEAOARAB,2014-2018 MOE Ancestry: Arab-Other,2014-2018 MOE Ancestry: Arab - Other,9,0,,B04004m15,moeancestry14
+532,ACSTRMOEPOP,MOEAARMEN,2014-2018 MOE Ancestry: Armenian,2014-2018 MOE Ancestry: Armenian,9,0,,B04004m16,moeancestry15
+533,ACSTRMOEPOP,MOEAASSYRN,2014-2018 MOE Ancestry: Assyrian/Chald/Syriac,2014-2018 MOE Ancestry: Assyrian/Chaldean/Syriac,9,0,,B04004m17,moeancestry16
+534,ACSTRMOEPOP,MOEAAUSTRL,2014-2018 MOE Ancestry: Australian,2014-2018 MOE Ancestry: Australian,9,0,,B04004m18,moeancestry17
+535,ACSTRMOEPOP,MOEAAUSTRN,2014-2018 MOE Ancestry: Austrian,2014-2018 MOE Ancestry: Austrian,9,0,,B04004m19,moeancestry18
+536,ACSTRMOEPOP,MOEABASQUE,2014-2018 MOE Ancestry: Basque,2014-2018 MOE Ancestry: Basque,9,0,,B04004m20,moeancestry19
+537,ACSTRMOEPOP,MOEABELGN,2014-2018 MOE Ancestry: Belgian,2014-2018 MOE Ancestry: Belgian,9,0,,B04004m21,moeancestry20
+538,ACSTRMOEPOP,MOEABRAZLN,2014-2018 MOE Ancestry: Brazilian,2014-2018 MOE Ancestry: Brazilian,9,0,,B04004m22,moeancestry21
+539,ACSTRMOEPOP,MOEABRIT,2014-2018 MOE Ancestry: British,2014-2018 MOE Ancestry: British,9,0,,B04004m23,moeancestry22
+540,ACSTRMOEPOP,MOEABULGAR,2014-2018 MOE Ancestry: Bulgarian,2014-2018 MOE Ancestry: Bulgarian,9,0,,B04004m24,moeancestry23
+541,ACSTRMOEPOP,MOEACAJUN,2014-2018 MOE Ancestry: Cajun,2014-2018 MOE Ancestry: Cajun,9,0,,B04004m25,moeancestry24
+542,ACSTRMOEPOP,MOEACANADN,2014-2018 MOE Ancestry: Canadian,2014-2018 MOE Ancestry: Canadian,9,0,,B04004m26,moeancestry25
+543,ACSTRMOEPOP,MOEACRUSYN,2014-2018 MOE Ancestry: Carpatho Rusyn,2014-2018 MOE Ancestry: Carpatho Rusyn,9,0,,B04004m27,moeancestry26
+544,ACSTRMOEPOP,MOEACELTIC,2014-2018 MOE Ancestry: Celtic,2014-2018 MOE Ancestry: Celtic,9,0,,B04004m28,moeancestry27
+545,ACSTRMOEPOP,MOEACROATN,2014-2018 MOE Ancestry: Croatian,2014-2018 MOE Ancestry: Croatian,9,0,,B04004m29,moeancestry28
+546,ACSTRMOEPOP,MOEACYPRIO,2014-2018 MOE Ancestry: Cypriot,2014-2018 MOE Ancestry: Cypriot,9,0,,B04004m30,moeancestry29
+547,ACSTRMOEPOP,MOEACZECH,2014-2018 MOE Ancestry: Czech,2014-2018 MOE Ancestry: Czech,9,0,,B04004m31,moeancestry30
+548,ACSTRMOEPOP,MOEACZECHO,2014-2018 MOE Ancestry: Czechoslovakian,2014-2018 MOE Ancestry: Czechoslovakian,9,0,,B04004m32,moeancestry31
+549,ACSTRMOEPOP,MOEADANISH,2014-2018 MOE Ancestry: Danish,2014-2018 MOE Ancestry: Danish,9,0,,B04004m33,moeancestry32
+550,ACSTRMOEPOP,MOEADUTCH,2014-2018 MOE Ancestry: Dutch,2014-2018 MOE Ancestry: Dutch,9,0,,B04004m34,moeancestry33
+551,ACSTRMOEPOP,MOEAEEUROP,2014-2018 MOE Ancestry: Eastern European,2014-2018 MOE Ancestry: Eastern European,9,0,,B04004m35,moeancestry34
+552,ACSTRMOEPOP,MOEAENGLSH,2014-2018 MOE Ancestry: English,2014-2018 MOE Ancestry: English,9,0,,B04004m36,moeancestry35
+553,ACSTRMOEPOP,MOEAESTON,2014-2018 MOE Ancestry: Estonian,2014-2018 MOE Ancestry: Estonian,9,0,,B04004m37,moeancestry36
+554,ACSTRMOEPOP,MOEAEUROPN,2014-2018 MOE Ancestry: European,2014-2018 MOE Ancestry: European,9,0,,B04004m38,moeancestry37
+555,ACSTRMOEPOP,MOEAFINNSH,2014-2018 MOE Ancestry: Finnish,2014-2018 MOE Ancestry: Finnish,9,0,,B04004m39,moeancestry38
+556,ACSTRMOEPOP,MOEAFRENCH,2014-2018 MOE Ancestry: French (excl Basque),2014-2018 MOE Ancestry: French (except Basque),9,0,,B04004m40,moeancestry39
+557,ACSTRMOEPOP,MOEAFRNCAN,2014-2018 MOE Ancestry: French Canadian,2014-2018 MOE Ancestry: French Canadian,9,0,,B04004m41,moeancestry40
+558,ACSTRMOEPOP,MOEAGERMAN,2014-2018 MOE Ancestry: German,2014-2018 MOE Ancestry: German,9,0,,B04004m42,moeancestry41
+559,ACSTRMOEPOP,MOEAGERRUS,2014-2018 MOE Ancestry: German Russian,2014-2018 MOE Ancestry: German Russian,9,0,,B04004m43,moeancestry42
+560,ACSTRMOEPOP,MOEAGREEK,2014-2018 MOE Ancestry: Greek,2014-2018 MOE Ancestry: Greek,9,0,,B04004m44,moeancestry43
+561,ACSTRMOEPOP,MOEAGUYAN,2014-2018 MOE Ancestry: Guyanese,2014-2018 MOE Ancestry: Guyanese,9,0,,B04004m45,moeancestry44
+562,ACSTRMOEPOP,MOEAHUNGAR,2014-2018 MOE Ancestry: Hungarian,2014-2018 MOE Ancestry: Hungarian,9,0,,B04004m46,moeancestry45
+563,ACSTRMOEPOP,MOEAICELAN,2014-2018 MOE Ancestry: Icelander,2014-2018 MOE Ancestry: Icelander,9,0,,B04004m47,moeancestry46
+564,ACSTRMOEPOP,MOEAIRAN,2014-2018 MOE Ancestry: Iranian,2014-2018 MOE Ancestry: Iranian,9,0,,B04004m48,moeancestry47
+565,ACSTRMOEPOP,MOEAIRISH,2014-2018 MOE Ancestry: Irish,2014-2018 MOE Ancestry: Irish,9,0,,B04004m49,moeancestry48
+566,ACSTRMOEPOP,MOEAISRAEL,2014-2018 MOE Ancestry: Israeli,2014-2018 MOE Ancestry: Israeli,9,0,,B04004m50,moeancestry49
+567,ACSTRMOEPOP,MOEAITALN,2014-2018 MOE Ancestry: Italian,2014-2018 MOE Ancestry: Italian,9,0,,B04004m51,moeancestry50
+568,ACSTRMOEPOP,MOEALATVIA,2014-2018 MOE Ancestry: Latvian,2014-2018 MOE Ancestry: Latvian,9,0,,B04004m52,moeancestry51
+569,ACSTRMOEPOP,MOEALITHUA,2014-2018 MOE Ancestry: Lithuanian,2014-2018 MOE Ancestry: Lithuanian,9,0,,B04004m53,moeancestry52
+570,ACSTRMOEPOP,MOEALUXEMB,2014-2018 MOE Ancestry: Luxemburger,2014-2018 MOE Ancestry: Luxemburger,9,0,,B04004m54,moeancestry53
+571,ACSTRMOEPOP,MOEAMACEDO,2014-2018 MOE Ancestry: Macedonian,2014-2018 MOE Ancestry: Macedonian,9,0,,B04004m55,moeancestry54
+572,ACSTRMOEPOP,MOEAMALT,2014-2018 MOE Ancestry: Maltese,2014-2018 MOE Ancestry: Maltese,9,0,,B04004m56,moeancestry55
+573,ACSTRMOEPOP,MOEANWZEAL,2014-2018 MOE Ancestry: New Zealander,2014-2018 MOE Ancestry: New Zealander,9,0,,B04004m57,moeancestry56
+574,ACSTRMOEPOP,MOEANEUROP,2014-2018 MOE Ancestry: Northern European,2014-2018 MOE Ancestry: Northern European,9,0,,B04004m58,moeancestry57
+575,ACSTRMOEPOP,MOEANORWEG,2014-2018 MOE Ancestry: Norwegian,2014-2018 MOE Ancestry: Norwegian,9,0,,B04004m59,moeancestry58
+576,ACSTRMOEPOP,MOEAPAGERM,2014-2018 MOE Ancestry: Pennsylvania German,2014-2018 MOE Ancestry: Pennsylvania German,9,0,,B04004m60,moeancestry59
+577,ACSTRMOEPOP,MOEAPOLISH,2014-2018 MOE Ancestry: Polish,2014-2018 MOE Ancestry: Polish,9,0,,B04004m61,moeancestry60
+578,ACSTRMOEPOP,MOEAPORTUG,2014-2018 MOE Ancestry: Portuguese,2014-2018 MOE Ancestry: Portuguese,9,0,,B04004m62,moeancestry61
+579,ACSTRMOEPOP,MOEARMNIAN,2014-2018 MOE Ancestry: Romanian,2014-2018 MOE Ancestry: Romanian,9,0,,B04004m63,moeancestry62
+580,ACSTRMOEPOP,MOEARUSSN,2014-2018 MOE Ancestry: Russian,2014-2018 MOE Ancestry: Russian,9,0,,B04004m64,moeancestry63
+581,ACSTRMOEPOP,MOEASCANDV,2014-2018 MOE Ancestry: Scandinavian,2014-2018 MOE Ancestry: Scandinavian,9,0,,B04004m65,moeancestry64
+582,ACSTRMOEPOP,MOEASIRISH,2014-2018 MOE Ancestry: Scotch-Irish,2014-2018 MOE Ancestry: Scotch-Irish,9,0,,B04004m66,moeancestry65
+583,ACSTRMOEPOP,MOEASCOTT,2014-2018 MOE Ancestry: Scottish,2014-2018 MOE Ancestry: Scottish,9,0,,B04004m67,moeancestry66
+584,ACSTRMOEPOP,MOEASERB,2014-2018 MOE Ancestry: Serbian,2014-2018 MOE Ancestry: Serbian,9,0,,B04004m68,moeancestry67
+585,ACSTRMOEPOP,MOEASLAVIC,2014-2018 MOE Ancestry: Slavic,2014-2018 MOE Ancestry: Slavic,9,0,,B04004m69,moeancestry68
+586,ACSTRMOEPOP,MOEASLOVAK,2014-2018 MOE Ancestry: Slovak,2014-2018 MOE Ancestry: Slovak,9,0,,B04004m70,moeancestry69
+587,ACSTRMOEPOP,MOEASLOVEN,2014-2018 MOE Ancestry: Slovene,2014-2018 MOE Ancestry: Slovene,9,0,,B04004m71,moeancestry70
+588,ACSTRMOEPOP,MOEASOVIET,2014-2018 MOE Ancestry: Soviet Union,2014-2018 MOE Ancestry: Soviet Union,9,0,,B04004m72,moeancestry71
+589,ACSTRMOEPOP,MOEACAPEVR,2014-2018 MOE Ancestry: Subsahrn African-Cape Verdean,2014-2018 MOE Ancestry: Sub-Saharan African-Cape Verdean,9,0,,B04004m74,moeancestry72
+590,ACSTRMOEPOP,MOEAETHIOP,2014-2018 MOE Ancestry: Subsahrn African-Ethiopian,2014-2018 MOE Ancestry: Sub-Saharan African-Ethiopian,9,0,,B04004m75,moeancestry73
+591,ACSTRMOEPOP,MOEAGHANAN,2014-2018 MOE Ancestry: Subsahrn African-Ghanaian,2014-2018 MOE Ancestry: Sub-Saharan African-Ghanaian,9,0,,B04004m76,moeancestry74
+592,ACSTRMOEPOP,MOEAKENYAN,2014-2018 MOE Ancestry: Subsahrn African-Kenyan,2014-2018 MOE Ancestry: Sub-Saharan African-Kenyan,9,0,,B04004m77,moeancestry75
+593,ACSTRMOEPOP,MOEALIBER,2014-2018 MOE Ancestry: Subsahrn African-Liberian,2014-2018 MOE Ancestry: Sub-Saharan African-Liberian,9,0,,B04004m78,moeancestry76
+594,ACSTRMOEPOP,MOEANIGER,2014-2018 MOE Ancestry: Subsahrn African-Nigerian,2014-2018 MOE Ancestry: Sub-Saharan African-Nigerian,9,0,,B04004m79,moeancestry77
+595,ACSTRMOEPOP,MOEASENEGL,2014-2018 MOE Ancestry: Subsahrn African-Senegalese,2014-2018 MOE Ancestry: Sub-Saharan African-Senegalese,9,0,,B04004m80,moeancestry78
+596,ACSTRMOEPOP,MOEASLEONE,2014-2018 MOE Ancestry: Subsahrn African-S.Leonean,2014-2018 MOE Ancestry: Sub-Saharan African-Sierra Leonean,9,0,,B04004m81,moeancestry79
+597,ACSTRMOEPOP,MOEASOMALI,2014-2018 MOE Ancestry: Subsahrn African-Somali,2014-2018 MOE Ancestry: Sub-Saharan African-Somali,9,0,,B04004m82,moeancestry80
+598,ACSTRMOEPOP,MOEASAFRIC,2014-2018 MOE Ancestry: Subsahrn African-South African,2014-2018 MOE Ancestry: Sub-Saharan African-South African,9,0,,B04004m83,moeancestry81
+599,ACSTRMOEPOP,MOEASUDAN,2014-2018 MOE Ancestry: Subsahrn African-Sudanese,2014-2018 MOE Ancestry: Sub-Saharan African-Sudanese,9,0,,B04004m84,moeancestry82
+600,ACSTRMOEPOP,MOEAUGANDN,2014-2018 MOE Ancestry: Subsahrn African-Ugandan,2014-2018 MOE Ancestry: Sub-Saharan African-Ugandan,9,0,,B04004m85,moeancestry83
+601,ACSTRMOEPOP,MOEAZIMBAB,2014-2018 MOE Ancestry: Subsahrn African-Zimbabwean,2014-2018 MOE Ancestry: Sub-Saharan African-Zimbabwean,9,0,,B04004m86,moeancestry84
+602,ACSTRMOEPOP,MOEAAFRIC,2014-2018 MOE Ancestry: Subsahrn African-African,2014-2018 MOE Ancestry: Sub-Saharan African-African,9,0,,B04004m87,moeancestry85
+603,ACSTRMOEPOP,MOEAOSSAFR,2014-2018 MOE Ancestry: Subsahrn African-Other,2014-2018 MOE Ancestry: Sub-Saharan African-Other,9,0,,B04004m88,moeancestry86
+604,ACSTRMOEPOP,MOEASWEDSH,2014-2018 MOE Ancestry: Swedish,2014-2018 MOE Ancestry: Swedish,9,0,,B04004m89,moeancestry87
+605,ACSTRMOEPOP,MOEASWISS,2014-2018 MOE Ancestry: Swiss,2014-2018 MOE Ancestry: Swiss,9,0,,B04004m90,moeancestry88
+606,ACSTRMOEPOP,MOEATURKSH,2014-2018 MOE Ancestry: Turkish,2014-2018 MOE Ancestry: Turkish,9,0,,B04004m91,moeancestry89
+607,ACSTRMOEPOP,MOEAUKRAIN,2014-2018 MOE Ancestry: Ukrainian,2014-2018 MOE Ancestry: Ukrainian,9,0,,B04004m92,moeancestry90
+608,ACSTRMOEPOP,MOEAWELSH,2014-2018 MOE Ancestry: Welsh,2014-2018 MOE Ancestry: Welsh,9,0,,B04004m93,moeancestry91
+609,ACSTRMOEPOP,MOEABAHAM,2014-2018 MOE Ancestry: W.Indian-Bahamian,2014-2018 MOE Ancestry: West Indian-Bahamian,9,0,,B04004m95,moeancestry92
+610,ACSTRMOEPOP,MOEABARBAD,2014-2018 MOE Ancestry: W.Indian-Barbadian,2014-2018 MOE Ancestry: West Indian-Barbadian,9,0,,B04004m96,moeancestry93
+611,ACSTRMOEPOP,MOEABELIZN,2014-2018 MOE Ancestry: W.Indian-Belizean,2014-2018 MOE Ancestry: West Indian-Belizean,9,0,,B04004m97,moeancestry94
+612,ACSTRMOEPOP,MOEABERMUD,2014-2018 MOE Ancestry: W.Indian-Bermudan,2014-2018 MOE Ancestry: West Indian-Bermudan,9,0,,B04004m98,moeancestry95
+613,ACSTRMOEPOP,MOEABRWIND,2014-2018 MOE Ancestry: W.Indian-British W.Indian,2014-2018 MOE Ancestry: West Indian-British West Indian,9,0,,B04004m99,moeancestry96
+614,ACSTRMOEPOP,MOEADUWIND,2014-2018 MOE Ancestry: W.Indian-Dutch W.Indian,2014-2018 MOE Ancestry: West Indian-Dutch West Indian,9,0,,B04004m100,moeancestry97
+615,ACSTRMOEPOP,MOEAHAITN,2014-2018 MOE Ancestry: W.Indian-Haitian,2014-2018 MOE Ancestry: West Indian-Haitian,9,0,,B04004m101,moeancestry98
+616,ACSTRMOEPOP,MOEAJAMAIC,2014-2018 MOE Ancestry: W.Indian-Jamaican,2014-2018 MOE Ancestry: West Indian-Jamaican,9,0,,B04004m102,moeancestry99
+617,ACSTRMOEPOP,MOEATRINID,2014-2018 MOE Ancestry: W.Indian-Trinidad & Tobago,2014-2018 MOE Ancestry: West Indian-Trinidad & Tobago,9,0,,B04004m103,moeancestry100
+618,ACSTRMOEPOP,MOEAUSVIRG,2014-2018 MOE Ancestry: W.Indian-U.S. Virgin Islander,2014-2018 MOE Ancestry: West Indian-US Virgin Islander,9,0,,B04004m104,moeancestry101
+619,ACSTRMOEPOP,MOEAWIND,2014-2018 MOE Ancestry: W.Indian-West Indian,2014-2018 MOE Ancestry: West Indian-West Indian,9,0,,B04004m105,moeancestry102
+620,ACSTRMOEPOP,MOEAOWIND,2014-2018 MOE Ancestry: W.Indian-Other W.Indian,2014-2018 MOE Ancestry: West Indian-Other West Indian,9,0,,B04004m106,moeancestry103
+621,ACSTRMOEPOP,MOEAYUGOSL,2014-2018 MOE Ancestry: Yugoslavian,2014-2018 MOE Ancestry: Yugoslavian,9,0,,B04004m107,moeancestry104
+622,ACSTRMOEPOP,MOEAOTHGRP,2014-2018 MOE Ancestry: Other Groups,2014-2018 MOE Ancestry: Other Groups,9,0,,B04004m108,moeancestry105
+623,ACSTRMOEPOP,MOEMWRKR,2014-2018 MOE Male Workers Age 16+,2014-2018 MOE Male Workers Age 16+,9,0,,B08006m18,moesxtransp1
+624,ACSTRMOEPOP,MOEMDRALON,2014-2018 MOE Male Workers 16+: Drove Alone,2014-2018 MOE Male Workers 16+ Drove Alone to Work,9,0,,B08006m20,moesxtransp2
+625,ACSTRMOEPOP,MOEMCARPL,2014-2018 MOE Male Workers 16+: Carpooled,2014-2018 MOE Male Workers 16+ Carpooled,9,0,,B08006m21,moesxtransp3
+626,ACSTRMOEPOP,MOEMPUBTRN,2014-2018 MOE Male Workers 16+: Public Transport,2014-2018 MOE Male Workers 16+ Took Public Transportation,9,0,,B08006m25,moesxtransp4
+627,ACSTRMOEPOP,MOEMBICYCL,2014-2018 MOE Male Workers 16+: Bicycled,2014-2018 MOE Male Workers 16+ Bicycled,9,0,,B08006m31,moesxtransp5
+628,ACSTRMOEPOP,MOEMWALKED,2014-2018 MOE Male Workers 16+: Walked,2014-2018 MOE Male Workers 16+ Walked,9,0,,B08006m32,moesxtransp6
+629,ACSTRMOEPOP,MOEMOTHTRN,2014-2018 MOE Male Workers 16+: Other Means,2014-2018 MOE Male Workers 16+ Took Other Means of Transportation,9,0,,B08006m33,moesxtransp7
+630,ACSTRMOEPOP,MOEMWRKHM,2014-2018 MOE Male Workers 16+: Worked at Home,2014-2018 MOE Male Workers 16+ Worked at Home,9,0,,B08006m34,moesxtransp8
+631,ACSTRMOEPOP,MOEFWRKR,2014-2018 MOE Female Workers Age 16+,2014-2018 MOE Female Workers Age 16+,9,0,,B08006m35,moesxtransp9
+632,ACSTRMOEPOP,MOEFDRALON,2014-2018 MOE Female Workers 16+: Drove Alone,2014-2018 MOE Female Workers 16+ Drove Alone to Work,9,0,,B08006m37,moesxtransp10
+633,ACSTRMOEPOP,MOEFCARPL,2014-2018 MOE Female Workers 16+: Carpooled,2014-2018 MOE Female Workers 16+ Carpooled,9,0,,B08006m38,moesxtransp11
+634,ACSTRMOEPOP,MOEFPUBTRN,2014-2018 MOE Female Workers 16+: Public Transport,2014-2018 MOE Female Workers 16+ Took Public Transportation,9,0,,B08006m42,moesxtransp12
+635,ACSTRMOEPOP,MOEFBICYCL,2014-2018 MOE Female Workers 16+: Bicycled,2014-2018 MOE Female Workers 16+ Bicycled,9,0,,B08006m48,moesxtransp13
+636,ACSTRMOEPOP,MOEFWALKED,2014-2018 MOE Female Workers 16+: Walked,2014-2018 MOE Female Workers 16+ Walked,9,0,,B08006m49,moesxtransp14
+637,ACSTRMOEPOP,MOEFOTHTRN,2014-2018 MOE Female Workers 16+: Other Means,2014-2018 MOE Female Workers 16+ Took Other Means of Transportation,9,0,,B08006m50,moesxtransp15
+638,ACSTRMOEPOP,MOEFWRKHM,2014-2018 MOE Female Workers 16+: Worked at Home,2014-2018 MOE Female Workers 16+ Worked at Home,9,0,,B08006m51,moesxtransp16
+639,ACSTRMOEPOP,MOEWRKRHH,2014-2018 MOE Workers 16+ in Households,2014-2018 MOE Workers Age 16+ in Households,9,0,,B08014m1,moesxveh1
+640,ACSTRMOEPOP,MOEMVEH0,2014-2018 MOE Male Workers 16+: No Vehicle,2014-2018 MOE Male Workers 16+ in Households with No Vehicles,9,0,,B08014m9,moesxveh2
+641,ACSTRMOEPOP,MOEMVEH1,2014-2018 MOE Male Workers 16+: 1 Vehicle,2014-2018 MOE Male Workers 16+ in Households with 1 Vehicle,9,0,,B08014m10,moesxveh3
+642,ACSTRMOEPOP,MOEMVEH2UP,2014-2018 MOE Male Workers 16+: 2+ Vehicle,2014-2018 MOE Male Workers 16+ in Households with 2+ Vehicles,9,0,,computed using B08014m11 & B08014m12 & B08014m13 & B08014m14,moesxveh4
+643,ACSTRMOEPOP,MOEFVEH0,2014-2018 MOE Female Workers 16+: No Vehicle,2014-2018 MOE Female Workers 16+ in Households with No Vehicles,9,0,,B08014m16,moesxveh5
+644,ACSTRMOEPOP,MOEFVEH1,2014-2018 MOE Female Workers 16+: 1 Vehicle,2014-2018 MOE Female Workers 16+ in Households with 1 Vehicle,9,0,,B08014m17,moesxveh6
+645,ACSTRMOEPOP,MOEFVEH2UP,2014-2018 MOE Female Workers 16+: 2+ Vehicle,2014-2018 MOE Female Workers 16+ in Households with 2+ Vehicles,9,0,,computed using B08014m18 & B08014m19 & B08014m20 & B08014m21,moesxveh7
+646,ACSTRMOEPOP,MOEP25POV,2014-2018 MOE Pop 25+/Poverty is Determined,2014-2018 MOE Population 25+ for whom Poverty Status is Determined,9,0,,B17003m1,moesxpoveduc1
+647,ACSTRMOEPOP,MOEP25BPOV,2014-2018 MOE Pop 25+/Inc Below Poverty Level,2014-2018 MOE Population 25+ with Income Below Poverty Level,9,0,,B17003m2,moesxpoveduc2
+648,ACSTRMOEPOP,MOEMBPLTHS,2014-2018 MOE Male 25+/Below Pov: < High School Grad,2014-2018 MOE Male 25+ Below Poverty: < High School Grad,9,0,,B17003m4,moesxpoveduc3
+649,ACSTRMOEPOP,MOEMBPHSGR,2014-2018 MOE Male 25+/Below Pov: High School Grad,2014-2018 MOE Male 25+ Below Poverty: High School Grad,9,0,,B17003m5,moesxpoveduc4
+650,ACSTRMOEPOP,MOEMBPCOLL,2014-2018 MOE Male 25+/Below Pov: Some College,2014-2018 MOE Male 25+ Below Poverty: Some College,9,0,,B17003m6,moesxpoveduc5
+651,ACSTRMOEPOP,MOEMBPBACH,2014-2018 MOE Male 25+/Below Pov: Bachelor Deg+,2014-2018 MOE Male 25+ Below Poverty: Bachelor/Higher,9,0,,B17003m7,moesxpoveduc6
+652,ACSTRMOEPOP,MOEFBPLTHS,2014-2018 MOE Female 25+/Below Pov: < High School Grad,2014-2018 MOE Female 25+ Below Poverty: < High School Grad,9,0,,B17003m9,moesxpoveduc7
+653,ACSTRMOEPOP,MOEFBPHSGR,2014-2018 MOE Female 25+/Below Pov: High School Grad,2014-2018 MOE Female 25+ Below Poverty: High School Grad,9,0,,B17003m10,moesxpoveduc8
+654,ACSTRMOEPOP,MOEFBPCOLL,2014-2018 MOE Female 25+/Below Pov: Some College,2014-2018 MOE Female 25+ Below Poverty: Some College,9,0,,B17003m11,moesxpoveduc9
+655,ACSTRMOEPOP,MOEFBPBACH,2014-2018 MOE Female 25+/Below Pov:Bachelor Deg+,2014-2018 MOE Female 25+ Below Poverty: Bachelor/Higher,9,0,,B17003m12,moesxpoveduc10
+656,ACSTRMOEPOP,MOEP25APOV,2014-2018 MOE Pop 25+/Inc at/Above Poverty Level,2014-2018 MOE Population 25+ w/Income at/Above Poverty Level,9,0,,B17003m13,moesxpoveduc11
+657,ACSTRMOEPOP,MOEMAPLTHS,2014-2018 MOE Male 25+ at/Above Pov: < High School Grad,2014-2018 MOE Male 25+ at/Above Poverty: < High School Grad,9,0,,B17003m15,moesxpoveduc12
+658,ACSTRMOEPOP,MOEMAPHSGR,2014-2018 MOE Male 25+ at/Above Pov: High School Grad,2014-2018 MOE Male 25+ at/Above Poverty: High School Grad,9,0,,B17003m16,moesxpoveduc13
+659,ACSTRMOEPOP,MOEMAPCOLL,2014-2018 MOE Male 25+ at/Above Pov: Some College,2014-2018 MOE Male 25+ at/Above Poverty: Some College,9,0,,B17003m17,moesxpoveduc14
+660,ACSTRMOEPOP,MOEMAPBACH,2014-2018 MOE Male 25+ at/Above Pov: Bachelor Deg+,2014-2018 MOE Male 25+ at/Above Poverty: Bachelor/Higher,9,0,,B17003m18,moesxpoveduc15
+661,ACSTRMOEPOP,MOEFAPLTHS,2014-2018 MOE Female 25+ at/Above Pov: < High Sch Grad,2014-2018 MOE Female 25+ at/Above Poverty: < High School Grad,9,0,,B17003m20,moesxpoveduc16
+662,ACSTRMOEPOP,MOEFAPHSGR,2014-2018 MOE Female 25+ at/Above Pov: High Sch Grad,2014-2018 MOE Female 25+ at/Above Poverty: High School Grad,9,0,,B17003m21,moesxpoveduc17
+663,ACSTRMOEPOP,MOEFAPCOLL,2014-2018 MOE Female 25+ at/Above Pov: Some College,2014-2018 MOE Female 25+ at/Above Poverty: Some College,9,0,,B17003m22,moesxpoveduc18
+664,ACSTRMOEPOP,MOEFAPBACH,2014-2018 MOE Female 25+ at/Above Pov:Bachelor Deg+,2014-2018 MOE Female 25+ at/Above Poverty: Bachelor/Higher,9,0,,B17003m23,moesxpoveduc19
+665,ACSTRMOEPOP,MOEP16POV,2014-2018 MOE Pop 16+/Poverty is Determined,2014-2018 MOE Population 16+ whom Poverty Status is Determined,9,0,,B17005m1,moesxpovLF1
+666,ACSTRMOEPOP,MOEP16BPOV,2014-2018 MOE Pop 16+/Income Below Poverty Level,2014-2018 MOE Population 16+ Below Poverty Level,9,0,,B17005m2,moesxpovLF2
+667,ACSTRMOEPOP,MOEMBPINLF,2014-2018 MOE Male 16+/Below Pov: in Labor Force,2014-2018 MOE Male 16+ Below Poverty: in Labor Force,9,0,,B17005m4,moesxpovLF3
+668,ACSTRMOEPOP,MOEMBPEMP,2014-2018 MOE Male 16+/Below Pov: Employed,2014-2018 MOE Male 16+ Below Poverty: Employed,9,0,,B17005m5,moesxpovLF4
+669,ACSTRMOEPOP,MOEMBPUNEM,2014-2018 MOE Male 16+/Below Pov: UnEmployed,2014-2018 MOE Male 16+ Below Poverty: Unemployed,9,0,,B17005m6,moesxpovLF5
+670,ACSTRMOEPOP,MOEMBPNOLF,2014-2018 MOE Male 16+/Below Pov: Not in Labor Force,2014-2018 MOE Male 16+ Below Poverty: Not in Labor Force,9,0,,B17005m7,moesxpovLF6
+671,ACSTRMOEPOP,MOEFBPINLF,2014-2018 MOE Female 16+/Below Pov: in Labor Force,2014-2018 MOE Female 16+ Below Poverty: in Labor Force,9,0,,B17005m9,moesxpovLF7
+672,ACSTRMOEPOP,MOEFBPEMP,2014-2018 MOE Female 16+/Below Pov: Employed,2014-2018 MOE Female 16+ Below Poverty: Employed,9,0,,B17005m10,moesxpovLF8
+673,ACSTRMOEPOP,MOEFBPUNEM,2014-2018 MOE Female 16+/Below Pov: UnEmployed,2014-2018 MOE Female 16+ Below Poverty: Unemployed,9,0,,B17005m11,moesxpovLF9
+674,ACSTRMOEPOP,MOEFBPNOLF,2014-2018 MOE Female 16+/Below Pov: Not in Labor Force,2014-2018 MOE Female 16+ Below Poverty: Not in Labor Force,9,0,,B17005m12,moesxpovLF10
+675,ACSTRMOEPOP,MOEP16APOV,2014-2018 MOE Pop 16+/Income at/Above Poverty,2014-2018 MOE Population 16+ w/Income at/Above Poverty Level,9,0,,B17005m13,moesxpovLF11
+676,ACSTRMOEPOP,MOEMAPINLF,2014-2018 MOE Male 16+ at/Above Pov:in Labor Force,2014-2018 MOE Male 16+ at/Above Poverty: in Labor Force,9,0,,B17005m15,moesxpovLF12
+677,ACSTRMOEPOP,MOEMAPEMP,2014-2018 MOE Male 16+ at/Above Pov:Employed,2014-2018 MOE Male 16+ at/Above Poverty: Employed,9,0,,B17005m16,moesxpovLF13
+678,ACSTRMOEPOP,MOEMAPUNEM,2014-2018 MOE Male 16+ at/Above Pov:UnEmployed,2014-2018 MOE Male 16+ at/Above Poverty: Unemployed,9,0,,B17005m17,moesxpovLF14
+679,ACSTRMOEPOP,MOEMAPNOLF,2014-2018 MOE Male 16+ at/Above Pov:Not in Labor Force,2014-2018 MOE Male 16+ at/Above Poverty: Not in Labor Force,9,0,,B17005m18,moesxpovLF15
+680,ACSTRMOEPOP,MOEFAPINLF,2014-2018 MOE Female 16+ at/Above Pov:in Labor Force,2014-2018 MOE Female 16+ at/Above Poverty: in Labor Force,9,0,,B17005m20,moesxpovLF16
+681,ACSTRMOEPOP,MOEFAPEMP,2014-2018 MOE Female 16+ at/Above Pov:Employed,2014-2018 MOE Female 16+ at/Above Poverty: Employed,9,0,,B17005m21,moesxpovLF17
+682,ACSTRMOEPOP,MOEFAPUNEM,2014-2018 MOE Female 16+ at/Above Pov:UnEmployed,2014-2018 MOE Female 16+ at/Above Poverty: Unemployed,9,0,,B17005m22,moesxpovLF18
+683,ACSTRMOEPOP,MOEFAPNOLF,2014-2018 MOE Female 16+ at/Above Pov:Not in Labor Force,2014-2018 MOE Female 16+ at/Above Poverty: Not in Labor Force,9,0,,B17005m23,moesxpovLF19
+684,ACSTRMOEPOP,MOEWHTPOV,2014-2018 MOE White-Poverty Determined,2014-2018 MOE White Pop: Poverty Status is Determined,9,0,,B17020Am1,moeracepov1
+685,ACSTRMOEPOP,MOEWHTBPOV,2014-2018 MOE White-Inc Below Poverty Level,2014-2018 MOE White Pop Below Poverty Level,9,0,,B17020Am2,moeracepov2
+686,ACSTRMOEPOP,MOEWHTAPOV,2014-2018 MOE White-Inc at/Above Poverty Level,2014-2018 MOE White Pop at/Above Poverty Level,9,0,,B17020Am10,moeracepov3
+687,ACSTRMOEPOP,MOEBLKPOV,2014-2018 MOE Black-Poverty Determined,2014-2018 MOE Black Pop: Poverty Status is Determined,9,0,,B17020Bm1,moeracepov4
+688,ACSTRMOEPOP,MOEBLKBPOV,2014-2018 MOE Black-Inc Below Poverty Level,2014-2018 MOE Black Pop Below Poverty Level,9,0,,B17020Bm2,moeracepov5
+689,ACSTRMOEPOP,MOEBLKAPOV,2014-2018 MOE Black-Inc at/Above Poverty Level,2014-2018 MOE Black Pop at/Above Poverty Level,9,0,,B17020Bm10,moeracepov6
+690,ACSTRMOEPOP,MOEAIPOV,2014-2018 MOE Amer Indian-Poverty Determined,2014-2018 MOE American Indian Pop: Poverty Status is Determined,9,0,,B17020Cm1,moeracepov7
+691,ACSTRMOEPOP,MOEAIBPOV,2014-2018 MOE Amer Indian-Inc Below Poverty Level,2014-2018 MOE American Indian Pop Below Poverty Level,9,0,,B17020Cm2,moeracepov8
+692,ACSTRMOEPOP,MOEAIAPOV,2014-2018 MOE Amer Indian-Inc at/Above Poverty Level,2014-2018 MOE American Indian Pop at/Above Poverty Level,9,0,,B17020Cm10,moeracepov9
+693,ACSTRMOEPOP,MOEASNPOV,2014-2018 MOE Asian-Poverty Determined,2014-2018 MOE Asian Pop: Poverty Status is Determined,9,0,,B17020Dm1,moeracepov10
+694,ACSTRMOEPOP,MOEASNBPOV,2014-2018 MOE Asian-Inc Below Poverty Level,2014-2018 MOE Asian Pop Below Poverty Level,9,0,,B17020Dm2,moeracepov11
+695,ACSTRMOEPOP,MOEASNAPOV,2014-2018 MOE Asian-Inc at/Above Poverty Level,2014-2018 MOE Asian Pop at/Above Poverty Level,9,0,,B17020Dm10,moeracepov12
+696,ACSTRMOEPOP,MOEPIPOV,2014-2018 MOE Pac Islander-Poverty Determined,2014-2018 MOE Pacific Islander Pop: Poverty Status is Determined,9,0,,B17020Em1,moeracepov13
+697,ACSTRMOEPOP,MOEPIBPOV,2014-2018 MOE Pac Islander-Inc Below Poverty Level,2014-2018 MOE Pacific Islander Pop Below Poverty Level,9,0,,B17020Em2,moeracepov14
+698,ACSTRMOEPOP,MOEPIAPOV,2014-2018 MOE Pac Islander-Inc at/Above Poverty Level,2014-2018 MOE Pacific Islander Pop at/Above Poverty Level,9,0,,B17020Em10,moeracepov15
+699,ACSTRMOEPOP,MOEOTHPOV,2014-2018 MOE Other Race-Poverty Determined,2014-2018 MOE Other Race Pop: Poverty Status is Determined,9,0,,B17020Fm1,moeracepov16
+700,ACSTRMOEPOP,MOEOTHBPOV,2014-2018 MOE Other Race-Inc Below Poverty Level,2014-2018 MOE Other Race Pop Below Poverty Level,9,0,,B17020Fm2,moeracepov17
+701,ACSTRMOEPOP,MOEOTHAPOV,2014-2018 MOE Other Race-Inc at/Above Poverty Level,2014-2018 MOE Other Race Pop at/Above Poverty Level,9,0,,B17020Fm10,moeracepov18
+702,ACSTRMOEPOP,MOEMLTPOV,2014-2018 MOE 2+ Races-Poverty Determined,2014-2018 MOE Multiple Races Pop: Poverty Status is Determined,9,0,,B17020Gm1,moeracepov19
+703,ACSTRMOEPOP,MOEMLTBPOV,2014-2018 MOE 2+ Races-Inc Below Poverty Level,2014-2018 MOE Multiple Races Pop Below Poverty Level,9,0,,B17020Gm2,moeracepov20
+704,ACSTRMOEPOP,MOEMLTAPOV,2014-2018 MOE 2+ Races-Inc at/Above Poverty Level,2014-2018 MOE Multiple Races Pop at/Above Poverty Level,9,0,,B17020Gm10,moeracepov21
+705,ACSTRMOEPOP,MOEWNHPOV,2014-2018 MOE White Non-Hisp-Poverty Determined,2014-2018 MOE White Non-Hispanic Pop: Poverty Status is Determined,9,0,,B17020Hm1,moeracepov22
+706,ACSTRMOEPOP,MOEWNHBPOV,2014-2018 MOE White Non-Hisp-Inc Below Poverty Level,2014-2018 MOE White Non-Hispanic Pop Below Poverty Level,9,0,,B17020Hm2,moeracepov23
+707,ACSTRMOEPOP,MOEWNHAPOV,2014-2018 MOE White Non-Hisp-Inc at/Above Poverty Lvl,2014-2018 MOE White Non-Hispanic Pop w/Inc at/Above Poverty Level,9,0,,B17020Hm10,moeracepov24
+708,ACSTRMOEPOP,MOEHSPPOV,2014-2018 MOE Hispanic-Poverty Determined,2014-2018 MOE Hispanic Pop: Poverty Status is Determined,9,0,,B17020Im1,moeracepov25
+709,ACSTRMOEPOP,MOEHSPBPOV,2014-2018 MOE Hispanic-Inc Below Poverty Level,2014-2018 MOE Hispanic Pop Below Poverty Level,9,0,,B17020Im2,moeracepov26
+710,ACSTRMOEPOP,MOEHSPAPOV,2014-2018 MOE Hispanic-Inc at/Above Poverty Level,2014-2018 MOE Hispanic Pop at/Above Poverty Level,9,0,,B17020Im10,moeracepov27
+711,ACSTRMOEHH,MOEFSBPOV,2014-2018 MOE HH Below Pov: Rcv Food Stamps/SNAP,2014-2018 MOE HHs Below Poverty that Received Food Stamps/SNAP,9,0,,B22003m3,moeSNAP1
+712,ACSTRMOEHH,MOEFSAPOV,2014-2018 MOE HH at/Abv Pov: Rcv Food Stamps/SNAP,2014-2018 MOE HHs at/Above Poverty that Received Food Stamps/SNAP,9,0,,B22003m4,moeSNAP2
+713,ACSTRMOEHH,MOEFSU18,2014-2018 MOE HH w/Pop <18: Rcv Food Stamps/SNAP,2014-2018 MOE HHs w/Population <18 that Received Food Stamps/SNAP,9,0,,B22002m3,moeSNAP3
+714,ACSTRMOEHH,MOEFSNU18,2014-2018 MOE HH w/No Pop <18: Rcv Food Stamps/SNAP,2014-2018 MOE HHs w/No Population <18 that Received Food Stamps/SNAP,9,0,,B22002m9,moeSNAP4
+715,ACSTRMOEHH,MOEFSP60,2014-2018 MOE HH w/Pop 60+: Rcv Food Stamps/SNAP,2014-2018 MOE HHs w/Population 60+ that Received Food Stamps/SNAP,9,0,,B22001m3,moeSNAP5
+716,ACSTRMOEHH,MOEFSNP60,2014-2018 MOE HH w/No Pop 60+: Rcv Food Stamps/SNAP,2014-2018 MOE HHs w/No Population 60+ that Received Food Stamps/SNAP,9,0,,B22001m4,moeSNAP6
+717,ACSTRMOEHH,MOENFSBPOV,2014-2018 MOE HH Below Pov: No Food Stamps/SNAP,2014-2018 MOE HHs Below Poverty No Food Stamps/SNAP Received,9,0,,B22003m6,moeSNAP7
+718,ACSTRMOEHH,MOENFSAPOV,2014-2018 MOE HH at/Abv Pov: No Food Stamps/SNAP,2014-2018 MOE HHs at/Above Poverty No Food Stamps/SNAP Received,9,0,,B22003m7,moeSNAP8
+719,ACSTRMOEHH,MOENFSU18,2014-2018 MOE HH w/Pop <18: No Food Stamps/SNAP,2014-2018 MOE HHs w/Population <18 No Food Stamps/SNAP Received,9,0,,B22002m16,moeSNAP9
+720,ACSTRMOEHH,MOENFSNU18,2014-2018 MOE HH No Pop <18: No Food Stamps/SNAP,2014-2018 MOE HHs w/No Population <18 No Food Stamps/SNAP Received,9,0,,B22002m22,moeSNAP10
+721,ACSTRMOEHH,MOENFSP60,2014-2018 MOE HH w/Pop 60+: No Food Stamps/SNAP,2014-2018 MOE HHs w/Population 60+ No Food Stamps/SNAP Received,9,0,,B22001m6,moeSNAP11
+722,ACSTRMOEHH,MOENFSNP60,2014-2018 MOE HH No Pop 60+: No Food Stamps/SNAP,2014-2018 MOE HHs w/No Population 60+ No Food Stamps/SNAP Received,9,0,,B22001m7,moeSNAP12
+723,ACSTRMOEHH,MOEMEDI1PH,2014-2018 MOE Median HH Income/1-Pers HH,2014-2018 MOE Median Household Income: 1-Person Households,9,0,YES,B19019m2,moemedincsz1
+724,ACSTRMOEHH,MOEMEDI2PH,2014-2018 MOE Median HH Income/2-Pers HH,2014-2018 MOE Median Household Income: 2-Person Households,9,0,YES,B19019m3,moemedincsz2
+725,ACSTRMOEHH,MOEMEDI3PH,2014-2018 MOE Median HH Income/3-Pers HH,2014-2018 MOE Median Household Income: 3-Person Households,9,0,YES,B19019m4,moemedincsz3
+726,ACSTRMOEHH,MOEMEDI4PH,2014-2018 MOE Median HH Income/4-Pers HH,2014-2018 MOE Median Household Income: 4-Person Households,9,0,YES,B19019m5,moemedincsz4
+727,ACSTRMOEHH,MOEMEDI5PH,2014-2018 MOE Median HH Income/5-Pers HH,2014-2018 MOE Median Household Income: 5-Person Households,9,0,YES,B19019m6,moemedincsz5
+728,ACSTRMOEHH,MOEMEDI6PH,2014-2018 MOE Median HH Income/6-Pers HH,2014-2018 MOE Median Household Income: 6-Person Households,9,0,YES,B19019m7,moemedincsz6
+729,ACSTRMOEHH,MOEMEDI7PH,2014-2018 MOE Median HH Income/7+Pers HH,2014-2018 MOE Median Household Income: 7+ Person Households,9,0,YES,B19019m8,moemedincsz7
+730,ACSTRMOEHH,MOEWHTHHR,2014-2018 MOE HH Income Base/White HHr,2014-2018 MOE Households with White Householder,9,0,,B19001Am1,moeincrace1
+731,ACSTRMOEHH,MOEWHTI0,2014-2018 MOE White HHr/Income <$10000,2014-2018 MOE Households with White HHr/Income <$10000,9,0,,B19001Am2,moeincrace2
+732,ACSTRMOEHH,MOEWHTI10,2014-2018 MOE White HHr/Income $10000-$14999,2014-2018 MOE Households with White HHr/Income $10000-$14999,9,0,,B19001Am3,moeincrace3
+733,ACSTRMOEHH,MOEWHTI15,2014-2018 MOE White HHr/Income $15000-$19999,2014-2018 MOE Households with White HHr/Income $15000-$19999,9,0,,B19001Am4,moeincrace4
+734,ACSTRMOEHH,MOEWHTI20,2014-2018 MOE White HHr/Income $20000-$24999,2014-2018 MOE Households with White HHr/Income $20000-$24999,9,0,,B19001Am5,moeincrace5
+735,ACSTRMOEHH,MOEWHTI25,2014-2018 MOE White HHr/Income $25000-$29999,2014-2018 MOE Households with White HHr/Income $25000-$29999,9,0,,B19001Am6,moeincrace6
+736,ACSTRMOEHH,MOEWHTI30,2014-2018 MOE White HHr/Income $30000-$34999,2014-2018 MOE Households with White HHr/Income $30000-$34999,9,0,,B19001Am7,moeincrace7
+737,ACSTRMOEHH,MOEWHTI35,2014-2018 MOE White HHr/Income $35000-$39999,2014-2018 MOE Households with White HHr/Income $35000-$39999,9,0,,B19001Am8,moeincrace8
+738,ACSTRMOEHH,MOEWHTI40,2014-2018 MOE White HHr/Income $40000-$44999,2014-2018 MOE Households with White HHr/Income $40000-$44999,9,0,,B19001Am9,moeincrace9
+739,ACSTRMOEHH,MOEWHTI45,2014-2018 MOE White HHr/Income $45000-$49999,2014-2018 MOE Households with White HHr/Income $45000-$49999,9,0,,B19001Am10,moeincrace10
+740,ACSTRMOEHH,MOEWHTI50,2014-2018 MOE White HHr/Income $50000-$59999,2014-2018 MOE Households with White HHr/Income $50000-$59999,9,0,,B19001Am11,moeincrace11
+741,ACSTRMOEHH,MOEWHTI60,2014-2018 MOE White HHr/Income $60000-$74999,2014-2018 MOE Households with White HHr/Income $60000-$74999,9,0,,B19001Am12,moeincrace12
+742,ACSTRMOEHH,MOEWHTI75,2014-2018 MOE White HHr/Income $75000-$99999,2014-2018 MOE Households with White HHr/Income $75000-$99999,9,0,,B19001Am13,moeincrace13
+743,ACSTRMOEHH,MOEWHTI100,2014-2018 MOE White HHr/Income $100000-$124999,2014-2018 MOE Households with White HHr/Income $100000-$124999,9,0,,B19001Am14,moeincrace14
+744,ACSTRMOEHH,MOEWHTI125,2014-2018 MOE White HHr/Income $125000-$149999,2014-2018 MOE Households with White HHr/Income $125000-$149999,9,0,,B19001Am15,moeincrace15
+745,ACSTRMOEHH,MOEWHTI150,2014-2018 MOE White HHr/Income $150000-$199999,2014-2018 MOE Households with White HHr/Income $150000-$199999,9,0,,B19001Am16,moeincrace16
+746,ACSTRMOEHH,MOEWHTI200,2014-2018 MOE White HHr/Income $200000+,2014-2018 MOE Households with White HHr/Income $200000+,9,0,,B19001Am17,moeincrace17
+747,ACSTRMOEHH,MOEMEDWHTI,2014-2018 MOE Median HH Income/White HHr,2014-2018 MOE Median Household Income: White Householder,9,0,YES,B19013Am1,moemedincrace1
+748,ACSTRMOEHH,MOEAGGWHTI,2014-2018 MOE Aggr HH Income/White HHr,2014-2018 MOE Aggregate Household Income: White Householder,15,0,YES,B19025Am1,moeaggincrace1
+749,ACSTRMOEHH,MOEBLKHHR,2014-2018 MOE HH Income Base/Black HHr,2014-2018 MOE Households with Black Householder,9,0,,B19001Bm1,moeincrace18
+750,ACSTRMOEHH,MOEBLKI0,2014-2018 MOE Black HHr/Inc <$10000,2014-2018 MOE Households with Black HHr/Income <$10000,9,0,,B19001Bm2,moeincrace19
+751,ACSTRMOEHH,MOEBLKI10,2014-2018 MOE Black HHr/Inc $10K-14999,2014-2018 MOE Households with Black HHr/Income $10000-$14999,9,0,,B19001Bm3,moeincrace20
+752,ACSTRMOEHH,MOEBLKI15,2014-2018 MOE Black HHr/Inc $15K-19999,2014-2018 MOE Households with Black HHr/Income $15000-$19999,9,0,,B19001Bm4,moeincrace21
+753,ACSTRMOEHH,MOEBLKI20,2014-2018 MOE Black HHr/Inc $20K-24999,2014-2018 MOE Households with Black HHr/Income $20000-$24999,9,0,,B19001Bm5,moeincrace22
+754,ACSTRMOEHH,MOEBLKI25,2014-2018 MOE Black HHr/Inc $25K-29999,2014-2018 MOE Households with Black HHr/Income $25000-$29999,9,0,,B19001Bm6,moeincrace23
+755,ACSTRMOEHH,MOEBLKI30,2014-2018 MOE Black HHr/Inc $30K-34999,2014-2018 MOE Households with Black HHr/Income $30000-$34999,9,0,,B19001Bm7,moeincrace24
+756,ACSTRMOEHH,MOEBLKI35,2014-2018 MOE Black HHr/Inc $35K-39999,2014-2018 MOE Households with Black HHr/Income $35000-$39999,9,0,,B19001Bm8,moeincrace25
+757,ACSTRMOEHH,MOEBLKI40,2014-2018 MOE Black HHr/Inc $40K-44999,2014-2018 MOE Households with Black HHr/Income $40000-$44999,9,0,,B19001Bm9,moeincrace26
+758,ACSTRMOEHH,MOEBLKI45,2014-2018 MOE Black HHr/Inc $45K-49999,2014-2018 MOE Households with Black HHr/Income $45000-$49999,9,0,,B19001Bm10,moeincrace27
+759,ACSTRMOEHH,MOEBLKI50,2014-2018 MOE Black HHr/Inc $50K-59999,2014-2018 MOE Households with Black HHr/Income $50000-$59999,9,0,,B19001Bm11,moeincrace28
+760,ACSTRMOEHH,MOEBLKI60,2014-2018 MOE Black HHr/Inc $60K-74999,2014-2018 MOE Households with Black HHr/Income $60000-$74999,9,0,,B19001Bm12,moeincrace29
+761,ACSTRMOEHH,MOEBLKI75,2014-2018 MOE Black HHr/Inc $75K-99999,2014-2018 MOE Households with Black HHr/Income $75000-$99999,9,0,,B19001Bm13,moeincrace30
+762,ACSTRMOEHH,MOEBLKI100,2014-2018 MOE Black HHr/Inc $100K-124999,2014-2018 MOE Households with Black HHr/Income $100000-$124999,9,0,,B19001Bm14,moeincrace31
+763,ACSTRMOEHH,MOEBLKI125,2014-2018 MOE Black HHr/Inc $125K-149999,2014-2018 MOE Households with Black HHr/Income $125000-$149999,9,0,,B19001Bm15,moeincrace32
+764,ACSTRMOEHH,MOEBLKI150,2014-2018 MOE Black HHr/Inc $150K-199999,2014-2018 MOE Households with Black HHr/Income $150000-$199999,9,0,,B19001Bm16,moeincrace33
+765,ACSTRMOEHH,MOEBLKI200,2014-2018 MOE Black HHr/Inc $200000+,2014-2018 MOE Households with Black HHr/Income $200000+,9,0,,B19001Bm17,moeincrace34
+766,ACSTRMOEHH,MOEMEDBLKI,2014-2018 MOE Median HH Income/Black HHr,2014-2018 MOE Median Household Income: Black Householder,9,0,YES,B19013Bm1,moemedincrace2
+767,ACSTRMOEHH,MOEAGGBLKI,2014-2018 MOE Aggr HH Income/Black HHr,2014-2018 MOE Aggregate Household Income: Black Householder,15,0,YES,B19025Bm1,moeaggincrace2
+768,ACSTRMOEHH,MOEAIHHR,2014-2018 MOE HH Inc Base/Amer Indian HHr,2014-2018 MOE Households with American Indian Householder,9,0,,B19001Cm1,moeincrace35
+769,ACSTRMOEHH,MOEAII0,2014-2018 MOE AI HHr/Inc <$10000,2014-2018 MOE Households w/Amer Indian HHr/Income <$10000,9,0,,B19001Cm2,moeincrace36
+770,ACSTRMOEHH,MOEAII10,2014-2018 MOE Amer Indian  HHr/Inc $10K-14999,2014-2018 MOE Households w/Amer Indian HHr/Income $10000-$14999,9,0,,B19001Cm3,moeincrace37
+771,ACSTRMOEHH,MOEAII15,2014-2018 MOE Amer Indian  HHr/Inc $15K-19999,2014-2018 MOE Households w/Amer Indian HHr/Income $15000-$19999,9,0,,B19001Cm4,moeincrace38
+772,ACSTRMOEHH,MOEAII20,2014-2018 MOE Amer Indian  HHr/Inc $20K-24999,2014-2018 MOE Households w/Amer Indian HHr/Income $20000-$24999,9,0,,B19001Cm5,moeincrace39
+773,ACSTRMOEHH,MOEAII25,2014-2018 MOE Amer Indian  HHr/Inc $25K-29999,2014-2018 MOE Households w/Amer Indian HHr/Income $25000-$29999,9,0,,B19001Cm6,moeincrace40
+774,ACSTRMOEHH,MOEAII30,2014-2018 MOE Amer Indian  HHr/Inc $30K-34999,2014-2018 MOE Households w/Amer Indian HHr/Income $30000-$34999,9,0,,B19001Cm7,moeincrace41
+775,ACSTRMOEHH,MOEAII35,2014-2018 MOE Amer Indian  HHr/Inc $35K-39999,2014-2018 MOE Households w/Amer Indian HHr/Income $35000-$39999,9,0,,B19001Cm8,moeincrace42
+776,ACSTRMOEHH,MOEAII40,2014-2018 MOE Amer Indian  HHr/Inc $40K-44999,2014-2018 MOE Households w/Amer Indian HHr/Income $40000-$44999,9,0,,B19001Cm9,moeincrace43
+777,ACSTRMOEHH,MOEAII45,2014-2018 MOE Amer Indian  HHr/Inc $45K-49999,2014-2018 MOE Households w/Amer Indian HHr/Income $45000-$49999,9,0,,B19001Cm10,moeincrace44
+778,ACSTRMOEHH,MOEAII50,2014-2018 MOE Amer Indian  HHr/Inc $50K-59999,2014-2018 MOE Households w/Amer Indian HHr/Income $50000-$59999,9,0,,B19001Cm11,moeincrace45
+779,ACSTRMOEHH,MOEAII60,2014-2018 MOE Amer Indian  HHr/Inc $60K-74999,2014-2018 MOE Households w/Amer Indian HHr/Income $60000-$74999,9,0,,B19001Cm12,moeincrace46
+780,ACSTRMOEHH,MOEAII75,2014-2018 MOE Amer Indian  HHr/Inc $75K-99999,2014-2018 MOE Households w/Amer Indian HHr/Income $75000-$99999,9,0,,B19001Cm13,moeincrace47
+781,ACSTRMOEHH,MOEAII100,2014-2018 MOE Amer Indian  HHr/Inc $100K-124999,2014-2018 MOE Households w/Amer Indian HHr/Income $100000-$124999,9,0,,B19001Cm14,moeincrace48
+782,ACSTRMOEHH,MOEAII125,2014-2018 MOE Amer Indian  HHr/Inc $125K-149999,2014-2018 MOE Households w/Amer Indian HHr/Income $125000-$149999,9,0,,B19001Cm15,moeincrace49
+783,ACSTRMOEHH,MOEAII150,2014-2018 MOE Amer Indian  HHr/Inc $150K-199999,2014-2018 MOE Households w/Amer Indian HHr/Income $150000-$199999,9,0,,B19001Cm16,moeincrace50
+784,ACSTRMOEHH,MOEAII200,2014-2018 MOE Amer Indian  HHr/Inc $200000+,2014-2018 MOE Households w/Amer Indian HHr/Income $200000+,9,0,,B19001Cm17,moeincrace51
+785,ACSTRMOEHH,MOEMEDAII,2014-2018 MOE Median HH Inc/Amer Indian HHr,2014-2018 MOE Median Household Income: American Indian Householder,9,0,YES,B19013Cm1,moemedincrace3
+786,ACSTRMOEHH,MOEAGGAII,2014-2018 MOE Aggr HH Inc/Amer Indian HHr,2014-2018 MOE Aggregate Household Income: American Indian Householder,15,0,YES,B19025Cm1,moeaggincrace3
+787,ACSTRMOEHH,MOEASNHHR,2014-2018 MOE HH Income Base/Asian HHr,2014-2018 MOE Households with Asian Householder,9,0,,B19001Dm1,moeincrace52
+788,ACSTRMOEHH,MOEASNI0,2014-2018 MOE Asian HHr/Inc <$10000,2014-2018 MOE Households with Asian HHr/Income <$10000,9,0,,B19001Dm2,moeincrace53
+789,ACSTRMOEHH,MOEASNI10,2014-2018 MOE Asian HHr/Inc $10K-14999,2014-2018 MOE Households with Asian HHr/Income $10000-$14999,9,0,,B19001Dm3,moeincrace54
+790,ACSTRMOEHH,MOEASNI15,2014-2018 MOE Asian HHr/Inc $15K-19999,2014-2018 MOE Households with Asian HHr/Income $15000-$19999,9,0,,B19001Dm4,moeincrace55
+791,ACSTRMOEHH,MOEASNI20,2014-2018 MOE Asian HHr/Inc $20K-24999,2014-2018 MOE Households with Asian HHr/Income $20000-$24999,9,0,,B19001Dm5,moeincrace56
+792,ACSTRMOEHH,MOEASNI25,2014-2018 MOE Asian HHr/Inc $25K-29999,2014-2018 MOE Households with Asian HHr/Income $25000-$29999,9,0,,B19001Dm6,moeincrace57
+793,ACSTRMOEHH,MOEASNI30,2014-2018 MOE Asian HHr/Inc $30K-34999,2014-2018 MOE Households with Asian HHr/Income $30000-$34999,9,0,,B19001Dm7,moeincrace58
+794,ACSTRMOEHH,MOEASNI35,2014-2018 MOE Asian HHr/Inc $35K-39999,2014-2018 MOE Households with Asian HHr/Income $35000-$39999,9,0,,B19001Dm8,moeincrace59
+795,ACSTRMOEHH,MOEASNI40,2014-2018 MOE Asian HHr/Inc $40K-44999,2014-2018 MOE Households with Asian HHr/Income $40000-$44999,9,0,,B19001Dm9,moeincrace60
+796,ACSTRMOEHH,MOEASNI45,2014-2018 MOE Asian HHr/Inc $45K-49999,2014-2018 MOE Households with Asian HHr/Income $45000-$49999,9,0,,B19001Dm10,moeincrace61
+797,ACSTRMOEHH,MOEASNI50,2014-2018 MOE Asian HHr/Inc $50K-59999,2014-2018 MOE Households with Asian HHr/Income $50000-$59999,9,0,,B19001Dm11,moeincrace62
+798,ACSTRMOEHH,MOEASNI60,2014-2018 MOE Asian HHr/Inc $60K-74999,2014-2018 MOE Households with Asian HHr/Income $60000-$74999,9,0,,B19001Dm12,moeincrace63
+799,ACSTRMOEHH,MOEASNI75,2014-2018 MOE Asian HHr/Inc $75K-99999,2014-2018 MOE Households with Asian HHr/Income $75000-$99999,9,0,,B19001Dm13,moeincrace64
+800,ACSTRMOEHH,MOEASNI100,2014-2018 MOE Asian HHr/Inc $100K-124999,2014-2018 MOE Households with Asian HHr/Income $100000-$124999,9,0,,B19001Dm14,moeincrace65
+801,ACSTRMOEHH,MOEASNI125,2014-2018 MOE Asian HHr/Inc $125K-149999,2014-2018 MOE Households with Asian HHr/Income $125000-$149999,9,0,,B19001Dm15,moeincrace66
+802,ACSTRMOEHH,MOEASNI150,2014-2018 MOE Asian HHr/Inc $150K-199999,2014-2018 MOE Households with Asian HHr/Income $150000-$199999,9,0,,B19001Dm16,moeincrace67
+803,ACSTRMOEHH,MOEASNI200,2014-2018 MOE Asian HHr/Inc $200000+,2014-2018 MOE Households with Asian HHr/Income $200000+,9,0,,B19001Dm17,moeincrace68
+804,ACSTRMOEHH,MOEMEDASNI,2014-2018 MOE Median HH Income/Asian HHr,2014-2018 MOE Median Household Income: Asian Householder,9,0,YES,B19013Dm1,moemedincrace4
+805,ACSTRMOEHH,MOEAGGASNI,2014-2018 MOE Aggr HH Income/Asian HHr,2014-2018 MOE Aggregate Household Income: Asian Householder,15,0,YES,B19025Dm1,moeaggincrace4
+806,ACSTRMOEHH,MOEPIHHR,2014-2018 MOE HH Income Base/Pac Islander HHr,2014-2018 MOE Households with Pacific Islander Householder,9,0,,B19001Em1,moeincrace69
+807,ACSTRMOEHH,MOEPII0,2014-2018 MOE Pac Islander HHr/Inc <$10000,2014-2018 MOE Households w/Pacific Islander HHr/Income <$10000,9,0,,B19001Em2,moeincrace70
+808,ACSTRMOEHH,MOEPII10,2014-2018 MOE Pac Islander HHr/Inc $10K-14999,2014-2018 MOE Households w/Pacific Islander HHr/Income $10000-$14999,9,0,,B19001Em3,moeincrace71
+809,ACSTRMOEHH,MOEPII15,2014-2018 MOE Pac Islander HHr/Inc $15K-19999,2014-2018 MOE Households w/Pacific Islander HHr/Income $15000-$19999,9,0,,B19001Em4,moeincrace72
+810,ACSTRMOEHH,MOEPII20,2014-2018 MOE Pac Islander HHr/Inc $20K-24999,2014-2018 MOE Households w/Pacific Islander HHr/Income $20000-$24999,9,0,,B19001Em5,moeincrace73
+811,ACSTRMOEHH,MOEPII25,2014-2018 MOE Pac Islander HHr/Inc $25K-29999,2014-2018 MOE Households w/Pacific Islander HHr/Income $25000-$29999,9,0,,B19001Em6,moeincrace74
+812,ACSTRMOEHH,MOEPII30,2014-2018 MOE Pac Islander HHr/Inc $30K-34999,2014-2018 MOE Households w/Pacific Islander HHr/Income $30000-$34999,9,0,,B19001Em7,moeincrace75
+813,ACSTRMOEHH,MOEPII35,2014-2018 MOE Pac Islander HHr/Inc $35K-39999,2014-2018 MOE Households w/Pacific Islander HHr/Income $35000-$39999,9,0,,B19001Em8,moeincrace76
+814,ACSTRMOEHH,MOEPII40,2014-2018 MOE Pac Islander HHr/Inc $40K-44999,2014-2018 MOE Households w/Pacific Islander HHr/Income $40000-$44999,9,0,,B19001Em9,moeincrace77
+815,ACSTRMOEHH,MOEPII45,2014-2018 MOE Pac Islander HHr/Inc $45K-49999,2014-2018 MOE Households w/Pacific Islander HHr/Income $45000-$49999,9,0,,B19001Em10,moeincrace78
+816,ACSTRMOEHH,MOEPII50,2014-2018 MOE Pac Islander HHr/Inc $50K-59999,2014-2018 MOE Households w/Pacific Islander HHr/Income $50000-$59999,9,0,,B19001Em11,moeincrace79
+817,ACSTRMOEHH,MOEPII60,2014-2018 MOE Pac Islander HHr/Inc $60K-74999,2014-2018 MOE Households w/Pacific Islander HHr/Income $60000-$74999,9,0,,B19001Em12,moeincrace80
+818,ACSTRMOEHH,MOEPII75,2014-2018 MOE Pac Islander HHr/Inc $75K-99999,2014-2018 MOE Households w/Pacific Islander HHr/Income $75000-$99999,9,0,,B19001Em13,moeincrace81
+819,ACSTRMOEHH,MOEPII100,2014-2018 MOE Pac Islander HHr/Inc $100K-124999,2014-2018 MOE Households w/Pacific Islander HHr/Income $100000-$124999,9,0,,B19001Em14,moeincrace82
+820,ACSTRMOEHH,MOEPII125,2014-2018 MOE Pac Islander HHr/Inc $125K-149999,2014-2018 MOE Households w/Pacific Islander HHr/Income $125000-$149999,9,0,,B19001Em15,moeincrace83
+821,ACSTRMOEHH,MOEPII150,2014-2018 MOE Pac Islander HHr/Inc $150K-199999,2014-2018 MOE Households w/Pacific Islander HHr/Income $150000-$199999,9,0,,B19001Em16,moeincrace84
+822,ACSTRMOEHH,MOEPII200,2014-2018 MOE Pac Islander HHr/Inc $200000+,2014-2018 MOE Households w/Pacific Islander HHr/Income $200000+,9,0,,B19001Em17,moeincrace85
+823,ACSTRMOEHH,MOEMEDPII,2014-2018 MOE Median HH Inc/Pac Islander HHr,2014-2018 MOE Median Household Income: Pacific Islander Householder,9,0,YES,B19013Em1,moemedincrace5
+824,ACSTRMOEHH,MOEAGGPII,2014-2018 MOE Aggr HH Income/Pac Islander HHr,2014-2018 MOE Aggregate Household Income: Pacific Islander Householder,15,0,YES,B19025Em1,moeaggincrace5
+825,ACSTRMOEHH,MOEOTHHHR,2014-2018 MOE HH Inc Base/Other Race HHr,2014-2018 MOE Households with Other Race Householder,9,0,,B19001Fm1,moeincrace86
+826,ACSTRMOEHH,MOEOTHI0,2014-2018 MOE Other Race HHr/Inc <$10000,2014-2018 MOE Households w/Other Race HHr/Income <$10000,9,0,,B19001Fm2,moeincrace87
+827,ACSTRMOEHH,MOEOTHI10,2014-2018 MOE Other Race HHr/Inc $10K-14999,2014-2018 MOE Households w/Other Race HHr/Income $10000-$14999,9,0,,B19001Fm3,moeincrace88
+828,ACSTRMOEHH,MOEOTHI15,2014-2018 MOE Other Race HHr/Inc $15K-19999,2014-2018 MOE Households w/Other Race HHr/Income $15000-$19999,9,0,,B19001Fm4,moeincrace89
+829,ACSTRMOEHH,MOEOTHI20,2014-2018 MOE Other Race HHr/Inc $20K-24999,2014-2018 MOE Households w/Other Race HHr/Income $20000-$24999,9,0,,B19001Fm5,moeincrace90
+830,ACSTRMOEHH,MOEOTHI25,2014-2018 MOE Other Race HHr/Inc $25K-29999,2014-2018 MOE Households w/Other Race HHr/Income $25000-$29999,9,0,,B19001Fm6,moeincrace91
+831,ACSTRMOEHH,MOEOTHI30,2014-2018 MOE Other Race HHr/Inc $30K-34999,2014-2018 MOE Households w/Other Race HHr/Income $30000-$34999,9,0,,B19001Fm7,moeincrace92
+832,ACSTRMOEHH,MOEOTHI35,2014-2018 MOE Other Race HHr/Inc $35K-39999,2014-2018 MOE Households w/Other Race HHr/Income $35000-$39999,9,0,,B19001Fm8,moeincrace93
+833,ACSTRMOEHH,MOEOTHI40,2014-2018 MOE Other Race HHr/Inc $40K-44999,2014-2018 MOE Households w/Other Race HHr/Income $40000-$44999,9,0,,B19001Fm9,moeincrace94
+834,ACSTRMOEHH,MOEOTHI45,2014-2018 MOE Other Race HHr/Inc $45K-49999,2014-2018 MOE Households w/Other Race HHr/Income $45000-$49999,9,0,,B19001Fm10,moeincrace95
+835,ACSTRMOEHH,MOEOTHI50,2014-2018 MOE Other Race HHr/Inc $50K-59999,2014-2018 MOE Households w/Other Race HHr/Income $50000-$59999,9,0,,B19001Fm11,moeincrace96
+836,ACSTRMOEHH,MOEOTHI60,2014-2018 MOE Other Race HHr/Inc $60K-74999,2014-2018 MOE Households w/Other Race HHr/Income $60000-$74999,9,0,,B19001Fm12,moeincrace97
+837,ACSTRMOEHH,MOEOTHI75,2014-2018 MOE Other Race HHr/Inc $75K-99999,2014-2018 MOE Households w/Other Race HHr/Income $75000-$99999,9,0,,B19001Fm13,moeincrace98
+838,ACSTRMOEHH,MOEOTHI100,2014-2018 MOE Other Race HHr/Inc $100K-124999,2014-2018 MOE Households w/Other Race HHr/Income $100000-$124999,9,0,,B19001Fm14,moeincrace99
+839,ACSTRMOEHH,MOEOTHI125,2014-2018 MOE Other Race HHr/Inc $125K-149999,2014-2018 MOE Households w/Other Race HHr/Income $125000-$149999,9,0,,B19001Fm15,moeincrace100
+840,ACSTRMOEHH,MOEOTHI150,2014-2018 MOE Other Race HHr/Inc $150K-199999,2014-2018 MOE Households w/Other Race HHr/Income $150000-$199999,9,0,,B19001Fm16,moeincrace101
+841,ACSTRMOEHH,MOEOTHI200,2014-2018 MOE Other Race HHr/Inc $200000+,2014-2018 MOE Households w/Other Race HHr/Income $200000+,9,0,,B19001Fm17,moeincrace102
+842,ACSTRMOEHH,MOEMEDOTHI,2014-2018 MOE Median HH Inc/Other Race HHr,2014-2018 MOE Median Household Income: Other Race Householder,9,0,YES,B19013Fm1,moemedincrace6
+843,ACSTRMOEHH,MOEAGGOTHI,2014-2018 MOE Aggr HH Inc/Other Race HHr,2014-2018 MOE Aggregate Household Income: Other Race Householder,15,0,YES,B19025Fm1,moeaggincrace6
+844,ACSTRMOEHH,MOEMLTHHR,2014-2018 MOE HH Inc Base/2+ Races HHr,2014-2018 MOE Households with Multiple Races Householder,9,0,,B19001Gm1,moeincrace103
+845,ACSTRMOEHH,MOEMLTI0,2014-2018 MOE 2+ Races HHr/Inc <$10000,2014-2018 MOE Households w/Multiple Races HHr/Income <$10000,9,0,,B19001Gm2,moeincrace104
+846,ACSTRMOEHH,MOEMLTI10,2014-2018 MOE 2+ Races HHr/Inc $10K-14999,2014-2018 MOE Households w/Multiple Races HHr/Income $10000-$14999,9,0,,B19001Gm3,moeincrace105
+847,ACSTRMOEHH,MOEMLTI15,2014-2018 MOE 2+ Races HHr/Inc $15K-19999,2014-2018 MOE Households w/Multiple Races HHr/Income $15000-$19999,9,0,,B19001Gm4,moeincrace106
+848,ACSTRMOEHH,MOEMLTI20,2014-2018 MOE 2+ Races HHr/Inc $20K-24999,2014-2018 MOE Households w/Multiple Races HHr/Income $20000-$24999,9,0,,B19001Gm5,moeincrace107
+849,ACSTRMOEHH,MOEMLTI25,2014-2018 MOE 2+ Races HHr/Inc $25K-29999,2014-2018 MOE Households w/Multiple Races HHr/Income $25000-$29999,9,0,,B19001Gm6,moeincrace108
+850,ACSTRMOEHH,MOEMLTI30,2014-2018 MOE 2+ Races HHr/Inc $30K-34999,2014-2018 MOE Households w/Multiple Races HHr/Income $30000-$34999,9,0,,B19001Gm7,moeincrace109
+851,ACSTRMOEHH,MOEMLTI35,2014-2018 MOE 2+ Races HHr/Inc $35K-39999,2014-2018 MOE Households w/Multiple Races HHr/Income $35000-$39999,9,0,,B19001Gm8,moeincrace110
+852,ACSTRMOEHH,MOEMLTI40,2014-2018 MOE 2+ Races HHr/Inc $40K-44999,2014-2018 MOE Households w/Multiple Races HHr/Income $40000-$44999,9,0,,B19001Gm9,moeincrace111
+853,ACSTRMOEHH,MOEMLTI45,2014-2018 MOE 2+ Races HHr/Inc $45K-49999,2014-2018 MOE Households w/Multiple Races HHr/Income $45000-$49999,9,0,,B19001Gm10,moeincrace112
+854,ACSTRMOEHH,MOEMLTI50,2014-2018 MOE 2+ Races HHr/Inc $50K-59999,2014-2018 MOE Households w/Multiple Races HHr/Income $50000-$59999,9,0,,B19001Gm11,moeincrace113
+855,ACSTRMOEHH,MOEMLTI60,2014-2018 MOE 2+ Races HHr/Inc $60K-74999,2014-2018 MOE Households w/Multiple Races HHr/Income $60000-$74999,9,0,,B19001Gm12,moeincrace114
+856,ACSTRMOEHH,MOEMLTI75,2014-2018 MOE 2+ Races HHr/Inc $75K-99999,2014-2018 MOE Households w/Multiple Races HHr/Income $75000-$99999,9,0,,B19001Gm13,moeincrace115
+857,ACSTRMOEHH,MOEMLTI100,2014-2018 MOE 2+ Races HHr/Inc $100K-124999,2014-2018 MOE Households w/Multiple Races HHr/Income $100000-$124999,9,0,,B19001Gm14,moeincrace116
+858,ACSTRMOEHH,MOEMLTI125,2014-2018 MOE 2+ Races HHr/Inc $125K-149999,2014-2018 MOE Households w/Multiple Races HHr/Income $125000-$149999,9,0,,B19001Gm15,moeincrace117
+859,ACSTRMOEHH,MOEMLTI150,2014-2018 MOE 2+ Races HHr/Inc $150K-199999,2014-2018 MOE Households w/Multiple Races HHr/Income $150000-$199999,9,0,,B19001Gm16,moeincrace118
+860,ACSTRMOEHH,MOEMLTI200,2014-2018 MOE 2+ Races HHr/Inc $200000+,2014-2018 MOE Households w/Multiple Races HHr/Income $200000+,9,0,,B19001Gm17,moeincrace119
+861,ACSTRMOEHH,MOEMEDMLTI,2014-2018 MOE Median HH Inc/2+ Races HHr,2014-2018 MOE Median Household Income: Multiple Races Householder,9,0,YES,B19013Gm1,moemedincrace7
+862,ACSTRMOEHH,MOEAGGMLTI,2014-2018 MOE Aggr HH Inc/2+ Races HHr,2014-2018 MOE Aggregate Household Income: Multiple Races Householder,15,0,YES,B19025Gm1,moeaggincrace7
+863,ACSTRMOEHH,MOEWNHHHR,2014-2018 MOE HH Inc Base/White Non-Hisp HHr,2014-2018 MOE Households with White Non-Hispanic Householder,9,0,,B19001Hm1,moeincrace120
+864,ACSTRMOEHH,MOEWNHI0,2014-2018 MOE White Non-Hisp HHr/Inc <$10000,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc <$10000,9,0,,B19001Hm2,moeincrace121
+865,ACSTRMOEHH,MOEWNHI10,2014-2018 MOE White Non-Hisp HHr/Inc $10K-14999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $10000-$14999,9,0,,B19001Hm3,moeincrace122
+866,ACSTRMOEHH,MOEWNHI15,2014-2018 MOE White Non-Hisp HHr/Inc $15K-19999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $15000-$19999,9,0,,B19001Hm4,moeincrace123
+867,ACSTRMOEHH,MOEWNHI20,2014-2018 MOE White Non-Hisp HHr/Inc $20K-24999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $20000-$24999,9,0,,B19001Hm5,moeincrace124
+868,ACSTRMOEHH,MOEWNHI25,2014-2018 MOE White Non-Hisp HHr/Inc $25K-29999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $25000-$29999,9,0,,B19001Hm6,moeincrace125
+869,ACSTRMOEHH,MOEWNHI30,2014-2018 MOE White Non-Hisp HHr/Inc $30K-34999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $30000-$34999,9,0,,B19001Hm7,moeincrace126
+870,ACSTRMOEHH,MOEWNHI35,2014-2018 MOE White Non-Hisp HHr/Inc $35K-39999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $35000-$39999,9,0,,B19001Hm8,moeincrace127
+871,ACSTRMOEHH,MOEWNHI40,2014-2018 MOE White Non-Hisp HHr/Inc $40K-44999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $40000-$44999,9,0,,B19001Hm9,moeincrace128
+872,ACSTRMOEHH,MOEWNHI45,2014-2018 MOE White Non-Hisp HHr/Inc $45K-49999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $45000-$49999,9,0,,B19001Hm10,moeincrace129
+873,ACSTRMOEHH,MOEWNHI50,2014-2018 MOE White Non-Hisp HHr/Inc $50K-59999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $50000-$59999,9,0,,B19001Hm11,moeincrace130
+874,ACSTRMOEHH,MOEWNHI60,2014-2018 MOE White Non-Hisp HHr/Inc $60K-74999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $60000-$74999,9,0,,B19001Hm12,moeincrace131
+875,ACSTRMOEHH,MOEWNHI75,2014-2018 MOE White Non-Hisp HHr/Inc $75K-99999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $75000-$99999,9,0,,B19001Hm13,moeincrace132
+876,ACSTRMOEHH,MOEWNHI100,2014-2018 MOE White Non-Hisp HHr/Inc $100K-124999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $100000-$124999,9,0,,B19001Hm14,moeincrace133
+877,ACSTRMOEHH,MOEWNHI125,2014-2018 MOE White Non-Hisp HHr/Inc $125K-149999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $125000-$149999,9,0,,B19001Hm15,moeincrace134
+878,ACSTRMOEHH,MOEWNHI150,2014-2018 MOE White Non-Hisp HHr/Inc $150K-199999,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $150000-$199999,9,0,,B19001Hm16,moeincrace135
+879,ACSTRMOEHH,MOEWNHI200,2014-2018 MOE White Non-Hisp HHr/Inc $200000+,2014-2018 MOE Households w/White Non-Hispanic HHr/Inc $200000+,9,0,,B19001Hm17,moeincrace136
+880,ACSTRMOEHH,MOEMEDWNHI,2014-2018 MOE Median HH Inc/White Non-Hisp HHr,2014-2018 MOE Median Household Income: White Non-Hispanic Householder,9,0,YES,B19013Hm1,moemedincrace8
+881,ACSTRMOEHH,MOEAGGWNHI,2014-2018 MOE Aggr HH Inc/White Non-Hisp HHr,2014-2018 MOE Aggregate Household Income: White Non-Hispanic Householder,15,0,YES,B19025Hm1,moeaggincrace8
+882,ACSTRMOEHH,MOEHSPHHR,2014-2018 MOE HH Income Base/Hispanic HHr,2014-2018 MOE Households with Hispanic Householder,9,0,,B19001Im1,moeincrace137
+883,ACSTRMOEHH,MOEHSPI0,2014-2018 MOE Hispanic HHr/Inc <$10000,2014-2018 MOE Households w/Hispanic HHr/Income <$10000,9,0,,B19001Im2,moeincrace138
+884,ACSTRMOEHH,MOEHSPI10,2014-2018 MOE Hispanic HHr/Inc $10K-14999,2014-2018 MOE Households w/Hispanic HHr/Income $10000-$14999,9,0,,B19001Im3,moeincrace139
+885,ACSTRMOEHH,MOEHSPI15,2014-2018 MOE Hispanic HHr/Inc $15K-19999,2014-2018 MOE Households w/Hispanic HHr/Income $15000-$19999,9,0,,B19001Im4,moeincrace140
+886,ACSTRMOEHH,MOEHSPI20,2014-2018 MOE Hispanic HHr/Inc $20K-24999,2014-2018 MOE Households w/Hispanic HHr/Income $20000-$24999,9,0,,B19001Im5,moeincrace141
+887,ACSTRMOEHH,MOEHSPI25,2014-2018 MOE Hispanic HHr/Inc $25K-29999,2014-2018 MOE Households w/Hispanic HHr/Income $25000-$29999,9,0,,B19001Im6,moeincrace142
+888,ACSTRMOEHH,MOEHSPI30,2014-2018 MOE Hispanic HHr/Inc $30K-34999,2014-2018 MOE Households w/Hispanic HHr/Income $30000-$34999,9,0,,B19001Im7,moeincrace143
+889,ACSTRMOEHH,MOEHSPI35,2014-2018 MOE Hispanic HHr/Inc $35K-39999,2014-2018 MOE Households w/Hispanic HHr/Income $35000-$39999,9,0,,B19001Im8,moeincrace144
+890,ACSTRMOEHH,MOEHSPI40,2014-2018 MOE Hispanic HHr/Inc $40K-44999,2014-2018 MOE Households w/Hispanic HHr/Income $40000-$44999,9,0,,B19001Im9,moeincrace145
+891,ACSTRMOEHH,MOEHSPI45,2014-2018 MOE Hispanic HHr/Inc $45K-49999,2014-2018 MOE Households w/Hispanic HHr/Income $45000-$49999,9,0,,B19001Im10,moeincrace146
+892,ACSTRMOEHH,MOEHSPI50,2014-2018 MOE Hispanic HHr/Inc $50K-59999,2014-2018 MOE Households w/Hispanic HHr/Income $50000-$59999,9,0,,B19001Im11,moeincrace147
+893,ACSTRMOEHH,MOEHSPI60,2014-2018 MOE Hispanic HHr/Inc $60K-74999,2014-2018 MOE Households w/Hispanic HHr/Income $60000-$74999,9,0,,B19001Im12,moeincrace148
+894,ACSTRMOEHH,MOEHSPI75,2014-2018 MOE Hispanic HHr/Inc $75K-99999,2014-2018 MOE Households w/Hispanic HHr/Income $75000-$99999,9,0,,B19001Im13,moeincrace149
+895,ACSTRMOEHH,MOEHSPI100,2014-2018 MOE Hispanic HHr/Inc $100K-124999,2014-2018 MOE Households w/Hispanic HHr/Income $100000-$124999,9,0,,B19001Im14,moeincrace150
+896,ACSTRMOEHH,MOEHSPI125,2014-2018 MOE Hispanic HHr/Inc $125K-149999,2014-2018 MOE Households w/Hispanic HHr/Income $125000-$149999,9,0,,B19001Im15,moeincrace151
+897,ACSTRMOEHH,MOEHSPI150,2014-2018 MOE Hispanic HHr/Inc $150K-199999,2014-2018 MOE Households w/Hispanic HHr/Income $150000-$199999,9,0,,B19001Im16,moeincrace152
+898,ACSTRMOEHH,MOEHSPI200,2014-2018 MOE Hispanic HHr/Inc $200000+,2014-2018 MOE Households w/Hispanic HHr/Income $200000+,9,0,,B19001Im17,moeincrace153
+899,ACSTRMOEHH,MOEMEDHSPI,2014-2018 MOE Median HH Income/Hispanic HHr,2014-2018 MOE Median Household Income: Hispanic Householder,9,0,YES,B19013Im1,moemedincrace9
+900,ACSTRMOEHH,MOEAGGHSPI,2014-2018 MOE Aggr HH Income/Hispanic HHr,2014-2018 MOE Aggregate Household Income: Hispanic Householder,15,0,YES,B19025Im1,moeaggincrace9
+901,ACSTRMOEHH,MOEEARN0,2014-2018 MOE Family Households: No Earners,2014-2018 MOE Family Households with No Earners,9,0,,B19122m2,moeearn1
+902,ACSTRMOEHH,MOEEARN1,2014-2018 MOE Family Households: 1 Earner,2014-2018 MOE Family Households with 1 Earner,9,0,,B19122m3,moeearn2
+903,ACSTRMOEHH,MOEEARN2,2014-2018 MOE Family Households: 2 Earners,2014-2018 MOE Family Households with 2 Earners,9,0,,B19122m4,moeearn3
+904,ACSTRMOEHH,MOEEARN3,2014-2018 MOE Family Households: 3+ Earners,2014-2018 MOE Family Households with 3+ Earners,9,0,,B19122m5,moeearn4
