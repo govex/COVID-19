@@ -15,7 +15,7 @@ Idaho,https://public.tableau.com/profile/idaho.division.of.public.health#!/vizho
 Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,Yes,Yes,Yes
 Indiana,https://coronavirus.in.gov/,Yes,Yes,Yes
 Iowa,https://coronavirus.iowa.gov/,No,Yes,Yes
-Kansas,https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData,Yes,Yes,Yes
+Kansas,https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas,Yes,Yes,Yes
 Kentucky,https://govstatus.egov.com/kycovid19,No,Yes,Yes
 Louisiana,http://ldh.la.gov/Coronavirus/,No,Yes,Yes
 Maine,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,No,Yes,Yes
@@ -26,7 +26,7 @@ Minnesota,https://www.health.state.mn.us/diseases/coronavirus/situation.html,No,
 Mississippi,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",No,Yes,Yes
 Missouri,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php,No,Yes,Yes
 Montana,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics,No,Yes,No
-Nebraska,https://nebraska.maps.arcgis.com/apps/opsdashboard/index.html#/4213f719a45647bc873ffb58783ffef3,No,No,No
+Nebraska,https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd,No,Yes,Yes
 Nevada,https://nvhealthresponse.nv.gov/,Yes,Yes,Yes
 New Hampshire,https://www.nh.gov/covid19/,No,Yes,Yes
 New Jersey,https://www.state.nj.us/health/cd/documents/topics/NCOV/COVID_Confirmed_Case_Summary.pdf,No,Yes,Yes
