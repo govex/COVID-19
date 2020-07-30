@@ -1,0 +1,9 @@
+Contains 4 directories
+
+templates - contains template for manually collecting testing data
+
+raw_testing_data - contains raw testing data (not in time series format)
+
+timeseries_archive - contains old timeseries testing data
+
+archive - contains old testing data
