@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 2-Mar-20,MDH has released public service announcements regarding statewide preparedness efforts.,,,,,,,,,,Y,
 3-Mar-20,Governor Hogan is submitting a $10 million emergency funding request to the General Assembly as part of a supplemental budget.,,,,,,,,,,y,
 3-Mar-20,The Maryland Higher Education Commission is coordinating with University System of Maryland institutions that are bringing home students who are studying abroad in Italy and Japan.,,,,,Y,,,,,Y,
@@ -72,8 +72,10 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 3-Jun-20,The Governor announced that Marylands COVID-19 positivity rate has dropped to 9.5%below 10% for the first time since late Marchand total current hospitalizations have fallen to their lowest level since April 14.,,,,,,,,,,,Y
 3-Jun-20,"The Governor announced that Maryland will begin to move into Stage Two of the Maryland Strong: Roadmap to Recovery, with a safe and gradual reopening of workplaces and businesses, along with additional personal services.",,Y,,,,,,,,,Y
 10-Jun-20,"The Governor announced additional safe and phased reopenings through Stage Two of the Maryland Strong: Roadmap to Recovery, such as reopening indoor dining and outdoor amusement parks.",,Y,,,,,,,,,Y
-15-Jun-20,"The Governor announced that key health metrics continue to trend in a positive direction, with the positivity rate dropping to 6.55%�and now in single digits in all 24 jurisdictions�and ICU bed metrics falling below 300 for the first time since April 6.",,,,,,Y,,,,,
+15-Jun-20,"The Governor announced that key health metrics continue to trend in a positive direction, with the positivity rate dropping to 6.55%—and now in single digits in all 24 jurisdictions—and ICU bed metrics falling below 300 for the first time since April 6.",,,,,,Y,,,,,
 16-Jun-20,The Governor announced that the Department of Health will begin operating a free COVID-19 testing site at the Baltimore Convention Center.,,,,Y,,,,,,,
 14-Jul-20,The Governor directed local leaders to step up enforcement of public health requirements in bars and restaurants across the state.,,,,,,,,,,,Y
 15-Jul-20,"The Governor announced that the State of Maryland has uncovered a massive and sophisticated criminal enterprise involving more than 47,500 fraudulent unemployment insurance claims in Maryland and totaling over $501 million.",,,,,,,,,,,Y
-17-Jul-20,"The Governor announced that, unlike many states across the nation, Maryland�s key COVID-19 health metrics continue to decline or plateau.",,,,,,,,,,,Y
+17-Jul-20,"The Governor announced that, unlike many states across the nation, Maryland’s key COVID-19 health metrics continue to decline or plateau.",,,,,,,,,,,Y
+26-Jul-20," The Governor and other state officials reported a statewide drop in the positivity rate, and stressed the importance of heeding all local public health guidance.",,,,,,,,,,,Y
+29-Jul-20," The Governor announced, based on the state’s data-driven approach, the expansion of the statewide masking order and a public health advisory for all out-of-state travel.",Y,,,,,,,,,,
