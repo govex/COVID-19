@@ -5,9 +5,9 @@ from datetime import datetime, timedelta, date
 import geopandas as gpd
 from pathlib import Path
 import re
+import os
+
 pd.options.display.max_columns = 100
-
-
 
 # data from github jhu,import the lastest data from timeseries
 df_Counties_confirmed = pd.read_csv(
@@ -15,10 +15,13 @@ df_Counties_confirmed = pd.read_csv(
 df_Counties_deaths = pd.read_csv(
     "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv")
 
-# Root file variables
-covid19Root = Path("~/Documents/GitHub/COVID-19").expanduser()
+# Root file variables -- to use a dynamic variable append set "COVID_19_ROOT" to the root path of this repository.
+covid19Root = os.getenv('COVID_19_ROOT', Path("~/Documents/GitHub/COVID-19").expanduser())
+print(f'COVID-19 Root Path is {covid19Root}')
+
 covid19Data = covid19Root / "data_tables/Data_for_UScounty_map/"
 covid19Export = covid19Root / "data_tables/JHU_USCountymap_TEST/"
+
 
 
 
