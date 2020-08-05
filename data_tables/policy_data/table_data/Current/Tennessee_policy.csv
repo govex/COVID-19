@@ -1,78 +1,23 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 5-Mar-20,"Governor Lee announced the formation of a task force to enhance Tennessee's coordinated efforts to prevent, identify and treat potential cases of COVID-19.",,,,,,,,,,,Y
 12-Mar-20,Governor Lee issued a State of Emergency to free up funds forthe treatment and containment of COVID-19,,,,,,,Y,,,,
-13-Mar-20," The Governor issued further guidance regarding mass gatherings, schools, state employees and the State Capitol Building as more confirmed cases of COVID-19 surface in Tennessee:
-Congregations and groups are urged to consider alternatives to traditional services by utilizing live streams, pre-recorded messages and other electronic means.
-
-
-Events larger than 250 people are discouraged to limit exposure to COVID-19.
-
-
-School districts have been advised to exercise discretion when canceling school for K-12 students. The state will provide further support for districts pursuing this action but urge districts to consider the prevalence of confirmed cases of COVID-19 in their area. In partnership with districts, students who depend on school-provided meals will still receive this support, regardless of school closure.
-
-
-State employees who have been trained and certified to work from home within the states Alternative Workplace Solutions program will work from home through March 31, 2020.
-
-
-State employees have been instructed to cease all non-essential business travel through March 31, 2020.
-
-
-The Tennessee State Capitol is closed to tours and visitors through March 31, 2020. Members of the media will continue to have access to the State Capitol building.
-
-",Y,,,,,,,,,,Y
+13-Mar-20," The Governor issued further guidance regarding mass gatherings, schools, state employees and the State Capitol Building as more confirmed cases of COVID-19 surface in Tennessee: Congregations and groups are urged to consider alternatives to traditional services by utilizing live streams,  pre-recorded messages and other electronic means. Events larger than 250 people are discouraged to limit exposure to COVID-19. School districts have been advised to exercise discretion when canceling school for K-12 students. The state will provide further support for districts pursuing this action but urge districts to consider the prevalence of confirmed cases of COVID-19 in their area. In partnership with districts,  students who depend on school-provided meals will still receive this support, regardless of school closure. State employees who have been trained and certified to work from home within the states Alternative Workplace Solutions program will work from home through March 31, 2020. State employees have been instructed to cease all non-essential business travel through March 31,2020. The Tennessee State Capitol is closed to tours and visitors through March 31, 2020. Members of the media will continue to have access to the State Capitol building.",Y,,,,,,,,,,
 16-Mar-20," The Governor announced limiting all remaining legislative business to fulfilling the constitutional requirement of passing a balanced budget, and any associated actions that will ensure Tennessee can keep its doors open.",Y,,,,,,,,,,
 17-Mar-20, The Governor urged all school districts in Tennessee to close by March 20 and remain closed through March 31. The Governor announced that during this time the School Food Authorities will have flexibility to continue to provide meals to at-risk students who rely on meals.,Y,,,,Y,,,,,,
-17-Mar-20," The Governor also announced the following actions:
-The Governor encouraged childcare facilities to remain open to support community needs and directed the Department of Human Services to relax the regulatory burden on child care centers.
-
-
-The state will provide $10 million in response and recovery grants to support existing childcare facilities.
-
-
-The Tennessee Department of Human Service issued a policy offering emergency cash assistance utilizing TANF funds. Assistance will be up to $1,000 for families of five or more who qualify and who have experienced loss of a job as a result of COVID-19.
-
-
-The Tennessee Department of Labor and Workforce Development is working to determine how to utilize the Unemployment Insurance Trust Fund. The Department will extend unemployment benefits to those quarantined by a physician for COVID-19.
-
-
-The Governors amended budget includes $200 million to provide specific relief to county and city governments.
-
-",,,,,,,,,,,Y
-22-Mar-20," The Governor issued Executive Order 17 calling on businesses to utilize alternative business models and prohibiting gatherings of 10 or more people. The order also:
-Orders restaurants and bars to offer only drive-thru, take-out, or delivery, and permits closed-container alcohol take-out or delivery;
-
-
-Temporarily closes gyms and fitness centers; and
-
-
-Limits visitation to nursing homes, retirement homes, and long-term care facilities.
-
-",Y,,,,,,,,,,
+17-Mar-20," The Governor also announced the following actions: The Governor encouraged childcare facilities to remain open to support community needs and directed the Department of Human Services to relax the regulatory burden on child care centers; The state will provide $10 million in response and recovery grants to support existing childcare facilities; The Tennessee Department of Human Service issued a policy offering emergency cash assistance utilizing TANF funds. Assistance will be up to $1,000 for families of five or more who qualify and who have experienced loss of a job as a result of COVID-19; The Tennessee Department of Labor and Workforce Development is working to determine how to utilize the Unemployment Insurance Trust Fund; The Department will extend unemployment benefits to those quarantined by a physician for COVID-19; The Governors amended budget includes $200 million to provide specific relief to county and city governments.",,,,,,,,,,,Y
+22-Mar-20," The Governor issued Executive Order 17 calling on businesses to utilize alternative business models and prohibiting gatherings of 10 or more people. The order also: Orders restaurants and bars to offer only drive-thru,  take-out, or delivery, and permits closed-container alcohol take-out or delivery; Temporarily closes gyms and fitness centers; and Limits visitation to nursing homes, retirement homes, and long-term care facilities.",Y,,,,,,,,,,
 23-Mar-20," The Governor established a COVID-19 Unified Command to streamline coordination across the Tennessee Emergency Management Agency, Tennessee Department of Health and Tennessee Department of Military. The Command will be led by Commissioner Stuart McWhorter.",,,,,,,,,,,Y
 24-Mar-20," The Governor mobilized the National Guard to assist with expanding testing efforts. The mobilization consists of 250 personnel, including 150 medical personnel.",,,,Y,,,,,,,
 24-Mar-20," The Governor extended work from home orders for state employees under the Alternative Workplace Solutions program, until April 24.",Y,,,,,,,,,,
 24-Mar-20, The Governor extended statewide school closures until April 24.,Y,,,,,,,,,,
-24-Mar-20," The Governor announced a series of administrative actions, including:
-Delaying the deadline to file franchise and excise taxes until July 15;
-Suspending the issuance of REAL ID through May 18;
-Waiving emissions testing requirements through May 18;
-Filing an emergency petition, in partnership with the Attorney General, an emergency petition asking the Tennessee Public Utility Commission to prohibit utilities from disconnecting services for non-payment during the state of emergency; and
-Directing the Department of Commerce and Insurance to issue guidance to providers requesting flexibility for employers and individuals.",,,,,,,,,,,Y
+24-Mar-20,"The Governor announced a series of administrative actions, including: Delaying the deadline to file franchise and excise taxes until July 15; Suspending the issuance of REAL ID through May 18; Waiving emissions testing requirements through May 18; Filing an emergency petition in partnership with the Attorney General,  an emergency petition asking the Tennessee Public Utility Commission to prohibit utilities from disconnecting services for non-payment during the state of emergency; and Directing the Department of Commerce and Insurance to issue guidance to providers requesting flexibility for employers and individuals.",,,,,,,,,,,Y
 25-Mar-20, The Governor announced the purchase of additional testing supplies using CDC funding.,,,,Y,,,,,,,
 25-Mar-20," The Department of Human Services announced the use of emergency response and recovery grants for existing child care facilities, allowing churches, gyms, or non-profits to register with the Department to open an emergency temporary child care facility.",,,,,,,,,,,Y
 26-Mar-20," The Governor announced the creation of Tennessee Talent Exchange, a public-private partnership with the Tennessee Grocers and Convenience Store Association, Tennessee Retail Association, and Hospitality TN to match out of work Tennesseans with companies currently experiencing business surges.",,,,,,,,,,,Y
-26-Mar-20," The Governor signed an Executive Order to better mobilize health care workers, by:
-Loosening restrictions around retired medical professionals returning to the workforce;
-Temporarily suspending continuing education requirements so professionals can continue to work through the pandemic;
-Calling for the availability of phone assessments for individuals with mental illness or emotional disturbances; and
-Expanding telemedicine efforts.",,,,,,Y,,,,,
+26-Mar-20," The Governor signed an Executive Order to better mobilize health care workers, by: Loosening restrictions around retired medical professionals returning to the workforce; Temporarily suspending continuing education requirements so professionals can continue to work through the pandemic; Calling for the availability of phone assessments for individuals with mental illness or emotional disturbances; and Expanding telemedicine efforts.",,,,,,,,,,,Y
 26-Mar-20, The Governor extended emergency cash assistance (TANF) for up to two months to families significantly impacted by COVID-19. Families who have lost employment or at least 50% of their earned income as a result of the pandemic are eligible.,,,,,,,,,,,Y
 26-Mar-20,"The Governor announced the creation of the Talent Exchange, a public-private partnership with the Tennessee Grocers and Convenience Store Association, Tennessee Retail Association, and Hospitality TN to match out-of-work individuals with companies currently experiencing business surges.",,,,,,,,,,,Y
-29-Mar-20," The COVID-19 Unified Command announced coordination with the Gallatin Center for Rehabilitation and Healing to address the COVID-19 outbreak at the facility:
-The transport of 23 residents to Sumner Regional Medical Center via an ambulance strike team of EMS Professionals on Friday, March 27;
-Engagement of the National Guard on-site to assist with testing;
-Isolation of staff members who tested positive; and
-Deep cleaning and disinfecting of the facility.",,,,Y,,,,,,,Y
+29-Mar-20," The COVID-19 Unified Command announced coordination with the Gallatin Center for Rehabilitation and Healing to address the COVID-19 outbreak at the facility: The transport of 23 residents to Sumner Regional Medical Center via an ambulance strike team of EMS Professionals on Friday,  March 27; Engagement of the National Guard on-site to assist with testing; Isolation of staff members who tested positive; and Deep cleaning and disinfecting of the facility.",,,,,,,,,,,Y
 30-Mar-20," The Governor issued an executive order issuing Shelter in Place guidelines, which will remain in effect until April 14.",Y,,,,,,,,,,
 30-Mar-20, The Unified Command announced a partnership with LaunchTN to work with Tennessee businesses and entrepreneurs willing to switch production to make PPE.,,,,,,,,,,,Y
 31-Mar-20," The Department of Mental Health and Substance Abuse Services is working with behavioral health providers to expand service to individuals who need professional behavioral health help, including expanded telehealth services and mobile behavioral health care units.",,,,,,Y,,,,,
@@ -142,11 +87,13 @@ Deep cleaning and disinfecting of the facility.",,,,Y,,,,,,,Y
 4-Jun-20," The Economic Recovery Group (ERG) issued updated guidance for close contact service businesses, exercise facilities, and recreation activities under the Tennessee Pledge. The ERG also added recommendations for large community events.",,,,,,,,,,,Y
 10-Jun-20," The Governor, in coordination with the Unified Command Group, released guidance to provide limited visitation options for long-term care facilities.",,,,,,,,,,,Y
 10-Jun-20," The Economic Recovery Group announced a partnership with the University of Tennessee to assist in the collection and analysis of survey data, tracking citizens sense of safety and economic well-being as the state reopens.",,,,,,,,,,,Y
-18-Jun-20,The Unified Command Group announced that nearly all of Tennessee�s 700 long-term care facilities have completed the required COVID-19 testing of residents and staff.,,,,Y,,,,,,,
-18-Jun-20,"The Governor�s Economic Recovery Group developed the TN Strong Mask Movement, partnering with more than 30 flagship brands to distribute close to 300,000 free or low-cost cloth face coverings across the state.",,,,,,Y,,,,,
-29-Jun-20,"The Governor signed Executive Order No. 50, extending Tennessee�s State of Emergency until August 29.",,,,,,,Y,,,,
+18-Jun-20,The Unified Command Group announced that nearly all of Tennessee’s 700 long-term care facilities have completed the required COVID-19 testing of residents and staff.,,,,Y,,,,,,,
+18-Jun-20,"The Governor’s Economic Recovery Group developed the TN Strong Mask Movement, partnering with more than 30 flagship brands to distribute close to 300,000 free or low-cost cloth face coverings across the state.",,,,,,Y,,,,,
+29-Jun-20,"The Governor signed Executive Order No. 50, extending Tennessee’s State of Emergency until August 29.",,,,,,,Y,,,,
 1-Jul-20,"The Governor issued an executive order extending COVID-19 civil liability protection to health care providers, announcing  lawsuit immunity.",,,,,,,,,,,Y
 3-Jul-20,The Governor signed an executive order granting mayors in 89 counties the authority to issue local mask requirements in the event of increased COVID-19 cases.,,,Y,,,,,,,,
 7-Jul-20,The Governor and the Financial Stimulus Accountability Group announced that $81 million in CARES Act funding will be made available to K-12 schools and higher education institutions to assist with plans for safe reopening.  ,,,,,Y,,,,,,
-13-Jul-20,"Tennessee�s Economic Recovery Group, in partnership with the Tennessee Entertainment Commission, released new Tennessee Pledge guidelines with safety measures for media production. ",,,,,,,,,,,Y
+13-Jul-20,"Tennessee’s Economic Recovery Group, in partnership with the Tennessee Entertainment Commission, released new Tennessee Pledge guidelines with safety measures for media production. ",,,,,,,,,,,Y
 20-Jul-20,The Governor and the Financial Stimulus Accountability Group announced an additional $115 million in Coronavirus Relief Funds to be made available to local governments to offset costs incurred in responding to COVID-19.,,,,,,,,,,,Y
+23-Jul-20, The Governor announced a public service announcement campaign urging all Tennesseans to wear a mask to help fight the spread of COVID-19.,Y,,,,,,,,,,
+28-Jul-20, The Governor unveiled the “Safe Reopening Plan for Tennessee Schools.”,,Y,,,,,,,,,
