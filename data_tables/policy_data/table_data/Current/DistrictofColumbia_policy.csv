@@ -1,4 +1,4 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
+ï»¿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
 7-Mar-20,The District of Columbia announces its first COVID-19 case a Reverend at Christ Church Georgetown.,,,,,,,,,,,Y
 13-Mar-20,"The District of Columbia bans gathering of 50+, cuts restaurant dining room capacity to half, disallows bar/standing service for social distancing, and closes nightclubs.",Y,,,,,,,,,,
 16-Mar-20,D.C. begins offering free student meals at schools.,,,,,,,,,,,Y
@@ -15,11 +15,11 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 24-Mar-20,"D.C. schools begin first day of distance learning, following return from early spring break. D.C. also announces the launch of the D.C. Education Equity Fund.",Y,,,,Y,,,,,,
 26-Mar-20,"WMATA will close 19 Metrorail stations and entrances at 9 stations with multiple entries, in a bid to limit employee exposure and save cleaning resources. (map of modified system)",Y,,,,,,,Y,,,
 30-Mar-20,"Following the lead of Maryland and Virginia, Mayor Muriel Bowser issues a stay at home order for the District of Columbia.",Y,,,,,,,,,,
-7-Apr-20,"D.C. Council passes its second COVID-19 response bill, B23-0733 Ð COVID-19 Response Supplemental Emergency Amendment Act of 2020.",,,,,,,,,,,Y
+7-Apr-20,"D.C. Council passes its second COVID-19 response bill, B23-0733 â€“ COVID-19 Response Supplemental Emergency Amendment Act of 2020.",,,,,,,,,,,Y
 8-Apr-20,"Mayor Muriel Bowser issues Mayor's Order 2020-058 mandating that people wear masks in grocery stores, limiting the number of customers who may be in a store at a given time, and closing self-service stations such as salad bars, among other restrictions.",Y,,,,,,,,,,
 10-Apr-20,"Mayor Muriel Bowser requests that the National Park Service (NPS) close Beach Drive to vehicular traffic, to assist with social distancing for people exercising on the popular strip.",Y,,,,,,,,,,
 15-Apr-20,"Mayor Muriel Bowser extends D.C.'s public health emergency to May 15, including school closure, ban on gatherings of 10 or more people, restaurant/public gathering restrictions, limited DC government operations, etc.",Y,,,,,,,,,,
-21-Apr-20,"D.C. Council tweaks its recent COVID-19 response bills, with changes that include a further extension for the mayorÕs budget submission and the expansion of a rent-hike prohibition to cover commercial tenants.",,,,,,,,,,,Y
+21-Apr-20,"D.C. Council tweaks its recent COVID-19 response bills, with changes that include a further extension for the mayorâ€™s budget submission and the expansion of a rent-hike prohibition to cover commercial tenants.",,,,,,,,,,,Y
 24-Apr-20,"Pandemic Unemployment Assistance for independent contractors, gig workers, 1099s, new hires and those who have exhausted unemployment insurance becomes available in the District of Columbia via dcnetworks.org.",,,,,,,,,,,Y
 23-Apr-20,Mayor Bowser Establishes Coronavirus Contact Trace Force,,,,,,,,,,,Y
 24-Apr-20,Mayor Bowser Directs $63 Million to District's Coronavirus Response,,,,,,,,,,,Y
@@ -32,8 +32,8 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 1-May-20,Mayor Bowser Announces Relief for Residents Struggling with Student Loan Payments Due to COVID-19 Pandemic,,,,,,,,,,,Y
 5-May-20,"On GivingTuesday, Mayor Bowser Announces Grant Funding for Local Non-Profits to Support Volunteerism in Response to COVID-19",,,,,,,,,,,Y
 7-May-20,Mayor Bowser Encourages Residents to Continue Supporting DC Neighborhood Businesses,,,,,,,,,,,Y
-11-May-20,Mayor Bowser Unveils DistrictÕs Alternate Care Site,,,,,,Y,,,,,
-11-May-20,Mayor Bowser Directs $2.3 Million for DistrictÕs Coronavirus Contact Trace Force,,,,,,,,,,,Y
+11-May-20,Mayor Bowser Unveils Districtâ€™s Alternate Care Site,,,,,,Y,,,,,
+11-May-20,Mayor Bowser Directs $2.3 Million for Districtâ€™s Coronavirus Contact Trace Force,,,,,,,,,,,Y
 13-May-20,Mayor Bowser Extends Stay at Home Order and Public Health Emergency Through June 8,Y,,,,,,,,,,
 29-May-20,Mayor Bowser Announces Plans to Open Streateries and Lower Citywide Speed Limit as DC Reimagines Roads and Public Space,,Y,,,,,,,,,
 8-Jun-20,Mayor Bowser Announces Seven New Slow Streets as DC Continues to Reimagine Public Space,,Y,,,,,,,,,
@@ -41,6 +41,7 @@ date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education
 15-Jun-20,Bowser Administration to Showcase COVID-19 Antibody Testing at Navy Yard Serology Testing Site,,,,Y,,,,,,,
 19-Jun-20,"Mayor Bowser Announces Phase Two Begins on Monday, June 22",,Y,,,,,,,,,
 1-Jul-20,Mayor Bowser Awards $3.6 Million in HOPE Grants,,,,,,,,,,,Y
-22-Jul-20,"Mayor Bowser Issues New MayorÕs Order on Masks, Extends Public Health Emergency",Y,,,,,,,,,,
-24-Jul-20,Mayor Bowser Issues MayorÕs Order on Requirements for Residents and Persons Traveling to/from COVID-19 Hotspots,Y,,,,,,,,,,
+22-Jul-20,"Mayor Bowser Issues New Mayorâ€™s Order on Masks, Extends Public Health Emergency",Y,,,,,,,,,,
+24-Jul-20,Mayor Bowser Issues Mayorâ€™s Order on Requirements for Residents and Persons Traveling to/from COVID-19 Hotspots,Y,,,,,,,,,,
 27-Jul-20,DC Health Releases List of High-Risk States,Y,,,,,,,,,,
+30-Jul-20,Mayor Bowser Announces DCPS Will Be All Virtual for Term One of the 2020-2021 School Year,Y,,,,Y,,,,,,
