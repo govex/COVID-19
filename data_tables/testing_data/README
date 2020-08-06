@@ -7,3 +7,7 @@ raw_testing_data - contains raw testing data (not in time series format)
 timeseries_archive - contains old timeseries testing data
 
 archive - contains old testing data
+
+08/06/2020 - WA DOH sited having issues with reporting negative tests. Testing data has not been updated since 08/01.
+
+The NE scraper has been pulling the wrong testing data. This has been corrected.
