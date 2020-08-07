@@ -462,7 +462,7 @@ USCounties4.rename(columns={'FatalityRate':'FatalityRa','ConfirmedbyPop':'Confir
 
 
 
-USCounties4.to_file( covid19Data / 'USCounties_JHUmap.shp')
+USCounties4.to_file(covid19Export / 'USCounties_JHUmap.shp')
 
 
 
