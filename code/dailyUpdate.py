@@ -485,9 +485,9 @@ df_Counties_deaths=pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData
 
 
 # Exclude military and extra data added to the end
-df_Counties_confirmed=df_Counties_confirmed.iloc[:3253]
+# df_Counties_confirmed=df_Counties_confirmed.iloc[:3253]
 
-df_Counties_deaths=df_Counties_deaths.iloc[:3253]
+# df_Counties_deaths=df_Counties_deaths.iloc[:3253]
 
 
 
