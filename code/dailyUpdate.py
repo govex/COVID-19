@@ -52,9 +52,9 @@ oldCsv.rename(covid19Export / csvDate)
 
 
 # Exclude military and extra data added to the end
-df_Counties_confirmed=df_Counties_confirmed.iloc[:3251]
-df_Counties_deaths=df_Counties_deaths.iloc[:3251]
-#df_Counties_confirmed.iloc[-2:]
+# df_Counties_confirmed=df_Counties_confirmed.iloc[:3251]
+# df_Counties_deaths=df_Counties_deaths.iloc[:3251]
+# #df_Counties_confirmed.iloc[-2:]
 
 
 
