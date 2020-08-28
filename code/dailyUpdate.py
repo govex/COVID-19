@@ -557,6 +557,7 @@ df_merged = df_confirmed_new.merge(df_deaths_new[['Admin2','Province_State', 'Co
 df_merged = df_merged[['Admin2','Province_State', 'FIPS', 'dt', 'confirmed', 'deaths','Population']]
 df_merged['FIPS']=df_merged['FIPS'].fillna(0).astype(int)
 df_merged['FIPS'] = df_merged['FIPS'].apply(lambda x: '{0:0>5}'.format(x))
+df_merged['FIPS']=df_merged['FIPS'].astype({'FIPS':'string'})
 
 
 #merge with shpfiles for geometry info
@@ -570,6 +571,7 @@ df_merged1.rename(columns={'Admin2':'Countyname','Province_State':'ST_Name','ST_
 #Format FIPS
 df_merged1['FIPS']=df_merged1['FIPS'].fillna(0).astype(int)
 df_merged1['FIPS'] = df_merged1['FIPS'].apply(lambda x: '{0:0>5}'.format(x))
+df_merged1['FIPS']=df_merged1['FIPS'].astype({'FIPS':'string'})
 #calculate IncidenceRate
 df_merged1['IncidenceRate']=df_merged1['Confirmed']/df_merged1['Population']*100000
 df_merged1['IncidenceRate']=df_merged1['IncidenceRate'].round(2)
