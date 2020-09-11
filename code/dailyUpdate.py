@@ -147,7 +147,9 @@ for days in df_Counties_deaths.columns[:2]:
 df_Counties_deaths['NewDeaths']=df_Counties_deaths.iloc[:,1]-df_Counties_deaths.iloc[:,0]
 df_Counties_deaths.drop(columns={pre_day},inplace=True)
 
-
+#Remove Nan value in  FIPS
+df_Counties_deaths=df_Counties_deaths[df_Counties_deaths['FIPS'].notna()]
+df_Counties_confirmed=df_Counties_confirmed[df_Counties_confirmed['FIPS'].notna()]
 
 #tdst=df_Counties_confirmed.columns[-1]
 
