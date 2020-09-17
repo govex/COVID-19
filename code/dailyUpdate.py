@@ -4,7 +4,6 @@ import numpy as np
 from datetime import datetime, timedelta, date
 import geopandas as gpd
 from pathlib import Path
-import re
 import os
 
 pd.options.display.max_columns = 100
@@ -340,7 +339,7 @@ USCounties4['FatalityRate']=USCounties4['Deaths']/USCounties4['Confirmed']*100
 USCounties4['ConfirmedbyPop']=USCounties4['Confirmed']/USCounties4['POP_ESTIMATE_2018']*100000
 USCounties4['DeathsbyPop']=USCounties4['Deaths']/USCounties4['POP_ESTIMATE_2018']*100000
 USCounties4['State_FatalityRate']=USCounties4['State_Deaths']/USCounties4['State_Confirmed']*100
-USCounties4['NewCasebyPop']=USCounties4['NewCases']/USCounties4['POP_ESTIMATE_2018']*100000
+#USCounties4['NewCasebyPop']=USCounties4['NewCases']/USCounties4['POP_ESTIMATE_2018']*100000
 USCounties4['Recovered']=0  # place holder
 USCounties4['Active']=0   #place holder
 USCounties4['url']='infUrl' #place holder
@@ -372,7 +371,7 @@ USCounties4=USCounties4[['Admin2', 'Province_State_x','ST_Abbr', 'ST_ID',  'geom
        'Some other race alone', 'Two or more races',
        'Not Hispanic or Latino origin', 'Hispanic or Latino Origin',
        'Age_under15', 'Age_15_24', 'Age_25_34', 'Age_35_64', 'Age_65_74',
-       'Age_over75', 'Agetotal', 'NewCasebyPop']]
+       'Age_over75', 'Agetotal']]
 USCounties4.rename(columns={'Admin2':'Countyname'},inplace=True)
 USCounties4.rename(columns={'Province_State_x':'ST_Name'},inplace=True)
 
@@ -442,7 +441,7 @@ USCounties4=USCounties4[['Countyname', 'ST_Name','ST_Abbr', 'ST_ID','geometry',
        'Some other race alone', 'Two or more races',
        'Not Hispanic or Latino origin', 'Hispanic or Latino Origin',
        'Age_under15', 'Age_15_24', 'Age_25_34', 'Age_35_64', 'Age_65_74',
-       'Age_over75', 'Agetotal', 'NewCasebyPop']]
+       'Age_over75', 'Agetotal']]
 
 
 
@@ -460,7 +459,7 @@ USCounties4.rename(columns={'FatalityRate':'FatalityRa','ConfirmedbyPop':'Confir
                             'Native Hawaiian and Other Pacific Islander alone':'NH_Alone','Some other race alone':'SO_Alone', 
                             'Two or more races':'Two_More','Not Hispanic or Latino origin':'Not_Hisp', 
                             'Hispanic or Latino Origin':'NonHisp',
-                            'Age_under15':'Age_Less15', 'Age_over75':'Age_Over75', 'NewCasebyPop':'NewCasebyP',
+                            'Age_under15':'Age_Less15', 'Age_over75':'Age_Over75'
                            },inplace=True)
 
 
