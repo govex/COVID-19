@@ -8,4 +8,5 @@ Visual Dashboard (mobile):
 DATA SOURCES: This list includes a complete list of all sources ever used in the data set.
 
 Aggregated data sources:
+- Confirmed and Deaths Cases : https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
   
