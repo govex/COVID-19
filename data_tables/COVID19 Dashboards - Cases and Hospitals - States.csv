@@ -25,12 +25,12 @@ Michigan,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.ht
 Minnesota,https://www.health.state.mn.us/diseases/coronavirus/situation.html,No,Yes,Yes
 Mississippi,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",No,Yes,Yes
 Missouri,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php,No,Yes,Yes
-Montana,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics,No,Yes,No
+Montana,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics,No,Yes,Yes
 Nebraska,https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd,No,Yes,Yes
 Nevada,https://nvhealthresponse.nv.gov/,Yes,Yes,Yes
 New Hampshire,https://www.nh.gov/covid19/,No,Yes,Yes
 New Jersey,https://www.state.nj.us/health/cd/documents/topics/NCOV/COVID_Confirmed_Case_Summary.pdf,No,Yes,Yes
-New Mexico,https://cvprovider.nmhealth.org/public-dashboard.html,No,Yes,No
+New Mexico,https://cvprovider.nmhealth.org/public-dashboard.html,No,Yes,Yes
 New York (death info on linked page),https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no&%3Atabs=n,No,No,Yes
 North Carolina,https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count,No,Yes,Yes
 North Dakota,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,No,Yes,No
@@ -38,7 +38,7 @@ Ohio,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards,No,Yes,Yes
 Oklahoma,https://coronavirus.health.ok.gov/,No,Yes,Yes
 Oregon,https://www.oregon.gov/covid19response/Daily%20Reports/Oregon_COVID-19_Daily_Update.pdf,No,Yes,Yes
 Pennsylvania,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,No,Yes,Yes
-Rhode Island,https://health.ri.gov/data/covid-19/,No,Yes,Yes
+Rhode Island,https://health.ri.gov/data/covid-19/,Yes,Yes,Yes
 South Carolina,https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/testing-sc-data-covid-19,No,Yes,Yes
 South Dakota,https://doh.sd.gov/news/coronavirus.aspx#SD,No,Yes,Yes
 Tennessee,https://www.tn.gov/health/cedep/ncov.html,No,Yes,Yes
