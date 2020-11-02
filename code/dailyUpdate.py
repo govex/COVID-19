@@ -1,3 +1,4 @@
+#%%
 from datetime import date
 import pandas as pd
 import numpy as np
@@ -38,7 +39,7 @@ else:
     print("Error: The Confirmed and Death tables are not up to date")
 
 
-
+#%%
 # Change date on yesterday's csv and zipped shapefile in TEST folder
 oldZip = covid19Export / 'USCounties_JHUmap.zip'
 oldCsv = covid19Export / 'df_Counties2020.csv'
@@ -49,14 +50,19 @@ oldZip.rename(covid19Export / zipDate)
 oldCsv.rename(covid19Export / csvDate)
 
 
-
+#%%
 # Exclude military and extra data added to the end
 # df_Counties_confirmed=df_Counties_confirmed.iloc[:3251]
 # df_Counties_deaths=df_Counties_deaths.iloc[:3251]
 # #df_Counties_confirmed.iloc[-2:]
 
+terr = ['American Samoa', 'Guam', 'Northern Mariana Islands', 'Virgin Islands', 'Grand Princess', 'Diamond Princess']
+df_Counties_confirmed.drop(index = df_Counties_confirmed[df_Counties_confirmed['Province_State'].isin(terr)].index, inplace = True)
+df_Counties_deaths.drop(index = df_Counties_deaths[df_Counties_deaths['Province_State'].isin(terr)].index, inplace = True)
 
 
+
+#%%
 Day14Series=[]
 for i in range(1,15):
     #print (i)
@@ -102,7 +108,7 @@ for days in df_Counties_confirmed.columns[:15]:
     df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[3,0],days]=df_NY_confirmed.loc[3][days]
     df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[4,0],days]=df_NY_confirmed.loc[4][days]
 
-
+#%%
 #calcualte new cases for 14 days
 df_Counties_confirmed['NewCaseDay01']=df_Counties_confirmed.iloc[:,1]-df_Counties_confirmed.iloc[:,0]
 df_Counties_confirmed['NewCaseDay02']=df_Counties_confirmed.iloc[:,2]-df_Counties_confirmed.iloc[:,1]
@@ -606,3 +612,5 @@ df_merged1.to_csv(covid19Export / 'df_Counties2020.csv')
 #update the new files
 df_NY_confirmed.to_csv( covid19Data / 'NY_Boroughs_Confirmed.csv')
 df_NY_deaths.to_csv( covid19Data / 'NY_Boroughs_Deaths.csv')
+
+# %%
