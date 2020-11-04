@@ -281,7 +281,9 @@ USCounties3=pd.merge(USCounties2, dfRC1,how='left',left_on='FIPS',right_on='FIPS
 
 #import US Counties, State shp file downloaded from Esri
 US_Counties=gpd.read_file( covid19Data / "JHUCounties.shp")
-US_Counties.rename(columns={'NAME':'Countyname','COUNTYFP':'CountyFP'},inplace=True)
+US_Counties=US_Counties[['Countyname','FIPS','ST_Abbr','ST_ID','ST_Name','geometry']]
+US_Counties=US_Counties[US_Counties['geometry'].notnull()]
+US_Counties.rename(columns={'FIPS':'GEOID','COUNTYFP':'CountyFP'},inplace=True)
 US_Counties['GEOID']=US_Counties['GEOID'].astype(float)
 
 
@@ -571,6 +573,9 @@ df_merged['FIPS']=df_merged['FIPS'].astype({'FIPS':'string'})
 
 #merge with shpfiles for geometry info
 US_Counties=gpd.read_file( covid19Data / "JHUCounties.shp")
+US_Counties=US_Counties[['Countyname','FIPS','ST_Abbr','ST_ID','ST_Name','geometry']]
+US_Counties=US_Counties[US_Counties['geometry'].notnull()]
+US_Counties.rename(columns={'FIPS':'GEOID','COUNTYFP':'CountyFP'},inplace=True)
 df_merged1=pd.merge(df_merged,US_Counties,how='left',left_on='FIPS',right_on='GEOID')
 
 
