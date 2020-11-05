@@ -1,37 +1,37 @@
-date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other
-12-Mar-20,The Governor announced that Puerto Rico will be in a state of emergency and also announced the activation of the National Guard.,,,,,,,Y,,,,
-15-Mar-20,The Governor announced an island-wide curfew andThe closing of all nonessential businesses.,Y,,,,,,,,,,
-16-Mar-20,The Governor issued an executive order easing procurement regulations to make viable the acquisition of goods and essential services.,,,,,,,,,,,Y
-17-Mar-20,The Governor issued an executive order to address the needs of the population of homeless people to provide additional medical and social services.,,,,,,,,,,,Y
-23-Mar-20,"The Governor issued Executive Order 2020-026, extending the duties and force of the Executive Committee of Medical Advisory (Medical Task Force of COVID-19) through the end of March.",,,,,,Y,,,,,Y
-25-Mar-20,The Governor issued an executive order relaxing regulatory requirements to streamline the state procurement process.,,,,,,,,,,,Y
-27-Mar-20,The Governor issued an executive order that outlines additional tasks and functions to be provided by the National Guard.,,,,,,,,,,,Y
-30-Mar-20,The Governor issued an executive order requiring the mandatory quarantine of all passengers arriving on the island from the U.S. or any international destination.,Y,,,,,,,,,,
-30-Mar-20,The Governor issued an executive order extended certain measures intended to control the risk of community transmission.,,,,,,,,,,,Y
-1-Apr-20,The Governor issued an executive order strengthening the island's surveillance and disclosure system.,,,,,,,,,,,Y
-7-Apr-20,The Governor issued an executive order establishing specific curfews for the weekend of April 10 to April 12. ,Y,,,,,,,,,,
-12-Apr-20,"The Governor issued an executive order, continuing emergency measures aimed at containing and mitigating community transmission. ",,,,,,,,,,,Y
-14-Apr-20,The Governor issued an executive order amending the island-wide curfew. ,Y,,,,,,,,,,
-15-Apr-20,"The Centers for Medicare & Medicaid Services (CMS) approved Puerto Ricos request for a Section 1135 Medicaid waiver. The approved waiver enables Puerto Rico to provide flexibilities in Medicaid provider screening and enrollment, and extend fair hearing timelines",,,,,,Y,,,,,
-16-Apr-20,The Governor issued an executive order extending the Weapons Act of Puerto Rico until at least the end of the emergency. ,,,,,,,,,,,Y
-22-Apr-20,The Governor issued an executive order granting immunity to health care facilities and professionals assisting with ongoing COVID-19 response efforts. ,,,,,,Y,,,,,
-24-Apr-20,"The Governor issued an executive order to allow essential operations for management related to incentives or economic aid, through local and federal programs, to the small and medium enterprises, as defined under the Small Business Administration. ",,,,,,,,,,,Y
-1-May-20,The Governor issued an executive order extending the statewide curfew. ,Y,,,,,,,,,,
-11-May-20,"The Governor issued an executive order extending the term of private security licenses, security guards and private detectives.",,,,,,,,,,,Y
-15-May-20,The Governor issued an Executive Order to adopt a strategic plan for the disbursement of funds allocated to Puerto Rico through the CARES Act.,,,,,,,,,,,Y
-9-Jun-20,The Governor issued an executive order extending the term that public employees who carry out excess licenses must use essential functions and other public officials.,,,,,,,,,,,Y
-12-Jun-20,"The Governor issued an executive order to establish a new curfew and continue the economic reopening, among other things.",,Y,,,,,,,,,
-22-Jun-20,"The Governor issued an executive order establishing additional exceptions to the mandatory quarantine of every employee or contractor of any industry, company, or business that are exemption from total closure of operations arriving at Luis Munoz Marin International Airport on a flight from the United States of America or any international destination, subject to no presentation of symptoms and the negative result of a molecular diagnostic COVID-19 test.",,,,,,,,,,,Y
-30-Jun-20,The Governor signed an executive order extending the emergency declaration.,,,,,,,Y,,,,
-3-Jul-20,"The Governor issued an executive order requiring all international travelers, including those from the United States, to voluntary self-quarantine upon arrival.",Y,,,,,,,,,,
-13-Jul-20,The Governor issued an executive order streamlining processes related to unemployment programs.,,,,,,,,,,,Y
-16-Jul-20,The Governor issued an executive order aimed at taking more restrictive measures to control the spread of COVID-19 on the island.,,,,,,,,,,,
-31-Jul-20,The Governor issued and executive order that continues the current curfew to strengthen efforts against COVID-19,Y,,,,,,,,,,
-11-Aug-20,The Governor signed a measure to given a monetary incentive to health workers,,,,,,,,,,,Y
-14-Aug-20,The Governor extended the executive order that stablished the Emergency State in the island due to COVID-19,,,,,,,Y,,,,
-19-Aug-20,The Governor extended the curfew and reversed the openings to control the spread of COVID-19,Y,,,,,,,,,,
-10-Sep-20,The Governor issued a new executive order that extends the prohibition of large gatherings and includes fines for not wearing masks,Y,,,,,,,,,,
-16-Sep-20,The Governor announced the beginning of a program to protect private sector jobs by providing additional incentives,,,,,,,,,,,Y
-2-Oct-20,The Secretary of State of Puerto Rico signed the extension to Emergency Order 2020-076 which mantains the COVID-19 restrictions,Y,,,,,,Y,,,,
-16-Oct-20,Governor Wanda Vazquez announced the Executive Order 2020-077 which increases the allowed capacity in restaurants up to 55% and movie theaters to 30%,,Y,,,,,,,,,
-19-Oct-20,Governor Wanda Vazquez announced $90 million to pay for the internet service for students and teachers of public schools,,,,,Y,,,,,,
+﻿date,policy,Restrict/Close,Opening (State),Deferring to County,Testing,Education,Health/Medical,Emergency Level,Transportation,Budget,Social Distancing,Other,Vaccine
+12-Mar-20,The Governor announced that Puerto Rico will be in a state of emergency and also announced the activation of the National Guard.,,,,,,,Y,,,,,
+15-Mar-20,The Governor announced an island-wide curfew andThe closing of all nonessential businesses.,Y,,,,,,,,,,,
+16-Mar-20,The Governor issued an executive order easing procurement regulations to make viable the acquisition of goods and essential services.,,,,,,,,,,,Y,
+17-Mar-20,The Governor issued an executive order to address the needs of the population of homeless people to provide additional medical and social services.,,,,,,,,,,,Y,
+23-Mar-20,"The Governor issued Executive Order 2020-026, extending the duties and force of the Executive Committee of Medical Advisory (Medical Task Force of COVID-19) through the end of March.",,,,,,Y,,,,,Y,
+25-Mar-20,The Governor issued an executive order relaxing regulatory requirements to streamline the state procurement process.,,,,,,,,,,,Y,
+27-Mar-20,The Governor issued an executive order that outlines additional tasks and functions to be provided by the National Guard.,,,,,,,,,,,Y,
+30-Mar-20,The Governor issued an executive order requiring the mandatory quarantine of all passengers arriving on the island from the U.S. or any international destination.,Y,,,,,,,,,,,
+30-Mar-20,The Governor issued an executive order extended certain measures intended to control the risk of community transmission.,,,,,,,,,,,Y,
+1-Apr-20,The Governor issued an executive order strengthening the island's surveillance and disclosure system.,,,,,,,,,,,Y,
+7-Apr-20,The Governor issued an executive order establishing specific curfews for the weekend of April 10 to April 12. ,Y,,,,,,,,,,,
+12-Apr-20,"The Governor issued an executive order, continuing emergency measures aimed at containing and mitigating community transmission. ",,,,,,,,,,,Y,
+14-Apr-20,The Governor issued an executive order amending the island-wide curfew. ,Y,,,,,,,,,,,
+15-Apr-20,"The Centers for Medicare & Medicaid Services (CMS) approved Puerto Ricos request for a Section 1135 Medicaid waiver. The approved waiver enables Puerto Rico to provide flexibilities in Medicaid provider screening and enrollment, and extend fair hearing timelines",,,,,,Y,,,,,,
+16-Apr-20,The Governor issued an executive order extending the Weapons Act of Puerto Rico until at least the end of the emergency. ,,,,,,,,,,,Y,
+22-Apr-20,The Governor issued an executive order granting immunity to health care facilities and professionals assisting with ongoing COVID-19 response efforts. ,,,,,,Y,,,,,,
+24-Apr-20,"The Governor issued an executive order to allow essential operations for management related to incentives or economic aid, through local and federal programs, to the small and medium enterprises, as defined under the Small Business Administration. ",,,,,,,,,,,Y,
+1-May-20,The Governor issued an executive order extending the statewide curfew. ,Y,,,,,,,,,,,
+11-May-20,"The Governor issued an executive order extending the term of private security licenses, security guards and private detectives.",,,,,,,,,,,Y,
+15-May-20,The Governor issued an Executive Order to adopt a strategic plan for the disbursement of funds allocated to Puerto Rico through the CARES Act.,,,,,,,,,,,Y,
+9-Jun-20,The Governor issued an executive order extending the term that public employees who carry out excess licenses must use essential functions and other public officials.,,,,,,,,,,,Y,
+12-Jun-20,"The Governor issued an executive order to establish a new curfew and continue the economic reopening, among other things.",,Y,,,,,,,,,,
+22-Jun-20,"The Governor issued an executive order establishing additional exceptions to the mandatory quarantine of every employee or contractor of any industry, company, or business that are exemption from total closure of operations arriving at Luis Munoz Marin International Airport on a flight from the United States of America or any international destination, subject to no presentation of symptoms and the negative result of a molecular diagnostic COVID-19 test.",,,,,,,,,,,Y,
+30-Jun-20,The Governor signed an executive order extending the emergency declaration.,,,,,,,Y,,,,,
+3-Jul-20,"The Governor issued an executive order requiring all international travelers, including those from the United States, to voluntary self-quarantine upon arrival.",Y,,,,,,,,,,,
+13-Jul-20,The Governor issued an executive order streamlining processes related to unemployment programs.,,,,,,,,,,,Y,
+16-Jul-20,The Governor issued an executive order aimed at taking more restrictive measures to control the spread of COVID-19 on the island.,,,,,,,,,,,,
+31-Jul-20,The Governor issued and executive order that continues the current curfew to strengthen efforts against COVID-19,Y,,,,,,,,,,,
+11-Aug-20,The Governor signed a measure to given a monetary incentive to health workers,,,,,,,,,,,Y,
+14-Aug-20,The Governor extended the executive order that stablished the Emergency State in the island due to COVID-19,,,,,,,Y,,,,,
+19-Aug-20,The Governor extended the curfew and reversed the openings to control the spread of COVID-19,Y,,,,,,,,,,,
+10-Sep-20,The Governor issued a new executive order that extends the prohibition of large gatherings and includes fines for not wearing masks,Y,,,,,,,,,,,
+16-Sep-20,The Governor announced the beginning of a program to protect private sector jobs by providing additional incentives,,,,,,,,,,,Y,
+2-Oct-20,The Secretary of State of Puerto Rico signed the extension to Emergency Order 2020-076 which mantains the COVID-19 restrictions,Y,,,,,,Y,,,,,
+16-Oct-20,Governor Wanda Vazquez announced the Executive Order 2020-077 which increases the allowed capacity in restaurants up to 55% and movie theaters to 30%,,Y,,,,,,,,,,
+19-Oct-20,Governor Wanda Vazquez announced $90 million to pay for the internet service for students and teachers of public schools,,,,,Y,,,,,,,
