@@ -1,4 +1,5 @@
 #%%
+# coding: utf-8
 from datetime import date
 import pandas as pd
 import numpy as np
@@ -74,40 +75,6 @@ Day14Series.extend([tdst,'FIPS', 'Admin2','Province_State','Combined_Key'])
 df_Counties_confirmed=df_Counties_confirmed[Day14Series]
 
 
-
-# Replace data with NY data
-df_NY_confirmed=pd.read_csv( covid19Data / 'NY_Boroughs_Confirmed.csv')
-df_NY_deaths=pd.read_csv( covid19Data / 'NY_Boroughs_Deaths.csv')
-#skip the first column
-df_NY_confirmed=df_NY_confirmed.iloc[:,1:]
-df_NY_deaths=df_NY_deaths.iloc[:,1:]
-#import NY data https://github.com/nychealth/coronavirus-data/blob/master/by-boro.csv
-df_NY_new=pd.read_csv("https://raw.githubusercontent.com/nychealth/coronavirus-data/master/by-boro.csv",skipfooter=1,engine='python')
-
-
-
-if tdst == df_NY_confirmed.columns[-1]:
-    print ('Error: The New York data is not updated or has already been updated')
-   # new_date='{dt.month}/{dt.day}/{dt:%y}'.format(dt = datetime.now())
-   # new_date='{dt.month}/{dt.day}/{dt:%y}'.format(dt = datetime.now()-timedelta(1)
-    #df_NY_confirmed[new_date]=df_NY_new['CASE_COUNT']
-    #df_NY_deaths[new_date]=df_NY_new['DEATH_COUNT']
-else:
-    print ('The New York data is updated')
-    df_NY_confirmed[tdst]=df_NY_new['CASE_COUNT']
-    df_NY_deaths[tdst]=df_NY_new['DEATH_COUNT']
-df_Counties_confirmed.columns
-
-
-#15 days time-series
-for days in df_Counties_confirmed.columns[:15]:
-#     print (days)
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[0,0],days]=df_NY_confirmed.loc[0][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[1,0],days]=df_NY_confirmed.loc[1][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[2,0],days]=df_NY_confirmed.loc[2][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[3,0],days]=df_NY_confirmed.loc[3][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[4,0],days]=df_NY_confirmed.loc[4][days]
-
 #%%
 #calcualte new cases for 14 days
 df_Counties_confirmed['NewCaseDay01']=df_Counties_confirmed.iloc[:,1]-df_Counties_confirmed.iloc[:,0]
@@ -136,16 +103,6 @@ df_Counties_confirmed=df_Counties_confirmed[df_Counties_confirmed.columns[-19:]]
 #calculate new deaths
 pre_day=df_Counties_deaths.columns[-2]
 df_Counties_deaths=df_Counties_deaths[[pre_day,tdst,'FIPS']]
-
-
-
-for days in df_Counties_deaths.columns[:2]:
-#     print (days)
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[0,0],days]=df_NY_deaths.loc[0][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[1,0],days]=df_NY_deaths.loc[1][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[2,0],days]=df_NY_deaths.loc[2][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[3,0],days]=df_NY_deaths.loc[3][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[4,0],days]=df_NY_deaths.loc[4][days]
 
 
 
@@ -508,26 +465,6 @@ df_Counties_deaths=pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData
 
 
 
-#replace with NY boroughs files
-dates_list=df_NY_confirmed.columns[4:]
-# print (dates_list)
-
-#df_NY_deaths=pd.read_csv(r'C:\Work_GovEx\COVID-19\Daily Data\JHU US Map_NY_KC_Duke_Nantucket Counties - Deaths.csv')
-for days in dates_list:
-    #print (days)
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[0,0],days]=df_NY_confirmed.loc[0][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[1,0],days]=df_NY_confirmed.loc[1][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[2,0],days]=df_NY_confirmed.loc[2][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[3,0],days]=df_NY_confirmed.loc[3][days]
-    df_Counties_confirmed.loc[df_Counties_confirmed.FIPS==df_NY_confirmed.iloc[4,0],days]=df_NY_confirmed.loc[4][days]
-    
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[0,0],days]=df_NY_deaths.loc[0][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[1,0],days]=df_NY_deaths.loc[1][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[2,0],days]=df_NY_deaths.loc[2][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[3,0],days]=df_NY_deaths.loc[3][days]
-    df_Counties_deaths.loc[df_Counties_deaths.FIPS==df_NY_deaths.iloc[4,0],days]=df_NY_deaths.loc[4][days]
-
-
 
 #deaths data has an extra column
 df_Counties_deaths.drop(columns=['iso2'],inplace=True)
@@ -613,9 +550,5 @@ df_merged1[df_merged1['dt']==date(2020,1,24)].head()
 
 df_merged1.to_csv(covid19Export / 'df_Counties2020.csv')
 
-
-#update the new files
-df_NY_confirmed.to_csv( covid19Data / 'NY_Boroughs_Confirmed.csv')
-df_NY_deaths.to_csv( covid19Data / 'NY_Boroughs_Deaths.csv')
 
 # %%
