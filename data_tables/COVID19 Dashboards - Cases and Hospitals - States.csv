@@ -7,7 +7,7 @@ California,https://public.tableau.com/views/COVID-19PublicDashboard/Covid-19Publ
 Colorado,https://covid19.colorado.gov/case-data,No,Yes,Yes
 Connecticut (pdf download),https://portal.ct.gov/Coronavirus,No,Yes,Yes
 Delaware,https://myhealthycommunity.dhss.delaware.gov/locations/state,Yes,Yes,Yes
-District of Columbia,https://coronavirus.dc.gov/page/coronavirus-data,No,Yes,Yes
+District of Columbia,https://coronavirus.dc.gov/page/coronavirus-data,Yes,Yes,Yes
 Florida,https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429,No,Yes,Yes
 Georgia,https://dph.georgia.gov/covid-19-daily-status-report,No,Yes,Yes
 Hawaii,https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/,No,Yes,Yes
