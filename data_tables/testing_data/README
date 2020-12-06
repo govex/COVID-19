@@ -11,3 +11,5 @@ archive - contains old testing data
 08/06/2020 - WA DOH sited having issues with reporting negative tests. Testing data has not been updated since 08/01.
 
 The NE scraper has been pulling the wrong testing data. This has been corrected.
+
+12/03/2020 - OR stopped reporting testing in people and began reporting testing in specimen. There is an large increase beginning 12/03/2020.
