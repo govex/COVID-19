@@ -7,6 +7,8 @@ from datetime import datetime, timedelta, date
 import geopandas as gpd
 from pathlib import Path
 import os
+import requests
+import json
 
 pd.options.display.max_columns = 100
 
@@ -297,7 +299,7 @@ USCountiesm1=USCountiesm1[['Countyname', 'GEOID', 'ST_Abbr', 'ST_ID', 'ST_Name',
 USCounties4=pd.merge(USCountiesm1,USCounties3,how='right',left_on='GEOID',right_on='FIPS')
 #USCounties1=pd.merge(US_Counties,df_USnew,how='left',left_on='forjoin',right_on='Combined_Key1')
 
-
+#%%
 
 #Add calcuations
 USCounties4['FatalityRate']=USCounties4['Deaths']/USCounties4['Confirmed']*100
@@ -368,7 +370,32 @@ USCounties4[['Confirmed', 'Deaths',
        'State_Confirmed', 'State_Deaths', 'State_Recovered',
         'State_Testing']].fillna(0).astype(int)
 
+# Add HHS Data
+r = requests.get('https://healthdata.gov/api/3/action/resource_show?id=b2ce2346-5e9b-4392-bfcf-8fe677f20708&page=0')
+meta = r.json()
+hospURL = meta['result']['url']
+hhsCSV = pd.read_csv(hospURL)
+hhs_df = hhsCSV[[
+'fips_code', 
+'collection_week',
+'inpatient_beds_used_7_day_avg', 
+'inpatient_beds_7_day_avg', 
+'staffed_adult_icu_bed_occupancy_7_day_avg', 
+'total_staffed_adult_icu_beds_7_day_avg',
+]]
+hhs_df['fips_code'] = hhs_df['fips_code'].fillna(0).astype(int).apply(str).str.pad(width=5, side='left', fillchar='0')
+hhs_df = hhs_df[hhs_df['collection_week'] == hhs_df['collection_week'].max()].copy()
+hhs_df.replace(-999999.0, np.nan, inplace = True)
+hhs_df = hhs_df.groupby(['fips_code']).sum()
 
+USCounties4 = USCounties4.merge(hhs_df, how='left', left_on='FIPS', right_on='fips_code')
+
+#HHS Data calculations
+USCounties4['Inpat_Occ'] = USCounties4['inpatient_beds_used_7_day_avg'] / USCounties4['inpatient_beds_7_day_avg'] * 100
+USCounties4['ICU_Occ'] = USCounties4['staffed_adult_icu_bed_occupancy_7_day_avg'] / USCounties4['total_staffed_adult_icu_beds_7_day_avg'] * 100
+
+
+#%%
 
 #Add url and Thumbnail columns
 fiplist=USCounties4['FIPS'].tolist()
@@ -407,7 +434,7 @@ USCounties4=USCounties4[['Countyname', 'ST_Name','ST_Abbr', 'ST_ID','geometry',
        'Some other race alone', 'Two or more races',
        'Not Hispanic or Latino origin', 'Hispanic or Latino Origin',
        'Age_under15', 'Age_15_24', 'Age_25_34', 'Age_35_64', 'Age_65_74',
-       'Age_over75', 'Agetotal', 'NewCasebyPop']]
+       'Age_over75', 'Agetotal', 'NewCasebyPop', 'Inpat_Occ', 'ICU_Occ']]
 
 
 
