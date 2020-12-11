@@ -393,6 +393,8 @@ USCounties4 = USCounties4.merge(hhs_df, how='left', left_on='FIPS', right_on='fi
 #HHS Data calculations
 USCounties4['Inpat_Occ'] = USCounties4['inpatient_beds_used_7_day_avg'] / USCounties4['inpatient_beds_7_day_avg'] * 100
 USCounties4['ICU_Occ'] = USCounties4['staffed_adult_icu_bed_occupancy_7_day_avg'] / USCounties4['total_staffed_adult_icu_beds_7_day_avg'] * 100
+USCounties4['ICU_Occ'] = USCounties4['ICU_Occ'].fillna(-999999)
+USCounties4['Inpat_Occ'] = USCounties4['Inpat_Occ'].fillna(-999999)
 
 
 #%%
