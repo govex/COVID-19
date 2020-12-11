@@ -378,10 +378,10 @@ hhsCSV = pd.read_csv(hospURL)
 hhs_df = hhsCSV[[
 'fips_code', 
 'collection_week',
-'inpatient_beds_used_7_day_avg', 
-'inpatient_beds_7_day_avg', 
-'staffed_adult_icu_bed_occupancy_7_day_avg', 
-'total_staffed_adult_icu_beds_7_day_avg',
+'inpatient_beds_used_7_day_sum', 
+'inpatient_beds_7_day_sum', 
+'staffed_adult_icu_bed_occupancy_7_day_sum', 
+'total_staffed_adult_icu_beds_7_day_sum',
 ]]
 hhs_df['fips_code'] = hhs_df['fips_code'].fillna(0).astype(int).apply(str).str.pad(width=5, side='left', fillchar='0')
 hhs_df = hhs_df[hhs_df['collection_week'] == hhs_df['collection_week'].max()].copy()
@@ -391,8 +391,8 @@ hhs_df = hhs_df.groupby(['fips_code']).sum()
 USCounties4 = USCounties4.merge(hhs_df, how='left', left_on='FIPS', right_on='fips_code')
 
 #HHS Data calculations
-USCounties4['Inpat_Occ'] = USCounties4['inpatient_beds_used_7_day_avg'] / USCounties4['inpatient_beds_7_day_avg'] * 100
-USCounties4['ICU_Occ'] = USCounties4['staffed_adult_icu_bed_occupancy_7_day_avg'] / USCounties4['total_staffed_adult_icu_beds_7_day_avg'] * 100
+USCounties4['Inpat_Occ'] = USCounties4['inpatient_beds_used_7_day_sum'] / USCounties4['inpatient_beds_7_day_sum'] * 100
+USCounties4['ICU_Occ'] = USCounties4['staffed_adult_icu_bed_occupancy_7_day_sum'] / USCounties4['total_staffed_adult_icu_beds_7_day_sum'] * 100
 USCounties4['ICU_Occ'] = USCounties4['ICU_Occ'].fillna(-999999)
 USCounties4['Inpat_Occ'] = USCounties4['Inpat_Occ'].fillna(-999999)
 
