@@ -16,6 +16,7 @@ DATA SOURCES: This list includes a complete list of all sources ever used in the
 - Red Cross healthy data: https://esribizteam.maps.arcgis.com/home/item.html?id=97792521be744711a291d10ecef33a61
 - County boundaries:https://coronavirus-resources.esri.com/
 - State Testing data:https://covidtracking.com/data/api
+- Hospitalization Data: https://healthdata.gov/api
 
 Note: 
 - Confirmed cases include presumptive positive cases.
