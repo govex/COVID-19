@@ -1,4 +1,4 @@
-# Vaccine data collection by US State
+# JHU Vaccine data collection by US State
 
 Some text here
 
