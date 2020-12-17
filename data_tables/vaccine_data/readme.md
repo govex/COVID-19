@@ -16,10 +16,6 @@
 
 - [State dashboard](https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214_103272-547150--,00.html)
 
-## Mississippi
-
-- [Web page](https://msdh.ms.gov/msdhsite/_static/14,0,420,976.html)
-
 ## Nebraska
 
 - [State Dashboard](https://nedhhs.maps.arcgis.com/apps/webappviewer/index.html?id=7aa145ea98344bdc8695ba5f8f2ea893)
@@ -35,4 +31,3 @@
 ## Texas
 
 - [State dashboard](https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary?%3Aorigin=card_share_link&%3Aembed=y&%3AisGuestRedirectFromVizportal=y)
-
