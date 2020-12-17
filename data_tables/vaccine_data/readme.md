@@ -4,6 +4,10 @@
 
 - [Web page](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Vaccine-Regional-Distribution-First-Shipment.aspx)
 
+## Idaho
+
+- [State dashboard](https://coronavirus.idaho.gov/)
+
 ## Ohio
 
 - [State dashboard](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/temp/vaccine-dashboard)
@@ -23,4 +27,12 @@
 ## Pennsylvania
 
 - [Data file](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID-19%20Vaccine_Provider%20Locations_Week%201.xlsx)
+
+## South Dakota
+
+- [State dashboard](https://doh.sd.gov/COVID/Dashboard.aspx)
+
+## Texas
+
+- [State dashboard](https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary?%3Aorigin=card_share_link&%3Aembed=y&%3AisGuestRedirectFromVizportal=y)
 
