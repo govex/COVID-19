@@ -219,3 +219,10 @@
 ## Wyoming
 
 - [Governor's Newsroom](https://governor.wyo.gov/media/news-releases)
+
+
+# Dates 
+Dates on our data are registered following these criteria:
+- If State dashboards provide a date, we register that one
+- If the State dashboard does not provide a date, we will register the date of the data collection
+- If data comes from press releases, we will register the date of the press release.
