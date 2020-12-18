@@ -1,4 +1,4 @@
-date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_moderna,doses_alloc_pfizer,doses_alloc_unknown,doses_shipped_total,doses_shipped_moderna,doses_shipped_pfizer,doses_shipped_unknown,doses_admin_total,doses_admin_moderna,doses_admin_pfizer,doses_admin_unknown,people_total,people_total_completed
+date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_moderna,doses_alloc_pfizer,doses_alloc_unknown,doses_shipped_total,doses_shipped_moderna,doses_shipped_pfizer,doses_shipped_unknown,doses_admin_total,doses_admin_moderna,doses_admin_pfizer,doses_admin_unknown,people_total,people_total_2nd_dose
 12/14/2020,Alaska,AK,No,61900,26800,35100,,,,,,,,,,,
 12/14/2020,Alabama,AL,No,40950,,40950,,,,,,,,,,,
 12/15/2020,Arkansas,AR,No,25000,,25000,,,,,,,,,,,
