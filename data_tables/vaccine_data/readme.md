@@ -31,3 +31,7 @@
 ## Texas
 
 - [State dashboard](https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary?%3Aorigin=card_share_link&%3Aembed=y&%3AisGuestRedirectFromVizportal=y)
+
+## Utah
+
+- [State dashboard](https://coronavirus-dashboard.utah.gov/#vaccines)
