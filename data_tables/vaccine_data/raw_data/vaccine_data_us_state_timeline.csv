@@ -25,7 +25,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/11/2020,Maryland,MD,No,155000,,,155000,,,,,,,,,,
 12/11/2020,Maine,ME,No,110775,59100,51675,,,,,,,,,,,
 12/14/2020,Michigan,MI,Yes,258425,173600,84825,,4875,,4875,,10,,10,,10,
-12/15/2020,Michigan,MI,Yes,,,,,9750,,9750,,244,,244,,244,
+12/15/2020,Michigan,MI,Yes,,,,,26325,,26325,,322,,322,,322,
 12/14/2020,Minnesota,MN,No,183400,136600,46800,,46800,,46800,,,,,,,
 12/15/2020,Missouri,MO,No,375000,151000,224000,,5850,,5850,,,,,,,
 12/16/2020,Northern Mariana Islands,MP,No,,,,,,,,,,,,,,
@@ -60,7 +60,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/14/2020,Wisconsin,WI,No,150725,101000,49725,,,,,,,,,,,
 12/11/2020,West Virginia,WV,No,92600,32600,60000,,10000,,10000,,,,,,,
 12/14/2020,Wyoming,WY,No,27075,14400,12675,,4875,,4875,,,,,,,
-12/16/2020,Michigan,MI,Yes,,,,,26325,,26325,,,,,,,
+12/16/2020,Michigan,MI,Yes,,,,,84825,,84825,,1078,,1078,,1078,
 12/16/2020,Ohio,OH,Yes,,,,,,,,,1764,,1764,,1764,
 12/16/2020,Delaware,DE,No,,,,,8775,,8775,,,,,,,
 12/16/2020,Florida,FL,No,546400,367000,,,,,,,,,,,,
@@ -74,3 +74,4 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/17/2020,Washington,WA,No,,,,,,,,,410,,410,,,
 12/17/2020,West Virginia,WV,No,,,,,,,,,1830,,1830,,1830,
 12/17/2020,Utah,UT,Yes,,,,,14625,,14625,,407,,407,,407,
+
