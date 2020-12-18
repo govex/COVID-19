@@ -1,6 +1,6 @@
 column_name,definition
 date,data collection date
-state,US State name
+Province_State,US State name
 stabbr,US State name abbreviation
 dashboard_available, "'Yes' when there is a publicly available dashboard with vaccine information. 'No' otherwise"
 doses_alloc_total,Total number of COVID-19 vaccine doses allocated
