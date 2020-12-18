@@ -69,9 +69,10 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/16/2020,Missouri,MO,No,,,,,51675,,51675,,,,,,,
 12/16/2020,Nebraska,NE,No,,,,,,,,,1746,,1746,,1746,
 12/17/2020,Idaho,ID,Yes,,,,,,,,,321,,321,,321,
-12/17/2020,South Dakota,SD,Yes,,,,,,,,,1106,,1106,,1106,
+12/17/2020,South Dakota,SD,Yes,,,,,,,,,1515,,1515,,1515,
 12/17/2020,Texas,TX,Yes,,,,,91650,,91650,,4187,,4187,,4187,
-12/17/2020,Washington,WA,No,,,,,,,,,410,,410,,,
+12/16/2020,Washington,WA,No,,,,,,,,,1159,,1159,,1159,
 12/17/2020,West Virginia,WV,No,,,,,,,,,1830,,1830,,1830,
 12/17/2020,Utah,UT,Yes,,,,,14625,,14625,,407,,407,,407,
-
+12/18/2020,Texas,TX,Yes,,,,,91650,,91650,,4187,,4187,,4187,
+12/17/2020,Connecticut,CT,No,,,,,,,,,1928,,1928,,1928,
