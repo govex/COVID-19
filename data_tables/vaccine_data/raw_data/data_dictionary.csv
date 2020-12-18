@@ -16,4 +16,4 @@ doses_admin_moderna,Number of Moderna COVID-19 vaccine doses administered
 doses_admin_pfizer,Number of Pfizer COVID-19 vaccine doses administered
 doses_admin_unknown,Number of COVID-19 vaccine doses administered from an unknown provider
 people_total,"Total number of people vaccinated, with one dose administered"
-people_total_completed,"Total number of people vaccinated, with all doses administered"
+people_total_2nd_dose,"Total number of people vaccinated, with all doses administered"
