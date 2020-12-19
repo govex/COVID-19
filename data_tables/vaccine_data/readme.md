@@ -41,6 +41,7 @@
 
 ## Florida
 
+- [State vaccine report](https://floridahealthcovid19.gov/)
 - [Governor's Newsroom](https://www.flgov.com/2020/12/)
 
 ## Georgia
@@ -154,7 +155,7 @@
 
 ## Oklahoma
 
-- [Vaccine update hub](https://oklahoma.gov/covid19/vaccine-information/state-update-hub.html)
+- [State dashboard](https://oklahoma.gov/covid19.html)
 
 ## Oregon
 
