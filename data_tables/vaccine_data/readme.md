@@ -2,6 +2,7 @@
 
 ## Alaska
 
+- [State dashboard](http://dhss.alaska.gov/dph/epi/id/pages/COVID-19/vaccine.aspx)
 - [State COVID-19 Newsroom](https://gov.alaska.gov/home/covid19news/)
 
 ## Alabama
@@ -23,6 +24,7 @@
 
 ## Colorado
 
+- [State dashboard](https://covid19.colorado.gov/vaccine)
 - [State COVID-19 Newsroom](https://covid19.colorado.gov/category/press-release?page=0)
 
 ## Connecticut
@@ -170,6 +172,7 @@
 
 ## Rhode Island
 
+- [State dashboard](https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/)
 - [Governor's Newsroom](https://www.ri.gov/press/)
 
 ## South Carolina
@@ -182,6 +185,7 @@
 
 ## Tennessee
 
+- [State vaccination report](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/Vaccine.pdf)
 - [Governor's Newsroom](https://www.tn.gov/governor/news.html)
 
 ## Texas
