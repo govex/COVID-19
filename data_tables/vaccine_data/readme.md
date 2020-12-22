@@ -46,6 +46,7 @@
 
 ## Georgia
 
+- [State dashboard](https://dph.georgia.gov/covid-vaccine)
 - [Governor's Newsroom](https://gov.georgia.gov/press-releases)
 
 ## Guam
@@ -78,10 +79,12 @@
 
 ## Kentucky
 
+- [State dashboard](https://govstatus.egov.com/ky-covid-vaccine)
 - [Governor's Newsroom](https://governor.ky.gov/news)
 
 ## Louisiana
 
+- [State dashboard](https://ldh.la.gov/Coronavirus/)
 - [Governor's Newsroom](https://gov.louisiana.gov/index.cfm/newsroom/category/9)
 
 ## Maine
@@ -139,6 +142,7 @@
 
 ## North Carolina
 
+- [State dashboard](https://covid19.ncdhhs.gov/dashboard/vaccinations)
 - [State COVID-19 Newsroom](https://www.nc.gov/covid19/covid19-news-releases)
 
 ## North Dakota
@@ -160,6 +164,7 @@
 
 ## Oregon
 
+- [State dashboard](https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonCOVID-19VaccinationTrends/OregonStatewideVaccinationTrends)
 - [Governor's Newsroom](https://www.oregon.gov/newsroom/Pages/Agency.aspx?agency=GOV)
 
 ## Pennsylvania
@@ -216,6 +221,7 @@
 
 ## West Virginia
 
+- [State dashboard](https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/)
 - [State's Department of Health and Human Services newsroom](https://dhhr.wv.gov/COVID-19/pages/updates-and-news.aspx)
 
 ## Wisconsin
