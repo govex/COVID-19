@@ -94,6 +94,7 @@
 
 ## Massachusetts
 
+- [State weekly vaccination report](https://www.mass.gov/info-details/preparing-for-a-covid-19-vaccine#weekly-covid-19-vaccination-report-)
 - [State COVID-19 Newsroom](https://www.mass.gov/lists/press-releases-related-to-covid-19)
 
 ## Michigan
@@ -131,7 +132,7 @@
 
 ## New Jersey
 
-- [State COVID-19 Newsroom](https://covid19.nj.gov/faqs/announcements)
+- [State COVID-19 "Vax Matters" Newsletter](https://www.state.nj.us/health/cd/topics/covid2019_vaccination.shtml)
 
 ## New York
 
