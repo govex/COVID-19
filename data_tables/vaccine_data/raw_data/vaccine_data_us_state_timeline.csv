@@ -43,7 +43,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/24/2020,Delaware,DE,No,,,,,,,,,6569,,,6569,6569,
 12/11/2020,District of Columbia,DC,No,6825,,6825,,,,,,,,,,,
 12/10/2020,Florida,FL,No,179400,,179400,,,,,,,,,,,
-12/14/2010,Florida,FL,Yes,,,,,,,,,28,,28,,28,
+12/14/2020,Florida,FL,Yes,,,,,,,,,28,,28,,28,
 12/15/2020,Florida,FL,Yes,,,,,,,,,2632,,2632,,2632,
 12/16/2020,Florida,FL,Yes,546400,367000,,,,,,,13091,,13091,,13091,
 12/17/2020,Florida,FL,Yes,,,,,,,,,26339,,26339,,26339,
