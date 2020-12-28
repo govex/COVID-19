@@ -206,7 +206,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/24/20,Pennsylvania,PA,No,,,,,,,,,57602,,,57602,57602,
 12/25/20,Pennsylvania,PA,No,,,,,,,,,,,,,,
 12/26/20,Pennsylvania,PA,No,,,,,,,,,66350,,,66350,66350,
-12/28/20,Pennsylvania,PA,No,,,,,,,,,"72,762",,,,,
+12/28/20,Pennsylvania,PA,No,,,,,,,,,72762,,,72762,72762,
 12/14/20,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
 12/14/20,Rhode Island,RI,No,29000,19000,10000,,5000,,5000,,,,,,,
 12/18/20,Rhode Island,RI,Yes,,,,,,,,,1226,,1226,,1226,
