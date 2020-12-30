@@ -148,7 +148,7 @@
 
 ## North Dakota
 
-- [State Dashboard](https://www.health.nd.gov/covid19-vaccine-dashboard) (Not yet available)
+- [State Dashboard](https://www.health.nd.gov/covid19vaccine/dashboard)
 - [COVID-19 vaccine page](https://www.health.nd.gov/covid-19-vaccine-information)
 
 ## Northern Mariana Islands
@@ -227,6 +227,7 @@
 
 ## Wisconsin
 
+- [State dashboard](https://www.dhs.wisconsin.gov/covid-19/vaccine-data.htm#day)
 - [Governor's Newsroom](https://evers.wi.gov/Pages/Newsroom/Press-Releases.aspx)
 
 ## Wyoming
