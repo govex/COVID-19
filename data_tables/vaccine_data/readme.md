@@ -233,6 +233,7 @@
 ## Wyoming
 
 - [Governor's Newsroom](https://governor.wyo.gov/media/news-releases)
+- [State web page](https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/)
 
 
 # Dates 
