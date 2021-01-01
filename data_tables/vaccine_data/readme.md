@@ -7,6 +7,7 @@
 
 ## Alabama
 
+- [State dashboard](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/e4a232feb1344ce0afd9ac162f3ac4ba)
 - [Governor's Newsroom](https://governor.alabama.gov/newsroom/category/press-releases/)
 
 ## Arkansas
@@ -33,6 +34,7 @@
 
 ## Delaware
 
+- [State dashboard](https://myhealthycommunity.dhss.delaware.gov/locations/state/days_to_show/284/primary_trend_type/bar#overview_trends)
 - [Governor's Newsroom](https://news.delaware.gov/tag/coronavirus/)
 
 ## District of Columbia
@@ -71,10 +73,12 @@
 
 ## Indiana
 
+- [State dashboard](https://www.coronavirus.in.gov/vaccine/index.htm)
 - [Governor's Newsroom](https://www.in.gov/gov/newsroom.htm)
 
 ## Kansas
 
+- [Weekly Vaccine newsletter](https://www.coronavirus.kdheks.gov/284/COVID-19-Vaccine)
 - [Governor's Newsroom](https://governor.kansas.gov/newsroom/press-releases/)
 
 ## Kentucky
@@ -110,6 +114,7 @@
 
 ## Mississippi
 
+- [State dashboard](https://msdh.ms.gov/msdhsite/_static/14,0,420,976.html)
 - [Governor's Newsroom](https://governorreeves.ms.gov/covid-19/#press)
 
 ## Missouri
@@ -170,6 +175,7 @@
 
 ## Pennsylvania
 
+- [State dashboard](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Vaccine.aspx)
 - [Data file](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID-19%20Vaccine_Provider%20Locations_Week%201.xlsx)
 - [Governor's Newsroom](https://www.governor.pa.gov/newsroom/)
 - [COVID-19 vaccine page](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Vaccine.aspx)
@@ -185,6 +191,7 @@
 
 ## South Carolina
 
+- [Department of Health and Environmental Control's COVID-19 vaccine web page](https://scdhec.gov/covid19/covid-19-vaccination)
 - [Governor's Newsroom](https://governor.sc.gov/news/archive)
 
 ## South Dakota
