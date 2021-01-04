@@ -20,7 +20,7 @@
 
 ## California
 
-- [Web page](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Vaccine-Regional-Distribution-First-Shipment.aspx)
+- [Web page](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/VaccineDoses.aspx)
 - [State COVID-19 Newsroom](https://covid19.ca.gov/latest-news/)
 
 ## Colorado

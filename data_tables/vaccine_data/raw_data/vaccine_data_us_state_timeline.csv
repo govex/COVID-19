@@ -21,6 +21,8 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/15/20,Arkansas,AR,No,25000,,25000,,,,,,,,,,,
 12/18/20,Arkansas,AR,No,,,,,,,,,4000,,4000,,4000,
 12/14/20,California,CA,No,327000,,,327000,,,,,,,,,,
+01/01/21,California,CA,No,,,,,,,,,,,,,,
+01/02/21,California,CA,Yes,1762900,,,,,,,,436154,,,436154,436154,
 12/11/20,Colorado,CO,No,142400,95600,46800,,,,,,,,,,,
 12/17/20,Colorado,CO,Yes,,,,,,,,,12123,,12123,,12123,
 12/19/20,Colorado,CO,Yes,,,,,,,,,22539,,22539,,22539,
