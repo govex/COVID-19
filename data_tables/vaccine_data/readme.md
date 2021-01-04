@@ -191,6 +191,7 @@
 
 ## South Carolina
 
+- [State dashboard](https://scdhec.gov/covid19/covid-19-vaccine-allocation)
 - [Department of Health and Environmental Control's COVID-19 vaccine web page](https://scdhec.gov/covid19/covid-19-vaccination)
 - [Governor's Newsroom](https://governor.sc.gov/news/archive)
 
