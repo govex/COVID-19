@@ -62,6 +62,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/28/2020,Connecticut,CT,No,,,,,,,,,36276,,,36276,36276,
 12/29/2020,Connecticut,CT,No,,,,,,,,,,,,,,
 12/30/2020,Connecticut,CT,No,,,,,,,,,54727,,,54727,54727,
+01/04/2021,Connecticut,CT,No,,,,,,,,,75180,,,75180,75180,
 12/15/2020,Delaware,DE,No,56275,,,,975,,,,92,,92,,92,
 12/16/2020,Delaware,DE,No,,,,,8775,,,,105,,105,,105,
 12/17/2020,Delaware,DE,No,,,,,8775,,,,455,,455,,455,
@@ -83,6 +84,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/02/2021,Delaware,DE,Yes,,,,,44925,22500,22425,,14265,,,14265,,
 01/03/2021,Delaware,DE,Yes,,,,,44925,22500,22425,,14265,,,14265,,
 12/11/2020,District of Columbia,DC,No,6825,,6825,,,,,,,,,,,
+01/04/2020,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,16989,
 12/10/2020,Florida,FL,No,179400,,179400,,,,,,,,,,,
 12/14/2020,Florida,FL,Yes,,,,,,,,,28,,28,,28,0
 12/15/2020,Florida,FL,Yes,,,,,,,,,2632,,2632,,2632,0
