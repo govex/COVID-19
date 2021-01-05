@@ -84,7 +84,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/02/2021,Delaware,DE,Yes,,,,,44925,22500,22425,,14265,,,14265,,
 01/03/2021,Delaware,DE,Yes,,,,,44925,22500,22425,,14265,,,14265,,
 12/11/2020,District of Columbia,DC,No,6825,,6825,,,,,,,,,,,
-01/04/2020,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,16989,
+01/04/2021,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,16989,
 12/10/2020,Florida,FL,No,179400,,179400,,,,,,,,,,,
 12/14/2020,Florida,FL,Yes,,,,,,,,,28,,28,,28,0
 12/15/2020,Florida,FL,Yes,,,,,,,,,2632,,2632,,2632,0
@@ -349,6 +349,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/29/2020,New Jersey,NJ,No,,,,,,,,,,,,,,
 12/30/2020,New Jersey,NJ,No,,,,,,,,,62901,,,62901,62901,
 12/31/2020,New Jersey,NJ,No,,,,,,,,,72657,,,72657,72657,
+01/04/2021,New Jersey,NJ,No,,,,,,,,,101417,,,101417,,
 12/11/2020,New Mexico,NM,No,17550,,17550,,,,,,,,,,,
 12/16/2020,New York,NY,No,170000,,170000,,,,,,,,,,,
 12/21/2020,New York,NY,No,,,,,,,,,38000,,38000,,38000,
@@ -561,6 +562,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/23/2020,Virgin Islands,VI,No,,,,,,,,,260,,260,,260,
 12/25/2020,Virgin Islands,VI,No,,,,,,,,,,,,,,
 12/26/2020,Virgin Islands,VI,No,,,,,,,,,260,,260,,260,
+12/26/2020,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
 12/14/2020,Virginia,VA,No,480000,,,480000,72150,,72150,,,,,,,
 12/21/2020,Virginia,VA,Yes,,,,,121125,,,121125,19506,,,19506,19506,0
 12/22/2020,Virginia,VA,Yes,,,,,227425,,,227425,19943,,,19943,19943,0
