@@ -130,7 +130,7 @@
 
 ## Nebraska
 
-- [State Dashboard](https://nedhhs.maps.arcgis.com/apps/webappviewer/index.html?id=7aa145ea98344bdc8695ba5f8f2ea893)
+- [State Dashboard](https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd/page/page_1/)
 - [State COVID-19 Newsroom](http://dhhs.ne.gov/Pages/Coronavirus.aspx)
 
 ## Nevada
