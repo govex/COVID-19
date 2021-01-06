@@ -12,6 +12,7 @@
 
 ## Arkansas
 
+- [State dashboard](https://www.healthy.arkansas.gov/programs-services/topics/covid-19-vaccination-plan)
 - [Governor's Newsroom](https://governor.arkansas.gov/news-media/press-releases/)
 
 ## Arizona
@@ -40,6 +41,7 @@
 
 ## District of Columbia
 
+- [DC's dashboard](https://coronavirus.dc.gov/data/vaccination)
 - [DC's COVID-19 Newsroom](https://coronavirus.dc.gov/newsroom)
 
 ## Florida
