@@ -398,7 +398,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/27/2020,Nebraska,NE,No,,,,,,,,,,,,,,
 12/28/2020,Nebraska,NE,No,,,,,49390,,,,21419,,,21419,21419,
 12/29/2020,Nebraska,NE,No,,,,,,,,,,,,,,
-12/30/2020,Nebraska,NE,No,,,,,,,,,27000,,,27000,27000,
+12/30/2020,Nebraska,NE,Yes,,,,,,,,,27000,,,27000,27000,
 12/14/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
 12/15/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
 12/14/2020,New Jersey,NJ,No,76050,,76050,,,,,,,,,,,
