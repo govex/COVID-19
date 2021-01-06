@@ -3,17 +3,17 @@ date,data collection date
 Province_State,US State name
 stabbr,US State name abbreviation
 dashboard_available, "'Yes' when there is a publicly available dashboard with vaccine information. 'No' otherwise"
-doses_alloc_total,Total number of COVID-19 vaccine doses allocated
-doses_alloc_moderna,Number of Moderna COVID-19 vaccine doses allocated
-doses_alloc_pfizer,Number of Pfizer COVID-19 vaccine doses allocated
-doses_alloc_unknown,Number of COVID-19 vaccine doses allocated from an unknown provider
-doses_shipped_total,Total number of COVID-19 vaccine doses shipped
-doses_shipped_moderna,Number of Moderna COVID-19 vaccine doses shipped
-doses_shipped_pfizer,Number of Pfizer COVID-19 vaccine doses shipped
-doses_shipped_unknown,Number of COVID-19 vaccine doses shipped from an unknown provider
-doses_admin_total,Total number of COVID-19 vaccine doses administered
-doses_admin_moderna,Number of Moderna COVID-19 vaccine doses administered
-doses_admin_pfizer,Number of Pfizer COVID-19 vaccine doses administered
-doses_admin_unknown,Number of COVID-19 vaccine doses administered from an unknown provider
-people_total,"Total number of people vaccinated, with only one dose administered"
-people_total_2nd_dose,"Total number of people vaccinated, with all doses administered"
+doses_alloc_total,Total cumulative number of COVID-19 vaccine doses allocated
+doses_alloc_moderna,Cumulative number of Moderna COVID-19 vaccine doses allocated
+doses_alloc_pfizer,Cumulative number of Pfizer COVID-19 vaccine doses allocated
+doses_alloc_unknown,Cumulative number of COVID-19 vaccine doses allocated from an unknown provider
+doses_shipped_total,Total cumulative number of COVID-19 vaccine doses shipped
+doses_shipped_moderna,Cumulative number of Moderna COVID-19 vaccine doses shipped
+doses_shipped_pfizer,Cumulative number of Pfizer COVID-19 vaccine doses shipped
+doses_shipped_unknown,Cumulative number of COVID-19 vaccine doses shipped from an unknown provider
+doses_admin_total,Total cumulative number of COVID-19 vaccine doses administered
+doses_admin_moderna,Cumulative number of Moderna COVID-19 vaccine doses administered
+doses_admin_pfizer,Cumulative number of Pfizer COVID-19 vaccine doses administered
+doses_admin_unknown,Cumulative number of COVID-19 vaccine doses administered from an unknown provider
+people_total,"Total cumulative number of people vaccinated, with only one dose administered"
+people_total_2nd_dose,"Total cumulative number of people fully vaccinated, with all doses administered"
