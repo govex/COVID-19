@@ -27,7 +27,7 @@
 
 ## Colorado
 
-- [State dashboard](https://covid19.colorado.gov/vaccine)
+- [State dashboard](https://covid19.colorado.gov/vaccine-data-dashboard)
 - [State COVID-19 Newsroom](https://covid19.colorado.gov/category/press-release?page=0)
 
 ## Connecticut
