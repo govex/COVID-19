@@ -76,7 +76,7 @@
 
 ## Indiana
 
-- [State dashboard](https://www.coronavirus.in.gov/vaccine/index.htm)
+- [State dashboard](https://www.coronavirus.in.gov/2680.htm)
 - [Governor's Newsroom](https://www.in.gov/gov/newsroom.htm)
 
 ## Kansas
