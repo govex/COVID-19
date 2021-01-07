@@ -60,6 +60,7 @@
 
 ## Hawaii
 
+- [State dashboard](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/#vaccine)
 - [State COVID-19 Newsroom](https://hawaiicovid19.com/news/)
 
 ## Idaho
