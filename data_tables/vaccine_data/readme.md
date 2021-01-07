@@ -12,10 +12,12 @@
 
 ## Arkansas
 
+- [State dashboard](https://www.healthy.arkansas.gov/programs-services/topics/covid-19-vaccination-plan)
 - [Governor's Newsroom](https://governor.arkansas.gov/news-media/press-releases/)
 
 ## Arizona
 
+- [State dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-find-vaccine)
 - [Governor's Newsroom](https://azgovernor.gov/news-releases)
 
 ## California
@@ -25,7 +27,7 @@
 
 ## Colorado
 
-- [State dashboard](https://covid19.colorado.gov/vaccine)
+- [State dashboard](https://covid19.colorado.gov/vaccine-data-dashboard)
 - [State COVID-19 Newsroom](https://covid19.colorado.gov/category/press-release?page=0)
 
 ## Connecticut
@@ -39,6 +41,7 @@
 
 ## District of Columbia
 
+- [DC's dashboard](https://coronavirus.dc.gov/data/vaccination)
 - [DC's COVID-19 Newsroom](https://coronavirus.dc.gov/newsroom)
 
 ## Florida
@@ -127,7 +130,7 @@
 
 ## Nebraska
 
-- [State Dashboard](https://nedhhs.maps.arcgis.com/apps/webappviewer/index.html?id=7aa145ea98344bdc8695ba5f8f2ea893)
+- [State Dashboard](https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd/page/page_1/)
 - [State COVID-19 Newsroom](http://dhhs.ne.gov/Pages/Coronavirus.aspx)
 
 ## Nevada
