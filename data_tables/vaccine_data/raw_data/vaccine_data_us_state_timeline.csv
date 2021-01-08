@@ -109,7 +109,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Connecticut,CT,No,,,,,,,,,75180,,,75180,75180,
 01/06/2021,Connecticut,CT,No,,,,,,,,,75180,,,75180,75180,
 01/07/2021,Connecticut,CT,No,,,,,,,,,75180,,,75180,75180,
-01/08/2021,Connecticut,CT,No,,,,,,,,,101734,,,101734,,
+01/08/2021,Connecticut,CT,No,,,,,,,,,101734,,,101734,99929,1805
 12/15/2020,Delaware,DE,No,56275,,,,975,,,,92,,92,,92,
 12/16/2020,Delaware,DE,No,,,,,8775,,,,105,,105,,105,
 12/17/2020,Delaware,DE,No,,,,,8775,,,,455,,455,,455,
@@ -738,6 +738,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Texas,TX,Yes,,,,,1333450,,,1333450,439502,,,439502,439502,0
 01/06/2021,Texas,TX,Yes,,,,,1375000,,,1375000,482045,,,482045,469209,6418
 01/07/2021,Texas,TX,Yes,,,,,1362850,,,1362850,541512,,,541512,513554,13979
+01/08/2021,Texas,TX,Yes,,,,,1488550,,,1488550,614086,,,614086,564578,24754
 12/11/2020,Utah,UT,No,154400,,23400,131000,,,,,,,,,,
 12/17/2020,Utah,UT,Yes,,,,,14625,,14625,,407,,407,,407,
 12/19/2020,Utah,UT,Yes,,,,,23400,,23400,,3648,,3648,,3648,
@@ -760,7 +761,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Utah,UT,Yes,,,,,150125,,,150125,55981,,,55981,55981,
 01/06/2021,Utah,UT,Yes,,,,,157925,,,157925,60462,,,60462,60462,
 01/07/2021,Utah,UT,Yes,,,,,157925,,,157925,68030,30771,37259,,66096,967
-12/14/2020,Vermont,VT,No,5850,,5850,,1950,,1950,,,,,,,
+01/08/2021,Utah,UT,Yes,,,,,157925,,,157925,77228,40982,36246,,,
 12/14/2020,Virgin Islands,VI,No,975,,975,,975,,975,,,,,,,
 12/23/2020,Virgin Islands,VI,No,,,,,,,,,260,,260,,260,
 12/25/2020,Virgin Islands,VI,No,,,,,,,,,,,,,,
@@ -784,6 +785,8 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Virginia,VA,Yes,,,,,481550,,,481550,104083,,,104083,104083,0
 01/06/2021,Virginia,VA,Yes,,,,,481550,,,481550,116247,,,116247,111839,2204
 01/07/2021,Virginia,VA,Yes,,,,,481550,,,481550,139754,,,139754,131972,3891
+01/08/2021,Virginia,VA,Yes,,,,,481550,,,481550,148909,,,148909,135213,6848
+12/14/2020,Vermont,VT,No,5850,,5850,,1950,,1950,,,,,,,
 12/15/2020,Vermont,VT,Yes,,,,,,,,,20,,,20,20,0
 12/16/2020,Vermont,VT,Yes,,,,,,,,,399,,,399,399,0
 12/17/2020,Vermont,VT,Yes,,,,,,,,,1160,,,1160,1160,0
@@ -808,6 +811,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Vermont,VT,Yes,,,,,,,,,17657,,,17657,17657,0
 01/06/2021,Vermont,VT,Yes,,,,,,,,,17657,,,17657,17657,0
 01/07/2021,Vermont,VT,Yes,,,,,,,,,17657,,,17657,17657,0
+01/08/2021,Vermont,VT,Yes,,,,,,,,,21352,,,21352,20596,378
 12/16/2020,Washington,WA,No,405800,183800,222000,,62400,,62400,,1159,,1159,,1159,
 12/21/2020,Washington,WA,No,,,,,,,,,,,,,,
 12/22/2020,Washington,WA,No,,,,,,,,,,,,,,
@@ -849,6 +853,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,West Virginia,WV,Yes,,,,,103375,,,103375,56354,,,56354,,
 01/06/2021,West Virginia,WV,Yes,,,,,109440,,,109440,60933,,,60933,,
 01/07/2021,West Virginia,WV,Yes,,,,,109440,,,109440,66792,,,66792,,
+01/08/2021,West Virginia,WV,Yes,,,,,109440,,,109440,77156,,,77156,,
 12/14/2020,Wisconsin,WI,No,150725,101000,49725,,,,,,,,,,,
 12/20/2020,Wisconsin,WI,No,184825,100000,84825,,,,,,12097,1,12096,,12097,
 12/21/2020,Wisconsin,WI,No,,,,,,,,,17082,1,17080,1,17082,
@@ -869,6 +874,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Wisconsin,WI,Yes,420200,,,,266675,,,,85609,20935,64674,,,
 01/06/2021,Wisconsin,WI,Yes,420200,,,,266675,,,,85609,20935,64674,,,
 01/07/2021,Wisconsin,WI,Yes,420200,,,,266675,,,,110207,34106,76101,,,
+01/08/2021,Wisconsin,WI,Yes,420200,,,,266675,,,,123402,40100,83302,,,
 12/14/2020,Wyoming,WY,No,27075,14400,12675,,4875,,4875,,,,,,,
 12/22/2020,Wyoming,WY,Yes,,,,,4975,100,4875,,1868,,,1868,1868,
 12/23/2020,Wyoming,WY,Yes,,,,,4975,100,4875,,2865,,,2865,2865,
@@ -887,3 +893,4 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Wyoming,WY,Yes,,,,,30650,17000,13650,,8928,,,8928,,
 01/06/2021,Wyoming,WY,Yes,,,,,30650,17000,13650,,8928,,,8928,,
 01/07/2021,Wyoming,WY,Yes,,,,,30650,17000,13650,,9611,,,9611,8559,526
+01/08/2021,Wyoming,WY,Yes,,,,,32600,17000,15600,,12996,,,12996,11897,1099
