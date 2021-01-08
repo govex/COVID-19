@@ -60,6 +60,7 @@
 
 ## Hawaii
 
+- [State dashboard](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/#vaccine)
 - [State COVID-19 Newsroom](https://hawaiicovid19.com/news/)
 
 ## Idaho
@@ -76,7 +77,7 @@
 
 ## Indiana
 
-- [State dashboard](https://www.coronavirus.in.gov/vaccine/index.htm)
+- [State dashboard](https://www.coronavirus.in.gov/2680.htm)
 - [Governor's Newsroom](https://www.in.gov/gov/newsroom.htm)
 
 ## Kansas
