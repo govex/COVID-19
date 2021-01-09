@@ -415,6 +415,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Michigan,MI,Yes,,,,,475875,108300,367575,,140245,30995,109250,,139775,235
 01/06/2021,Michigan,MI,Yes,,,,,665850,293400,372450,,152511,35052,117459,,150921,795
 01/07/2021,Michigan,MI,Yes,,,,,725850,353400,372450,,174749,46515,128234,,170681,2034
+01/08/2021,Michigan,MI,Yes,,,,,725850,353400,372450,,195240,52588,142652,,188990,3125
 12/14/2020,Minnesota,MN,No,183400,136600,46800,,46800,,46800,,,,,,,
 12/22/2020,Minnesota,MN,No,,,,,,,,,,,,,,
 12/23/2020,Minnesota,MN,Yes,174750,94800,79950,,174750,94800,79950,,2999,,2997,2,2999,
@@ -448,6 +449,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Mississippi,MS,Yes,,,,,175450,,,175450,25324,,,25324,,
 01/06/2021,Mississippi,MS,Yes,,,,,176650,,,176650,30691,,,30691,,
 01/07/2021,Mississippi,MS,Yes,,,,,176650,,,176650,30691,,,30691,,
+01/08/2021,Mississippi,MS,Yes,,,,,214600,,,214600,41541,,,41541,39483,1029
 12/15/2020,Missouri,MO,No,375000,151000,224000,,5850,,5850,,,,,,,
 12/16/2020,Missouri,MO,No,,,,,51675,,51675,,,,,,,
 12/22/2020,Missouri,MO,No,,,,,,,,,23000,,,23000,23000,
@@ -492,6 +494,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Nebraska,NE,Yes,,,,,,,,,39686,,,39686,,
 01/06/2021,Nebraska,NE,Yes,,,,,108188,,,,53418,,,53418,48060,2679
 01/07/2021,Nebraska,NE,Yes,,,,,133896,,,,60170,,,60170,50796,4687
+01/08/2021,Nebraska,NE,Yes,,,,,133844,,,,67983,,,67983,54681,6651
 12/14/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
 12/15/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
 12/14/2020,New Jersey,NJ,No,76050,,76050,,,,,,,,,,,
@@ -540,6 +543,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,North Carolina,NC,Yes,,,,,,,,,110260,,,110260,109338,461
 01/06/2021,North Carolina,NC,Yes,,,,,,,,,110260,,,110260,109338,461
 01/07/2021,North Carolina,NC,Yes,,,,,,,,,110260,,,110260,109338,461
+01/08/2021,North Carolina,NC,Yes,,,,,,,,,161017,,,161017,142787,9115
 12/15/2020,North Dakota,ND,No,20025,13200,6825,,,,,,,,,,,
 12/19/2020,North Dakota,ND,Yes,24900,13200,11700,,6825,,6825,,5662,,5662,,5662,0
 12/21/2020,North Dakota,ND,Yes,24900,13200,11700,,9025,2200,6825,,6865,40,6825,,6865,0
@@ -560,6 +564,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,North Dakota,ND,Yes,,,,,35250,17700,17550,,22241,11849,10392,,22241,0
 01/06/2021,North Dakota,ND,Yes,,,,,35250,17700,17550,,22241,11849,10392,,22241,0
 01/07/2021,North Dakota,ND,Yes,,,,,35250,17700,17550,,22241,11849,10392,,22241,0
+01/08/2021,North Dakota,ND,Yes,,,,,35250,17700,17550,,22241,11849,10392,,20065,0
 12/16/2020,Northern Mariana Islands,MP,No,,,,,,,,,,,,,,
 12/14/2020,Ohio,OH,Yes,561900,290900,271000,,,,,,50,,50,,50,0
 12/15/2020,Ohio,OH,Yes,,,,,98475,,98475,,787,,787,,787,0
