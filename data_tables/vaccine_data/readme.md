@@ -82,7 +82,8 @@
 
 ## Kansas
 
-- [Weekly Vaccine newsletter](https://www.coronavirus.kdheks.gov/284/COVID-19-Vaccine)
+- [Kansas COVID-19 vaccine web page](https://www.kansasvaccine.gov/157/Availability)
+- [Weekly Vaccine newsletter](https://www.kansasvaccine.gov/DocumentCenter/View/123/Vaccine-Historical-Document-1721)
 - [Governor's Newsroom](https://governor.kansas.gov/newsroom/press-releases/)
 
 ## Kentucky
