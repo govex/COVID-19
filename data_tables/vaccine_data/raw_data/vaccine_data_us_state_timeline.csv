@@ -265,7 +265,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/05/2021,Idaho,ID,Yes,,,,,,,,,20843,,,20843,,
 01/06/2021,Idaho,ID,Yes,,,,,,,,,22822,,,22822,,
 01/07/2021,Idaho,ID,Yes,,,,,,,,,25416,,,25416,,
-01/08/2021,Idaho,ID,Yes,,,,,,,,,28194,,,28194,26806,
+01/08/2021,Idaho,ID,Yes,,,,,,,,,28194,,,28194,25451,1355
 12/14/2020,Illinois,IL,No,100000,,,100000,43000,,43000,,,,,,,
 12/16/2020,Indiana,IN,No,,,,,,,,,,,,,,
 12/28/2020,Indiana,IN,No,,,,,,,,,,,,,,
