@@ -243,7 +243,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/06/2021,Hawaii,HI,No,,,,,,,,,25000,,,25000,,
 01/07/2021,Hawaii,HI,No,,,,,,,,,25470,,,25470,,
 01/08/2021,Hawaii,HI,No,,,,,,,,,25470,,,25470,,
-01/09/2021,Hawaii,HI,No,,,,,,,,,25470,,,25470,,
+01/09/2021,Hawaii,HI,Yes,,,,,,,,,25470,,,25470,,
 12/11/2020,Idaho,ID,No,89150,40400,48750,,,,,,,,,,,
 12/17/2020,Idaho,ID,Yes,,,,,,,,,321,,321,,321,
 12/18/2020,Idaho,ID,Yes,,,,,,,,,944,,944,,944,
@@ -268,6 +268,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/06/2021,Idaho,ID,Yes,,,,,,,,,22822,,,22822,,
 01/07/2021,Idaho,ID,Yes,,,,,,,,,25416,,,25416,,
 01/08/2021,Idaho,ID,Yes,,,,,,,,,28194,,,28194,25451,1355
+01/09/2021,Idaho,ID,Yes,,,,,,,,,32100,,,32100,26760,2646
 12/14/2020,Illinois,IL,No,100000,,,100000,43000,,43000,,,,,,,
 12/16/2020,Indiana,IN,No,,,,,,,,,,,,,,
 12/28/2020,Indiana,IN,No,,,,,,,,,,,,,,
@@ -288,7 +289,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 12/15/2020,Kansas,KS,No,,,,,24000,,24000,,,,,,,
 12/21/2020,Kansas,KS,No,,,,,41629,49000,41550,,,,,,,
 01/08/2021,Kansas,KS,No,,,,,,,,,56480,,,56480,,
-01/09/2021,Kansas,KS,No,,,,,,,,,56480,,,56480,,
+01/09/2021,Kansas,KS,Yes,,,,,,,,,56480,,,56480,,
 12/14/2020,Kentucky,KY,No,147000,109000,38000,,2925,,2925,,,,,,,
 12/22/2020,Kentucky,KY,Yes,84275,,,,,,,,8839,,,8839,8839,
 12/23/2020,Kentucky,KY,Yes,87625,,,,76433,,,,11192,,,11192,11192,
