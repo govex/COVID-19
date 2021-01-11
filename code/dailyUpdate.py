@@ -369,32 +369,36 @@ USCounties4[['Confirmed', 'Deaths',
         'Median_Household_Income_2018', 'Recovered', 'Active',
        'State_Confirmed', 'State_Deaths', 'State_Recovered',
         'State_Testing']].fillna(0).astype(int)
-
+#%%
 # Add HHS Data
 r = requests.get('https://healthdata.gov/api/3/action/resource_show?id=b2ce2346-5e9b-4392-bfcf-8fe677f20708&page=0')
 meta = r.json()
 hospURL = meta['result']['url']
-hhsCSV = pd.read_csv(hospURL)
-hhs_df = hhsCSV[[
-'fips_code', 
-'collection_week',
-'inpatient_beds_used_7_day_sum', 
-'inpatient_beds_7_day_sum', 
-'staffed_adult_icu_bed_occupancy_7_day_sum', 
-'total_staffed_adult_icu_beds_7_day_sum',
-]]
+hhs_df = pd.read_csv(hospURL)
 hhs_df['fips_code'] = hhs_df['fips_code'].fillna(0).astype(int).apply(str).str.pad(width=5, side='left', fillchar='0')
 hhs_df = hhs_df[hhs_df['collection_week'] == hhs_df['collection_week'].max()].copy()
 hhs_df.replace(-999999.0, np.nan, inplace = True)
-hhs_df = hhs_df.groupby(['fips_code']).sum()
-
-USCounties4 = USCounties4.merge(hhs_df, how='left', left_on='FIPS', right_on='fips_code')
 
 #HHS Data calculations
-USCounties4['Inpat_Occ'] = USCounties4['inpatient_beds_used_7_day_sum'] / USCounties4['inpatient_beds_7_day_sum'] * 100
-USCounties4['ICU_Occ'] = USCounties4['staffed_adult_icu_bed_occupancy_7_day_sum'] / USCounties4['total_staffed_adult_icu_beds_7_day_sum'] * 100
-USCounties4['ICU_Occ'] = USCounties4['ICU_Occ'].fillna(-999999)
-USCounties4['Inpat_Occ'] = USCounties4['Inpat_Occ'].fillna(-999999)
+hhs_df['Avg Covid Inpatient Beds Used'] = hhs_df['total_adult_patients_hospitalized_confirmed_and_suspected_covid_7_day_sum']  / hhs_df['total_adult_patients_hospitalized_confirmed_and_suspected_covid_7_day_coverage']
+hhs_df['Total Weekly Inpatient Capacity'] = hhs_df['total_beds_7_day_sum'] / hhs_df['total_beds_7_day_coverage']
+hhs_df['Avg Total Inpatient Beds Used'] = hhs_df['all_adult_hospital_inpatient_bed_occupied_7_day_sum']/hhs_df['all_adult_hospital_inpatient_bed_occupied_7_day_coverage']
+hhs_df['Avg Non-Covid Inpatient Beds Used'] = hhs_df['Avg Total Inpatient Beds Used'] - hhs_df['Avg Covid Inpatient Beds Used']
+
+hhs_df['Avg Covid ICU Beds Used'] = hhs_df['staffed_icu_adult_patients_confirmed_and_suspected_covid_7_day_sum']  / hhs_df['staffed_icu_adult_patients_confirmed_and_suspected_covid_7_day_coverage']
+hhs_df['Avg Total ICU Beds Used'] = hhs_df['staffed_adult_icu_bed_occupancy_7_day_sum'] / hhs_df['staffed_adult_icu_bed_occupancy_7_day_coverage']
+hhs_df['Avg Non-Covid ICU Beds Used'] = hhs_df['Avg Total ICU Beds Used'] - hhs_df['Avg Covid ICU Beds Used']
+hhs_df['Total Weekly ICU Capacity'] = hhs_df['total_staffed_adult_icu_beds_7_day_sum'] / hhs_df['total_staffed_adult_icu_beds_7_day_coverage']
+
+
+hhs_df = hhs_df.groupby('fips_code').sum()
+
+hhs_df['Inpat_Occ'] = (hhs_df['Avg Non-Covid Inpatient Beds Used'] + hhs_df['Avg Covid Inpatient Beds Used']) / hhs_df['Total Weekly Inpatient Capacity'] * 100
+hhs_df['ICU_Occ'] = (hhs_df['Avg Non-Covid ICU Beds Used'] + hhs_df['Avg Covid ICU Beds Used']) / hhs_df['Total Weekly ICU Capacity'] * 100
+hhs_df['ICU_Occ'] = hhs_df['ICU_Occ'].fillna(-999999)
+hhs_df['Inpat_Occ'] = hhs_df['Inpat_Occ'].fillna(-999999)
+
+USCounties4 = USCounties4.merge(hhs_df, how='left', left_on='FIPS', right_on='fips_code')
 
 
 #%%
