@@ -75,6 +75,7 @@
 
 ## Illinois
 
+- [State vaccine dashboard](http://www.dph.illinois.gov/covid19/vaccinedata?county=Illinois)
 - [State COVID-19 Newsroom](https://coronavirus.illinois.gov/s/news)
 
 ## Indiana
