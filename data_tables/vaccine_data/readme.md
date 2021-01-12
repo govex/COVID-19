@@ -17,7 +17,7 @@
 
 ## Arizona
 
-- [State dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-find-vaccine)
+- [State vaccine report](https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/novel-coronavirus/vaccine-phases.pdf)
 - [Governor's Newsroom](https://azgovernor.gov/news-releases)
 
 ## California
