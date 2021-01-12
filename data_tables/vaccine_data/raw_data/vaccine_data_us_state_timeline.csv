@@ -662,6 +662,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,Ohio,OH,Yes,,,,,,,,,248600,,,248600,248600,0
 01/09/2021,Ohio,OH,Yes,,,,,,,,,275617,,,275617,275617,0
 01/10/2021,Ohio,OH,Yes,,,,,,,,,297013,,,297013,297013,0
+01/11/2021,Ohio,OH,Yes,,,,,,,,,304976,,,304976,304976,0
 12/14/2020,Oklahoma,OK,No,33000,,33000,,17550,,17550,,,,,,,
 12/18/2020,Oklahoma,OK,Yes,,,,,33150,,33150,,2253,,2253,,2253,
 12/25/2020,Oklahoma,OK,Yes,,,,,,,,,,,,,,
@@ -681,6 +682,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,Oklahoma,OK,Yes,,,,,174900,,,174900,50330,,50330,,50330,
 01/09/2021,Oklahoma,OK,Yes,,,,,174900,,,174900,50330,,50330,,50330,
 01/10/2021,Oklahoma,OK,Yes,,,,,174900,,,174900,99373,,99373,,99373,
+01/11/2021,Oklahoma,OK,Yes,264000,,,264000,,,,,99373,,99373,,90029,4672
 12/17/2020,Oregon,OR,No,228400,103600,124800,,,,,,254,,,254,254,0
 12/18/2020,Oregon,OR,Yes,,,,,,,,,688,,,688,688,0
 12/19/2020,Oregon,OR,Yes,,,,,,,,,2423,,,2423,2423,0
@@ -706,6 +708,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,Oregon,OR,Yes,,,,,,,,,74914,,,74914,71686,1600
 01/09/2021,Oregon,OR,Yes,,,,,,,,,88362,,,88362,81904,3177
 01/10/2021,Oregon,OR,Yes,,,,,,,,,97010,,,97010,88720,4081
+01/11/2021,Oregon,OR,Yes,,,,,,,,,97010,,,97010,88720,4081
 12/14/2020,Pennsylvania,PA,No,,,,,1950,,1950,,,,,,,
 12/15/2020,Pennsylvania,PA,No,,,,,10725,,10725,,,,,,,
 12/16/2020,Pennsylvania,PA,No,,,,,17550,,17550,,,,,,,
@@ -730,6 +733,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,Pennsylvania,PA,Yes,,,,,,,,,199618,,,199618,189436,5091
 01/09/2021,Pennsylvania,PA,Yes,,,,,,,,,223025,,,223025,196331,13347
 01/10/2021,Pennsylvania,PA,Yes,,,,,,,,,246404,,,246404,208830,18787
+01/11/2021,Pennsylvania,PA,Yes,,,,,,,,,285671,,,285671,243089,21291
 12/14/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
 12/14/2020,Rhode Island,RI,No,29000,19000,10000,,5000,,5000,,,,,,,
 12/18/2020,Rhode Island,RI,Yes,,,,,,,,,1226,,1226,,1226,
@@ -756,6 +760,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,Rhode Island,RI,Yes,,,,,,,,,31541,,,31541,27945,1798
 01/09/2021,Rhode Island,RI,Yes,,,,,,,,,31541,,,31541,27945,1798
 01/10/2021,Rhode Island,RI,Yes,,,,,,,,,31541,,,31541,27945,1798
+01/11/2021,Rhode Island,RI,Yes,,,,,,,,,35649,,,35649,29743,4642
 12/14/2020,South Carolina,SC,No,300000,,,300000,42900,,42900,,,,,,,
 12/29/2020,South Carolina,SC,No,,,,,,,,,,,,,,
 12/30/2020,South Carolina,SC,No,,,,,,,,,35158,,,35158,35158,
@@ -770,6 +775,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,South Carolina,SC,Yes,,,,,232900,86400,146500,,78562,8232,70330,,63166,7698
 01/09/2021,South Carolina,SC,Yes,,,,,232900,86400,146500,,91689,11303,80386,,66971,12359
 01/10/2021,South Carolina,SC,Yes,,,,,232900,86400,146500,,99358,17092,82266,,73016,13171
+01/11/2021,South Carolina,SC,Yes,,,,,233600,86400,147200,,105856,19114,86742,,75238,15309
 12/15/2020,South Dakota,SD,No,22400,14600,7800,,,,,,,,,,,
 12/17/2020,South Dakota,SD,Yes,,,,,,,,,1515,,1515,,1515,0
 12/19/2020,South Dakota,SD,Yes,,,,,,,,,6198,,6198,,6198,0
@@ -795,6 +801,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,South Dakota,SD,Yes,,,,,,,,,35611,18734,16877,,31677,1967
 01/09/2021,South Dakota,SD,Yes,,,,,,,,,40284,20699,19585,,32158,4063
 01/10/2021,South Dakota,SD,Yes,,,,,,,,,44073,21596,22477,,31077,4063
+01/11/2021,South Dakota,SD,Yes,,,,,,,,,45667,21620,24047,,38360,7306
 12/11/2020,Tennessee,TN,No,156550,100000,56550,,,,,,,,,,,
 12/16/2020,Tennessee,TN,Yes,,,,,,,,,223,,223,,223,
 12/17/2020,Tennessee,TN,Yes,,,,,,,,,1663,,1663,,1663,
@@ -822,6 +829,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/08/2021,Tennessee,TN,Yes,,,,,,,,,215427,,,215427,206128,4561
 01/09/2021,Tennessee,TN,Yes,,,,,,,,,215427,,,215427,206128,4561
 01/10/2021,Tennessee,TN,Yes,,,,,,,,,215427,,,215427,206128,4561
+01/11/2021,Tennessee,TN,Yes,,,,,,,,,215427,,,215427,206128,4561
 12/14/2020,Texas,TX,No,1400000,,,1400000,19500,,19500,,,,,,,
 12/18/2020,Texas,TX,Yes,,,,,91650,,91650,,4187,,4187,,4187,0
 12/19/2020,Texas,TX,Yes,,,,,91650,,91650,,4187,,4187,,4187,0
