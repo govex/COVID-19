@@ -28,6 +28,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Alabama,AL,Yes,226250,,,226250,,,,,42810,14541,28269,,,
 01/10/2021,Alabama,AL,Yes,226250,,,226250,,,,,42810,14541,28269,,,
 01/11/2021,Alabama,AL,Yes,271925,,,,,,,,87138,35255,51883,,, 
+01/12/2021,Alabama,AL,Yes,271925,,,,,,,,87138,35255,51883,,, 
 12/14/2020,Alaska,AK,No,61900,26800,35100,,,,,,,,,,,
 12/15/2020,Alaska,AK,Yes,61900,26800,35100,,,,,,,,,,,
 12/16/2020,Alaska,AK,Yes,61900,26800,35100,,,,,,,,,,,
@@ -57,6 +58,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Alaska,AK,Yes,114800,52400,62400,,50400,19200,31200,,25058,6300,20600,,25058,0
 01/10/2021,Alaska,AK,Yes,114800,52400,62400,,50400,19200,31200,,25058,6300,20600,,25058,0
 01/11/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,35005,8200,24600,2205,23053,5976
+01/12/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,35005,8200,24600,2205,23053,5976
 12/11/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
 12/14/2020,Arizona,AZ,No,383750,171200,212550,,,,,,,,,,,
 01/04/2021,Arizona,AZ,No,,,,,,,,,,,,,,
@@ -67,6 +69,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Arizona,AZ,Yes,,,,,,,,,139068,,,139068,,
 01/10/2021,Arizona,AZ,Yes,,,,,,,,,148292,,,148292,,
 01/11/2021,Arizona,AZ,Yes,602625,,,602625,,,,,151844,,,151844,135406,8045
+01/12/2021,Arizona,AZ,Yes,602625,,,602625,,,,,165531,,,165531,141035,12037
 12/15/2020,Arkansas,AR,No,25000,,25000,,,,,,,,,,,
 12/18/2020,Arkansas,AR,No,,,,,,,,,4000,,4000,,4000,
 01/06/2021,Arkansas,AR,No,,,,,,,,,,,,,,
@@ -75,6 +78,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Arkansas,AR,Yes,,,,,202400,,,190100,77594,,,77594,,
 01/10/2021,Arkansas,AR,Yes,,,,,203375,,,203375,81277,,,81277,,
 01/11/2021,Arkansas,AR,Yes,,,,,203375,,,203375,84570,,,84570,,
+01/12/2021,Arkansas,AR,Yes,,,,,227500,,,227500,93333,,,93333,,
 01/02/2021,California,CA,No,,,,,,,,,,,,,,
 01/03/2021,California,CA,Yes,1762900,,,1762900,,,,,436154,,,436154,,
 01/04/2021,California,CA,Yes,1762900,,,1762900,,,,,454306,,,454306,,
@@ -85,6 +89,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,California,CA,Yes,,,,,2060800,,,2060800,734405,,,734405,,
 01/10/2021,California,CA,Yes,,,,,2180725,,,2180725,734405,,,734405,,
 01/11/2021,California,CA,Yes,,,,,2919925,,,2919925,783476,,,783476,,
+01/12/2021,California,CA,Yes,,,,,2466125,,,2919925,816673,,,816673,,
 12/11/2020,Colorado,CO,No,142400,95600,46800,,,,,,,,,,,
 12/19/2020,Colorado,CO,Yes,,,,,,,,,12123,,12123,,12123,
 12/20/2020,Colorado,CO,Yes,,,,,,,,,22539,,22539,,22539,
@@ -110,6 +115,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Colorado,CO,Yes,,,,,,,,,200877,92374,96062,,145257,27785
 01/10/2021,Colorado,CO,Yes,,,,,,,,,217250,99904,117343,,149445,33878
 01/11/2021,Colorado,CO,Yes,,,,,,,,,223488,99904,117343,,151843,35798
+01/12/2021,Colorado,CO,Yes,,,,,,,,,238766,99904,117343,,157468,40618
 12/13/2020,Connecticut,CT,No,31200,,31200,,,,,,,,,,,
 12/17/2020,Connecticut,CT,No,,,,,,,,,1982,,1982,,1982,
 12/18/2020,Connecticut,CT,No,,,,,,,,,,,,,,
@@ -166,6 +172,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Delaware,DE,Yes,,,,,53650,28300,25350,,23851,,,23851,,
 01/10/2021,Delaware,DE,Yes,,,,,53650,28300,25350,,26567,,,26567,,
 01/11/2021,Delaware,DE,Yes,,,,,53650,28300,25350,,26567,,,26707,,
+01/12/2021,Delaware,DE,Yes,,,,,58950,33600,25350,,28316,,,28316,,
 12/11/2020,District of Columbia,DC,No,6825,,6825,,,,,,,,,,,
 01/04/2021,District of Columbia,DC,No,,,,,,,,,,,,,,
 01/05/2021,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,,
@@ -175,6 +182,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,,
 01/10/2021,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,,
 01/11/2021,District of Columbia,DC,No,,,,,45425,,,45425,26672,,,26672,,
+01/12/2021,District of Columbia,DC,No,,,,,45425,,,45425,26672,,,26672,,
 12/10/2020,Florida,FL,No,179400,,179400,,,,,,,,,,,
 12/15/2020,Florida,FL,Yes,,,,,,,,,28,,28,,28,0
 12/16/2020,Florida,FL,Yes,,,,,,,,,2632,,2632,,2632,0
@@ -257,7 +265,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Guam,GU,No,,,,,,,,,5448,,,5448,,
 01/10/2021,Guam,GU,No,,,,,,,,,5448,,,5448,,
 01/11/2021,Guam,GU,No,,,,,,,,,10014,1362,8652,,8028,993
-01/12/2021,Guam,GU,Yes,,,,,,,,,11314,,,,8714,1300
+01/12/2021,Guam,GU,Yes,,,,,,,,,11314,1400,9800,,8714,1300
 12/15/2020,Hawaii,HI,No,81825,36000,45825,,,,,,,,,,,
 12/16/2020,Hawaii,HI,No,,,,,3900,,3900,,,,,,,
 12/17/2020,Hawaii,HI,No,,,,,,,,,,,,,,
@@ -652,6 +660,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Nebraska,NE,Yes,,,,,141478,,,141478,73842,,,73842,55654,9094
 01/10/2021,Nebraska,NE,Yes,,,,,141428,,,141428,76882,,,76882,57202,9840
 01/11/2021,Nebraska,NE,Yes,,,,,144363,,,144363,78074,,,78074,57804,10135
+01/12/2021,Nebraska,NE,Yes,,,,,145203,,,145203,83317,,,83317,58897,12210
 12/14/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
 12/15/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
 12/14/2020,New Jersey,NJ,No,76050,,76050,,,,,,,,,,,
