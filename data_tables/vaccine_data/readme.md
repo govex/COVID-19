@@ -56,6 +56,7 @@
 
 ## Guam
 
+- [COVID-19 Dashboard](http://dphss.guam.gov/covid-19/)
 - [Guam Homeland Security Newsroom](https://ghs.guam.gov/news)
 
 ## Hawaii
@@ -69,10 +70,12 @@
 
 ## Iowa
 
+- [Vaccine Administration Report](https://idph.iowa.gov/Portals/1/userfiles/61/COVID19%20Vaccine%20Administration.pdf)
 - [Governor's Newsroom](https://governor.iowa.gov/newsroom)
 
 ## Illinois
 
+- [State vaccine dashboard](http://www.dph.illinois.gov/covid19/vaccinedata?county=Illinois)
 - [State COVID-19 Newsroom](https://coronavirus.illinois.gov/s/news)
 
 ## Indiana
@@ -145,6 +148,7 @@
 
 ## New Jersey
 
+- [COVID-19 Dashboard](https://covid19.nj.gov/#live-updates)
 - [State COVID-19 "Vax Matters" Newsletter](https://www.state.nj.us/health/cd/topics/covid2019_vaccination.shtml)
 
 ## New York
