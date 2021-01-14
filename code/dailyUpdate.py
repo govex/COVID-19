@@ -414,7 +414,7 @@ USCounties4['Thumbnail']="https://coronavirus.jhu.edu/static/media/dashboard_inf
 
 
 
-tdtime=datetime.strftime(datetime.now(), '%m/%d/%Y %H:%M:%S')
+tdtime=datetime.strftime(datetime.now()- timedelta(hours=3), '%m/%d/%Y %H:%M:%S') 
 # print (tdtime)
 USCounties4['DateChecked']=tdtime
 # USCounties4['DateChecked']
