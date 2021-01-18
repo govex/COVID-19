@@ -997,6 +997,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,Ohio,OH,Yes,,,,,,,,,388383,,,388383,388383,0
 01/16/2021,Ohio,OH,Yes,,,,,,,,,414062,,,414062,414062,0
 01/17/2021,Ohio,OH,Yes,,,,,,,,,435177,,,435177,435177,0
+01/18/2021,Ohio,OH,Yes,,,,,,,,,444524,,,444524,444524,0
 12/14/2020,Oklahoma,OK,No,33000,,33000,,17550,,17550,,,,,,,
 12/18/2020,Oklahoma,OK,Yes,,,,,33150,,33150,,2253,,2253,,2253,
 12/25/2020,Oklahoma,OK,Yes,,,,,,,,,,,,,,
@@ -1023,6 +1024,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,Oklahoma,OK,Yes,310300,,,310300,,,,,197820,,197820,,141002,28409
 01/16/2021,Oklahoma,OK,Yes,310300,,,310300,,,,,197820,,197820,,141002,28409
 01/17/2021,Oklahoma,OK,Yes,310300,,,310300,,,,,197820,,197820,,141002,28409
+01/18/2021,Oklahoma,OK,Yes,310300,,,310300,,,,,197820,,197820,,141002,28409
 12/17/2020,Oregon,OR,No,228400,103600,124800,,,,,,254,,,254,254,0
 12/18/2020,Oregon,OR,Yes,,,,,,,,,688,,,688,688,0
 12/19/2020,Oregon,OR,Yes,,,,,,,,,2423,,,2423,2423,0
@@ -1055,6 +1057,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,Oregon,OR,Yes,,,,,,,,,146137,,,146137,120090,13000
 01/16/2021,Oregon,OR,Yes,,,,,,,,,189189,,,189189,150784,17703
 01/17/2021,Oregon,OR,Yes,,,,,,,,,204973,,,204973,162998,19480
+01/18/2021,Oregon,OR,Yes,,,,,,,,,216924,,,216924,171235,21314
 12/14/2020,Pennsylvania,PA,No,,,,,1950,,1950,,,,,,,
 12/15/2020,Pennsylvania,PA,No,,,,,10725,,10725,,,,,,,
 12/16/2020,Pennsylvania,PA,No,,,,,17550,,17550,,,,,,,
@@ -1086,6 +1089,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,Pennsylvania,PA,Yes,,,,,,,,,407217,,,407217,290985,58116
 01/16/2021,Pennsylvania,PA,Yes,,,,,,,,,427713,,,427713,307915,59899
 01/17/2021,Pennsylvania,PA,Yes,,,,,,,,,447819,,,447819,323531,62144
+01/18/2021,Pennsylvania,PA,Yes,,,,,,,,,457347,,,457347,329767,63790
 12/14/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
 12/14/2020,Rhode Island,RI,No,29000,19000,10000,,5000,,5000,,,,,,,
 12/18/2020,Rhode Island,RI,Yes,,,,,,,,,1226,,1226,,1226,
@@ -1119,6 +1123,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,Rhode Island,RI,Yes,,,,,72175,,,,51220,,,51220,32734,9243
 01/16/2021,Rhode Island,RI,Yes,,,,,72175,,,,51220,,,51220,32734,9243
 01/17/2021,Rhode Island,RI,Yes,,,,,72175,,,,51220,,,51220,32734,9243
+01/18/2021,Rhode Island,RI,Yes,,,,,72175,,,,51220,,,51220,32734,9243
 12/14/2020,South Carolina,SC,No,300000,,,300000,42900,,42900,,,,,,,
 12/29/2020,South Carolina,SC,No,,,,,,,,,,,,,,
 12/30/2020,South Carolina,SC,No,,,,,,,,,35158,,,35158,35158,
@@ -1140,6 +1145,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,South Carolina,SC,Yes,,,,,313100,117900,195200,,146219,21421,124798,,93521,26349
 01/16/2021,South Carolina,SC,Yes,,,,,313100,117900,195200,,154995,24633,130362,,99467,27764
 01/17/2021,South Carolina,SC,Yes,,,,,313100,117900,195200,,158232,26009,132223,,102212,28010
+01/18/2021,South Carolina,SC,Yes,,,,,317975,117900,200075,,163800,26009,137791,,105398,29201
 12/15/2020,South Dakota,SD,No,22400,14600,7800,,,,,,,,,,,
 12/17/2020,South Dakota,SD,Yes,,,,,,,,,1515,,1515,,1515,0
 12/19/2020,South Dakota,SD,Yes,,,,,,,,,6198,,6198,,6198,0
@@ -1172,6 +1178,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,South Dakota,SD,Yes,,,,,,,,,53775,25778,27997,,34339,9718
 01/16/2021,South Dakota,SD,Yes,,,,,,,,,55531,26859,28672,,36061,9735
 01/17/2021,South Dakota,SD,Yes,,,,,,,,,56625,27591,29034,,36967,9829
+01/18/2021,South Dakota,SD,Yes,,,,,,,,,57121,27784,29337,,37463,9829
 12/11/2020,Tennessee,TN,No,156550,100000,56550,,,,,,,,,,,
 12/16/2020,Tennessee,TN,Yes,,,,,,,,,223,,223,,223,
 12/17/2020,Tennessee,TN,Yes,,,,,,,,,1663,,1663,,1663,
@@ -1206,6 +1213,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/15/2021,Tennessee,TN,Yes,,,,,523300,215200,308100,,349216,,,349216,263008,42851
 01/16/2021,Tennessee,TN,Yes,,,,,523300,215200,308100,,349216,,,349216,263008,42851
 01/17/2021,Tennessee,TN,Yes,,,,,523300,215200,308100,,349216,,,349216,263008,42851
+01/18/2021,Tennessee,TN,Yes,,,,,523300,215200,308100,,349216,,,349216,263008,42851
 12/14/2020,Texas,TX,No,1400000,,,1400000,19500,,19500,,,,,,,
 12/18/2020,Texas,TX,Yes,,,,,91650,,91650,,4187,,4187,,4187,0
 12/19/2020,Texas,TX,Yes,,,,,91650,,91650,,4187,,4187,,4187,0
