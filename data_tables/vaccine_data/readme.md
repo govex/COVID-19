@@ -240,6 +240,7 @@
 ## Washington
 
 - [State COVID-19 Newsroom](https://coronavirus.wa.gov/news)
+- [State vaccination report](https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/VaccineAdministrationByDateReport.xlsx)
 
 ## West Virginia
 
