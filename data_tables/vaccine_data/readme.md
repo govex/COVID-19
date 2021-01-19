@@ -100,11 +100,12 @@
 - [Governor's Newsroom](https://gov.louisiana.gov/index.cfm/newsroom/category/9)
 
 ## Maine
-
+- [State dashboard](https://www.maine.gov/covid19/vaccines)
 - [State COVID-19 Newsroom](https://www.maine.gov/covid19/)
 
 ## Maryland
 
+- [State dashboard](https://coronavirus.maryland.gov/#Vaccine)
 - [Governor's COVID-19 Newsroom](https://governor.maryland.gov/coronavirus/)
 
 ## Massachusetts
@@ -118,6 +119,7 @@
 
 ## Minnesota
 
+- [State dashboard](https://mn.gov/covid19/vaccine/data/index.jsp)
 - [Governor's Newsroom](https://mn.gov/governor/news/)
 
 ## Mississippi
