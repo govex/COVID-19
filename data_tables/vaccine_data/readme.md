@@ -171,7 +171,7 @@
 
 ## Ohio
 
-- [State dashboard](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/temp/vaccine-dashboard)
+- [State dashboard](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/covid-19-vaccination-dashboard)
 
 ## Oklahoma
 
