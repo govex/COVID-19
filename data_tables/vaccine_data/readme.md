@@ -151,6 +151,10 @@
 - [COVID-19 Dashboard](https://covid19.nj.gov/#live-updates)
 - [State COVID-19 "Vax Matters" Newsletter](https://www.state.nj.us/health/cd/topics/covid2019_vaccination.shtml)
 
+## New Mexico
+
+- [State dashboard](https://cvvaccine.nmhealth.org/public-dashboard.html)
+
 ## New York
 
 - [Governor's COVID-19 Newsroom](https://www.governor.ny.gov/keywords/coronavirus)
