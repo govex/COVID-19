@@ -151,6 +151,10 @@
 - [COVID-19 Dashboard](https://covid19.nj.gov/#live-updates)
 - [State COVID-19 "Vax Matters" Newsletter](https://www.state.nj.us/health/cd/topics/covid2019_vaccination.shtml)
 
+## New Mexico
+
+- [State dashboard](https://cvvaccine.nmhealth.org/public-dashboard.html)
+
 ## New York
 
 - [Governor's COVID-19 Newsroom](https://www.governor.ny.gov/keywords/coronavirus)
@@ -171,7 +175,7 @@
 
 ## Ohio
 
-- [State dashboard](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/temp/vaccine-dashboard)
+- [State dashboard](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/covid-19-vaccination-dashboard)
 
 ## Oklahoma
 
@@ -236,6 +240,7 @@
 ## Washington
 
 - [State COVID-19 Newsroom](https://coronavirus.wa.gov/news)
+- [State vaccination report](https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/VaccineAdministrationByDateReport.xlsx)
 
 ## West Virginia
 
