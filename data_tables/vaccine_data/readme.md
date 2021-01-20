@@ -273,7 +273,7 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 ## Washington
 
 - [State COVID-19 Newsroom](https://coronavirus.wa.gov/news)
-- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+- [State dashboard](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
 - [State vaccination report](https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/VaccineAdministrationByDateReport.xlsx)
 
 ## West Virginia
