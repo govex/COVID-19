@@ -10,6 +10,10 @@
 - [State dashboard](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/e4a232feb1344ce0afd9ac162f3ac4ba)
 - [Governor's Newsroom](https://governor.alabama.gov/newsroom/category/press-releases/)
 
+## American Samoa
+
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
 ## Arkansas
 
 - [State dashboard](https://www.healthy.arkansas.gov/programs-services/topics/covid-19-vaccination-plan)
@@ -33,6 +37,7 @@
 ## Connecticut
 
 - [Governor's Newsroom](https://portal.ct.gov/Coronavirus/Pages/Governors-Press-Releases)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Delaware
 
@@ -43,6 +48,15 @@
 
 - [DC's dashboard](https://coronavirus.dc.gov/data/vaccination)
 - [DC's COVID-19 Newsroom](https://coronavirus.dc.gov/newsroom)
+
+## Federal Entities
+
+Federal entities included: Bureau of Prisons, Department of Defense, Indian Health Services, and Veterans Health
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
+## Federated States of Micronesia
+
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Florida
 
@@ -100,8 +114,13 @@
 - [Governor's Newsroom](https://gov.louisiana.gov/index.cfm/newsroom/category/9)
 
 ## Maine
+
 - [State dashboard](https://www.maine.gov/covid19/vaccines)
 - [State COVID-19 Newsroom](https://www.maine.gov/covid19/)
+
+## Marshall Islands
+
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Maryland
 
@@ -130,10 +149,12 @@
 ## Missouri
 
 - [Governor's Newsroom](https://governor.mo.gov/press-releases)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Montana
 
 - [State's Department of Health and Human Services newsroom](https://dphhs.mt.gov/AboutUs/News)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Nebraska
 
@@ -143,10 +164,12 @@
 ## Nevada
 
 - [State COVID-19 Newsroom](https://nvhealthresponse.nv.gov/news-resources/press-releases/)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## New Hampshire
 
 - [State COVID-19 Newsroom](https://www.nh.gov/covid19/news/press-releases.htm)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## New Jersey
 
@@ -160,6 +183,7 @@
 ## New York
 
 - [Governor's COVID-19 Newsroom](https://www.governor.ny.gov/keywords/coronavirus)
+- [State dashboard](https://covid19vaccine.health.ny.gov/covid-19-vaccine-tracker)
 
 ## North Carolina
 
@@ -174,6 +198,7 @@
 ## Northern Mariana Islands
 
 - [Northern Mariana Islands' COVID-19 vaccination program](https://www.vaccinatecnmi.com/covid-19/)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Ohio
 
@@ -198,6 +223,11 @@
 ## Puerto Rico
 
 - [Governor's Newsroom](https://www.fortaleza.pr.gov/)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+
+## Republic of Palau
+
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Rhode Island
 
@@ -226,6 +256,7 @@
 ## U.S. Virgin Islands
 
 - [U.S.V.I. COVID-19 Newsroom](https://www.covid19usvi.com/news)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
 ## Utah
 
@@ -242,6 +273,7 @@
 ## Washington
 
 - [State COVID-19 Newsroom](https://coronavirus.wa.gov/news)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 - [State vaccination report](https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/VaccineAdministrationByDateReport.xlsx)
 
 ## West Virginia
@@ -261,7 +293,7 @@
 
 
 # Dates 
-Dates on our data are registered following these criteria:
-- If State dashboards provide a date, we register that one
-- If the State dashboard does not provide a date, we will register the date of the data collection
-- If data comes from press releases, we will register the date of the press release.
+Dates correspond to when the data was collected. Beginning January 19th, updates will occur before 12:00 PM EST.
+
+# Notes
+- Beginning January 20, 2021 states and territories where a dashboard or report is not available will be updated using vaccination data from the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations). Additionally, we will include data from Federal Entities and other US Territories. We will include data from state and territories's dashboards or reports as soon as they become available. We will no longer include data from press releases or other sources.
