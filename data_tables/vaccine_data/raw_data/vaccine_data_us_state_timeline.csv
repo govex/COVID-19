@@ -76,6 +76,46 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/19/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,67085,21600,40200,5285,43599,11743
 01/20/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,69047,22600,41100,5347,44691,12178
 12/11/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/12/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/13/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/14/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/15/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/16/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/17/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/18/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/19/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/20/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/21/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/22/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/23/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/24/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/25/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/26/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/27/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/28/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/29/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/30/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+12/31/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/01/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/02/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/03/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/04/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/05/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/06/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/07/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/08/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/09/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/10/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/11/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/12/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/13/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/14/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/15/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/16/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/17/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/18/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/19/2021,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
+01/20/2021,American Samoa,AS,No,29000,25100,3900,,18450,,,,4756,,,4756,3215,770
 12/14/2020,Arizona,AZ,No,383750,171200,212550,,,,,,,,,,,
 01/04/2021,Arizona,AZ,No,,,,,,,,,,,,,,
 01/05/2021,Arizona,AZ,Yes,,,,,,,,,101030,,,101030,,
@@ -111,6 +151,26 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/18/2021,Arkansas,AR,Yes,,,,,275000,,,275000,140559,,,140559,,
 01/19/2021,Arkansas,AR,Yes,,,,,275000,,,275000,140559,,,140559,,
 01/20/2021,Arkansas,AR,Yes,,,,,310275,,,310275,154235,,,154235,,
+01/01/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/02/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/03/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/04/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/05/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/06/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/07/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/08/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/09/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/10/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/11/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/12/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/13/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/14/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/15/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/16/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/17/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/18/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/19/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
+01/20/2021,Bureau of Prisons,BoP,No,,,,,16750,,,16750,17628,,,17628,13409,2091
 01/02/2021,California,CA,No,,,,,,,,,,,,,,
 01/03/2021,California,CA,Yes,1762900,,,1762900,,,,,436154,,,436154,,
 01/04/2021,California,CA,Yes,1762900,,,1762900,,,,,454306,,,454306,,
@@ -194,6 +254,12 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/12/2021,Connecticut,CT,No,,,,,,,,,141055,,,141055,125325,7865
 01/13/2021,Connecticut,CT,No,,,,,,,,,141055,,,141055,125325,7865
 01/14/2021,Connecticut,CT,No,,,,,,,,,171035,,,171035,154994,16041
+01/15/2021,Connecticut,CT,No,,,,,,,,,171035,,,171035,154994,16041
+01/16/2021,Connecticut,CT,No,,,,,,,,,171035,,,171035,154994,16041
+01/17/2021,Connecticut,CT,No,,,,,,,,,171035,,,171035,154994,16041
+01/18/2021,Connecticut,CT,No,,,,,,,,,171035,,,171035,154994,16041
+01/19/2021,Connecticut,CT,No,,,,,,,,,171035,,,171035,154994,16041
+01/20/2021,Connecticut,CT,No,,,,,328775,,,328775,229524,,,229524,178514,23150
 12/15/2020,Delaware,DE,No,56275,,,,975,,,,92,,92,,92,
 12/16/2020,Delaware,DE,No,,,,,8775,,,,105,,105,,105,
 12/17/2020,Delaware,DE,No,,,,,8775,,,,455,,455,,455,
@@ -231,6 +297,26 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/18/2021,Delaware,DE,Yes,,,,,77600,50300,27300,,43063,,,43063,,
 01/19/2021,Delaware,DE,Yes,,,,,77600,50300,27300,,43063,,,43063,,
 01/20/2021,Delaware,DE,Yes,,,,,77600,50300,27300,,46141,,,46141,,
+01/01/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/02/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/03/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/04/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/05/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/06/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/07/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/08/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/09/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/10/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/11/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/12/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/13/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/14/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/15/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/16/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/17/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/18/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/19/2021,Department of Defense,DoD,No,,,,,,,,,,,,,,
+01/20/2021,Department of Defense,DoD,No,,,,,507975,,,507975,254778,,,254778,206181,21753
 12/11/2020,District of Columbia,DC,No,6825,,6825,,,,,,,,,,,
 01/04/2021,District of Columbia,DC,No,,,,,,,,,,,,,,
 01/05/2021,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,,
@@ -249,6 +335,26 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/18/2021,District of Columbia,DC,Yes,,,,,62200,,,62200,41053,,,41053,,
 01/19/2021,District of Columbia,DC,Yes,,,,,62200,,,62200,41053,,,41053,,
 01/20/2021,District of Columbia,DC,Yes,,,,,62200,,,62200,41053,,,41053,,
+01/01/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/02/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/03/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/04/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/05/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/06/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/07/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/08/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/09/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/10/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/11/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/12/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/13/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/14/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/15/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/16/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/17/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/18/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/19/2021,Federated States of Micronesia,FM,No,,,,,,,,,,,,,,
+01/20/2021,Federated States of Micronesia,FM,No,,,,,9800,,,9800,1436,,,1436,1432,2
 12/10/2020,Florida,FL,No,179400,,179400,,,,,,,,,,,
 12/15/2020,Florida,FL,Yes,,,,,,,,,28,,28,,28,0
 12/16/2020,Florida,FL,Yes,,,,,,,,,2632,,2632,,2632,0
@@ -458,15 +564,35 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/09/2021,Illinois,IL,No,100000,,,100000,43000,,43000,,,,,,,
 01/10/2021,Illinois,IL,No,100000,,,100000,43000,,43000,,,,,,,
 01/11/2021,Illinois,IL,No,100000,,,100000,43000,,43000,,,,,,,
-01/12/2021,Illinois,IL,No,,,,,869625,,,869625,353791,,,353791,281333,72458
-01/13/2021,Illinois,IL,No,,,,,972050,,,972050,384658,,,384658,301593,83065
-01/14/2021,Illinois,IL,No,,,,,972750,,,972750,414296,,,414296,322349,91947
-01/15/2021,Illinois,IL,No,,,,,995000,,,995000,447348,,,447348,345678,101670
-01/16/2021,Illinois,IL,No,,,,,1049675,,,1049675,471157,,,471157,367446,103711
-01/17/2021,Illinois,IL,No,,,,,1049675,,,1049675,487040,,,487040,382112,104928
-01/18/2021,Illinois,IL,No,,,,,1085750,,,1085750,495563,,,495563,390043,105520
-01/19/2021,Illinois,IL,No,,,,,1085750,,,1085750,495563,,,495563,390043,105520
+01/12/2021,Illinois,IL,No,,,,,869625,,,869625,353791,,,353791,208875,72458
+01/13/2021,Illinois,IL,No,,,,,972050,,,972050,384658,,,384658,218528,83065
+01/14/2021,Illinois,IL,No,,,,,972750,,,972750,414296,,,414296,230402,91947
+01/15/2021,Illinois,IL,No,,,,,995000,,,995000,447348,,,447348,244008,101670
+01/16/2021,Illinois,IL,No,,,,,1049675,,,1049675,471157,,,471157,263735,103711
+01/17/2021,Illinois,IL,No,,,,,1049675,,,1049675,487040,,,487040,277184,104928
+01/18/2021,Illinois,IL,No,,,,,1085750,,,1085750,495563,,,495563,284523,105520
+01/19/2021,Illinois,IL,No,,,,,1085750,,,1085750,495563,,,495563,284523,105520
 01/20/2021,Illinois,IL,No,,,,,1085950,,,1085950,508732,,,508732,291774,108479
+01/01/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/02/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/03/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/04/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/05/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/06/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/07/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/08/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/09/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/10/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/11/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/12/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/13/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/14/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/15/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/16/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/17/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/18/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/19/2021,Indian Health Services,IDH,No,,,,,,,,,,,,,,
+01/20/2021,Indian Health Services,IDH,No,,,,,292700,,,292700,104140,,,104140,76981,13348
 12/16/2020,Indiana,IN,No,,,,,,,,,,,,,,
 12/28/2020,Indiana,IN,No,,,,,,,,,,,,,,
 12/29/2020,Indiana,IN,Yes,,,,,,,,,75842,,,75842,75842,0
@@ -646,6 +772,26 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/18/2021,Maine,ME,Yes,,,,,,,,,79149,,,79149,55429,11860
 01/19/2021,Maine,ME,Yes,,,,,,,,,79149,,,79149,55429,11860
 01/20/2021,Maine,ME,Yes,,,,,,,,,81355,,,81355,56473,12441
+01/01/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/02/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/03/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/04/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/05/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/06/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/07/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/08/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/09/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/10/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/11/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/12/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/13/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/14/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/15/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/16/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/17/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/18/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/19/2021,Marshall Islands,MH,No,,,,,,,,,,,,,,
+01/20/2021,Marshall Islands,MH,No,,,,,13600,,,13600,1282,,,1282,1248,2
 12/11/2020,Maryland,MD,No,155000,,,155000,,,,,,,,,,
 12/22/2020,Maryland,MD,Yes,,,,,,,,,7537,,,7537,7537,0
 12/23/2020,Maryland,MD,Yes,,,,,,,,,10497,,,10497,10497,0
@@ -836,6 +982,12 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/12/2021,Missouri,MO,No,,,,,,,,,66000,,66000,,66000,
 01/13/2021,Missouri,MO,No,,,,,,,,,66000,,66000,,66000,
 01/14/2021,Missouri,MO,No,,,,,,,,,182000,,,182000,160000,22000
+01/15/2021,Missouri,MO,No,,,,,,,,,182000,,,182000,160000,22000
+01/16/2021,Missouri,MO,No,,,,,,,,,182000,,,182000,160000,22000
+01/17/2021,Missouri,MO,No,,,,,,,,,182000,,,182000,160000,22000
+01/18/2021,Missouri,MO,No,,,,,,,,,182000,,,182000,160000,22000
+01/19/2021,Missouri,MO,No,,,,,,,,,182000,,,182000,160000,22000
+01/20/2021,Missouri,MO,No,,,,,528800,,,528800,236254,,,236254,144425,45368
 12/18/2020,Montana,MT,No,,,,,,,,,3000,,3000,,3000,
 12/30/2020,Montana,MT,No,,,,,,,,,16990,,,16990,16990,
 12/31/2020,Montana,MT,No,,,,,,,,,16990,,,16990,16990,
@@ -858,6 +1010,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/17/2021,Montana,MT,No,,,,,52000,,,52000,42000,,,42000,,
 01/18/2021,Montana,MT,No,,,,,52000,,,52000,42000,,,42000,,
 01/19/2021,Montana,MT,No,,,,,70000,,,70000,55000,,,55000,,
+01/20/2021,Montana,MT,No,,,,,98500,,,98500,55893,,,55893,38538,8671
 12/14/2020,Nebraska,NE,No,15600,,15600,,4875,,4875,,,,,,,
 12/16/2020,Nebraska,NE,No,,,,,,,,,1746,,1746,,1746,
 12/17/2020,Nebraska,NE,No,,,,,,,,,,,,,,
@@ -896,7 +1049,80 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/19/2021,Nebraska,NE,Yes,,,,,191539,,,191539,106940,,,106940,75802,15569
 01/20/2021,Nebraska,NE,Yes,,,,,192078,,,192078,109526,,,109526,77172,16177
 12/14/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/15/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/16/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/17/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/18/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/19/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/20/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/21/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/22/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/23/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/24/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/25/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/26/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/27/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/28/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/29/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/30/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+12/31/2020,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/01/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/02/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/03/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/04/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/05/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/06/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/07/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/08/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/09/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/10/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/11/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/12/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/13/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/14/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/15/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/16/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/17/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/18/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/19/2021,Nevada,NV,No,91650,,91650,,25350,,25350,,,,,,,
+01/20/2021,Nevada,NV,No,,,,,211750,,,211750,102840,,,102840,68726,16665
 12/15/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/16/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/17/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/18/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/19/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/20/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/21/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/22/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/23/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/24/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/25/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/26/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/27/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/28/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/29/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/30/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+12/31/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/01/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/02/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/03/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/04/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/05/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/06/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/07/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/08/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/09/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/10/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/11/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/12/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/13/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/14/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/15/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/16/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/17/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/18/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/19/2021,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
+01/20/2021,New Hampshire,NH,No,,,,,127225,,,127225,71556,,,71556,57282,7120
 12/14/2020,New Jersey,NJ,No,76050,,76050,,,,,,,,,,,
 12/18/2020,New Jersey,NJ,No,,,,,,,,,2149,,2149,,2149,
 12/19/2020,New Jersey,NJ,No,,,,,,,,,,,,,,
@@ -1093,6 +1319,12 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/12/2021,Northern Mariana Islands,MP,No,,,,,,,,,,,,,,
 01/13/2021,Northern Mariana Islands,MP,No,,,,,,,,,,,,,,
 01/14/2021,Northern Mariana Islands,MP,No,,,,,,,,,3100,,,,3100,
+01/15/2021,Northern Mariana Islands,MP,No,,,,,,,,,3100,,,,3100,
+01/16/2021,Northern Mariana Islands,MP,No,,,,,,,,,3100,,,,3100,
+01/17/2021,Northern Mariana Islands,MP,No,,,,,,,,,3100,,,,3100,
+01/18/2021,Northern Mariana Islands,MP,No,,,,,,,,,3100,,,,3100,
+01/19/2021,Northern Mariana Islands,MP,No,,,,,,,,,3100,,,,3100,
+01/20/2021,Northern Mariana Islands,MP,No,,,,,18650,,,18650,6372,,,6372,2537,1916
 12/14/2020,Ohio,OH,Yes,561900,290900,271000,,,,,,50,,50,,50,0
 12/15/2020,Ohio,OH,Yes,,,,,98475,,98475,,787,,787,,787,0
 12/16/2020,Ohio,OH,Yes,,,,,,,,,2501,,2501,,2501,0
@@ -1230,6 +1462,63 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/19/2021,Pennsylvania,PA,Yes,,,,,,,,,457347,,,457347,329767,63790
 01/20/2021,Pennsylvania,PA,Yes,,,,,,,,,477929,,,477929,340947,68491
 12/14/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/15/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/16/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/17/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/18/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/19/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/20/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/21/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/22/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/23/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/24/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/25/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/26/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/27/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/28/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/29/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/30/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+12/31/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/01/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/02/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/03/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/04/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/05/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/06/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/07/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/08/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/09/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/10/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/11/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/12/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/13/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/14/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/15/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/16/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/17/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/18/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/19/2021,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
+01/20/2021,Puerto Rico,PR,No,,,,,311325,,,311325,129530,,,129530,86293,21368
+01/01/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/02/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/03/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/04/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/05/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/06/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/07/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/08/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/09/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/10/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/11/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/12/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/13/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/14/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/15/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/16/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/17/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/18/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/19/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
+01/20/2021,Republic of Palau,RP,No,,,,,6000,,,6000,1914,,,1914,1912,1
 12/14/2020,Rhode Island,RI,No,29000,19000,10000,,5000,,5000,,,,,,,
 12/18/2020,Rhode Island,RI,Yes,,,,,,,,,1226,,1226,,1226,
 12/19/2020,Rhode Island,RI,Yes,,,,,,,,,1226,,1226,,1226,
@@ -1431,11 +1720,47 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/18/2021,Utah,UT,Yes,,,,,157925,,,157925,168908,82914,85994,,153979,14929
 01/19/2021,Utah,UT,Yes,,,,,157925,,,157925,168908,82914,85994,,153979,14929
 01/20/2021,Utah,UT,Yes,,,,,,,,,172603,85271,87332,,141161,15721
+01/01/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/02/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/03/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/04/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/05/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/06/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/07/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/08/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/09/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/10/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/11/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/12/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/13/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/14/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/15/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/16/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/17/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/18/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/19/2021,Veterans Health Administration,VHA,No,,,,,,,,,,,,,,
+01/20/2021,Veterans Health Administration,VHA,No,,,,,994425,,,994425,416209,,,416209,328913,43469
 12/14/2020,Virgin Islands,VI,No,975,,975,,975,,975,,,,,,,
 12/23/2020,Virgin Islands,VI,No,,,,,,,,,260,,260,,260,
 12/25/2020,Virgin Islands,VI,No,,,,,,,,,,,,,,
 12/26/2020,Virgin Islands,VI,No,,,,,,,,,260,,260,,260,
 01/04/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/05/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/06/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/07/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/08/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/09/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/10/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/11/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/12/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/13/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/14/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/15/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/16/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/17/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/18/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/19/2021,Virgin Islands,VI,No,,,,,4825,,,4825,1200,,,1200,1200,
+01/20/2021,Virgin Islands,VI,No,,,,,11825,,,11825,2135,,,2135,1805,165
 12/14/2020,Virginia,VA,No,480000,,,480000,72150,,72150,,,,,,,
 12/22/2020,Virginia,VA,Yes,,,,,121125,,,121125,19506,,,19506,19506,0
 12/23/2020,Virginia,VA,Yes,,,,,227425,,,227425,19943,,,19943,19943,0
@@ -1535,6 +1860,13 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/11/2021,Washington,WA,No,522550,,,522550,425900,,,425900,211073,,,211073,,
 01/12/2021,Washington,WA,No,522550,,,522550,425900,,,425900,224779,,,224779,,
 01/13/2021,Washington,WA,No,522550,,,522550,425900,,,425900,235744,,,235744,,
+01/14/2021,Washington,WA,No,522550,,,522550,425900,,,425900,235744,,,235744,,
+01/15/2021,Washington,WA,No,522550,,,522550,425900,,,425900,235744,,,235744,,
+01/16/2021,Washington,WA,No,522550,,,522550,425900,,,425900,235744,,,235744,,
+01/17/2021,Washington,WA,No,522550,,,522550,425900,,,425900,235744,,,235744,,
+01/18/2021,Washington,WA,No,522550,,,522550,425900,,,425900,235744,,,235744,,
+01/19/2021,Washington,WA,No,522550,,,522550,425900,,,425900,235744,,,235744,,
+01/20/2021,Washington,WA,Yes,,,,,696075,,,696075,294386,,,294386,247909,43541
 12/11/2020,West Virginia,WV,No,92600,32600,60000,,10000,,10000,,,,,,,
 12/18/2020,West Virginia,WV,No,,,,,,,,,1830,,1830,,1830,
 12/19/2020,West Virginia,WV,No,,,,,15885,,15885,,5450,,5450,,5450,
@@ -1596,12 +1928,12 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/11/2021,Wisconsin,WI,Yes,420200,,,420200,266675,,,266675,151518,55051,96467,,,
 01/12/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,163371,58564,104806,,,
 01/13/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,176165,61902,114261,,,
-01/14/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,195152,67976,127174,,168444,26708
-01/15/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,213056,72997,140058,,182251,30805
-01/16/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,213056,72997,140058,,182251,30805
-01/17/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,213056,72997,140058,,182251,30805
-01/18/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,239102,82589,156511,,203178,35924
-01/19/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,239102,82589,156511,,203178,35924
+01/14/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,195152,67976,127174,,141736,26708
+01/15/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,213056,72997,140058,,151446,30805
+01/16/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,213056,72997,140058,,151446,30805
+01/17/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,213056,72997,140058,,151446,30805
+01/18/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,239102,82589,156511,,167254,35924
+01/19/2021,Wisconsin,WI,Yes,607650,,,607650,373100,,,373100,239102,82589,156511,,167254,35924
 01/20/2021,Wisconsin,WI,Yes,779800,,,779800,473300,,,473300,248185,,,248185,167925,40130
 12/14/2020,Wyoming,WY,No,27075,14400,12675,,4875,,4875,,,,,,,
 12/22/2020,Wyoming,WY,Yes,,,,,4975,100,4875,,1868,,,1868,1868,
