@@ -296,4 +296,4 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 Dates correspond to when the data was collected. Beginning January 19th, updates will occur before 12:00 PM EST.
 
 # Notes
-- Beginning January 20, 2021 states and territories where a dashboard or report is not available will be updated using vaccination data from the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations). Additionally, we will include data from Federal Entities and other US Territories. We willinclude data from state and territories's dashboards or reports as soon as they become available. We will no longer include data from press releases or other sources.
+- Beginning January 20, 2021 states and territories where a dashboard or report is not available will be updated using vaccination data from the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations). Additionally, we will include data from Federal Entities and other US Territories. We will include data from state and territories's dashboards or reports as soon as they become available. We will no longer include data from press releases or other sources.
