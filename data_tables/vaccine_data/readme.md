@@ -197,6 +197,7 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 
 ## Northern Mariana Islands
 
+- [Northern Mariana Islands' COVID-19 dashboard](https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5)
 - [Northern Mariana Islands' COVID-19 vaccination program](https://www.vaccinatecnmi.com/covid-19/)
 - [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
@@ -273,7 +274,7 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 ## Washington
 
 - [State COVID-19 Newsroom](https://coronavirus.wa.gov/news)
-- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
+- [State dashboard](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
 - [State vaccination report](https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/VaccineAdministrationByDateReport.xlsx)
 
 ## West Virginia
