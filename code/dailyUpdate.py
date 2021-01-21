@@ -398,6 +398,8 @@ hhs_df['ICU_Occ'] = (hhs_df['Avg Non-Covid ICU Beds Used'] + hhs_df['Avg Covid I
 hhs_df['ICU_Occ'] = hhs_df['ICU_Occ'].fillna(-999999)
 hhs_df['Inpat_Occ'] = hhs_df['Inpat_Occ'].fillna(-999999)
 
+hhs_df.rename(columns={'Total Weekly Inpatient Capacity':'Inpat_Cap', 'Avg Covid Inpatient Beds Used':'Inpat_COV', 'Avg Non-Covid Inpatient Beds Used':'Inp_nonCOV', 'Total Weekly ICU Capacity':'ICU_Cap', 'Avg Covid ICU Beds Used':'ICU_COV', 'Avg Non-Covid ICU Beds Used':'ICU_nonCOV'}, inplace=True)
+
 USCounties4 = USCounties4.merge(hhs_df, how='left', left_on='FIPS', right_on='fips_code')
 
 
@@ -440,7 +442,8 @@ USCounties4=USCounties4[['Countyname', 'ST_Name','ST_Abbr', 'ST_ID','geometry',
        'Some other race alone', 'Two or more races',
        'Not Hispanic or Latino origin', 'Hispanic or Latino Origin',
        'Age_under15', 'Age_15_24', 'Age_25_34', 'Age_35_64', 'Age_65_74',
-       'Age_over75', 'Agetotal', 'NewCasebyPop', 'Inpat_Occ', 'ICU_Occ']]
+       'Age_over75', 'Agetotal', 'NewCasebyPop', 
+       'Inpat_Occ', 'ICU_Occ','Inpat_Cap', 'Inpat_COV','Inp_nonCOV', 'ICU_Cap','ICU_COV','ICU_nonCOV']]
 
 
 
