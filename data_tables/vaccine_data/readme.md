@@ -26,7 +26,8 @@
 
 ## California
 
-- [Web page](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/VaccineDoses.aspx)
+- [State dashboard](https://covid19.ca.gov/vaccines/#California-vaccines-dashboard)
+- [State COVID-19 Vaccine site](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/VaccineDoses.aspx)
 - [State COVID-19 Newsroom](https://covid19.ca.gov/latest-news/)
 
 ## Colorado
