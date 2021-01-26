@@ -4,7 +4,7 @@ Alaska,http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx,No,Yes,Yes,
 Arizona,https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home,No,Yes,Yes,No
 Arkansas,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,No,Yes,Yes,No
 California,https://public.tableau.com/views/COVID-19PublicDashboard/Covid-19Public?:embed=y&:display_count=no&:showVizHome=no,No,Yes,Yes,No
-Colorado,https://covid19.colorado.gov/case-data,No,Yes,Yes,No
+Colorado,https://covid19.colorado.gov/case-data,No,Yes,Yes,Yes
 Connecticut (pdf download),https://portal.ct.gov/Coronavirus,No,Yes,Yes,No
 Delaware,https://myhealthycommunity.dhss.delaware.gov/locations/state,Yes,Yes,Yes,Yes
 District of Columbia,https://coronavirus.dc.gov/page/coronavirus-data,Yes,Yes,Yes,No
@@ -42,11 +42,11 @@ Rhode Island,https://health.ri.gov/data/covid-19/,Yes,Yes,Yes,Yes
 South Carolina,https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/testing-sc-data-covid-19,No,Yes,Yes,No
 South Dakota,https://doh.sd.gov/news/coronavirus.aspx#SD,No,Yes,Yes,No
 Tennessee,https://www.tn.gov/health/cedep/ncov.html,No,Yes,Yes,Yes
-Texas,https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83,No,Yes,Yes,No
+Texas,https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83,No,Yes,Yes,Yes
 Utah,https://coronavirus-dashboard.utah.gov/,Yes,Yes,Yes,No
 Vermont,https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont,No,Yes,Yes,Yes
 Virginia,http://www.vdh.virginia.gov/coronavirus/,No,Yes,Yes,Yes
 Washington,https://www.doh.wa.gov/Emergencies/Coronavirus,No,Yes,Yes,No
-West Virginia,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,No,Yes,Yes,No
+West Virginia,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,No,Yes,Yes,Yes
 Wisconsin,https://www.dhs.wisconsin.gov/covid-19/data.htm,No,Yes,Yes,No
 Wyoming,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/covid-19-map-and-statistics/,No,Yes,Yes,No
