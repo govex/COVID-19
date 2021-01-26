@@ -1,8 +1,8 @@
 State,Main Dashboard,Race - Test,Race - Case,Race- Death,Race- Vaccine 
 Alabama,https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7,No,Yes,Yes,No
-Alaska,http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx,No,Yes,Yes,No
+Alaska,http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx,No,Yes,Yes,Yes
 Arizona,https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home,No,Yes,Yes,No
-Arkansas,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,No,Yes,Yes,Yes
+Arkansas,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,No,Yes,Yes,No
 California,https://public.tableau.com/views/COVID-19PublicDashboard/Covid-19Public?:embed=y&:display_count=no&:showVizHome=no,No,Yes,Yes,No
 Colorado,https://covid19.colorado.gov/case-data,No,Yes,Yes,No
 Connecticut (pdf download),https://portal.ct.gov/Coronavirus,No,Yes,Yes,No
@@ -45,7 +45,7 @@ Tennessee,https://www.tn.gov/health/cedep/ncov.html,No,Yes,Yes,Yes
 Texas,https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83,No,Yes,Yes,No
 Utah,https://coronavirus-dashboard.utah.gov/,Yes,Yes,Yes,No
 Vermont,https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont,No,Yes,Yes,Yes
-Virginia,http://www.vdh.virginia.gov/coronavirus/,No,Yes,Yes,No
+Virginia,http://www.vdh.virginia.gov/coronavirus/,No,Yes,Yes,Yes
 Washington,https://www.doh.wa.gov/Emergencies/Coronavirus,No,Yes,Yes,No
 West Virginia,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,No,Yes,Yes,No
 Wisconsin,https://www.dhs.wisconsin.gov/covid-19/data.htm,No,Yes,Yes,No
