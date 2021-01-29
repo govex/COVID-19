@@ -2,8 +2,8 @@
 | ----------- | ----------- |
 | Country_Region | Country or region name |
 | Date | Data collection date | 
-| Doses_admin | Cumulative number of doses administered. When a vaccine requires multiple doses, each one is counted independently | 
-| People_partially_vaccinated | Cumulative number of people who received at least one vaccine dose. When the person receives a prescribed second dose, it is not counted twice | 
+| Doses_admin | "Cumulative number of doses administered. When a vaccine requires multiple doses, each one is counted independently" | 
+| People_partially_vaccinated | "Cumulative number of people who received at least one vaccine dose. When the person receives a prescribed second dose, it is not counted twice" | 
 | People_fully_vaccinated | Cumulative number of people who received all prescribed doses necessary to be considered fully vaccinated | 
 | Report_Date_String | Data reported date | 
 | UID | (Country code)[https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv] |
