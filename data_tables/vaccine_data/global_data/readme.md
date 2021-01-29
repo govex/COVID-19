@@ -11,3 +11,6 @@
 ## Data sources
 
 [OWID](https://ourworldindata.org/covid-vaccinations)
+
+### US
+[CDC](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
