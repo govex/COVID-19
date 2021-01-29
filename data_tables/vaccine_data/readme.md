@@ -117,7 +117,7 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 
 ## Maine
 
-- [State dashboard](https://www.maine.gov/covid19/vaccines)
+- [State dashboard](https://www.maine.gov/covid19/vaccines/dashboard)
 - [State COVID-19 Newsroom](https://www.maine.gov/covid19/)
 
 ## Marshall Islands
