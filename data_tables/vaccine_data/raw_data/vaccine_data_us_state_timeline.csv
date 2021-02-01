@@ -48,6 +48,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/29/2021,Alabama,AL,Yes,,,,,764125,,,764125,339756,162741,139528,37487,,
 01/30/2021,Alabama,AL,Yes,,,,,772275,,,772275,361376,175326,148549,37501,,
 01/31/2021,Alabama,AL,Yes,,,,,772275,,,772275,361376,175326,148549,37501,,
+02/01/2021,Alabama,AL,Yes,,,,,772275,,,772275,361376,175326,148549,37501,,
 12/14/2020,Alaska,AK,No,61900,26800,35100,,,,,,,,,,,
 12/15/2020,Alaska,AK,Yes,61900,26800,35100,,,,,,,,,,,
 12/16/2020,Alaska,AK,Yes,61900,26800,35100,,,,,,,,,,,
@@ -97,6 +98,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/29/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,110400,41400,65900,3100,65015,22692
 01/30/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,115273,43600,68600,3073,66282,24495
 01/31/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,115273,43600,68600,3073,66282,24495
+02/01/2021,Alaska,AK,Yes,114800,52400,62400,,,,,,115273,43600,68600,3073,66282,24495
 12/11/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
 12/12/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
 12/13/2020,American Samoa,AS,No,29000,25100,3900,,,,,,,,,,,
@@ -206,6 +208,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/29/2021,Arkansas,AR,Yes,,,,,470200,,,470200,267682,,,267682,,
 01/30/2021,Arkansas,AR,Yes,,,,,470400,,,470400,284928,,,284928,,
 01/31/2021,Arkansas,AR,Yes,,,,,470600,,,470600,299938,,,299938,,
+02/01/2021,Arkansas,AR,Yes,,,,,470600,,,470600,307558,,,307558,,
 01/01/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
 01/02/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
 01/03/2021,Bureau of Prisons,BoP,No,,,,,,,,,,,,,,
@@ -1396,6 +1399,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/29/2021,Montana,MT,Yes,,,,,,,,,92567,,,92567,,21629
 01/30/2021,Montana,MT,Yes,,,,,,,,,99248,,,99248,,24519
 01/31/2021,Montana,MT,Yes,,,,,,,,,104501,,,104501,,25649
+02/01/2021,Montana,MT,Yes,,,,,,,,,106121,,,106121,,26388
 12/14/2020,Nebraska,NE,No,15600,,15600,,4875,,4875,,,,,,,
 12/16/2020,Nebraska,NE,No,,,,,,,,,1746,,1746,,1746,
 12/17/2020,Nebraska,NE,No,,,,,,,,,,,,,,
