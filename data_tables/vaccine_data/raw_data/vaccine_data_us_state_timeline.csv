@@ -2545,6 +2545,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/30/2021,Virginia,VA,Yes,,,,,,,,,697914,,,697914,500944,98485
 01/31/2021,Virginia,VA,Yes,,,,,,,,,758477,,,758477,539547,109465
 02/01/2021,Virginia,VA,Yes,,,,,,,,,843230,,,843230,594416,124407
+02/02/2021,Virginia,VA,Yes,,,,,,,,,873468,,,873468,611998,130735
 12/14/2020,Vermont,VT,No,5850,,5850,,1950,,1950,,,,,,,
 12/15/2020,Vermont,VT,Yes,,,,,,,,,20,,,20,20,0
 12/16/2020,Vermont,VT,Yes,,,,,,,,,399,,,399,399,0
@@ -2783,3 +2784,4 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 01/30/2021,Wyoming,WY,Yes,,,,,85850,44900,40950,,46775,,,46775,30647,8064
 01/31/2021,Wyoming,WY,Yes,,,,,85850,44900,40950,,46775,,,46775,30647,8064
 02/01/2021,Wyoming,WY,Yes,,,,,85850,44900,40950,,56831,,,56831,38523,9154
+02/02/2021,Wyoming,WY,Yes,,,,,85850,44900,40950,,56831,,,56831,38563,9721
