@@ -167,6 +167,7 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 
 ## Nevada
 
+- [State Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9)
 - [State COVID-19 Newsroom](https://nvhealthresponse.nv.gov/news-resources/press-releases/)
 - [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
