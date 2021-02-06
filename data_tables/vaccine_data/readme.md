@@ -108,6 +108,7 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 ## Kentucky
 
 - [State dashboard](https://govstatus.egov.com/ky-covid-vaccine)
+- [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 - [Governor's Newsroom](https://governor.ky.gov/news)
 
 ## Louisiana
