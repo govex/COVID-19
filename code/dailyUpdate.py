@@ -465,7 +465,7 @@ USCounties4.rename(columns={'FatalityRate':'FatalityRa','ConfirmedbyPop':'Confir
                            },inplace=True)
 
 
-
+#%%
 USCounties4.to_file(covid19Export / 'USCounties_JHUmap.shp')
 
 
@@ -583,6 +583,7 @@ df_merged1[df_merged1['dt']==date(2020,1,24)].head()
 # df_merged1['FIPS']=df_merged1['FIPS'].fillna(0).astype(int)
 # df_merged1['FIPS']=df_merged1['FIPS'].apply(str).str.pad(width=5, side='left', fillchar='0')
 
+df_merged1.fillna(0,inplace=True)
 
 df_merged1.to_csv(covid19Export / 'df_Counties2020.csv')
 
