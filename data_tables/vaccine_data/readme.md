@@ -97,7 +97,7 @@ Federal entities included: Bureau of Prisons, Department of Defense, Indian Heal
 
 ## Indiana
 
-- [State dashboard](https://www.coronavirus.in.gov/2680.htm)
+- [State dashboard](https://www.coronavirus.in.gov/vaccine/2680.htm)
 - [Governor's Newsroom](https://www.in.gov/gov/newsroom.htm)
 
 ## Kansas
