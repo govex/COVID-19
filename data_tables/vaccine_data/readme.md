@@ -21,6 +21,7 @@
 
 ## Arizona
 
+- [State dashboard](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php)
 - [State vaccine report](https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/novel-coronavirus/vaccine-phases.pdf)
 - [Governor's Newsroom](https://azgovernor.gov/news-releases)
 
