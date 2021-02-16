@@ -12,6 +12,7 @@
 Our data sources are a combination of the State's public dashboards listed below and the [CDC Vaccine Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations). The logic to combine the data is as follows:
 1. If a State is making available a metric, we will compare that metric’s value with the metric value provided by the CDC and report the largest value to reflect the latest reporting of that metric. Note, all metrics are cumulative
 2. If a State is not making available a metric, that metric will be sourced from the CDC Vaccine Tracker
+
 If total administered doses is not available by State sources, but the different stages of doses (1st, 2nd, etc) are available, the value of total doses administered will be determined by summing the stages of doses administered.
 The logic is applied each time data is collected. Therefore, for a each State, the source for a given metric’s value may not be the same for all days. It will depend on when the State and the CDC update their respective public data.
 
