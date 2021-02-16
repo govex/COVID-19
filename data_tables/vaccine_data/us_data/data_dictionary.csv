@@ -5,7 +5,7 @@ Country_Region,Code of the country
 Date,Data collection date
 Lat,Latitude
 Long_,Longitude
-Vaccine_Type,"Common name of the vaccine provider. Can be either a combination of all, or a specific provider like Moderna or Pfizer"
+Vaccine_Type,"Common name of the vaccine provider. Can be either a combination of all vaccine types labeled as 'All', or a specific provider like Moderna or Pfizer"
 Doses_alloc,Cumulative number of doses allocated
 Doses_shipped,Cumulative number of doses that have arrived to the vaccination sites.
 Doses_admin,Cumulative number of doses administered
