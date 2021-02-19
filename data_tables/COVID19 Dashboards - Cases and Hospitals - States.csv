@@ -7,12 +7,12 @@ California,https://public.tableau.com/views/COVID-19PublicDashboard/Covid-19Publ
 Colorado,https://covid19.colorado.gov/case-data,No,Yes,Yes,Yes
 Connecticut (pdf download),https://portal.ct.gov/Coronavirus,No,Yes,Yes,No
 Delaware,https://myhealthycommunity.dhss.delaware.gov/locations/state,Yes,Yes,Yes,Yes
-District of Columbia,https://coronavirus.dc.gov/page/coronavirus-data,Yes,Yes,Yes,No
+District of Columbia,https://coronavirus.dc.gov/page/coronavirus-data,Yes,Yes,Yes,Yes
 Florida,https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429,No,Yes,Yes,Yes
-Georgia,https://dph.georgia.gov/covid-19-daily-status-report,No,Yes,Yes,No
+Georgia,https://dph.georgia.gov/covid-19-daily-status-report,No,Yes,Yes,Yes
 Hawaii,https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/,No,Yes,Yes,No
 Idaho,https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard_V2/Story1,No,Yes,Yes,No
-Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,Yes,Yes,Yes,No
+Illinois,https://www.dph.illinois.gov/covid19/covid19-statistics,Yes,Yes,Yes,Yes
 Indiana,https://coronavirus.in.gov/,Yes,Yes,Yes,Yes
 Iowa,https://coronavirus.iowa.gov/,No,Yes,Yes,No
 Kansas,https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas,Yes,Yes,Yes,No
@@ -48,5 +48,5 @@ Vermont,https://www.healthvermont.gov/response/coronavirus-covid-19/current-acti
 Virginia,http://www.vdh.virginia.gov/coronavirus/,No,Yes,Yes,Yes
 Washington,https://www.doh.wa.gov/Emergencies/Coronavirus,No,Yes,Yes,No
 West Virginia,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,No,Yes,Yes,Yes
-Wisconsin,https://www.dhs.wisconsin.gov/covid-19/data.htm,No,Yes,Yes,No
+Wisconsin,https://www.dhs.wisconsin.gov/covid-19/data.htm,No,Yes,Yes,Yes
 Wyoming,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/covid-19-map-and-statistics/,No,Yes,Yes,No
