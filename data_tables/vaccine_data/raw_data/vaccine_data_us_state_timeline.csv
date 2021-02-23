@@ -2503,6 +2503,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/20/2021,New Mexico,NM,Yes,,,,,465175,,,465175,480810,,,480810,156208,162301
 02/21/2021,New Mexico,NM,Yes,,,,,465175,,,465175,480810,,,480810,156208,162301
 02/22/2021,New Mexico,NM,Yes,,,,,465175,,,465175,480810,,,480810,156208,162301
+02/23/2021,New Mexico,NM,Yes,,,,,465175,,,465175,501436,,,501436,156672,172382
 12/16/2020,New York,NY,No,170000,,170000,,,,,,,,,,,
 12/21/2020,New York,NY,No,,,,,,,,,38000,,38000,,38000,
 12/22/2020,New York,NY,No,,,,,,,,,50000,12000,,,50000,
@@ -2899,6 +2900,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/20/2021,Oklahoma,OK,Yes,,,,,893550,,,893550,681466,,,681466,273328,204069
 02/21/2021,Oklahoma,OK,Yes,,,,,893550,,,893550,681466,,,681466,273328,204069
 02/22/2021,Oklahoma,OK,Yes,,,,,893550,,,893550,681466,,,681466,273328,204069
+02/23/2021,Oklahoma,OK,Yes,,,,,893550,,,893550,681466,,,681466,273328,204069
 12/17/2020,Oregon,OR,No,228400,103600,124800,,,,,,254,,,254,254,0
 12/18/2020,Oregon,OR,Yes,,,,,,,,,688,,,688,688,0
 12/19/2020,Oregon,OR,Yes,,,,,,,,,2423,,,2423,2423,0
@@ -2967,6 +2969,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/20/2021,Oregon,OR,Yes,,,,,,,,,755652,353655,401315,682,284764,232820
 02/21/2021,Oregon,OR,Yes,,,,,,,,,781200,364689,415817,694,279689,248129
 02/22/2021,Oregon,OR,Yes,,,,,,,,,802402,374659,427045,698,274466,261316
+02/23/2021,Oregon,OR,Yes,,,,,,,,,821309,383351,437224,734,269953,272970
 12/14/2020,Pennsylvania,PA,No,,,,,1950,,1950,,,,,,,
 12/15/2020,Pennsylvania,PA,No,,,,,10725,,10725,,,,,,,
 12/16/2020,Pennsylvania,PA,No,,,,,17550,,17550,,,,,,,
@@ -3034,6 +3037,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/20/2021,Pennsylvania,PA,Yes,,,,,,,,,1867240,,,1867240,907646,479797
 02/21/2021,Pennsylvania,PA,Yes,,,,,,,,,1931557,,,1931557,910673,510442
 02/22/2021,Pennsylvania,PA,Yes,,,,,,,,,1975998,,,1975998,919900,528049
+02/23/2021,Pennsylvania,PA,Yes,,,,,,,,,1999332,,,1999332,917150,541091
 12/14/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
 12/15/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
 12/16/2020,Puerto Rico,PR,No,,,,,16575,,16575,,,,,,,
@@ -3226,6 +3230,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/20/2021,Rhode Island,RI,Yes,,,,,246175,,,246175,183814,,,183814,69797,57008
 02/21/2021,Rhode Island,RI,Yes,,,,,246175,,,246175,199449,,,199449,77897,60776
 02/22/2021,Rhode Island,RI,Yes,,,,,246175,,,246175,199449,,,199449,77897,60776
+02/23/2021,Rhode Island,RI,Yes,,,,,246175,,,246175,203685,,,203685,79796,61944
 12/14/2020,South Carolina,SC,No,300000,,,300000,42900,,42900,,,,,,,
 12/29/2020,South Carolina,SC,No,,,,,,,,,,,,,,
 12/30/2020,South Carolina,SC,No,,,,,,,,,35158,,,35158,35158,
