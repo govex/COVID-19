@@ -218,6 +218,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,American Samoa,AS,No,,,,,29450,,,29450,17740,,,17740,3938,6893
 02/22/2021,American Samoa,AS,No,,,,,29450,,,29450,18778,,,18778,3137,7811
 02/23/2021,American Samoa,AS,No,,,,,29450,,,29450,18816,,,18816,3160,7818
+02/24/2021,American Samoa,AS,No,,,,,29450,,,29450,18816,,,18816,3160,7818
 12/14/2020,Arizona,AZ,No,383750,171200,212550,,,,,,,,,,,
 01/04/2021,Arizona,AZ,No,,,,,,,,,,,,,,
 01/05/2021,Arizona,AZ,Yes,,,,,,,,,101030,,,101030,,
@@ -375,6 +376,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Bureau of Prisons,BoP,No,,,,,49175,,,49175,51072,,,51072,13195,18879
 02/22/2021,Bureau of Prisons,BoP,No,,,,,49175,,,49175,52266,,,52266,13035,19556
 02/23/2021,Bureau of Prisons,BoP,No,,,,,49175,,,49175,52347,,,52347,12954,19637
+02/24/2021,Bureau of Prisons,BoP,No,,,,,49475,,,49475,52347,,,52347,12632,19996
 01/02/2021,California,CA,No,,,,,,,,,,,,,,
 01/03/2021,California,CA,Yes,1762900,,,1762900,,,,,436154,,,436154,,
 01/04/2021,California,CA,Yes,1762900,,,1762900,,,,,454306,,,454306,,
@@ -566,6 +568,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Connecticut,CT,No,,,,,984275,,,984275,847820,,,847820,306802,265343
 02/22/2021,Connecticut,CT,No,,,,,984275,,,984275,847820,,,860534,308588,270792
 02/23/2021,Connecticut,CT,No,,,,,984275,,,984275,882777,,,882777,318381,277009
+02/24/2021,Connecticut,CT,No,,,,,1025755,,,1025755,892882,,,892882,322893,279804
 12/15/2020,Delaware,DE,No,56275,,,,975,,,,92,,92,,92,
 12/16/2020,Delaware,DE,No,,,,,8775,,,,105,,105,,105,
 12/17/2020,Delaware,DE,No,,,,,8775,,,,455,,455,,455,
@@ -691,6 +694,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Department of Defense,DoD,No,,,,,1181300,,,1181300,830843,,,830843,381962,219173
 02/22/2021,Department of Defense,DoD,No,,,,,1181300,,,1181300,854728,,,854728,376928,233595
 02/23/2021,Department of Defense,DoD,No,,,,,1181300,,,1181300,865896,,,865896,380030,237626
+02/24/2021,Department of Defense,DoD,No,,,,,1208685,,,1208685,868322,,,868322,379756,238976
 12/11/2020,District of Columbia,DC,No,6825,,6825,,,,,,,,,,,
 01/04/2021,District of Columbia,DC,No,,,,,,,,,,,,,,
 01/05/2021,District of Columbia,DC,No,,,,,40075,,,40075,16989,,,16989,,
@@ -797,6 +801,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Federated States of Micronesia,FM,No,,,,,30000,,,30000,11590,,,11590,7398,2070
 02/22/2021,Federated States of Micronesia,FM,No,,,,,30000,,,30000,12196,,,12196,7290,2425
 02/23/2021,Federated States of Micronesia,FM,No,,,,,30000,,,30000,12196,,,12196,7290,2425
+02/24/2021,Federated States of Micronesia,FM,No,,,,,30000,,,30000,12196,,,12196,7290,2425
 12/10/2020,Florida,FL,No,179400,,179400,,,,,,,,,,,
 12/15/2020,Florida,FL,Yes,,,,,,,,,28,,28,,28,0
 12/16/2020,Florida,FL,Yes,,,,,,,,,2632,,2632,,2632,0
@@ -1278,6 +1283,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Indian Health Services,IDH,No,,,,,732905,,,732905,412073,,,412073,184845,110670
 02/22/2021,Indian Health Services,IDH,No,,,,,732905,,,732905,426034,,,426034,189839,115147
 02/23/2021,Indian Health Services,IDH,No,,,,,732905,,,732905,441876,,,441876,192813,121574
+02/24/2021,Indian Health Services,IDH,No,,,,,748780,,,748780,455371,,,455371,197206,126117
 12/16/2020,Indiana,IN,No,,,,,,,,,,,,,,
 12/28/2020,Indiana,IN,No,,,,,,,,,,,,,,
 12/29/2020,Indiana,IN,Yes,,,,,,,,,75842,,,75842,75842,0
@@ -1413,6 +1419,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Iowa,IA,No,,,,,707865,,,707865,577374,,,577374,289325,141104
 02/22/2021,Iowa,IA,No,,,,,707865,,,707865,599489,,,599489,298257,147615
 02/23/2021,Iowa,IA,No,,,,,707865,,,707865,611188,,,611188,304400,150392
+02/24/2021,Iowa,IA,No,,,,,746475,,,746475,614928,,,614928,306062,151431
 12/14/2020,Kansas,KS,No,150000,,,150000,,,,,,,,,,
 12/15/2020,Kansas,KS,No,,,,,24000,,24000,,,,,,,
 12/21/2020,Kansas,KS,No,,,,,41629,49000,41550,,,,,,,
@@ -1529,6 +1536,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Kentucky,KY,Yes,,,,,998250,,,998250,796952,,,796952,319637,236951
 02/22/2021,Kentucky,KY,Yes,,,,,1006050,,,1006050,824007,,,824007,312820,253857
 02/23/2021,Kentucky,KY,Yes,,,,,1006050,,,1006050,839508,,,839508,311899,262062
+02/24/2021,Kentucky,KY,Yes,,,,,1181375,,,1181375,851440,,,851440,311162,268387
 12/11/2020,Louisiana,LA,No,186000,107000,79000,,,,,,,,,,,
 12/22/2020,Louisiana,LA,Yes,,,,,,,,,22108,,,22108,22108,0
 12/23/2020,Louisiana,LA,Yes,,,,,,,,,32766,,,32766,32766,0
@@ -1718,6 +1726,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Marshall Islands,MH,No,,,,,21000,,,21000,7733,,,7733,5244,1218
 02/22/2021,Marshall Islands,MH,No,,,,,21000,,,21000,8716,,,8716,5679,1491
 02/23/2021,Marshall Islands,MH,No,,,,,21000,,,21000,8926,,,8926,5480,1695
+02/24/2021,Marshall Islands,MH,No,,,,,21000,,,21000,9462,,,9462,5716,1845
 12/11/2020,Maryland,MD,No,155000,,,155000,,,,,,,,,,
 12/22/2020,Maryland,MD,Yes,,,,,,,,,7537,,,7537,7537,0
 12/23/2020,Maryland,MD,Yes,,,,,,,,,10497,,,10497,10497,0
@@ -2177,6 +2186,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Montana,MT,Yes,,,,,,,,,212243,,,212243,,66650
 02/22/2021,Montana,MT,Yes,,,,,,,,,214519,,,214519,,67460
 02/23/2021,Montana,MT,Yes,,,,,,,,,216383,,,216383,,68191
+02/24/2021,Montana,MT,Yes,,,,,,,,,219830,,,219830,,70309
 12/14/2020,Nebraska,NE,No,15600,,15600,,4875,,4875,,,,,,,
 12/16/2020,Nebraska,NE,No,,,,,,,,,1746,,1746,,1746,
 12/17/2020,Nebraska,NE,No,,,,,,,,,,,,,,
@@ -2320,6 +2330,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Nevada,NV,No,,,,,646450,,,646450,555742,,,555742,236336,157477
 02/22/2021,Nevada,NV,No,,,,,646450,,,646450,569810,,,569810,234810,165269
 02/23/2021,Nevada,NV,No,,,,,646450,,,646450,586518,,,586518,229292,176341
+02/24/2021,Nevada,NV,No,,,,,719880,,,719880,598423,,,598423,226499,183594
 12/15/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
 12/16/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
 12/17/2020,New Hampshire,NH,No,36875,24200,12675,,12675,,12675,,,,,,,
@@ -2391,6 +2402,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,New Hampshire,NH,No,,,,,328525,,,328525,250296,,,250296,93397,78361
 02/22/2021,New Hampshire,NH,No,,,,,328525,,,328525,260809,,,260809,97649,81490
 02/23/2021,New Hampshire,NH,No,,,,,328525,,,328525,267893,,,267893,101782,82957
+02/24/2021,New Hampshire,NH,No,,,,,344165,,,344165,274267,,,274267,106064,84000
 12/14/2020,New Jersey,NJ,No,76050,,76050,,,,,,,,,,,
 12/18/2020,New Jersey,NJ,No,,,,,,,,,2149,,2149,,2149,
 12/19/2020,New Jersey,NJ,No,,,,,,,,,,,,,,
@@ -3142,6 +3154,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Puerto Rico,PR,No,,,,,806625,,,806625,463527,,,463527,166067,147986
 02/22/2021,Puerto Rico,PR,No,,,,,806625,,,806625,476475,,,476475,165785,154598
 02/23/2021,Puerto Rico,PR,No,,,,,806625,,,806625,476647,,,476647,165693,154730
+02/24/2021,Puerto Rico,PR,No,,,,,813170,,,813170,480439,,,480439,165488,156724
 01/01/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
 01/02/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
 01/03/2021,Republic of Palau,RP,No,,,,,,,,,,,,,,
@@ -3196,6 +3209,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Republic of Palau,RP,No,,,,,9200,,,9200,6025,,,6025,1261,2382
 02/22/2021,Republic of Palau,RP,No,,,,,9200,,,9200,6314,,,6314,984,2665
 02/23/2021,Republic of Palau,RP,No,,,,,9200,,,9200,6314,,,6314,984,2665
+02/24/2021,Republic of Palau,RP,No,,,,,9200,,,9200,7073,,,7073,1035,3019
 12/14/2020,Rhode Island,RI,No,29000,19000,10000,,5000,,5000,,,,,,,
 12/18/2020,Rhode Island,RI,Yes,,,,,,,,,1226,,1226,,1226,
 12/19/2020,Rhode Island,RI,Yes,,,,,,,,,1226,,1226,,1226,
@@ -3655,6 +3669,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Veterans Health Administration,VHA,No,,,,,2185950,,,2185950,1862965,,,1862965,717979,571860
 02/22/2021,Veterans Health Administration,VHA,No,,,,,2186925,,,2186925,1911289,,,1911289,710500,599755
 02/23/2021,Veterans Health Administration,VHA,No,,,,,2186925,,,2186925,1957142,,,1957142,700498,627679
+02/24/2021,Veterans Health Administration,VHA,No,,,,,2384285,,,2384285,2002806,,,2002806,688717,656399
 12/14/2020,Virgin Islands,VI,No,975,,975,,975,,975,,,,,,,
 12/23/2020,Virgin Islands,VI,No,,,,,,,,,260,,260,,260,
 12/25/2020,Virgin Islands,VI,No,,,,,,,,,,,,,,
@@ -3710,6 +3725,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Virgin Islands,VI,No,,,,,26425,,,26425,15826,,,15826,6256,4785
 02/22/2021,Virgin Islands,VI,No,,,,,26425,,,26425,16123,,,16123,6365,4879
 02/23/2021,Virgin Islands,VI,No,,,,,26425,,,26425,16187,,,16187,6307,4940
+02/24/2021,Virgin Islands,VI,No,,,,,28825,,,28825,16893,,,16893,6445,5224
 12/14/2020,Virginia,VA,No,480000,,,480000,72150,,72150,,,,,,,
 12/22/2020,Virginia,VA,Yes,,,,,121125,,,121125,19506,,,19506,19506,0
 12/23/2020,Virginia,VA,Yes,,,,,227425,,,227425,19943,,,19943,19943,0
@@ -3775,6 +3791,7 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Virginia,VA,Yes,,,,,1766575,,,1766575,1541772,,,1541772,661094,440339
 02/22/2021,Virginia,VA,Yes,,,,,1902295,,,1902295,1574229,,,1574229,647995,463117
 02/23/2021,Virginia,VA,Yes,,,,,2120885,,,2120885,1632700,,,1632700,637898,497401
+02/24/2021,Virginia,VA,Yes,,,,,2121485,,,2121485,1667353,,,1667353,634043,516655
 12/14/2020,Vermont,VT,No,5850,,5850,,1950,,1950,,,,,,,
 12/15/2020,Vermont,VT,Yes,,,,,,,,,20,,,20,20,0
 12/16/2020,Vermont,VT,Yes,,,,,,,,,399,,,399,399,0
@@ -4120,3 +4137,4 @@ date,Province_State,stabbr,dashboard_available,doses_alloc_total,doses_alloc_mod
 02/21/2021,Wyoming,WY,Yes,,,,,132055,64000,68055,,116831,,,116831,41267,37782
 02/22/2021,Wyoming,WY,Yes,,,,,132055,64000,68055,,116831,,,116831,41267,37782
 02/23/2021,Wyoming,WY,Yes,,,,,132055,64000,68055,,117756,,,117756,41610,38073
+02/24/2021,Wyoming,WY,Yes,,,,,151005,73100,73905,,119489,,,119489,41495,38997
