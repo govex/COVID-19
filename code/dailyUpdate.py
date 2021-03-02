@@ -12,6 +12,10 @@ import json
 
 pd.options.display.max_columns = 100
 
+def fipsFix(df, fipsField):
+    df[fipsField] = df[fipsField].apply(str).str.pad(width=5, side='left', fillchar='0')
+
+
 # data from github jhu,import the lastest data from timeseries
 df_Counties_confirmed = pd.read_csv(
     "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv")
@@ -124,9 +128,9 @@ df_Counties.rename(columns={tdst+'_confirmed':'Confirmed',tdst+'_deaths':'Deaths
 
 
 #census and health data from ESRI
-df_ACS1=pd.read_excel( covid19Data / 'ACS_2014-2018_Fields.xlsx')
-df_ACSState=pd.read_excel( covid19Data / 'ACS_State_Final_ToExcel_noMOE.xlsx')
-df_ACSCounty=pd.read_excel( covid19Data / 'ACS_County_Final_ToExcel_noMOE.xlsx')
+# df_ACS1=pd.read_excel( covid19Data / 'ACS_2014-2018_Fields.xlsx')
+# df_ACSState=pd.read_excel( covid19Data / 'ACS_State_Final_ToExcel_noMOE.xlsx')
+df_ACSCounty=pd.read_csv( covid19Data / 'ACS_County_Final_ToExcel_noMOE2019.csv')
 df_ACSCounty1=df_ACSCounty[['FIPS', 'NAME', 'State']]
 df_ACSCounty1['Age_85']=df_ACSCounty['B01001_049E']+df_ACSCounty['B01001_025E']
 df_ACSCounty1['Age_80_84']=df_ACSCounty['B01001_048E']+df_ACSCounty['B01001_024E']
@@ -151,42 +155,42 @@ df_CountyHealth=pd.merge(df_ACSCounty1,df_Healthcare1,how='inner',left_on='FIPS'
 
 
 #Merge JHU data with Esri County data, left join to keep all the confirmed cases
-df_Counties1=pd.merge(df_Counties,df_CountyHealth,how='left',left_on='FIPS',right_on='FIPS') 
+df_Counties1=pd.merge(df_Counties,df_CountyHealth,how='left',left_on='FIPS',right_on='FIPS')
+df_Counties1['FIPS'] = df_Counties1['FIPS'].astype('int32')
+fipsFix(df_Counties1, 'FIPS')
 
 
 
-#import demographic info  https://data.census.gov/cedsci/  data source: https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
-df_pop=pd.read_excel(covid19Data / 'PopulationEstimates.xls',skiprows=2)
-df_poverty=pd.read_excel(covid19Data / 'PovertyEstimates.xls',skiprows=4)
+#import demographic info  https://data.census.gov/cedsci/  data source: https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/, ACS 2019 5-year subject table
+# df_pop=pd.read_excel(covid19Data / 'PopulationEstimates.xls',skiprows=2)
+# df_poverty=pd.read_excel(covid19Data / 'PovertyEstimates.xls',skiprows=4)
 #df_edu=pd.read_excel(covid19Data / 'Education.xls',skiprows=4)
-df_eco=pd.read_excel(covid19Data / 'employment.xls',skiprows=4)
+
+#State table for Med_HH_Income_Percent_of_State_Total_2019 Calculation
+df_eco_state = pd.read_csv(covid19Data / 'ACS2019_5yr_StateMedianIncome.csv')
+
+#Poverty and Employment data from ACS 2019 5-year subject table
+df_eco=pd.read_csv(covid19Data / 'ACS2019_5yr_SubjectTable.csv')
+df_eco = df_eco.merge(df_eco_state, left_on='state', right_on='FIPS')
+df_eco['Med_HH_Income_Percent_of_State_Total_2019'] = df_eco['Median_Household_Income_2019'] / df_eco['MedianIncome'] * 100
+df_eco.drop(columns=['0_x', 'state', 'county', '0_y','State_y', 'MedianIncome', 'FIPS_y'], inplace=True)
+df_eco['FIPS_x'] = df_eco['FIPS_x'].astype('int32')
+fipsFix(df_eco, 'FIPS_x')
+df_eco.rename(columns={'FIPS_x':'FIPS'}, inplace=True)
 
 
-
-df_eco=df_eco.drop(df_eco.index[0])
-df_poverty=df_poverty.drop(df_poverty.index[0])
-df_pop=df_pop.drop(df_pop.index[0])
-#df_eco.head(2)
-
-
-
-#Select columns from demo data
-df_pop1=df_pop[['FIPS','POP_ESTIMATE_2018']]
-df_poverty1=df_poverty[['FIPStxt','POVALL_2018','PCTPOVALL_2018']]
-#df_edu1=df_edu[[]]
-df_eco1=df_eco[['FIPS','Unemployed_2018','Unemployment_rate_2018','Median_Household_Income_2018','Med_HH_Income_Percent_of_State_Total_2018']]
-
-
+#Population data source: ACS 2019 5-year Estimate
+df_pop = pd.read_csv(covid19Data / 'PopulationEstimatesACS2019_5yr.csv')
+fipsFix(df_pop,'FIPS') 
 
 #merge demo data
-demo1=pd.merge(df_pop1,df_poverty1,how='left',left_on='FIPS',right_on='FIPStxt')
-demo2=pd.merge(demo1,df_eco1,how='right',left_on='FIPS',right_on='FIPS')
-
-
+demo=df_eco.merge(df_pop, how='left', on='FIPS')
+demo.drop(columns=['State_x'], inplace=True)
+#%%
 
 #merge JHU,Esri, Demo data
-USCounties1=pd.merge(df_Counties1,demo2,how='left',left_on='FIPS',right_on='FIPS')
-
+USCounties1=pd.merge(df_Counties1,demo,how='left',left_on='FIPS',right_on='FIPS')
+USCounties1.loc[USCounties1['Province_State'] == 'Puerto Rico', 'State'] = 'Puerto Rico'
 
 
 #import the most recent daily data from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
@@ -199,7 +203,7 @@ df_USnew=df_new[df_new['Country_Region']=='US']
 dfStates=pd.pivot_table(df_USnew,values=['Confirmed', 'Deaths', 'Recovered',
        'Active'],index=['Province_State'],aggfunc=np.sum)
 dfStates.rename(columns={'Confirmed':'State_Confirmed','Deaths':'State_Deaths','Recovered':'State_Recovered'},inplace=True)
-#dfStates['State_Testing']=999
+#dfStates['0State_Testing']=999
 dfStates.reset_index(inplace=True)
 # dfStates.State_Recovered.sum()
 
@@ -230,24 +234,25 @@ dfRC1.loc[dfRC1['Local Public Emergency']=='Yellow','Local Public Emergency']= '
 
 
 dfRC1.rename(columns={'Notes':'EM_notes','Last Update':'EM_date','Local Public Emergency':'EM_type'},inplace=True)
-
+fipsFix(dfRC1,'FIPS')
 
 
 #merge UScounties2 with RC data
 USCounties3=pd.merge(USCounties2, dfRC1,how='left',left_on='FIPS',right_on='FIPS')
-
-
-
+USCounties3['FIPS'] = USCounties3['FIPS'].fillna(0).astype('float64').astype('int32')
+fipsFix(USCounties3,'FIPS')
+#%%
 #import US Counties, State shp file downloaded from Esri
 US_Counties=gpd.read_file( covid19Data / "JHUCounties.shp")
 US_Counties=US_Counties[['Countyname','FIPS','ST_Abbr','ST_ID','ST_Name','geometry']]
 US_Counties=US_Counties[US_Counties['geometry'].notnull()]
 US_Counties.rename(columns={'FIPS':'GEOID','COUNTYFP':'CountyFP'},inplace=True)
 US_Counties['GEOID']=US_Counties['GEOID'].astype(float)
-
+US_Counties.loc[US_Counties['ST_Name'] == 'Puerto Rico', 'ST_Abbr'] = 'PR'
 
 
 #import state testing data from https://covidtracking.com/api/states
+#TODO Change source to APL scraped testing data#
 dfStatesTesting=pd.read_json('https://covidtracking.com/api/v1/states/current.json')
 dfStatesTesting=dfStatesTesting[['state','total','dateChecked']]
 dfStatesTesting.rename(columns={'total':'State_Testing','dateChecked':'DateChecked'},inplace=True)
@@ -256,18 +261,20 @@ dfStatesTesting.rename(columns={'total':'State_Testing','dateChecked':'DateCheck
 
 #Merge with state testing data
 USCounties=pd.merge(US_Counties,dfStatesTesting,how='left',left_on='ST_Abbr',right_on='state')
-
-
+USCounties['GEOID'] = USCounties['GEOID'].astype('int32')
+fipsFix(USCounties,'GEOID')
 
 #Import Race data
 #USCounties_pre=gpd.read_file(r"C:\Work_GovEx\COVID-19\Daily Data\USCounties_JHUmap_05_05\USCounties_JHUmap.shp")
-Counties_race=pd.read_csv( covid19Data / 'County_ShpHeaders.csv')
-Race_Age=pd.read_csv( covid19Data / 'Race_Age.csv')
+Counties_race=pd.read_csv( covid19Data / 'County_ShpHeaders2019.csv')
+fipsFix(Counties_race,'GEOIDFIPS')
+Race_Age=pd.read_csv( covid19Data / 'Race_Age2019.csv')
+fipsFix(Race_Age,'FIPS')
 
 
 
 Race_Agemerge=pd.merge(Counties_race,Race_Age,how='left',left_on='GEOIDFIPS',right_on='FIPS')
-
+# fipsFix(Race_Agemerge, 'FIPS')
 
 
 USCountiesm1=pd.merge(USCounties,Race_Agemerge,how='left',left_on='GEOID',right_on='GEOIDFIPS')
@@ -303,10 +310,10 @@ USCounties4=pd.merge(USCountiesm1,USCounties3,how='right',left_on='GEOID',right_
 
 #Add calcuations
 USCounties4['FatalityRate']=USCounties4['Deaths']/USCounties4['Confirmed']*100
-USCounties4['ConfirmedbyPop']=USCounties4['Confirmed']/USCounties4['POP_ESTIMATE_2018']*100000
-USCounties4['DeathsbyPop']=USCounties4['Deaths']/USCounties4['POP_ESTIMATE_2018']*100000
+USCounties4['ConfirmedbyPop']=USCounties4['Confirmed']/USCounties4['POP_ESTIMATE_2019']*100000
+USCounties4['DeathsbyPop']=USCounties4['Deaths']/USCounties4['POP_ESTIMATE_2019']*100000
 USCounties4['State_FatalityRate']=USCounties4['State_Deaths']/USCounties4['State_Confirmed']*100
-USCounties4['NewCasebyPop']=USCounties4['NewCases']/USCounties4['POP_ESTIMATE_2018']*100000
+USCounties4['NewCasebyPop']=USCounties4['NewCases']/USCounties4['POP_ESTIMATE_2019']*100000
 USCounties4['Recovered']=0  # place holder
 USCounties4['Active']=0   #place holder
 USCounties4['url']='infUrl' #place holder
@@ -321,13 +328,13 @@ USCounties4['ConfirmedbyPop']=USCounties4['ConfirmedbyPop'].round(2)
 #select columns
 #select columns
 USCounties4=USCounties4[['Admin2', 'Province_State_x','ST_Abbr', 'ST_ID',  'geometry',
-       'FIPS', 'FatalityRate', 'ConfirmedbyPop','DeathsbyPop', 'PCTPOVALL_2018', 
-         'Unemployment_rate_2018', 'Med_HH_Income_Percent_of_State_Total_2018',
+       'FIPS', 'FatalityRate', 'ConfirmedbyPop','DeathsbyPop', 'PCTPOVALL_2019', 
+         'Unemployment_rate_2019', 'Med_HH_Income_Percent_of_State_Total_2019',
        'State_FatalityRate', 'DateChecked',
         'EM_type', 'EM_date','EM_notes','url', 'Thumbnail', 'Confirmed',  'Deaths',
         'Age_85', 'Age_80_84', 'Age_75_79', 'Age_70_74', 'Age_65_69',  
         'Beds_Licensed', 'Beds_Staffed','Beds_ICU', 'Ventilators_Average', 
-        'POP_ESTIMATE_2018','POVALL_2018', 'Unemployed_2018','Median_Household_Income_2018',
+        'POP_ESTIMATE_2019','POVALL_2019', 'Unemployed_2019','Median_Household_Income_2019',
         'Recovered', 'Active', 'State_Confirmed', 'State_Deaths', 'State_Recovered',
        'State_Testing',  'AgedPop','NewCases','NewDeaths','TotalPop', 'NonHispWhPop', 'BlackPop', 'AmIndop',
        'AsianPop', 'PacIslPop', 'OtherPop', 'TwoMorPop', 'HispPop', 'PCPopNWh',
@@ -343,10 +350,10 @@ USCounties4=USCounties4[['Admin2', 'Province_State_x','ST_Abbr', 'ST_ID',  'geom
 USCounties4.rename(columns={'Admin2':'Countyname'},inplace=True)
 USCounties4.rename(columns={'Province_State_x':'ST_Name'},inplace=True)
 
-
+#%%
 
 USCounties4['FIPS']=USCounties4['FIPS'].fillna(0).astype(int)
-USCounties4['FIPS']=USCounties4['FIPS'].apply(str).str.pad(width=5, side='left', fillchar='0')
+fipsFix(USCounties4,'FIPS')
 USCounties4['Age_85']=USCounties4['Age_85'].fillna(0).astype(int)
 USCounties4['Age_80_84']=USCounties4['Age_80_84'].fillna(0).astype(int)
 USCounties4['Age_75_79']=USCounties4['Age_75_79'].fillna(0).astype(int)
@@ -360,13 +367,13 @@ USCounties4['Beds_Staffed']=USCounties4['Beds_Staffed'].fillna(0).astype(int)
 # USCounties4['NewDeaths']=USCounties4['NewDeaths'].fillna(0).astype(int)
 USCounties4[['Confirmed', 'Deaths',
  'Ventilators_Average',
-       'POP_ESTIMATE_2018', 'POVALL_2018',  'Unemployed_2018',
-        'Median_Household_Income_2018', 'Recovered', 'Active',
+       'POP_ESTIMATE_2019', 'POVALL_2019',  'Unemployed_2019',
+        'Median_Household_Income_2019', 'Recovered', 'Active',
        'State_Confirmed', 'State_Deaths', 'State_Recovered',
         'State_Testing']]=USCounties4[['Confirmed', 'Deaths', 
         'Ventilators_Average',
-       'POP_ESTIMATE_2018', 'POVALL_2018',  'Unemployed_2018',
-        'Median_Household_Income_2018', 'Recovered', 'Active',
+       'POP_ESTIMATE_2019', 'POVALL_2019',  'Unemployed_2019',
+        'Median_Household_Income_2019', 'Recovered', 'Active',
        'State_Confirmed', 'State_Deaths', 'State_Recovered',
         'State_Testing']].fillna(0).astype(int)
 #%%
@@ -424,13 +431,13 @@ USCounties4['DateChecked']=tdtime
 
 #reorganize the field and export
 USCounties4=USCounties4[['Countyname', 'ST_Name','ST_Abbr', 'ST_ID','geometry',
-       'FIPS', 'FatalityRate', 'ConfirmedbyPop','DeathsbyPop', 'PCTPOVALL_2018', 
-         'Unemployment_rate_2018', 'Med_HH_Income_Percent_of_State_Total_2018',
+       'FIPS', 'FatalityRate', 'ConfirmedbyPop','DeathsbyPop', 'PCTPOVALL_2019', 
+         'Unemployment_rate_2019', 'Med_HH_Income_Percent_of_State_Total_2019',
        'State_FatalityRate', 'DateChecked',
         'EM_type', 'EM_date','EM_notes','url', 'Thumbnail', 'Confirmed',  'Deaths',
         'Age_85', 'Age_80_84', 'Age_75_79', 'Age_70_74', 'Age_65_69',  
         'Beds_Licensed', 'Beds_Staffed','Beds_ICU', 'Ventilators_Average', 
-        'POP_ESTIMATE_2018','POVALL_2018', 'Unemployed_2018','Median_Household_Income_2018',
+        'POP_ESTIMATE_2019','POVALL_2019', 'Unemployed_2019','Median_Household_Income_2019',
         'Recovered', 'Active', 'State_Confirmed', 'State_Deaths', 'State_Recovered',
        'State_Testing',  'AgedPop','NewCases', 'NewDeaths','TotalPop',
        'NonHispWhPop', 'BlackPop', 'AmIndop', 'AsianPop', 'PacIslPop',
@@ -448,12 +455,12 @@ USCounties4=USCounties4[['Countyname', 'ST_Name','ST_Abbr', 'ST_ID','geometry',
 
 
 USCounties4.rename(columns={'FatalityRate':'FatalityRa','ConfirmedbyPop':'Confirmedb','DeathsbyPop':'DeathsbyPo',
-                            'PCTPOVALL_2018':'PCTPOVALL_','Unemployment_rate_2018':'Unemployme', 
-                            'Med_HH_Income_Percent_of_State_Total_2018':'Med_HH_Inc',
+                            'PCTPOVALL_2019':'PCTPOVALL_','Unemployment_rate_2019':'Unemployme', 
+                            'Med_HH_Income_Percent_of_State_Total_2019':'Med_HH_Inc',
                             'State_FatalityRate':'State_Fata', 'DateChecked':'DateChecke','Beds_Licensed':'Beds_Licen',
-                            'Ventilators_Average':'Ventilator', 'POP_ESTIMATE_2018':'POP_ESTIMA',
-                            'POVALL_2018':'POVALL_201', 'Unemployed_2018':'Unemployed',
-                            'Median_Household_Income_2018':'Median_Hou',
+                            'Ventilators_Average':'Ventilator', 'POP_ESTIMATE_2019':'POP_ESTIMA',
+                            'POVALL_2019':'POVALL_201', 'Unemployed_2019':'Unemployed',
+                            'Median_Household_Income_2019':'Median_Hou',
                             'State_Confirmed':'State_Conf','State_Deaths':'State_Deat', 
                             'State_Recovered':'State_Reco','State_Testing':'State_Test',
                            'White alone':'Wh_Alone', 'Black or African American alone':'Bk_Alone',
