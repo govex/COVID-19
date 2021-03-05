@@ -3,7 +3,7 @@ date,date of collection,Date on which data was collected
 state,Province_State,Two-letter abbreviation for the state or territory
 positive,cases_conf_probable,Total number of confirmed plus probable cases of COVID-19
 totalTestResults,tests_combined_total,Derived from other metrics (see readme for more details)
-totalTestsViral,tests_viral_total,Cumulative number of PCR tests (or specimens tested) or other approved nucleic acid amplification test (NAAT)
+totalTestsViral,tests_viral_total,Cumulative number of completed PCR tests (or specimens tested) or other approved nucleic acid amplification test (NAAT)
 positiveTestsViral,tests_viral_positive,Cumulative number of completed PCR tests (or specimens tested) or other approved nucleic acid amplification test (NAAT) that return positive
 negativeTestsViral,tests_viral_negative,Cumulative number of completed PCR tests (or specimens tested) or other approved nucleic acid amplification test (NAAT) that return negative
 totalTestsPeopleViral,people_viral_total,Cumulative number of unique people tested at least once via PCR testing or other approved nucleic acid amplification test (NAAT)
