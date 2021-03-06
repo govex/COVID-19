@@ -1,21 +1,28 @@
+## Files in this folder
+
+- data_tables/testing_data/ contains U.S. testing data
+- data_tables/vaccine_data/ contains U.S. and Global vaccination data
+- data_tables/JHU_USCounty_map/ contains production files for the U.S. dashboard
+- data_tables/Data_for_UScounty_map/ contains data for the U.S. dashboard
+
+
 ## Data sources
 
-- World population: [World Bank](https://data.worldbank.org/indicator/sp.pop.totl)
-- State restrictions: State Public Health Agency websites or dedicated state coronavirus information pages
-- Hubei events: 
-    - [Hubei Government Daily Reports](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/index_17.shtml)
-    - [Hubei Province Health Commission](http://wjw.hubei.gov.cn/fbjd/)
-    - [The Lancet Corona Virus Archive](https://www.thelancet.com/coronavirus/archive)
-    - [Wuhan Municipal Health Commission News center](http://wjw.wuhan.gov.cn/front/web/main/xwzx.html)
-    - [CCTV News](http://m.news.cctv.com/2020/02/05/ARTIZ48m5I5kAq4f0UOOmEqZ200205.shtml)
-    - [DXY COVID-19 Global Pandemic Real-time reports](https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=)
-- State action/policy data sources
-    - Alabama: Governor's newsroom: https://governor.alabama.gov/newsroom/category/press-releases/
-    - Alaska: COVID 19 news: https://gov.alaska.gov/home/covid19news/
-    - American Samoa: Covid-19 Advisories: https://www.americansamoa.gov/covid-19-advisories
-    - Arizona: Governor Covid 19 action to date: https://azgovernor.gov/governor/news/2020/03/arizonas-covid-19-actions-date
-    - Arkansas: Department of Health Directives: https://www.healthy.arkansas.gov/programs-services/topics/covid-19-health-guidances
-    - California: COVID 19 state news: https://covid19.ca.gov/latest-news/
+### Vaccine data
+See [vaccine data folder](https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data)
+
+### Testing data
+See [testing data folder](https://github.com/govex/COVID-19/tree/master/data_tables/testing_data)
+
+### State action/policy data sources
+Visualize this information at the JHU Coronavirus Resource Center: [impact of opening and closing decisions by state](https://coronavirus.jhu.edu/data/state-timeline)
+
+- Alabama: Governor's newsroom: https://governor.alabama.gov/newsroom/category/press-releases/
+- Alaska: COVID 19 news: https://gov.alaska.gov/home/covid19news/
+- American Samoa: Covid-19 Advisories: https://www.americansamoa.gov/covid-19-advisories
+- Arizona: Governor Covid 19 action to date: https://azgovernor.gov/governor/news/2020/03/arizonas-covid-19-actions-date
+- Arkansas: Department of Health Directives: https://www.healthy.arkansas.gov/programs-services/topics/covid-19-health-guidances
+- California: COVID 19 state news: https://covid19.ca.gov/latest-news/
     - Colorado: COVID 19 press releases: https://covid19.colorado.gov/category/press-release?page=0
     - Connecticut: Governor's Press releases: https://portal.ct.gov/Coronavirus/Pages/Governors-Press-Releases
     - Delaware: Delaware Coronavirus News: https://news.delaware.gov/tag/coronavirus/
