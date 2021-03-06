@@ -6,7 +6,7 @@
 - [tests_combined_total_source.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/tests_combined_total_source.csv): For each state, a reference to the data field used to produce the tests_combined_total metric.
 
 ## Transition from Covid Tracking Project (CTP)
-The Johns Hopkins Coronavirus Resource Center provides U.S. state testing data from publicly reported sources, a service that replaces the COVID Tracking Project’s year-long collection effort ending March 7, 2021.
+The Johns Hopkins Coronavirus Resource Center provides U.S. state testing data from publicly reported sources, a service that replaces the [COVID Tracking Project](https://covidtracking.com/)’s year-long collection effort ending March 7, 2021.
 
 Our files will include Covid Tracking Project data up to March 3, 2021, and data collected by JHU from that date forward. The [data dictionary](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/data_dictionary.csv) details all the variables' name equivalences to match CTP to JHU names.
 
