@@ -85,7 +85,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 51,Virginia,US,2021-03-06,37.7693,-78.17,Johnson & Johnson,,,151,,,"Virginia, US"
 53,Washington,US,2021-03-06,47.4009,-121.4905,All,,2628620,2001032,1271687,708708,"Washington, US"
 54,West Virginia,US,2021-03-06,38.4912,-80.9545,All,,680665,583230,350207,235755,"West Virginia, US"
-55,Wisconsin,US,2021-03-06,44.2685,-89.6165,All,1895025,1895165,1656753,1058297,581022,"Wisconsin, US"
+55,Wisconsin,US,2021-03-06,44.2685,-89.6165,All,1895025,1895165,1676985,1058297,581022,"Wisconsin, US"
 56,Wyoming,US,2021-03-06,42.756,-107.3025,All,,236065,166712,105987,60052,"Wyoming, US"
 56,Wyoming,US,2021-03-06,42.756,-107.3025,Unassigned,,36120,,,,"Wyoming, US"
 56,Wyoming,US,2021-03-06,42.756,-107.3025,Pfizer,,99645,,,,"Wyoming, US"
