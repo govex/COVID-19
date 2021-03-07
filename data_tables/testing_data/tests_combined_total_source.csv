@@ -1,1 +1,59 @@
 
+state,totalTestResultsSource,tests_combined_total
+,CTP name,JHU name
+AK,totalTestsViral,tests_viral_total
+AL,totalTestsPeopleViral,people_viral_total
+AR,totalTestsViral,tests_viral_total
+AS,totalTestsViral,tests_viral_total
+AZ,totalTestsViral,tests_viral_total
+CA,totalTestsViral,tests_viral_total
+CO,totalTestEncountersViral,encounters_viral_total
+CT,totalTestsViral,tests_viral_total
+DC,totalTestEncountersViral,encounters_viral_total
+DE,totalTestEncountersViral,encounters_viral_total
+FL,totalTestEncountersViral,encounters_viral_total
+GA,totalTestsViral,tests_viral_total
+GU,totalTestViral + positive - positiveCasesViral OR totalTestViral + probableCases,tests_viral_total
+HI,totalTestEncountersViral,encounters_viral_total
+IA,positiveCasesViral + negative,tests_viral_total
+ID,totalTestsPeopleViral,people_viral_total
+IL,totalTestsViral,tests_viral_total
+IN,totalTestsViral,tests_viral_total
+KS,positive + negative,people_viral_total
+KY,totalTestsViral,tests_viral_total
+LA,totalTestViral + positive - positiveCasesViral OR totalTestViral + probableCases,tests_viral_total + probableCases
+MA,totalTestsViral,tests_viral_total
+MD,totalTestsViral,tests_viral_total
+ME,totalTestsViral,tests_viral_total
+MI,totalTestsViral,tests_viral_total
+MN,totalTestEncountersViral,encounters_viral_total
+MO,totalTestsViral,tests_viral_total
+MP,totalTestsPeopleViral,people_viral_total
+MS,totalTestViral + positive - positiveCasesViral OR totalTestViral + probableCases,tests_viral_total + probableCases
+MT,totalTestViral + positive - positiveCasesViral OR totalTestViral + probableCases,tests_viral_total
+NC,totalTestViral,tests_viral_total
+ND,totalTestEncountersViral,encounters_viral_total
+NE,totalTestsViral,tests_viral_total
+NH,totalTestsViral,tests_viral_total
+NJ,totalTestViral + positive - positiveCasesViral OR totalTestViral + probableCases,tests_viral_total + probableCases
+NM,totalTestsViral,tests_viral_total
+NV,totalTestEncountersViral,encounters_viral_total
+NY,totalTestEncountersViral,encounters_viral_total
+OH,totalTestsViral,tests_viral_total
+OK,positive + negative
+OR,totalTestsViral,tests_viral_total
+PA,totalTestEncountersViral,encounters_viral_total
+PR,,	
+RI,totalTestEncountersViral,encounters_viral_total
+SC,totalTestViral + positive - positiveCasesViral OR totalTestViral + probableCases,tests_viral_total + probableCases
+SD,totalTestsViral,tests_viral_total
+TN,totalTestsViral,tests_viral_total
+TX,totalTestsViral,tests_viral_total
+UT,totalTestsViral,tests_viral_total
+VA,totalTestEncountersViral,encounters_viral_total
+VI,positive + negative
+VT,totalTestsViral,tests_viral_total
+WA,totalTestEncountersViral,encounters_viral_total
+WI,totalTestEncountersViral,encounters_viral_total
+WV,totalTestsViral,tests_viral_total
+WY,totalTestsViral,tests_viral_total
