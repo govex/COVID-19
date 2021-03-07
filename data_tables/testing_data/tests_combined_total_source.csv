@@ -1,4 +1,3 @@
-
 state,totalTestResultsSource,tests_combined_total
 ,CTP name,JHU name
 AK,totalTestsViral,tests_viral_total
@@ -40,7 +39,7 @@ NM,totalTestsViral,tests_viral_total
 NV,totalTestEncountersViral,encounters_viral_total
 NY,totalTestEncountersViral,encounters_viral_total
 OH,totalTestsViral,tests_viral_total
-OK,positive + negative
+OK,positive + negative,tests_viral_total + probableCases
 OR,totalTestsViral,tests_viral_total
 PA,totalTestEncountersViral,encounters_viral_total
 PR,,	
@@ -51,7 +50,7 @@ TN,totalTestsViral,tests_viral_total
 TX,totalTestsViral,tests_viral_total
 UT,totalTestsViral,tests_viral_total
 VA,totalTestEncountersViral,encounters_viral_total
-VI,positive + negative
+VI,positive + negative,tests_viral_total + probableCases
 VT,totalTestsViral,tests_viral_total
 WA,totalTestEncountersViral,encounters_viral_total
 WI,totalTestEncountersViral,encounters_viral_total
