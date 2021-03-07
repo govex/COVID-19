@@ -16,7 +16,7 @@ Antigen data is anticipated, though not yet available.
 
 ## API
 We are providing an up to date, read only version of our testing data in JSON format at this location. 
-https://jhucoronavirus.azureedge.net/jhucoronavirus/api/v1/testing/daily.json 
+https://jhucoronavirus.azureedge.net/api/v1/testing/daily.json
 This API will contains only testing data at this time.
 
 ## Data sources
