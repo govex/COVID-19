@@ -10,14 +10,14 @@ The Johns Hopkins Coronavirus Resource Center provides U.S. state testing data f
 
 Our files will include Covid Tracking Project data up to March 3, 2021, and data collected by JHU from that date forward. The [data dictionary](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/data_dictionary.csv) details all the variables' name equivalences to match CTP to JHU names.
 
-There CTP dataset field named 'totalTestResults' contains total viral tests in a variety of units (test specimens, encounters, or unique people). We list what unit is used for what state in the file [tests_combined_total_source.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/tests_combined_total_source.csv)
+The CTP dataset field named 'totalTestResults' contains total viral tests in a variety of units (test specimens, encounters, or unique people). We list what unit is used for what state in the file [tests_combined_total_source.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/tests_combined_total_source.csv)
 
 Antigen data is anticipated, though not yet available.
 
 ## API
 We are providing an up to date, read only version of our testing data in JSON format at this location. 
 https://jhucoronavirus.azureedge.net/api/v1/testing/daily.json
-This API will contains only testing data at this time.
+This API contains only testing data at this time.
 
 ## Data sources
 Our data sources are a combination of the State's public dashboards:
