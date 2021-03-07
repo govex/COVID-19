@@ -14,6 +14,9 @@ See [vaccine data folder](https://github.com/govex/COVID-19/tree/master/data_tab
 ### Testing data
 See [testing data folder](https://github.com/govex/COVID-19/tree/master/data_tables/testing_data)
 
+### US Map and county infographics
+See [US map folder](https://github.com/govex/COVID-19/tree/master/data_tables/JHU_USCountymap)
+
 ### State action/policy data sources
 Visualize this information at the JHU Coronavirus Resource Center: [impact of opening and closing decisions by state](https://coronavirus.jhu.edu/data/state-timeline)
 
