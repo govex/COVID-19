@@ -101,6 +101,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 69,Northern Mariana Islands,US,2021-03-11,15.0979,145.6739,Pfizer,,30810,18988,10684,8304,"Northern Mariana Islands, US"
 69,Northern Mariana Islands,US,2021-03-11,15.0979,145.6739,Moderna,,12800,2382,1767,615,"Northern Mariana Islands, US"
 69,Northern Mariana Islands,US,2021-03-11,15.0979,145.6739,All,,44010,21370,12451,8919,"Northern Mariana Islands, US"
+69,Northern Mariana Islands,US,2021-03-11,15.0979,145.6739,Unassigned,,400,,,,"Northern Mariana Islands, US"
 72,Puerto Rico,US,2021-03-11,18.2208,-66.5901,All,,1343520,674636,427506,248539,"Puerto Rico, US"
 78,Virgin Islands,US,2021-03-11,18.3358,-64.8963,All,,43860,24615,16194,7892,"Virgin Islands, US"
 ,Department of Defense,US,2021-03-11,,,All,,1809345,1343861,885870,442127,"Department of Defense, US"
