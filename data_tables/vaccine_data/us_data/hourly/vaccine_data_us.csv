@@ -71,7 +71,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 41,Oregon,US,2021-03-14,44.572,-122.0709,Pfizer,135445,,637098,,,"Oregon, US"
 41,Oregon,US,2021-03-14,44.572,-122.0709,Moderna,486475,,652333,,,"Oregon, US"
 42,Pennsylvania,US,2021-03-14,40.5908,-77.2098,All,,5446125,4093668,2751412,1337031,"Pennsylvania, US"
-44,Rhode Island,US,2021-03-14,41.6809,-71.5118,All,,463415,368672,263449,107865,"Rhode Island, US"
+44,Rhode Island,US,2021-03-14,41.6809,-71.5118,All,,463415,382782,269880,112902,"Rhode Island, US"
 45,South Carolina,US,2021-03-14,33.8569,-80.945,All,,1935035,1583500,1017396,556780,"South Carolina, US"
 45,South Carolina,US,2021-03-14,33.8569,-80.945,Unassigned,,306997,197283,127764,60195,"South Carolina, US"
 45,South Carolina,US,2021-03-14,33.8569,-80.945,Pfizer,,905538,896609,531101,365508,"South Carolina, US"
