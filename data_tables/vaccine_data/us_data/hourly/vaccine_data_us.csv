@@ -54,7 +54,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 13,Georgia,US,2021-03-18,33.0406,-83.6431,All,3733810,4403365,2956040,1868419,1087621,"Georgia, US"
 13,Georgia,US,2021-03-18,33.0406,-83.6431,Unassigned,,798820,,,,"Georgia, US"
 13,Georgia,US,2021-03-18,33.0406,-83.6431,Unknown,,,,,,"Georgia, US"
-15,Hawaii,US,2021-03-18,21.0943,-157.4983,All,658990,755470,572716,359319,216376,"Hawaii, US"
+15,Hawaii,US,2021-03-18,21.0943,-157.4983,All,660160,755470,572716,359319,216376,"Hawaii, US"
 15,Hawaii,US,2021-03-18,21.0943,-157.4983,Pfizer,,,,,,"Hawaii, US"
 15,Hawaii,US,2021-03-18,21.0943,-157.4983,Moderna,,,,,,"Hawaii, US"
 15,Hawaii,US,2021-03-18,21.0943,-157.4983,Unknown,,,,,,"Hawaii, US"
