@@ -144,7 +144,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 32,Nevada,US,2021-03-20,38.3135,-117.0554,Moderna,,,,,,"Nevada, US"
 32,Nevada,US,2021-03-20,38.3135,-117.0554,Unknown,,,,,,"Nevada, US"
 32,Nevada,US,2021-03-20,38.3135,-117.0554,Unassigned,,,,,,"Nevada, US"
-33,New Hampshire,US,2021-03-20,43.4525,-71.5639,All,,627805,500911,359702,160829,"New Hampshire, US"
+33,New Hampshire,US,2021-03-20,43.4525,-71.5639,All,,627805,500911,359702,165578,"New Hampshire, US"
 33,New Hampshire,US,2021-03-20,43.4525,-71.5639,Pfizer,,,,,,"New Hampshire, US"
 33,New Hampshire,US,2021-03-20,43.4525,-71.5639,Moderna,,,,,,"New Hampshire, US"
 33,New Hampshire,US,2021-03-20,43.4525,-71.5639,Unknown,,,,,,"New Hampshire, US"
