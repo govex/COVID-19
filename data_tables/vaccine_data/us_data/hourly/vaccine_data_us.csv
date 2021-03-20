@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 11,District of Columbia,US,2021-03-20,38.8974,-77.0268,Moderna,,,,,,"District of Columbia, US"
 11,District of Columbia,US,2021-03-20,38.8974,-77.0268,Unknown,,,,,,"District of Columbia, US"
 11,District of Columbia,US,2021-03-20,38.8974,-77.0268,Unassigned,,,,,,"District of Columbia, US"
-12,Florida,US,2021-03-20,27.7663,-81.6868,All,,10691345,7977789,4963147,2642020,"Florida, US"
+12,Florida,US,2021-03-20,27.7663,-81.6868,All,,10691345,7977789,4963147,2674975,"Florida, US"
 12,Florida,US,2021-03-20,27.7663,-81.6868,Pfizer,,,,,,"Florida, US"
 12,Florida,US,2021-03-20,27.7663,-81.6868,Moderna,,,,,,"Florida, US"
 12,Florida,US,2021-03-20,27.7663,-81.6868,Unknown,,,,,,"Florida, US"
