@@ -14,7 +14,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 4,Arizona,US,2021-03-26,33.7298,-111.4312,Moderna,,,,,,"Arizona, US"
 4,Arizona,US,2021-03-26,33.7298,-111.4312,Unknown,,,,,,"Arizona, US"
 4,Arizona,US,2021-03-26,33.7298,-111.4312,Unassigned,,,,,,"Arizona, US"
-5,Arkansas,US,2021-03-26,34.9697,-92.3731,All,,1576060,1056307,710494,346045,"Arkansas, US"
 5,Arkansas,US,2021-03-26,34.9697,-92.3731,Pfizer,,,,,,"Arkansas, US"
 5,Arkansas,US,2021-03-26,34.9697,-92.3731,Moderna,,,,,,"Arkansas, US"
 5,Arkansas,US,2021-03-26,34.9697,-92.3731,Unknown,,,,,,"Arkansas, US"
