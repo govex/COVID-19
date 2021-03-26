@@ -10,7 +10,7 @@ CO,totalTestEncountersViral,encounters_viral_total
 CT,totalTestsViral,tests_viral_total
 DC,totalTestEncountersViral,encounters_viral_total
 DE,totalTestEncountersViral,encounters_viral_total
-FL,totalTestEncountersViral,encounters_viral_total
+FL,totalTestsViral,tests_viral_total
 GA,totalTestsViral,tests_viral_total
 GU,totalTestViral + positive - positiveCasesViral OR totalTestViral + probableCases,tests_viral_total
 HI,totalTestEncountersViral,encounters_viral_total
