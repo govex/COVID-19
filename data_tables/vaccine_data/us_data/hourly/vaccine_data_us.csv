@@ -1,7 +1,7 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses_shipped,Doses_admin,Stage_One_Doses,Stage_Two_Doses,Combined_Key
 1,Alabama,US,2021-03-26,32.3182,-86.9023,Pfizer,,,605280,,,"Alabama, US"
 1,Alabama,US,2021-03-26,32.3182,-86.9023,Moderna,,,668848,,,"Alabama, US"
-1,Alabama,US,2021-03-26,32.3182,-86.9023,All,,2459980,1579091,1048838,571769,"Alabama, US"
+1,Alabama,US,2021-03-26,32.3182,-86.9023,All,,2459980,1579091,1048838,581714,"Alabama, US"
 1,Alabama,US,2021-03-26,32.3182,-86.9023,Unassigned,,,304963,,,"Alabama, US"
 1,Alabama,US,2021-03-26,32.3182,-86.9023,Unknown,,,,,,"Alabama, US"
 2,Alaska,US,2021-03-26,61.3707,-152.4044,Pfizer,,,208952,,,"Alaska, US"
