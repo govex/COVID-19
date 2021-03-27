@@ -94,7 +94,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 22,Louisiana,US,2021-03-27,31.1695,-91.8678,Moderna,,,,,,"Louisiana, US"
 22,Louisiana,US,2021-03-27,31.1695,-91.8678,Unknown,,,,,,"Louisiana, US"
 22,Louisiana,US,2021-03-27,31.1695,-91.8678,Unassigned,,,,,,"Louisiana, US"
-23,Maine,US,2021-03-27,44.6939,-69.3819,All,,757780,640060,427081,244527,"Maine, US"
+23,Maine,US,2021-03-27,44.6939,-69.3819,All,,757780,655406,427081,250588,"Maine, US"
 23,Maine,US,2021-03-27,44.6939,-69.3819,Pfizer,,,,,,"Maine, US"
 23,Maine,US,2021-03-27,44.6939,-69.3819,Moderna,,,,,,"Maine, US"
 23,Maine,US,2021-03-27,44.6939,-69.3819,Unknown,,,,,,"Maine, US"
