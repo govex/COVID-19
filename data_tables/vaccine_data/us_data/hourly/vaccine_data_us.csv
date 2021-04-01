@@ -184,6 +184,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 40,Oklahoma,US,2021-04-01,35.5653,-96.9289,Moderna,,,,,,"Oklahoma, US"
 40,Oklahoma,US,2021-04-01,35.5653,-96.9289,Unknown,,,,,,"Oklahoma, US"
 40,Oklahoma,US,2021-04-01,35.5653,-96.9289,Unassigned,,,,,,"Oklahoma, US"
+41,Oregon,US,2021-04-01,44.572,-122.0709,All,,2483195,1893672,1211160,701413,"Oregon, US"
 41,Oregon,US,2021-04-01,44.572,-122.0709,Unassigned,,,83663,,,"Oregon, US"
 41,Oregon,US,2021-04-01,44.572,-122.0709,Pfizer,,,941848,,,"Oregon, US"
 41,Oregon,US,2021-04-01,44.572,-122.0709,Moderna,,,867101,,,"Oregon, US"
