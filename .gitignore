@@ -1,3 +1,4 @@
 .DS_Store
 code/.pynb_checkpoints/*
 data_tables/.DS_Store
+env/
