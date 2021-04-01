@@ -224,7 +224,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 49,Utah,US,2021-04-01,40.15,-111.8624,All,,1627020,1399371,899952,499419,"Utah, US"
 49,Utah,US,2021-04-01,40.15,-111.8624,Unassigned,,86700,70336,,35168,"Utah, US"
 49,Utah,US,2021-04-01,40.15,-111.8624,Unknown,,,,,,"Utah, US"
-50,Vermont,US,2021-04-01,44.0459,-72.7107,All,,417840,328451,209145,118598,"Vermont, US"
+50,Vermont,US,2021-04-01,44.0459,-72.7107,All,,417840,332106,209145,122982,"Vermont, US"
 50,Vermont,US,2021-04-01,44.0459,-72.7107,Pfizer,,,,,,"Vermont, US"
 50,Vermont,US,2021-04-01,44.0459,-72.7107,Moderna,,,,,,"Vermont, US"
 50,Vermont,US,2021-04-01,44.0459,-72.7107,Unknown,,,,,,"Vermont, US"
