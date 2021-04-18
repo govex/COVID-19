@@ -104,7 +104,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 24,Maryland,US,2021-04-18,39.0639,-76.8021,Moderna,,,,,,"Maryland, US"
 24,Maryland,US,2021-04-18,39.0639,-76.8021,Unknown,,,,,,"Maryland, US"
 24,Maryland,US,2021-04-18,39.0639,-76.8021,Unassigned,,,,,,"Maryland, US"
-25,Massachusetts,US,2021-04-18,42.2302,-71.5301,All,,5967370,5170513,3333025,1813493,"Massachusetts, US"
+25,Massachusetts,US,2021-04-18,42.2302,-71.5301,All,,5967370,5170513,3333025,1835912,"Massachusetts, US"
 25,Massachusetts,US,2021-04-18,42.2302,-71.5301,Pfizer,,,,,,"Massachusetts, US"
 25,Massachusetts,US,2021-04-18,42.2302,-71.5301,Moderna,,,,,,"Massachusetts, US"
 25,Massachusetts,US,2021-04-18,42.2302,-71.5301,Unknown,,,,,,"Massachusetts, US"
