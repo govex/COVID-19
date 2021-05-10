@@ -24,7 +24,8 @@
   - Denmark Statum Serum Institute: https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1
   - Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
   - Germany Federal Ministry of Health: https://impfdashboard.de/
-  - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
+  - Government of India: https://www.mohfw.gov.in/
+  - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/ 
   - Italy Ministry of Health: https://www.governo.it/it/cscovid19/report-vaccini/
   - Latvia National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
   - Luxembourg Ministry of Health: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
