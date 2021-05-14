@@ -30,7 +30,7 @@
   - Latvia National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
   - Luxembourg Ministry of Health: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Government of Poland: https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
-  - Spain Ministry of Health: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/vacunaCovid19.htm
+  - Spain Ministry of Health: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/pbiVacunacion.htm
   - United Arab Emirates Supreme Council for National Security: https://covid19.ncema.gov.ae/en
-  - Government of Ukraine: https://vaccination.covid19.gov.ua/
+  - Government of Ukraine: https://health-security.rnbo.gov.ua/vaccination
   - United Kingdom Government: https://coronavirus.data.gov.uk/
