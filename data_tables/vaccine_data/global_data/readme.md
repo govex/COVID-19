@@ -15,7 +15,7 @@
   - US Centers for Disease Control and Prevention (CDC): https://covid.cdc.gov/covid-data-tracker/#vaccinations
   - Our World in Data (OWiD): https://ourworldindata.org/covid-vaccinations
 
-- Non-US data sources at the country/region (Admin0) level:
+- Non-US data sources at the country/region (Admin0) level: The international vaccine data includes Doses_admin, People_partially_vaccinated, People_fully_vaccinated. If the country does not report a variable, or the variable appears to be stale, we compare with Our World in Data and pick the most up-to-date data between the sources to produce composited data.
   - Austria Department of Health: https://info.gesundheitsministerium.gv.at/?re=opendata
   - Belgium Institute of Health (Sciensano): https://info.gesundheitsministerium.gv.at/?re=opendata
   - Bulgaria Unified Information Portal: https://coronavirus.bg/bg/statistika
@@ -30,6 +30,7 @@
   - Latvia National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
   - Luxembourg Ministry of Health: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Government of Poland: https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+  - Spain Ministry of Health: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/vacunaCovid19.htm
   - United Arab Emirates Supreme Council for National Security: https://covid19.ncema.gov.ae/en
   - Government of Ukraine: https://vaccination.covid19.gov.ua/
   - United Kingdom Government: https://coronavirus.data.gov.uk/
