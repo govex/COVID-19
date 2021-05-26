@@ -17,7 +17,7 @@
 
 - Non-US data sources at the country/region (Admin0) level: The international vaccine data includes Doses_admin, People_partially_vaccinated, People_fully_vaccinated. If the country does not report a variable, or the variable appears to be stale, we compare with Our World in Data and pick the most up-to-date data between the sources to produce composited data.
   - Austria: Department of Health: https://info.gesundheitsministerium.gv.at/?re=opendata
-  - Belgium: Institute of Health (Sciensano): https://info.gesundheitsministerium.gv.at/?re=opendata
+  - Belgium: Institute of Health (Sciensano): https://covid-vaccinatie.be/en
   - Brazil: COVID-19 Vaccination Numbers in Brazil / Space Studies Laboratory at the Center for Computational Research, Rice University: https://vacinabrasil.org
   - Bulgaria: Unified Information Portal: https://coronavirus.bg/bg/statistika
   - Canada: COVID-19 Tracker: https://covid19tracker.ca/vaccinationtracker.html
