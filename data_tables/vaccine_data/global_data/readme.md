@@ -44,4 +44,4 @@
   - United Arab Emirates: Supreme Council for National Security: https://covid19.ncema.gov.ae/en
   - Ukraine: Government of Ukraine: https://health-security.rnbo.gov.ua/vaccination
   - United Kingdom: United Kingdom Government: https://coronavirus.data.gov.uk/
-  - Uruguay: Ministry of Public Health: ttps://monitor.uruguaysevacuna.gub.uy/
+  - Uruguay: Ministry of Public Health: https://monitor.uruguaysevacuna.gub.uy/
