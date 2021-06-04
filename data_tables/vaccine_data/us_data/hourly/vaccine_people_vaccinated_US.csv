@@ -25,14 +25,14 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Long Term Care (LTC) Program,US,2021-06-04,,,"Long Term Care (LTC) Program, US",0,
 22,Louisiana,US,2021-06-04,31.1695,-91.8678,"Louisiana, US",1477339,209672
 23,Maine,US,2021-06-04,44.6939,-69.3819,"Maine, US",742131,114441
-24,Maryland,US,2021-06-04,39.0639,-76.8021,"Maryland, US",2946173,559934
+24,Maryland,US,2021-06-04,39.0639,-76.8021,"Maryland, US",2965380,559934
 25,Massachusetts,US,2021-06-04,42.2302,-71.5301,"Massachusetts, US",3740479,862630
 26,Michigan,US,2021-06-04,43.3266,-84.5361,"Michigan, US",4234717,659294
 27,Minnesota,US,2021-06-04,45.6945,-93.9002,"Minnesota, US",2615971,463282
 28,Mississippi,US,2021-06-04,32.7416,-89.6787,"Mississippi, US",908629,203745
 29,Missouri,US,2021-06-04,38.4561,-92.2884,"Missouri, US",2142300,480334
 30,Montana,US,2021-06-04,46.9219,-110.4544,"Montana, US",410052,74590
-31,Nebraska,US,2021-06-04,41.1254,-98.2681,"Nebraska, US",823898,118188
+31,Nebraska,US,2021-06-04,41.1254,-98.2681,"Nebraska, US",827828,118188
 32,Nevada,US,2021-06-04,38.3135,-117.0554,"Nevada, US",1145796,268236
 33,New Hampshire,US,2021-06-04,43.4525,-71.5639,"New Hampshire, US",675168,142970
 34,New Jersey,US,2021-06-04,40.2989,-74.521,"New Jersey, US",4389480,1011241
@@ -57,6 +57,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-06-04,18.3358,-64.8963,"Virgin Islands, US",31679,6507
 51,Virginia,US,2021-06-04,37.7693,-78.17,"Virginia, US",3881990,856807
 53,Washington,US,2021-06-04,47.4009,-121.4905,"Washington, US",3592191,758717
-54,West Virginia,US,2021-06-04,38.4912,-80.9545,"West Virginia, US",678027,120426
+54,West Virginia,US,2021-06-04,38.4912,-80.9545,"West Virginia, US",680867,120426
 55,Wisconsin,US,2021-06-04,44.2685,-89.6165,"Wisconsin, US",2606191,380516
 56,Wyoming,US,2021-06-04,42.756,-107.3025,"Wyoming, US",185170,30344
