@@ -29,18 +29,23 @@
   - France: Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
   - Germany: Federal Ministry of Health: https://impfdashboard.de/
   - Guatemala: Ministry of Public Health and Social Assistance: https://tablerocovid.mspas.gob.gt/
+  - Hong Kong: Government of Hong Kong Special Administration Region: https://www.covidvaccine.gov.hk/en/dashboard
   - India: Government of India: https://www.mygov.in/covid-19
+  - Israel: Israel Ministry of Health: https://datadashboard.health.gov.il/COVID-19/general
   - Ireland: Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/ 
   - Italy: Ministry of Health: https://www.governo.it/it/cscovid19/report-vaccini/
   - Japan: Prime Minister of Japan and His Cabinet: https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html 
   - Latvia: National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
   - Luxembourg: Ministry of Health: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - New Zealand: Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
+  - Netherlands, The: Central Government of the Netherlands: https://coronadashboard.rijksoverheid.nl/landelijk/vaccinaties
   - Pakistan: Government of Pakistan: https://ncoc.gov.pk/covid-vaccination-en.php
   - Paraguay: Ministry of Health and Social Wellness: https://www.vacunate.gov.py/index-listado-vacunados.html
   - Peru: Ministry of Health: https://gis.minsa.gob.pe/GisVisorVacunados/
   - Poland: Government of Poland: https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
   - Russia: Gogov: https://gogov.ru/articles/covid-v-stats 
+  - Saudi Arabia: Ministry of Health: https://covid19.moh.gov.sa/
+  - Singapore: Ministry of Health: https://www.moh.gov.sg/covid-19
   - South Africa: Republic of South Africa Department of Health: https://sacoronavirus.co.za/
   - Spain: Ministry of Health: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/pbiVacunacion.htm
   - Turkey: Ministry of Health: https://covid19asi.saglik.gov.tr/
