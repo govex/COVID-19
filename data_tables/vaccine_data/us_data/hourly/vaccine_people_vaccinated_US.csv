@@ -16,14 +16,14 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 66,Guam,US,2021-06-07,13.4443,144.7937,"Guam, US",76131,16794
 15,Hawaii,US,2021-06-07,21.0943,-157.4983,"Hawaii, US",684821,272096
 16,Idaho,US,2021-06-07,44.2405,-114.4788,"Idaho, US",603047,84496
-17,Illinois,US,2021-06-07,40.3495,-88.9861,"Illinois, US",5412678,1902675
+17,Illinois,US,2021-06-07,40.3495,-88.9861,"Illinois, US",5577098,1902675
 ,Indian Health Services,US,2021-06-07,,,"Indian Health Services, US",621574,155034
 18,Indiana,US,2021-06-07,39.8494,-86.2583,"Indiana, US",2589796,412498
 19,Iowa,US,2021-06-07,42.0115,-93.2105,"Iowa, US",1407562,162965
 20,Kansas,US,2021-06-07,38.5266,-96.7265,"Kansas, US",1132108,244245
 21,Kentucky,US,2021-06-07,37.6681,-84.6701,"Kentucky, US",1749836,354860
 ,Long Term Care (LTC) Program,US,2021-06-07,,,"Long Term Care (LTC) Program, US",0,
-22,Louisiana,US,2021-06-07,31.1695,-91.8678,"Louisiana, US",1477339,208493
+22,Louisiana,US,2021-06-07,31.1695,-91.8678,"Louisiana, US",1496945,208493
 23,Maine,US,2021-06-07,44.6939,-69.3819,"Maine, US",750386,110953
 24,Maryland,US,2021-06-07,39.0639,-76.8021,"Maryland, US",3021669,533393
 25,Massachusetts,US,2021-06-07,42.2302,-71.5301,"Massachusetts, US",3854374,807159
@@ -38,7 +38,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2021-06-07,40.2989,-74.521,"New Jersey, US",4444103,999326
 35,New Mexico,US,2021-06-07,34.8405,-106.2485,"New Mexico, US",1018206,205884
 36,New York,US,2021-06-07,42.1657,-74.9481,"New York, US",9387043,1687818
-37,North Carolina,US,2021-06-07,35.6301,-79.8064,"North Carolina, US",4120223,748535
+37,North Carolina,US,2021-06-07,35.6301,-79.8064,"North Carolina, US",4168346,748535
 38,North Dakota,US,2021-06-07,47.5289,-99.78399999999999,"North Dakota, US",281557,42735
 69,Northern Mariana Islands,US,2021-06-07,15.0979,145.6739,"Northern Mariana Islands, US",23219,3598
 39,Ohio,US,2021-06-07,40.3888,-82.7649,"Ohio, US",4794769,641865
@@ -46,7 +46,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2021-06-07,44.571999999999996,-122.0709,"Oregon, US",1984341,368942
 42,Pennsylvania,US,2021-06-07,40.5908,-77.2098,"Pennsylvania, US",5751977,1851950
 72,Puerto Rico,US,2021-06-07,18.2208,-66.5901,"Puerto Rico, US",1422984,432902
-44,Rhode Island,US,2021-06-07,41.6809,-71.5118,"Rhode Island, US",564011,94468
+44,Rhode Island,US,2021-06-07,41.6809,-71.5118,"Rhode Island, US",572526,94468
 45,South Carolina,US,2021-06-07,33.8569,-80.945,"South Carolina, US",1789545,346754
 46,South Dakota,US,2021-06-07,44.2998,-99.4388,"South Dakota, US",379683,51052
 47,Tennessee,US,2021-06-07,35.7478,-86.6923,"Tennessee, US",2309568,504027
