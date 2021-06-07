@@ -12,7 +12,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2021-06-07,38.8974,-77.0268,"District of Columbia, US",332049,74761
 ,Federal Bureau of Prisons,US,2021-06-07,,,"Federal Bureau of Prisons, US",89470,12092
 12,Florida,US,2021-06-07,27.7663,-81.6868,"Florida, US",8609004,2146916
-13,Georgia,US,2021-06-07,33.0406,-83.6431,"Georgia, US",3564233,801099
+13,Georgia,US,2021-06-07,33.0406,-83.6431,"Georgia, US",3576420,801099
 66,Guam,US,2021-06-07,13.4443,144.7937,"Guam, US",76131,16794
 15,Hawaii,US,2021-06-07,21.0943,-157.4983,"Hawaii, US",684821,272096
 16,Idaho,US,2021-06-07,44.2405,-114.4788,"Idaho, US",609775,84496
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-06-07,43.4525,-71.5639,"New Hampshire, US",684899,136856
 34,New Jersey,US,2021-06-07,40.2989,-74.521,"New Jersey, US",4444103,999326
 35,New Mexico,US,2021-06-07,34.8405,-106.2485,"New Mexico, US",1018206,205884
-36,New York,US,2021-06-07,42.1657,-74.9481,"New York, US",9387043,1687818
+36,New York,US,2021-06-07,42.1657,-74.9481,"New York, US",9429290,1687818
 37,North Carolina,US,2021-06-07,35.6301,-79.8064,"North Carolina, US",4168346,748535
 38,North Dakota,US,2021-06-07,47.5289,-99.78399999999999,"North Dakota, US",281557,42735
 69,Northern Mariana Islands,US,2021-06-07,15.0979,145.6739,"Northern Mariana Islands, US",23219,3598
@@ -51,7 +51,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2021-06-07,44.2998,-99.4388,"South Dakota, US",379683,51052
 47,Tennessee,US,2021-06-07,35.7478,-86.6923,"Tennessee, US",2309568,504027
 48,Texas,US,2021-06-07,31.0545,-97.5635,"Texas, US",10583077,2490337
-49,Utah,US,2021-06-07,40.15,-111.8624,"Utah, US",1252204,407074
+49,Utah,US,2021-06-07,40.15,-111.8624,"Utah, US",1254406,407074
 50,Vermont,US,2021-06-07,44.0459,-72.7107,"Vermont, US",367073,80787
 ,Veterans Health Administration,US,2021-06-07,,,"Veterans Health Administration, US",2638424,156780
 78,Virgin Islands,US,2021-06-07,18.3358,-64.8963,"Virgin Islands, US",32066,6456
