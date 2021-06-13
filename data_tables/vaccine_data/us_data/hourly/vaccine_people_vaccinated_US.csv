@@ -30,7 +30,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2021-06-13,43.3266,-84.5361,"Michigan, US",4404586,582122
 27,Minnesota,US,2021-06-13,45.6945,-93.9002,"Minnesota, US",2748409,410420
 28,Mississippi,US,2021-06-13,32.7416,-89.6787,"Mississippi, US",930656,203080
-29,Missouri,US,2021-06-13,38.4561,-92.2884,"Missouri, US",2232559,454757
+29,Missouri,US,2021-06-13,38.4561,-92.2884,"Missouri, US",2236568,454757
 30,Montana,US,2021-06-13,46.9219,-110.4544,"Montana, US",431854,64807
 31,Nebraska,US,2021-06-13,41.1254,-98.2681,"Nebraska, US",851874,107221
 32,Nevada,US,2021-06-13,38.3135,-117.0554,"Nevada, US",1193391,260165
@@ -41,7 +41,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 37,North Carolina,US,2021-06-13,35.6301,-79.8064,"North Carolina, US",4223092,709293
 38,North Dakota,US,2021-06-13,47.5289,-99.78399999999999,"North Dakota, US",285377,41533
 69,Northern Mariana Islands,US,2021-06-13,15.0979,145.6739,"Northern Mariana Islands, US",24009,3452
-39,Ohio,US,2021-06-13,40.3888,-82.7649,"Ohio, US",4901399,589814
+39,Ohio,US,2021-06-13,40.3888,-82.7649,"Ohio, US",4912528,589814
 40,Oklahoma,US,2021-06-13,35.5653,-96.9289,"Oklahoma, US",1371286,303517
 41,Oregon,US,2021-06-13,44.571999999999996,-122.0709,"Oregon, US",2058647,328951
 42,Pennsylvania,US,2021-06-13,40.5908,-77.2098,"Pennsylvania, US",5945020,1811133
@@ -51,7 +51,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2021-06-13,44.2998,-99.4388,"South Dakota, US",386604,48955
 47,Tennessee,US,2021-06-13,35.7478,-86.6923,"Tennessee, US",2378210,490399
 48,Texas,US,2021-06-13,31.0545,-97.5635,"Texas, US",10956306,2386907
-49,Utah,US,2021-06-13,40.15,-111.8624,"Utah, US",1303523,390456
+49,Utah,US,2021-06-13,40.15,-111.8624,"Utah, US",1308311,390456
 50,Vermont,US,2021-06-13,44.0459,-72.7107,"Vermont, US",389951,71637
 ,Veterans Health Administration,US,2021-06-13,,,"Veterans Health Administration, US",2650535,152586
 78,Virgin Islands,US,2021-06-13,18.3358,-64.8963,"Virgin Islands, US",32804,6404
