@@ -32,7 +32,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 28,Mississippi,US,2021-06-17,32.7416,-89.6787,"Mississippi, US",946229,199395
 29,Missouri,US,2021-06-17,38.4561,-92.2884,"Missouri, US",2263083,418486
 30,Montana,US,2021-06-17,46.9219,-110.4544,"Montana, US",436046,62633
-31,Nebraska,US,2021-06-17,41.1254,-98.2681,"Nebraska, US",866030,101109
+31,Nebraska,US,2021-06-17,41.1254,-98.2681,"Nebraska, US",869444,101109
 32,Nevada,US,2021-06-17,38.3135,-117.0554,"Nevada, US",1221242,248586
 33,New Hampshire,US,2021-06-17,43.4525,-71.5639,"New Hampshire, US",735827,98467
 34,New Jersey,US,2021-06-17,40.2989,-74.521,"New Jersey, US",4737908,866198
@@ -57,6 +57,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-06-17,18.3358,-64.8963,"Virgin Islands, US",33405,6254
 51,Virginia,US,2021-06-17,37.7693,-78.17,"Virginia, US",4205777,714451
 53,Washington,US,2021-06-17,47.4009,-121.4905,"Washington, US",3889658,621734
-54,West Virginia,US,2021-06-17,38.4912,-80.9545,"West Virginia, US",711474,114671
+54,West Virginia,US,2021-06-17,38.4912,-80.9545,"West Virginia, US",714261,114671
 55,Wisconsin,US,2021-06-17,44.2685,-89.6165,"Wisconsin, US",2732284,325362
 56,Wyoming,US,2021-06-17,42.756,-107.3025,"Wyoming, US",192396,29358
