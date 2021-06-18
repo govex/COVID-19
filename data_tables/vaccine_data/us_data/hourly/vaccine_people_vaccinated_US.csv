@@ -2,7 +2,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2021-06-18,32.3182,-86.9023,"Alabama, US",1546119,352012
 2,Alaska,US,2021-06-18,61.3707,-152.4044,"Alaska, US",311050,45306
 60,American Samoa,US,2021-06-18,-14.270999999999999,-170.132,"American Samoa, US",20249,4435
-4,Arizona,US,2021-06-18,33.7298,-111.4312,"Arizona, US",3029930,709986
+4,Arizona,US,2021-06-18,33.7298,-111.4312,"Arizona, US",3041625,709986
 5,Arkansas,US,2021-06-18,34.9697,-92.3731,"Arkansas, US",993850,240179
 6,California,US,2021-06-18,36.1162,-119.6816,"California, US",19164548,4765437
 8,Colorado,US,2021-06-18,39.0598,-105.3111,"Colorado, US",2847420,411610
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-06-18,43.4525,-71.5639,"New Hampshire, US",738841,96733
 34,New Jersey,US,2021-06-18,40.2989,-74.521,"New Jersey, US",4768442,852679
 35,New Mexico,US,2021-06-18,34.8405,-106.2485,"New Mexico, US",1076745,182469
-36,New York,US,2021-06-18,42.1657,-74.9481,"New York, US",9992321,1387466
+36,New York,US,2021-06-18,42.1657,-74.9481,"New York, US",10042797,1387466
 37,North Carolina,US,2021-06-18,35.6301,-79.8064,"North Carolina, US",4333026,648833
 38,North Dakota,US,2021-06-18,47.5289,-99.78399999999999,"North Dakota, US",289031,40184
 69,Northern Mariana Islands,US,2021-06-18,15.0979,145.6739,"Northern Mariana Islands, US",24844,3163
@@ -46,7 +46,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2021-06-18,44.571999999999996,-122.0709,"Oregon, US",2138497,281140
 42,Pennsylvania,US,2021-06-18,40.5908,-77.2098,"Pennsylvania, US",6117497,1743219
 72,Puerto Rico,US,2021-06-18,18.2208,-66.5901,"Puerto Rico, US",1544093,410041
-44,Rhode Island,US,2021-06-18,41.6809,-71.5118,"Rhode Island, US",677293,73142
+44,Rhode Island,US,2021-06-18,41.6809,-71.5118,"Rhode Island, US",678177,73142
 45,South Carolina,US,2021-06-18,33.8569,-80.945,"South Carolina, US",1877766,313820
 46,South Dakota,US,2021-06-18,44.2998,-99.4388,"South Dakota, US",391806,47443
 47,Tennessee,US,2021-06-18,35.7478,-86.6923,"Tennessee, US",2442931,445479
