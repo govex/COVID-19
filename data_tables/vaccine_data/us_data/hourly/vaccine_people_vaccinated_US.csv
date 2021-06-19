@@ -2,9 +2,9 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2021-06-19,32.3182,-86.9023,"Alabama, US",1546983,351721
 2,Alaska,US,2021-06-19,61.3707,-152.4044,"Alaska, US",311893,44972
 60,American Samoa,US,2021-06-19,-14.270999999999999,-170.132,"American Samoa, US",20419,4498
-4,Arizona,US,2021-06-19,33.7298,-111.4312,"Arizona, US",3041625,707501
+4,Arizona,US,2021-06-19,33.7298,-111.4312,"Arizona, US",3050982,707501
 5,Arkansas,US,2021-06-19,34.9697,-92.3731,"Arkansas, US",997306,239064
-6,California,US,2021-06-19,36.1162,-119.6816,"California, US",19164548,4741530
+6,California,US,2021-06-19,36.1162,-119.6816,"California, US",19244864,4741530
 8,Colorado,US,2021-06-19,39.0598,-105.3111,"Colorado, US",2855798,408799
 9,Connecticut,US,2021-06-19,41.5978,-72.7554,"Connecticut, US",2083664,260417
 10,Delaware,US,2021-06-19,39.3185,-75.5071,"Delaware, US",460947,93734
@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 24,Maryland,US,2021-06-19,39.0639,-76.8021,"Maryland, US",3249663,409969
 25,Massachusetts,US,2021-06-19,42.2302,-71.5301,"Massachusetts, US",4088768,682503
 26,Michigan,US,2021-06-19,43.3266,-84.5361,"Michigan, US",4540979,507023
-27,Minnesota,US,2021-06-19,45.6945,-93.9002,"Minnesota, US",2807936,356090
+27,Minnesota,US,2021-06-19,45.6945,-93.9002,"Minnesota, US",2813305,356090
 28,Mississippi,US,2021-06-19,32.7416,-89.6787,"Mississippi, US",952865,195754
 29,Missouri,US,2021-06-19,38.4561,-92.2884,"Missouri, US",2324188,376291
 30,Montana,US,2021-06-19,46.9219,-110.4544,"Montana, US",442031,60183
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-06-19,43.4525,-71.5639,"New Hampshire, US",739161,96681
 34,New Jersey,US,2021-06-19,40.2989,-74.521,"New Jersey, US",4788682,844485
 35,New Mexico,US,2021-06-19,34.8405,-106.2485,"New Mexico, US",1084351,179807
-36,New York,US,2021-06-19,42.1657,-74.9481,"New York, US",10042797,1371285
+36,New York,US,2021-06-19,42.1657,-74.9481,"New York, US",10084575,1371285
 37,North Carolina,US,2021-06-19,35.6301,-79.8064,"North Carolina, US",4333026,643829
 38,North Dakota,US,2021-06-19,47.5289,-99.78399999999999,"North Dakota, US",289693,40030
 69,Northern Mariana Islands,US,2021-06-19,15.0979,145.6739,"Northern Mariana Islands, US",25000,3151
