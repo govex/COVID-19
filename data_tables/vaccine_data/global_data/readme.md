@@ -26,7 +26,10 @@
   - Canada: COVID-19 Tracker: https://covid19tracker.ca/vaccinationtracker.html
   - Chile: Government of Chile: https://www.gob.cl/yomevacuno/
   - Colombia: Ministry of Health and Social Protection: https://www.minsalud.gov.co/portada-covid-19.html
+  - Costa Rica: Costa Rica Social Security: https://www.ccss.sa.cr/web/coronavirus/vacunacion
+  - Czechia: Ministry of Health of the Czech Republic: https://onemocneni-aktualne.mzcr.cz/vakcinace-cr
   - Denmark: Statum Serum Institute: https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1
+  - El Salvador: Government of El Salvador: https://covid19.gob.sv/
   - France: Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
   - Germany: Federal Ministry of Health: https://impfdashboard.de/
   - Guatemala: Ministry of Public Health and Social Assistance: https://tablerocovid.mspas.gob.gt/
@@ -53,6 +56,7 @@
   - Spain: Ministry of Health: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/pbiVacunacion.htm
   - Sri Lanka: Ministry of Health Epidemiology Unit: http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&lang=en
   - Suriname: Ministry of Health: https://laatjevaccineren.sr/
+  - Switzerland: Federal Office of Public Health FOPH: https://www.covid19.admin.ch/en/epidemiologic/vacc-doses
   - Turkey: Ministry of Health: https://covid19asi.saglik.gov.tr/
   - United Arab Emirates: Supreme Council for National Security: https://covid19.ncema.gov.ae/en
   - Ukraine: Government of Ukraine: https://health-security.rnbo.gov.ua/vaccination
