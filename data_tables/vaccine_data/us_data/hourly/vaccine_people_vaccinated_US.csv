@@ -2,7 +2,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2021-06-23,32.3182,-86.9023,"Alabama, US",1566908,351426
 2,Alaska,US,2021-06-23,61.3707,-152.4044,"Alaska, US",313462,44401
 60,American Samoa,US,2021-06-23,-14.270999999999999,-170.132,"American Samoa, US",20561,4544
-4,Arizona,US,2021-06-23,33.7298,-111.4312,"Arizona, US",3077149,701957
+4,Arizona,US,2021-06-23,33.7298,-111.4312,"Arizona, US",3084014,701957
 5,Arkansas,US,2021-06-23,34.9697,-92.3731,"Arkansas, US",1008252,235951
 6,California,US,2021-06-23,36.1162,-119.6816,"California, US",19454555,4681211
 8,Colorado,US,2021-06-23,39.0598,-105.3111,"Colorado, US",2897391,390634
@@ -15,7 +15,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2021-06-23,33.0406,-83.6431,"Georgia, US",3825235,750452
 66,Guam,US,2021-06-23,13.4443,144.7937,"Guam, US",85098,13695
 15,Hawaii,US,2021-06-23,21.0943,-157.4983,"Hawaii, US",721474,257020
-16,Idaho,US,2021-06-23,44.2405,-114.4788,"Idaho, US",646050,68181
+16,Idaho,US,2021-06-23,44.2405,-114.4788,"Idaho, US",647750,68181
 17,Illinois,US,2021-06-23,40.3495,-88.9861,"Illinois, US",5965150,1761332
 ,Indian Health Services,US,2021-06-23,,,"Indian Health Services, US",650366,143275
 18,Indiana,US,2021-06-23,39.8494,-86.2583,"Indiana, US",2758648,325414
@@ -29,7 +29,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-06-23,42.2302,-71.5301,"Massachusetts, US",4142425,656770
 26,Michigan,US,2021-06-23,43.3266,-84.5361,"Michigan, US",4608073,476371
 27,Minnesota,US,2021-06-23,45.6945,-93.9002,"Minnesota, US",2839353,339930
-28,Mississippi,US,2021-06-23,32.7416,-89.6787,"Mississippi, US",958576,194427
+28,Mississippi,US,2021-06-23,32.7416,-89.6787,"Mississippi, US",962130,194427
 29,Missouri,US,2021-06-23,38.4561,-92.2884,"Missouri, US",2340554,373343
 30,Montana,US,2021-06-23,46.9219,-110.4544,"Montana, US",445020,59255
 31,Nebraska,US,2021-06-23,41.1254,-98.2681,"Nebraska, US",893052,91380
