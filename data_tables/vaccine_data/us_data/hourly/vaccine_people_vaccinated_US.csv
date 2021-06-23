@@ -16,7 +16,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 66,Guam,US,2021-06-23,13.4443,144.7937,"Guam, US",85098,13695
 15,Hawaii,US,2021-06-23,21.0943,-157.4983,"Hawaii, US",721474,257020
 16,Idaho,US,2021-06-23,44.2405,-114.4788,"Idaho, US",647750,68181
-17,Illinois,US,2021-06-23,40.3495,-88.9861,"Illinois, US",5965150,1761332
+17,Illinois,US,2021-06-23,40.3495,-88.9861,"Illinois, US",5980289,1761332
 ,Indian Health Services,US,2021-06-23,,,"Indian Health Services, US",650366,143275
 18,Indiana,US,2021-06-23,39.8494,-86.2583,"Indiana, US",2758648,325414
 19,Iowa,US,2021-06-23,42.0115,-93.2105,"Iowa, US",1486467,119934
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-06-23,43.4525,-71.5639,"New Hampshire, US",746009,92637
 34,New Jersey,US,2021-06-23,40.2989,-74.521,"New Jersey, US",4879364,817868
 35,New Mexico,US,2021-06-23,34.8405,-106.2485,"New Mexico, US",1100922,175548
-36,New York,US,2021-06-23,42.1657,-74.9481,"New York, US",10178064,1314974
+36,New York,US,2021-06-23,42.1657,-74.9481,"New York, US",10204627,1314974
 37,North Carolina,US,2021-06-23,35.6301,-79.8064,"North Carolina, US",4397880,633937
 38,North Dakota,US,2021-06-23,47.5289,-99.78399999999999,"North Dakota, US",291720,39325
 69,Northern Mariana Islands,US,2021-06-23,15.0979,145.6739,"Northern Mariana Islands, US",25388,3114
