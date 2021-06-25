@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-06-25,32.3182,-86.9023,"Alabama, US",1574934,353969
-2,Alaska,US,2021-06-25,61.3707,-152.4044,"Alaska, US",315159,44248
+2,Alaska,US,2021-06-25,61.3707,-152.4044,"Alaska, US",317280,44248
 60,American Samoa,US,2021-06-25,-14.270999999999999,-170.132,"American Samoa, US",20966,4505
 4,Arizona,US,2021-06-25,33.7298,-111.4312,"Arizona, US",3102335,700581
 5,Arkansas,US,2021-06-25,34.9697,-92.3731,"Arkansas, US",1015919,235517
@@ -51,7 +51,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2021-06-25,44.2998,-99.4388,"South Dakota, US",397436,46786
 47,Tennessee,US,2021-06-25,35.7478,-86.6923,"Tennessee, US",2488380,438315
 48,Texas,US,2021-06-25,31.0545,-97.5635,"Texas, US",11671124,2147923
-49,Utah,US,2021-06-25,40.15,-111.8624,"Utah, US",1370627,367477
+49,Utah,US,2021-06-25,40.15,-111.8624,"Utah, US",1376548,367477
 50,Vermont,US,2021-06-25,44.0459,-72.7107,"Vermont, US",409128,54354
 ,Veterans Health Administration,US,2021-06-25,,,"Veterans Health Administration, US",2682189,143007
 78,Virgin Islands,US,2021-06-25,18.3358,-64.8963,"Virgin Islands, US",34598,6096
