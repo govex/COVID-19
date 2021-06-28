@@ -32,6 +32,7 @@
   - El Salvador: Government of El Salvador: https://covid19.gob.sv/
   - France: Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
   - Germany: Federal Ministry of Health: https://impfdashboard.de/
+  - Greece: https://data.gov.gr
   - Guatemala: Ministry of Public Health and Social Assistance: https://tablerocovid.mspas.gob.gt/
   - Hong Kong: Government of Hong Kong Special Administration Region: https://www.covidvaccine.gov.hk/en/dashboard
   - India: Government of India: https://www.mygov.in/covid-19
@@ -41,6 +42,7 @@
   - Japan: Prime Minister of Japan and His Cabinet: https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html 
   - Latvia: National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
   - Luxembourg: Ministry of Health: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Mexico: Government of Mexico: https://coronavirus.gob.mx/noticias/
   - New Zealand: Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
   - Netherlands, The: Central Government of the Netherlands: https://coronadashboard.rijksoverheid.nl/landelijk/vaccinaties
   - Norway: Public Health Institute: https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/#table-pagination-66720844
@@ -53,10 +55,13 @@
   - Saudi Arabia: Ministry of Health: https://covid19.moh.gov.sa/
   - Singapore: Ministry of Health: https://www.moh.gov.sg/covid-19
   - South Africa: Republic of South Africa Department of Health: https://sacoronavirus.co.za/
+  - South Korea: Korea Disease Control and Prevention Agency: https://ncv.kdca.go.kr/mainStatus.es?mid=a11702000000
   - Spain: Ministry of Health: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/pbiVacunacion.htm
   - Sri Lanka: Ministry of Health Epidemiology Unit: http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&lang=en
   - Suriname: Ministry of Health: https://laatjevaccineren.sr/
+  - Sweden: Public Health Authority: https://www.folkhalsomyndigheten.se/
   - Switzerland: Federal Office of Public Health FOPH: https://www.covid19.admin.ch/en/epidemiologic/vacc-doses
+  - Thailand: Department of Disease Control: https://ddc.moph.go.th/vaccine-covid19/diaryReport
   - Turkey: Ministry of Health: https://covid19asi.saglik.gov.tr/
   - United Arab Emirates: Supreme Council for National Security: https://covid19.ncema.gov.ae/en
   - Ukraine: Government of Ukraine: https://health-security.rnbo.gov.ua/vaccination
