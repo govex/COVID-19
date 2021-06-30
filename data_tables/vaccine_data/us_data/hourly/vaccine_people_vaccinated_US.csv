@@ -2,14 +2,14 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2021-06-30,32.3182,-86.9023,"Alabama, US",1594040,359370
 2,Alaska,US,2021-06-30,61.3707,-152.4044,"Alaska, US",319340,43988
 60,American Samoa,US,2021-06-30,-14.270999999999999,-170.132,"American Samoa, US",20991,4516
-4,Arizona,US,2021-06-30,33.7298,-111.4312,"Arizona, US",3134640,678836
+4,Arizona,US,2021-06-30,33.7298,-111.4312,"Arizona, US",3142092,678836
 5,Arkansas,US,2021-06-30,34.9697,-92.3731,"Arkansas, US",1027309,232827
-6,California,US,2021-06-30,36.1162,-119.6816,"California, US",19941886,4555340
+6,California,US,2021-06-30,36.1162,-119.6816,"California, US",20014043,4555340
 8,Colorado,US,2021-06-30,39.0598,-105.3111,"Colorado, US",2977688,352062
 9,Connecticut,US,2021-06-30,41.5978,-72.7554,"Connecticut, US",2158601,225708
 10,Delaware,US,2021-06-30,39.3185,-75.5071,"Delaware, US",486120,78957
 ,Department of Defense,US,2021-06-30,,,"Department of Defense, US",1805114,590207
-11,District of Columbia,US,2021-06-30,38.8974,-77.0268,"District of Columbia, US",452328,63668
+11,District of Columbia,US,2021-06-30,38.8974,-77.0268,"District of Columbia, US",463189,63668
 ,Federal Bureau of Prisons,US,2021-06-30,,,"Federal Bureau of Prisons, US",96031,9482
 12,Florida,US,2021-06-30,27.7663,-81.6868,"Florida, US",9814909,1679053
 13,Georgia,US,2021-06-30,33.0406,-83.6431,"Georgia, US",3944108,708588
@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2021-06-30,44.2405,-114.4788,"Idaho, US",661585,62872
 17,Illinois,US,2021-06-30,40.3495,-88.9861,"Illinois, US",6148310,1678832
 ,Indian Health Services,US,2021-06-30,,,"Indian Health Services, US",658054,141649
-18,Indiana,US,2021-06-30,39.8494,-86.2583,"Indiana, US",2808481,313122
+18,Indiana,US,2021-06-30,39.8494,-86.2583,"Indiana, US",2815538,313122
 19,Iowa,US,2021-06-30,42.0115,-93.2105,"Iowa, US",1511048,108508
 20,Kansas,US,2021-06-30,38.5266,-96.7265,"Kansas, US",1218232,210746
 21,Kentucky,US,2021-06-30,37.6681,-84.6701,"Kentucky, US",1938343,268517
@@ -38,7 +38,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2021-06-30,40.2989,-74.521,"New Jersey, US",4884067,684477
 35,New Mexico,US,2021-06-30,34.8405,-106.2485,"New Mexico, US",1125628,169143
 36,New York,US,2021-06-30,42.1657,-74.9481,"New York, US",10484346,1161581
-37,North Carolina,US,2021-06-30,35.6301,-79.8064,"North Carolina, US",4456579,624877
+37,North Carolina,US,2021-06-30,35.6301,-79.8064,"North Carolina, US",4466471,624877
 38,North Dakota,US,2021-06-30,47.5289,-99.78399999999999,"North Dakota, US",295253,38412
 69,Northern Mariana Islands,US,2021-06-30,15.0979,145.6739,"Northern Mariana Islands, US",26343,3014
 39,Ohio,US,2021-06-30,40.3888,-82.7649,"Ohio, US",5219737,409255
