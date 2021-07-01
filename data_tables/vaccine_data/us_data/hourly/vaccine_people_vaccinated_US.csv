@@ -25,7 +25,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Long Term Care (LTC) Program,US,2021-07-01,,,"Long Term Care (LTC) Program, US",0,
 22,Louisiana,US,2021-07-01,31.1695,-91.8678,"Louisiana, US",1607808,162751
 23,Maine,US,2021-07-01,44.6939,-69.3819,"Maine, US",819500,71707
-24,Maryland,US,2021-07-01,39.0639,-76.8021,"Maryland, US",3387278,357899
+24,Maryland,US,2021-07-01,39.0639,-76.8021,"Maryland, US",3395682,357899
 25,Massachusetts,US,2021-07-01,42.2302,-71.5301,"Massachusetts, US",4243952,606733
 26,Michigan,US,2021-07-01,43.3266,-84.5361,"Michigan, US",4701047,435439
 27,Minnesota,US,2021-07-01,45.6945,-93.9002,"Minnesota, US",2920597,291812
@@ -57,6 +57,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-07-01,18.3358,-64.8963,"Virgin Islands, US",35017,6057
 51,Virginia,US,2021-07-01,37.7693,-78.17,"Virginia, US",4422065,618195
 53,Washington,US,2021-07-01,47.4009,-121.4905,"Washington, US",4150522,513332
-54,West Virginia,US,2021-07-01,38.4912,-80.9545,"West Virginia, US",744594,115438
+54,West Virginia,US,2021-07-01,38.4912,-80.9545,"West Virginia, US",745842,115438
 55,Wisconsin,US,2021-07-01,44.2685,-89.6165,"Wisconsin, US",2879461,243154
 56,Wyoming,US,2021-07-01,42.756,-107.3025,"Wyoming, US",198958,27953
