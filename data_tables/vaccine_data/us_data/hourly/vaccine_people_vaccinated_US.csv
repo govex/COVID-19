@@ -12,7 +12,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2021-07-08,38.8974,-77.0268,"District of Columbia, US",469462,62440
 ,Federal Bureau of Prisons,US,2021-07-08,,,"Federal Bureau of Prisons, US",96799,9510
 12,Florida,US,2021-07-08,27.7663,-81.6868,"Florida, US",9990655,1677207
-13,Georgia,US,2021-07-08,33.0406,-83.6431,"Georgia, US",4011668,729694
+13,Georgia,US,2021-07-08,33.0406,-83.6431,"Georgia, US",4022284,729694
 66,Guam,US,2021-07-08,13.4443,144.7937,"Guam, US",92044,11100
 15,Hawaii,US,2021-07-08,21.0943,-157.4983,"Hawaii, US",740149,253421
 16,Idaho,US,2021-07-08,44.2405,-114.4788,"Idaho, US",671919,61822
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-07-08,43.4525,-71.5639,"New Hampshire, US",771780,84350
 34,New Jersey,US,2021-07-08,40.2989,-74.521,"New Jersey, US",4965722,671218
 35,New Mexico,US,2021-07-08,34.8405,-106.2485,"New Mexico, US",1158358,171494
-36,New York,US,2021-07-08,42.1657,-74.9481,"New York, US",10668201,1129413
+36,New York,US,2021-07-08,42.1657,-74.9481,"New York, US",10687886,1129413
 37,North Carolina,US,2021-07-08,35.6301,-79.8064,"North Carolina, US",4527415,718831
 38,North Dakota,US,2021-07-08,47.5289,-99.78399999999999,"North Dakota, US",298201,38275
 69,Northern Mariana Islands,US,2021-07-08,15.0979,145.6739,"Northern Mariana Islands, US",27152,2801
@@ -49,9 +49,9 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2021-07-08,41.6809,-71.5118,"Rhode Island, US",696304,59297
 45,South Carolina,US,2021-07-08,33.8569,-80.945,"South Carolina, US",2015908,285048
 46,South Dakota,US,2021-07-08,44.2998,-99.4388,"South Dakota, US",404757,45523
-47,Tennessee,US,2021-07-08,35.7478,-86.6923,"Tennessee, US",2576074,337907
+47,Tennessee,US,2021-07-08,35.7478,-86.6923,"Tennessee, US",2581496,337907
 48,Texas,US,2021-07-08,31.0545,-97.5635,"Texas, US",12109858,2013475
-49,Utah,US,2021-07-08,40.15,-111.8624,"Utah, US",1420408,366089
+49,Utah,US,2021-07-08,40.15,-111.8624,"Utah, US",1423411,366089
 50,Vermont,US,2021-07-08,44.0459,-72.7107,"Vermont, US",418627,50951
 ,Veterans Health Administration,US,2021-07-08,,,"Veterans Health Administration, US",2697843,140002
 78,Virgin Islands,US,2021-07-08,18.3358,-64.8963,"Virgin Islands, US",35547,6031
