@@ -14,7 +14,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2021-07-14,27.7663,-81.6868,"Florida, US",10124706,1681978
 13,Georgia,US,2021-07-14,33.0406,-83.6431,"Georgia, US",4054622,735247
 66,Guam,US,2021-07-14,13.4443,144.7937,"Guam, US",94004,10664
-15,Hawaii,US,2021-07-14,21.0943,-157.4983,"Hawaii, US",832978,251597
+15,Hawaii,US,2021-07-14,21.0943,-157.4983,"Hawaii, US",836094,251597
 16,Idaho,US,2021-07-14,44.2405,-114.4788,"Idaho, US",676905,61371
 17,Illinois,US,2021-07-14,40.3495,-88.9861,"Illinois, US",6308745,1675502
 ,Indian Health Services,US,2021-07-14,,,"Indian Health Services, US",668709,140555
@@ -40,7 +40,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2021-07-14,42.1657,-74.9481,"New York, US",10789326,1111896
 37,North Carolina,US,2021-07-14,35.6301,-79.8064,"North Carolina, US",4746641,716000
 38,North Dakota,US,2021-07-14,47.5289,-99.78399999999999,"North Dakota, US",300266,38146
-69,Northern Mariana Islands,US,2021-07-14,15.0979,145.6739,"Northern Mariana Islands, US",28552,2575
+69,Northern Mariana Islands,US,2021-07-14,15.0979,145.6739,"Northern Mariana Islands, US",28571,2575
 39,Ohio,US,2021-07-14,40.3888,-82.7649,"Ohio, US",5327544,374839
 40,Oklahoma,US,2021-07-14,35.5653,-96.9289,"Oklahoma, US",1550004,257901
 41,Oregon,US,2021-07-14,44.571999999999996,-122.0709,"Oregon, US",2310662,199098
@@ -49,7 +49,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2021-07-14,41.6809,-71.5118,"Rhode Island, US",699963,58088
 45,South Carolina,US,2021-07-14,33.8569,-80.945,"South Carolina, US",2037482,283076
 46,South Dakota,US,2021-07-14,44.2998,-99.4388,"South Dakota, US",407552,45519
-47,Tennessee,US,2021-07-14,35.7478,-86.6923,"Tennessee, US",2601563,337300
+47,Tennessee,US,2021-07-14,35.7478,-86.6923,"Tennessee, US",2604097,337300
 48,Texas,US,2021-07-14,31.0545,-97.5635,"Texas, US",12273969,2011694
 49,Utah,US,2021-07-14,40.15,-111.8624,"Utah, US",1435924,366867
 50,Vermont,US,2021-07-14,44.0459,-72.7107,"Vermont, US",420630,50362
