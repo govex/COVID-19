@@ -12,10 +12,10 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2021-07-14,38.8974,-77.0268,"District of Columbia, US",469462,62409
 ,Federal Bureau of Prisons,US,2021-07-14,,,"Federal Bureau of Prisons, US",97875,8861
 12,Florida,US,2021-07-14,27.7663,-81.6868,"Florida, US",10124706,1681978
-13,Georgia,US,2021-07-14,33.0406,-83.6431,"Georgia, US",4054622,735247
+13,Georgia,US,2021-07-14,33.0406,-83.6431,"Georgia, US",4065668,735247
 66,Guam,US,2021-07-14,13.4443,144.7937,"Guam, US",94004,10664
 15,Hawaii,US,2021-07-14,21.0943,-157.4983,"Hawaii, US",836094,251597
-16,Idaho,US,2021-07-14,44.2405,-114.4788,"Idaho, US",676905,61371
+16,Idaho,US,2021-07-14,44.2405,-114.4788,"Idaho, US",677836,61371
 17,Illinois,US,2021-07-14,40.3495,-88.9861,"Illinois, US",6320119,1675502
 ,Indian Health Services,US,2021-07-14,,,"Indian Health Services, US",668709,140555
 18,Indiana,US,2021-07-14,39.8494,-86.2583,"Indiana, US",2907128,181041
@@ -50,12 +50,13 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2021-07-14,33.8569,-80.945,"South Carolina, US",2037482,283076
 46,South Dakota,US,2021-07-14,44.2998,-99.4388,"South Dakota, US",407552,45519
 47,Tennessee,US,2021-07-14,35.7478,-86.6923,"Tennessee, US",2604097,337300
-48,Texas,US,2021-07-14,31.0545,-97.5635,"Texas, US",12273969,2011694
+48,Texas,US,2021-07-14,31.0545,-97.5635,"Texas, US",12287982,2011694
 49,Utah,US,2021-07-14,40.15,-111.8624,"Utah, US",1435924,366867
 50,Vermont,US,2021-07-14,44.0459,-72.7107,"Vermont, US",421049,50362
+,Veterans Health Administration,US,2021-07-14,,,"Veterans Health Administration, US",2706958,138270
 78,Virgin Islands,US,2021-07-14,18.3358,-64.8963,"Virgin Islands, US",36003,6162
 51,Virginia,US,2021-07-14,37.7693,-78.17,"Virginia, US",4528412,596898
 53,Washington,US,2021-07-14,47.4009,-121.4905,"Washington, US",4273427,485909
-54,West Virginia,US,2021-07-14,38.4912,-80.9545,"West Virginia, US",757933,124523
+54,West Virginia,US,2021-07-14,38.4912,-80.9545,"West Virginia, US",758923,124523
 55,Wisconsin,US,2021-07-14,44.2685,-89.6165,"Wisconsin, US",2955325,211284
 56,Wyoming,US,2021-07-14,42.756,-107.3025,"Wyoming, US",207221,26530
