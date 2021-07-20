@@ -25,7 +25,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Long Term Care (LTC) Program,US,2021-07-20,,,"Long Term Care (LTC) Program, US",0,
 22,Louisiana,US,2021-07-20,31.1695,-91.8678,"Louisiana, US",1682980,173799
 23,Maine,US,2021-07-20,44.6939,-69.3819,"Maine, US",844706,62057
-24,Maryland,US,2021-07-20,39.0639,-76.8021,"Maryland, US",3501035,339178
+24,Maryland,US,2021-07-20,39.0639,-76.8021,"Maryland, US",3505895,339178
 25,Massachusetts,US,2021-07-20,42.2302,-71.5301,"Massachusetts, US",4354005,587908
 26,Michigan,US,2021-07-20,43.3266,-84.5361,"Michigan, US",4813230,410314
 27,Minnesota,US,2021-07-20,45.6945,-93.9002,"Minnesota, US",2996728,272853
@@ -35,7 +35,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2021-07-20,41.1254,-98.2681,"Nebraska, US",945092,76277
 32,Nevada,US,2021-07-20,38.3135,-117.0554,"Nevada, US",1337825,260690
 33,New Hampshire,US,2021-07-20,43.4525,-71.5639,"New Hampshire, US",784446,83913
-34,New Jersey,US,2021-07-20,40.2989,-74.521,"New Jersey, US",5175076,662453
+34,New Jersey,US,2021-07-20,40.2989,-74.521,"New Jersey, US",5181951,662453
 35,New Mexico,US,2021-07-20,34.8405,-106.2485,"New Mexico, US",1179795,168624
 36,New York,US,2021-07-20,42.1657,-74.9481,"New York, US",10902720,1107120
 37,North Carolina,US,2021-07-20,35.6301,-79.8064,"North Carolina, US",4791084,717610
@@ -52,11 +52,11 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 47,Tennessee,US,2021-07-20,35.7478,-86.6923,"Tennessee, US",2628590,342030
 48,Texas,US,2021-07-20,31.0545,-97.5635,"Texas, US",12427484,2013162
 49,Utah,US,2021-07-20,40.15,-111.8624,"Utah, US",1450738,222409
-50,Vermont,US,2021-07-20,44.0459,-72.7107,"Vermont, US",422640,49432
+50,Vermont,US,2021-07-20,44.0459,-72.7107,"Vermont, US",424168,49432
 ,Veterans Health Administration,US,2021-07-20,,,"Veterans Health Administration, US",2716311,138505
 78,Virgin Islands,US,2021-07-20,18.3358,-64.8963,"Virgin Islands, US",36537,6185
 51,Virginia,US,2021-07-20,37.7693,-78.17,"Virginia, US",4575899,590833
 53,Washington,US,2021-07-20,47.4009,-121.4905,"Washington, US",4316512,478600
-54,West Virginia,US,2021-07-20,38.4912,-80.9545,"West Virginia, US",763016,124234
+54,West Virginia,US,2021-07-20,38.4912,-80.9545,"West Virginia, US",763572,124234
 55,Wisconsin,US,2021-07-20,44.2685,-89.6165,"Wisconsin, US",2977825,209276
 56,Wyoming,US,2021-07-20,42.756,-107.3025,"Wyoming, US",208543,27060
