@@ -1,8 +1,8 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-07-22,32.3182,-86.9023,"Alabama, US",1662812,378476
-2,Alaska,US,2021-07-22,61.3707,-152.4044,"Alaska, US",331185,41533
+2,Alaska,US,2021-07-22,61.3707,-152.4044,"Alaska, US",331586,41533
 60,American Samoa,US,2021-07-22,-14.270999999999999,-170.132,"American Samoa, US",22868,4977
-4,Arizona,US,2021-07-22,33.7298,-111.4312,"Arizona, US",3303351,536680
+4,Arizona,US,2021-07-22,33.7298,-111.4312,"Arizona, US",3308483,536680
 5,Arkansas,US,2021-07-22,34.9697,-92.3731,"Arkansas, US",1074872,270894
 6,California,US,2021-07-22,36.1162,-119.6816,"California, US",20927113,4585205
 8,Colorado,US,2021-07-22,39.0598,-105.3111,"Colorado, US",3096731,327908
@@ -40,7 +40,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2021-07-22,42.1657,-74.9481,"New York, US",10954046,1113270
 37,North Carolina,US,2021-07-22,35.6301,-79.8064,"North Carolina, US",4854486,728063
 38,North Dakota,US,2021-07-22,47.5289,-99.78399999999999,"North Dakota, US",302806,38432
-69,Northern Mariana Islands,US,2021-07-22,15.0979,145.6739,"Northern Mariana Islands, US",29484,2856
+69,Northern Mariana Islands,US,2021-07-22,15.0979,145.6739,"Northern Mariana Islands, US",29497,2856
 39,Ohio,US,2021-07-22,40.3888,-82.7649,"Ohio, US",5378842,374325
 40,Oklahoma,US,2021-07-22,35.5653,-96.9289,"Oklahoma, US",1571398,271226
 41,Oregon,US,2021-07-22,44.571999999999996,-122.0709,"Oregon, US",2334660,193598
@@ -51,7 +51,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2021-07-22,44.2998,-99.4388,"South Dakota, US",411392,47412
 47,Tennessee,US,2021-07-22,35.7478,-86.6923,"Tennessee, US",2642790,347563
 48,Texas,US,2021-07-22,31.0545,-97.5635,"Texas, US",12503152,2066090
-49,Utah,US,2021-07-22,40.15,-111.8624,"Utah, US",1456605,225437
+49,Utah,US,2021-07-22,40.15,-111.8624,"Utah, US",1459208,225437
 50,Vermont,US,2021-07-22,44.0459,-72.7107,"Vermont, US",424910,49389
 ,Veterans Health Administration,US,2021-07-22,,,"Veterans Health Administration, US",2720320,139275
 78,Virgin Islands,US,2021-07-22,18.3358,-64.8963,"Virgin Islands, US",36841,6492
