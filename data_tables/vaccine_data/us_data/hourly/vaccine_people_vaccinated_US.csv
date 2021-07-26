@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-07-26,32.3182,-86.9023,"Alabama, US",1668818,389854
-2,Alaska,US,2021-07-26,61.3707,-152.4044,"Alaska, US",332065,42014
+2,Alaska,US,2021-07-26,61.3707,-152.4044,"Alaska, US",332755,42014
 60,American Samoa,US,2021-07-26,-14.270999999999999,-170.132,"American Samoa, US",22993,4987
 4,Arizona,US,2021-07-26,33.7298,-111.4312,"Arizona, US",3324353,544395
 5,Arkansas,US,2021-07-26,34.9697,-92.3731,"Arkansas, US",1085026,287603
@@ -12,7 +12,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2021-07-26,38.8974,-77.0268,"District of Columbia, US",480541,63688
 ,Federal Bureau of Prisons,US,2021-07-26,,,"Federal Bureau of Prisons, US",99204,8552
 12,Florida,US,2021-07-26,27.7663,-81.6868,"Florida, US",10407543,1770416
-13,Georgia,US,2021-07-26,33.0406,-83.6431,"Georgia, US",4136214,747902
+13,Georgia,US,2021-07-26,33.0406,-83.6431,"Georgia, US",4153478,747902
 66,Guam,US,2021-07-26,13.4443,144.7937,"Guam, US",97072,10016
 15,Hawaii,US,2021-07-26,21.0943,-157.4983,"Hawaii, US",848057,250826
 16,Idaho,US,2021-07-26,44.2405,-114.4788,"Idaho, US",684766,64011
