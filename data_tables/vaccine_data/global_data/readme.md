@@ -18,9 +18,11 @@
 
 - Non-US data sources at the country/region (Admin0) level: The international vaccine data includes Doses_admin, People_partially_vaccinated, People_fully_vaccinated. If the country does not report a variable, or the variable appears to be stale, we compare with Our World in Data and pick the most up-to-date data between the sources to produce composited data.
   - Argentina: Ministry of Health: http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina/archivo/b4684dd9-3cb7-45f7-9c0e-086550013e22
+  - Australia: COVID Live: https://covidlive.com.au/vaccinations
   - Austria: Department of Health: https://info.gesundheitsministerium.gv.at/?re=opendata
   - Bangladesh: Directorate General of Health Services: http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
   - Belgium: Institute of Health (Sciensano): https://covid-vaccinatie.be/en
+  - Bolivia: Ministry of Health and Sports: https://www.minsalud.gob.bo/
   - Brazil: Ministry of Health: https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
   - Bulgaria: Unified Information Portal: https://coronavirus.bg/bg/statistika
   - Canada: COVID-19 Tracker: https://covid19tracker.ca/vaccinationtracker.html
@@ -31,6 +33,7 @@
   - Denmark: Statum Serum Institute: https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1
   - Dominican Republic: Government of the Dominican Republic: https://vacunate.gob.do/
   - El Salvador: Government of El Salvador: https://covid19.gob.sv/
+  - Faroe Islands: The Government of the Faroe Islands: https://corona.fo/
   - Finland: Department of Health Welfare: https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta and https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html
   - France: Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
   - Germany: Federal Ministry of Health: https://impfdashboard.de/
@@ -40,6 +43,7 @@
   - Honduras: Government of the Republic of Honduras: http://www.salud.gob.hn/site/index.php/vacunascovid
   - Hong Kong: Government of Hong Kong Special Administration Region: https://www.covidvaccine.gov.hk/en/dashboard
   - India: Government of India: https://www.mygov.in/covid-19
+  - Indonesia: Ministry of Health of the Republic of Indonesia: https://vaksin.kemkes.go.id/#/vaccines
   - Israel: Israel Ministry of Health: https://datadashboard.health.gov.il/COVID-19/general
   - Ireland: Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/ 
   - Italy: Ministry of Health: https://www.governo.it/it/cscovid19/report-vaccini/
@@ -54,6 +58,7 @@
   - Malta: https://raw.githubusercontent.com/COVID19-Malta/
   - Mexico: Government of Mexico: https://coronavirus.gob.mx/noticias/
   - Mongolia: https://visual.ikon.mn/
+  - Montenegro: Government of Montenegro: https://www.covidodgovor.me/
   - Nepal: Ministry of Health and Population: https://covid19.mohp.gov.np/situation-report
   - New Zealand: Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
   - Netherlands, The: Central Government of the Netherlands: https://coronadashboard.rijksoverheid.nl/landelijk/vaccinaties
