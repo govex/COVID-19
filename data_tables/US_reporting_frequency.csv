@@ -11,10 +11,10 @@ Arizona,Cases,https://www.azdhs.gov/covid19/data/index.php,7/2/21,Y,Y,Y,Y,Y,Y,Y,
 Arizona,Deaths,https://www.azdhs.gov/covid19/data/index.php,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 Arizona,Tests,https://www.azdhs.gov/covid19/data/index.php,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 Arizona,Vaccines,https://www.azdhs.gov/covid19/data/index.php,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
-Arkansas,Cases,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-Arkansas,Deaths,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-Arkansas,Tests,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-Arkansas,Vaccines,https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9,7/2/21,Y,Y,Y,Y,Y,N,N,,5
+Arkansas,Cases,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,7/24/21,Y,Y,Y,Y,Y,Y,Y,,7
+Arkansas,Deaths,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,7/24/21,Y,Y,Y,Y,Y,Y,Y,,7
+Arkansas,Tests,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,7/24/21,Y,Y,Y,Y,Y,Y,Y,,7
+Arkansas,Vaccines,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,7/24/21,Y,Y,Y,Y,Y,Y,Y,,7
 California,Cases,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx,7/1/21,Y,Y,Y,Y,Y,Y,Y,,7
 California,Deaths,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx,7/1/21,Y,Y,Y,Y,Y,Y,Y,,7
 California,Tests,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx,7/1/21,Y,Y,Y,Y,Y,Y,Y,,7
@@ -119,10 +119,10 @@ Nevada,Cases,https://nvhealthresponse.nv.gov/,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Nevada,Deaths,https://nvhealthresponse.nv.gov/,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Nevada,Tests,https://nvhealthresponse.nv.gov/,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Nevada,Vaccines,https://nvhealthresponse.nv.gov/,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-New Hampshire,Cases,https://www.covid19.nh.gov/dashboard,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
-New Hampshire,Deaths,https://www.covid19.nh.gov/dashboard,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
-New Hampshire,Tests,https://www.covid19.nh.gov/dashboard,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
-New Hampshire,Vaccines,https://www.covid19.nh.gov/dashboard,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
+New Hampshire,Cases,https://www.covid19.nh.gov/dashboard,8/3/21,Y,Y,Y,Y,Y,N,N,,5
+New Hampshire,Deaths,https://www.covid19.nh.gov/dashboard,8/3/21,Y,Y,Y,Y,Y,N,N,,5
+New Hampshire,Tests,https://www.covid19.nh.gov/dashboard,8/3/21,Y,Y,Y,Y,Y,N,N,,5
+New Hampshire,Vaccines,https://www.covid19.nh.gov/dashboard,8/3/21,Y,Y,Y,Y,Y,N,N,,5
 New Jersey,Cases,https://covid19.nj.gov/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 New Jersey,Deaths,https://covid19.nj.gov/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 New Jersey,Tests,https://covid19.nj.gov/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7

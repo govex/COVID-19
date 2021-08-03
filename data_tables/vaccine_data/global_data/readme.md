@@ -33,6 +33,7 @@
   - Denmark: Statum Serum Institute: https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1
   - Dominican Republic: Government of the Dominican Republic: https://vacunate.gob.do/
   - El Salvador: Government of El Salvador: https://covid19.gob.sv/
+  - Equatorial Guinea: Ministry of Health and Social Welfare Equatorial Guinea: https://guineasalud.org/estadisticas/
   - Faroe Islands: The Government of the Faroe Islands: https://corona.fo/
   - Finland: Department of Health Welfare: https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta and https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html
   - France: Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
@@ -44,6 +45,7 @@
   - Hong Kong: Government of Hong Kong Special Administration Region: https://www.covidvaccine.gov.hk/en/dashboard
   - India: Government of India: https://www.mygov.in/covid-19
   - Indonesia: Ministry of Health of the Republic of Indonesia: https://vaksin.kemkes.go.id/#/vaccines
+  - Isle of Man: Isle of Man Government: https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
   - Israel: Israel Ministry of Health: https://datadashboard.health.gov.il/COVID-19/general
   - Ireland: Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/ 
   - Italy: Ministry of Health: https://www.governo.it/it/cscovid19/report-vaccini/
@@ -68,8 +70,11 @@
   - Peru: Ministry of Health: https://gis.minsa.gob.pe/GisVisorVacunados/
   - Poland: Government of Poland: https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
   - Portugal: General Health Management: https://esriportugal.maps.arcgis.com/apps/opsdashboard/index.html#/acf023da9a0b4f9dbb2332c13f635829
+  - Qatar: Ministry of Public Health: https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx
   - Romania: Ministry of Health: https://datelazi.ro/
   - Russia: Gogov: https://gogov.ru/articles/covid-v-stats 
+  - Saint Lucia: Ministry of Health: https://www.covid19response.lc
+  - San Marino: Social Security Institute: https://vaccinocovid.iss.sm/
   - Saudi Arabia: Ministry of Health: https://covid19.moh.gov.sa/
   - Senegal: Ministry of Health and Social Action: https://cartosantesen.maps.arcgis.com/apps/dashboards/260c7842a77a48c191bf51c8b0a1d3f6
   - Singapore: Ministry of Health: https://www.moh.gov.sg/covid-19
