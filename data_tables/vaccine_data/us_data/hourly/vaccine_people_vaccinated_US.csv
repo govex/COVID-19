@@ -12,7 +12,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2021-08-04,38.8974,-77.0268,"District of Columbia, US",387859,65707
 ,Federal Bureau of Prisons,US,2021-08-04,,,"Federal Bureau of Prisons, US",100258,9146
 12,Florida,US,2021-08-04,27.7663,-81.6868,"Florida, US",10551931,1987020
-13,Georgia,US,2021-08-04,33.0406,-83.6431,"Georgia, US",4159165,808534
+13,Georgia,US,2021-08-04,33.0406,-83.6431,"Georgia, US",4105643,808534
 66,Guam,US,2021-08-04,13.4443,144.7937,"Guam, US",103652,9822
 15,Hawaii,US,2021-08-04,21.0943,-157.4983,"Hawaii, US",858222,253902
 16,Idaho,US,2021-08-04,44.2405,-114.4788,"Idaho, US",694906,69152
@@ -29,7 +29,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-08-04,42.2302,-71.5301,"Massachusetts, US",4417348,606295
 26,Michigan,US,2021-08-04,43.3266,-84.5361,"Michigan, US",4890859,433288
 27,Minnesota,US,2021-08-04,45.6945,-93.9002,"Minnesota, US",3040861,292199
-28,Mississippi,US,2021-08-04,32.7416,-89.6787,"Mississippi, US",1038185,157323
+28,Mississippi,US,2021-08-04,32.7416,-89.6787,"Mississippi, US",1043017,157323
 29,Missouri,US,2021-08-04,38.4561,-92.2884,"Missouri, US",2549091,466675
 30,Montana,US,2021-08-04,46.9219,-110.4544,"Montana, US",474642,56031
 31,Nebraska,US,2021-08-04,41.1254,-98.2681,"Nebraska, US",960655,88650
@@ -46,7 +46,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2021-08-04,44.571999999999996,-122.0709,"Oregon, US",2366875,202872
 42,Pennsylvania,US,2021-08-04,40.5908,-77.2098,"Pennsylvania, US",6731236,1699934
 72,Puerto Rico,US,2021-08-04,18.2208,-66.5901,"Puerto Rico, US",1916897,285439
-44,Rhode Island,US,2021-08-04,41.6809,-71.5118,"Rhode Island, US",719406,63329
+44,Rhode Island,US,2021-08-04,41.6809,-71.5118,"Rhode Island, US",720846,63329
 45,South Carolina,US,2021-08-04,33.8569,-80.945,"South Carolina, US",2100297,328096
 46,South Dakota,US,2021-08-04,44.2998,-99.4388,"South Dakota, US",416490,52618
 47,Tennessee,US,2021-08-04,35.7478,-86.6923,"Tennessee, US",2687915,401710
@@ -57,6 +57,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-08-04,18.3358,-64.8963,"Virgin Islands, US",37739,8196
 51,Virginia,US,2021-08-04,37.7693,-78.17,"Virginia, US",4669654,624967
 53,Washington,US,2021-08-04,47.4009,-121.4905,"Washington, US",4403203,489305
-54,West Virginia,US,2021-08-04,38.4912,-80.9545,"West Virginia, US",773605,125702
+54,West Virginia,US,2021-08-04,38.4912,-80.9545,"West Virginia, US",774417,125702
 55,Wisconsin,US,2021-08-04,44.2685,-89.6165,"Wisconsin, US",3022244,229425
 56,Wyoming,US,2021-08-04,42.756,-107.3025,"Wyoming, US",212359,29453
