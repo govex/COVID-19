@@ -5,7 +5,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2021-08-05,33.7298,-111.4312,"Arizona, US",3360281,588789
 5,Arkansas,US,2021-08-05,34.9697,-92.3731,"Arkansas, US",1121950,334862
 6,California,US,2021-08-05,36.1162,-119.6816,"California, US",21458452,4817694
-8,Colorado,US,2021-08-05,39.0598,-105.3111,"Colorado, US",3152572,347393
+8,Colorado,US,2021-08-05,39.0598,-105.3111,"Colorado, US",3200348,347393
 9,Connecticut,US,2021-08-05,41.5978,-72.7554,"Connecticut, US",2267356,243435
 10,Delaware,US,2021-08-05,39.3185,-75.5071,"Delaware, US",516584,79576
 ,Department of Defense,US,2021-08-05,,,"Department of Defense, US",1980997,592264
@@ -14,7 +14,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2021-08-05,27.7663,-81.6868,"Florida, US",10588372,2049505
 13,Georgia,US,2021-08-05,33.0406,-83.6431,"Georgia, US",4198472,864170
 66,Guam,US,2021-08-05,13.4443,144.7937,"Guam, US",103766,9770
-15,Hawaii,US,2021-08-05,21.0943,-157.4983,"Hawaii, US",859358,255125
+15,Hawaii,US,2021-08-05,21.0943,-157.4983,"Hawaii, US",860517,255125
 16,Idaho,US,2021-08-05,44.2405,-114.4788,"Idaho, US",697176,70708
 17,Illinois,US,2021-08-05,40.3495,-88.9861,"Illinois, US",6535148,1782600
 ,Indian Health Services,US,2021-08-05,,,"Indian Health Services, US",685141,151354
