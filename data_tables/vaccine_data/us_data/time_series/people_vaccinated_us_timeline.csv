@@ -238,6 +238,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2021-08-03,32.3182,-86.9023,"Alabama, US",1693504,460975
 1,Alabama,US,2021-08-04,32.3182,-86.9023,"Alabama, US",1696031,468017
 1,Alabama,US,2021-08-05,32.3182,-86.9023,"Alabama, US",1697144,471282
+1,Alabama,US,2021-08-06,32.3182,-86.9023,"Alabama, US",1703519,489131
 2,Alaska,US,2020-12-10,61.3707,-152.4044,"Alaska, US",,
 2,Alaska,US,2020-12-11,61.3707,-152.4044,"Alaska, US",,
 2,Alaska,US,2020-12-12,61.3707,-152.4044,"Alaska, US",,
@@ -477,245 +478,247 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2021-08-03,61.3707,-152.4044,"Alaska, US",335764,44516
 2,Alaska,US,2021-08-04,61.3707,-152.4044,"Alaska, US",336127,44756
 2,Alaska,US,2021-08-05,61.3707,-152.4044,"Alaska, US",336513,45143
-60,American Samoa,US,2020-12-10,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-11,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-12,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-13,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-14,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-15,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-16,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-17,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-18,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-19,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-20,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-21,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-22,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-23,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-24,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-25,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-26,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-27,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-28,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-29,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-30,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2020-12-31,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-01,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-02,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-03,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-04,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-05,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-06,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-07,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-08,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-09,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-10,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-11,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-12,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-13,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-14,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-15,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-16,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-17,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-18,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-19,-14.271,-170.132,"American Samoa, US",,
-60,American Samoa,US,2021-01-20,-14.271,-170.132,"American Samoa, US",770,3640
-60,American Samoa,US,2021-01-21,-14.271,-170.132,"American Samoa, US",836,3805
-60,American Samoa,US,2021-01-22,-14.271,-170.132,"American Samoa, US",929,4687
-60,American Samoa,US,2021-01-23,-14.271,-170.132,"American Samoa, US",940,4933
-60,American Samoa,US,2021-01-24,-14.271,-170.132,"American Samoa, US",948,6148
-60,American Samoa,US,2021-01-25,-14.271,-170.132,"American Samoa, US",948,6148
-60,American Samoa,US,2021-01-26,-14.271,-170.132,"American Samoa, US",948,6417
-60,American Samoa,US,2021-01-27,-14.271,-170.132,"American Samoa, US",948,7183
-60,American Samoa,US,2021-01-28,-14.271,-170.132,"American Samoa, US",950,7183
-60,American Samoa,US,2021-01-29,-14.271,-170.132,"American Samoa, US",950,7929
-60,American Samoa,US,2021-01-30,-14.271,-170.132,"American Samoa, US",997,7929
-60,American Samoa,US,2021-01-31,-14.271,-170.132,"American Samoa, US",997,7929
-60,American Samoa,US,2021-02-01,-14.271,-170.132,"American Samoa, US",997,8667
-60,American Samoa,US,2021-02-02,-14.271,-170.132,"American Samoa, US",1046,8667
-60,American Samoa,US,2021-02-03,-14.271,-170.132,"American Samoa, US",1046,8454
-60,American Samoa,US,2021-02-04,-14.271,-170.132,"American Samoa, US",1305,8267
-60,American Samoa,US,2021-02-05,-14.271,-170.132,"American Samoa, US",1494,7523
-60,American Samoa,US,2021-02-06,-14.271,-170.132,"American Samoa, US",2252,7301
-60,American Samoa,US,2021-02-07,-14.271,-170.132,"American Samoa, US",2478,7301
-60,American Samoa,US,2021-02-08,-14.271,-170.132,"American Samoa, US",2478,7301
-60,American Samoa,US,2021-02-09,-14.271,-170.132,"American Samoa, US",2478,6907
-60,American Samoa,US,2021-02-10,-14.271,-170.132,"American Samoa, US",2885,6324
-60,American Samoa,US,2021-02-11,-14.271,-170.132,"American Samoa, US",3494,6137
-60,American Samoa,US,2021-02-12,-14.271,-170.132,"American Samoa, US",3685,5089
-60,American Samoa,US,2021-02-13,-14.271,-170.132,"American Samoa, US",4968,4754
-60,American Samoa,US,2021-02-14,-14.271,-170.132,"American Samoa, US",5308,4754
-60,American Samoa,US,2021-02-15,-14.271,-170.132,"American Samoa, US",5308,4754
-60,American Samoa,US,2021-02-16,-14.271,-170.132,"American Samoa, US",5308,4376
-60,American Samoa,US,2021-02-17,-14.271,-170.132,"American Samoa, US",5860,4278
-60,American Samoa,US,2021-02-18,-14.271,-170.132,"American Samoa, US",5989,4278
-60,American Samoa,US,2021-02-19,-14.271,-170.132,"American Samoa, US",5989,4278
-60,American Samoa,US,2021-02-20,-14.271,-170.132,"American Samoa, US",5989,3938
-60,American Samoa,US,2021-02-21,-14.271,-170.132,"American Samoa, US",6893,3137
-60,American Samoa,US,2021-02-22,-14.271,-170.132,"American Samoa, US",7811,3236
-60,American Samoa,US,2021-02-23,-14.271,-170.132,"American Samoa, US",7859,3236
-60,American Samoa,US,2021-02-24,-14.271,-170.132,"American Samoa, US",7859,3835
-60,American Samoa,US,2021-02-25,-14.271,-170.132,"American Samoa, US",8020,3835
-60,American Samoa,US,2021-02-26,-14.271,-170.132,"American Samoa, US",8020,4314
-60,American Samoa,US,2021-02-27,-14.271,-170.132,"American Samoa, US",8079,4317
-60,American Samoa,US,2021-02-28,-14.271,-170.132,"American Samoa, US",8079,4318
-60,American Samoa,US,2021-03-01,-14.271,-170.132,"American Samoa, US",8079,4318
-60,American Samoa,US,2021-03-02,-14.271,-170.132,"American Samoa, US",8080,4929
-60,American Samoa,US,2021-03-03,-14.271,-170.132,"American Samoa, US",8142,4930
-60,American Samoa,US,2021-03-04,-14.271,-170.132,"American Samoa, US",8142,5259
-60,American Samoa,US,2021-03-05,-14.271,-170.132,"American Samoa, US",8252,5260
-60,American Samoa,US,2021-03-06,-14.271,-170.132,"American Samoa, US",8252,5260
-60,American Samoa,US,2021-03-07,-14.271,-170.132,"American Samoa, US",8252,5261
-60,American Samoa,US,2021-03-08,-14.271,-170.132,"American Samoa, US",8252,5215
-60,American Samoa,US,2021-03-09,-14.271,-170.132,"American Samoa, US",8254,5217
-60,American Samoa,US,2021-03-10,-14.271,-170.132,"American Samoa, US",8254,6379
-60,American Samoa,US,2021-03-11,-14.271,-170.132,"American Samoa, US",8706,6379
-60,American Samoa,US,2021-03-12,-14.271,-170.132,"American Samoa, US",8706,6379
-60,American Samoa,US,2021-03-13,-14.271,-170.132,"American Samoa, US",8706,6369
-60,American Samoa,US,2021-03-14,-14.271,-170.132,"American Samoa, US",8713,6370
-60,American Samoa,US,2021-03-15,-14.271,-170.132,"American Samoa, US",8713,6354
-60,American Samoa,US,2021-03-16,-14.271,-170.132,"American Samoa, US",9023,6354
-60,American Samoa,US,2021-03-17,-14.271,-170.132,"American Samoa, US",9024,6354
-60,American Samoa,US,2021-03-18,-14.271,-170.132,"American Samoa, US",9025,6356
-60,American Samoa,US,2021-03-19,-14.271,-170.132,"American Samoa, US",9025,6357
-60,American Samoa,US,2021-03-20,-14.271,-170.132,"American Samoa, US",9026,6357
-60,American Samoa,US,2021-03-21,-14.271,-170.132,"American Samoa, US",9027,6358
-60,American Samoa,US,2021-03-22,-14.271,-170.132,"American Samoa, US",9028,6720
-60,American Samoa,US,2021-03-23,-14.271,-170.132,"American Samoa, US",10196,6874
-60,American Samoa,US,2021-03-24,-14.271,-170.132,"American Samoa, US",10240,6819
-60,American Samoa,US,2021-03-25,-14.271,-170.132,"American Samoa, US",10552,6819
-60,American Samoa,US,2021-03-26,-14.271,-170.132,"American Samoa, US",10566,6505
-60,American Samoa,US,2021-03-27,-14.271,-170.132,"American Samoa, US",11043,6521
-60,American Samoa,US,2021-03-28,-14.271,-170.132,"American Samoa, US",11046,6523
-60,American Samoa,US,2021-03-29,-14.271,-170.132,"American Samoa, US",11047,6526
-60,American Samoa,US,2021-03-30,-14.271,-170.132,"American Samoa, US",11049,6258
-60,American Samoa,US,2021-03-31,-14.271,-170.132,"American Samoa, US",11460,4450
-60,American Samoa,US,2021-04-01,-14.271,-170.132,"American Samoa, US",13406,4450
-60,American Samoa,US,2021-04-02,-14.271,-170.132,"American Samoa, US",13406,4343
-60,American Samoa,US,2021-04-03,-14.271,-170.132,"American Samoa, US",13754,4342
-60,American Samoa,US,2021-04-04,-14.271,-170.132,"American Samoa, US",13755,4344
-60,American Samoa,US,2021-04-05,-14.271,-170.132,"American Samoa, US",13755,4345
-60,American Samoa,US,2021-04-06,-14.271,-170.132,"American Samoa, US",13755,4345
-60,American Samoa,US,2021-04-07,-14.271,-170.132,"American Samoa, US",13755,4261
-60,American Samoa,US,2021-04-08,-14.271,-170.132,"American Samoa, US",14337,4312
-60,American Samoa,US,2021-04-09,-14.271,-170.132,"American Samoa, US",14338,4158
-60,American Samoa,US,2021-04-10,-14.271,-170.132,"American Samoa, US",14737,4158
-60,American Samoa,US,2021-04-11,-14.271,-170.132,"American Samoa, US",14737,4560
-60,American Samoa,US,2021-04-12,-14.271,-170.132,"American Samoa, US",14846,4560
-60,American Samoa,US,2021-04-13,-14.271,-170.132,"American Samoa, US",14846,4562
-60,American Samoa,US,2021-04-14,-14.271,-170.132,"American Samoa, US",14846,4393
-60,American Samoa,US,2021-04-15,-14.271,-170.132,"American Samoa, US",15239,4394
-60,American Samoa,US,2021-04-16,-14.271,-170.132,"American Samoa, US",15807,4440
-60,American Samoa,US,2021-04-17,-14.271,-170.132,"American Samoa, US",15807,4441
-60,American Samoa,US,2021-04-18,-14.271,-170.132,"American Samoa, US",15809,4439
-60,American Samoa,US,2021-04-19,-14.271,-170.132,"American Samoa, US",15809,4444
-60,American Samoa,US,2021-04-20,-14.271,-170.132,"American Samoa, US",15811,4444
-60,American Samoa,US,2021-04-21,-14.271,-170.132,"American Samoa, US",15849,4492
-60,American Samoa,US,2021-04-22,-14.271,-170.132,"American Samoa, US",15849,4493
-60,American Samoa,US,2021-04-23,-14.271,-170.132,"American Samoa, US",16454,4447
-60,American Samoa,US,2021-04-24,-14.271,-170.132,"American Samoa, US",16455,4447
-60,American Samoa,US,2021-04-25,-14.271,-170.132,"American Samoa, US",16553,4612
-60,American Samoa,US,2021-04-26,-14.271,-170.132,"American Samoa, US",16557,4608
-60,American Samoa,US,2021-04-27,-14.271,-170.132,"American Samoa, US",16650,4634
-60,American Samoa,US,2021-04-28,-14.271,-170.132,"American Samoa, US",16650,4634
-60,American Samoa,US,2021-04-29,-14.271,-170.132,"American Samoa, US",16914,4638
-60,American Samoa,US,2021-04-30,-14.271,-170.132,"American Samoa, US",17141,4590
-60,American Samoa,US,2021-05-01,-14.271,-170.132,"American Samoa, US",17142,4590
-60,American Samoa,US,2021-05-02,-14.271,-170.132,"American Samoa, US",17142,4590
-60,American Samoa,US,2021-05-03,-14.271,-170.132,"American Samoa, US",17142,4590
-60,American Samoa,US,2021-05-04,-14.271,-170.132,"American Samoa, US",17142,4551
-60,American Samoa,US,2021-05-05,-14.271,-170.132,"American Samoa, US",17399,4603
-60,American Samoa,US,2021-05-06,-14.271,-170.132,"American Samoa, US",17399,4603
-60,American Samoa,US,2021-05-07,-14.271,-170.132,"American Samoa, US",17694,4425
-60,American Samoa,US,2021-05-08,-14.271,-170.132,"American Samoa, US",17694,4428
-60,American Samoa,US,2021-05-09,-14.271,-170.132,"American Samoa, US",17695,4427
-60,American Samoa,US,2021-05-10,-14.271,-170.132,"American Samoa, US",17695,4427
-60,American Samoa,US,2021-05-11,-14.271,-170.132,"American Samoa, US",17697,4425
-60,American Samoa,US,2021-05-12,-14.271,-170.132,"American Samoa, US",17698,4424
-60,American Samoa,US,2021-05-13,-14.271,-170.132,"American Samoa, US",17911,4423
-60,American Samoa,US,2021-05-14,-14.271,-170.132,"American Samoa, US",17911,4424
-60,American Samoa,US,2021-05-15,-14.271,-170.132,"American Samoa, US",18182,4316
-60,American Samoa,US,2021-05-16,-14.271,-170.132,"American Samoa, US",18182,4316
-60,American Samoa,US,2021-05-17,-14.271,-170.132,"American Samoa, US",18182,4316
-60,American Samoa,US,2021-05-18,-14.271,-170.132,"American Samoa, US",18182,4316
-60,American Samoa,US,2021-05-19,-14.271,-170.132,"American Samoa, US",18655,4309
-60,American Samoa,US,2021-05-20,-14.271,-170.132,"American Samoa, US",18657,4307
-60,American Samoa,US,2021-05-21,-14.271,-170.132,"American Samoa, US",18900,4260
-60,American Samoa,US,2021-05-22,-14.271,-170.132,"American Samoa, US",18900,4260
-60,American Samoa,US,2021-05-23,-14.271,-170.132,"American Samoa, US",18900,4260
-60,American Samoa,US,2021-05-24,-14.271,-170.132,"American Samoa, US",18902,4259
-60,American Samoa,US,2021-05-25,-14.271,-170.132,"American Samoa, US",18902,4259
-60,American Samoa,US,2021-05-26,-14.271,-170.132,"American Samoa, US",18902,4259
-60,American Samoa,US,2021-05-27,-14.271,-170.132,"American Samoa, US",19250,4169
-60,American Samoa,US,2021-05-28,-14.271,-170.132,"American Samoa, US",19251,4168
-60,American Samoa,US,2021-05-29,-14.271,-170.132,"American Samoa, US",19251,4168
-60,American Samoa,US,2021-05-30,-14.271,-170.132,"American Samoa, US",19251,4168
-60,American Samoa,US,2021-05-31,-14.271,-170.132,"American Samoa, US",19251,4168
-60,American Samoa,US,2021-06-01,-14.271,-170.132,"American Samoa, US",19252,4167
-60,American Samoa,US,2021-06-02,-14.271,-170.132,"American Samoa, US",19400,4406
-60,American Samoa,US,2021-06-03,-14.271,-170.132,"American Samoa, US",19403,4404
-60,American Samoa,US,2021-06-04,-14.271,-170.132,"American Samoa, US",19403,4404
-60,American Samoa,US,2021-06-05,-14.271,-170.132,"American Samoa, US",19590,4392
-60,American Samoa,US,2021-06-06,-14.271,-170.132,"American Samoa, US",19590,4392
-60,American Samoa,US,2021-06-07,-14.271,-170.132,"American Samoa, US",19590,4392
-60,American Samoa,US,2021-06-08,-14.271,-170.132,"American Samoa, US",19590,4392
-60,American Samoa,US,2021-06-09,-14.271,-170.132,"American Samoa, US",19590,4392
-60,American Samoa,US,2021-06-10,-14.271,-170.132,"American Samoa, US",19591,4391
-60,American Samoa,US,2021-06-11,-14.271,-170.132,"American Samoa, US",19757,4403
-60,American Samoa,US,2021-06-12,-14.271,-170.132,"American Samoa, US",19758,4402
-60,American Samoa,US,2021-06-13,-14.271,-170.132,"American Samoa, US",19928,4403
-60,American Samoa,US,2021-06-14,-14.271,-170.132,"American Samoa, US",19928,4403
-60,American Samoa,US,2021-06-15,-14.271,-170.132,"American Samoa, US",20103,4449
-60,American Samoa,US,2021-06-16,-14.271,-170.132,"American Samoa, US",20249,4435
-60,American Samoa,US,2021-06-17,-14.271,-170.132,"American Samoa, US",20249,4435
-60,American Samoa,US,2021-06-18,-14.271,-170.132,"American Samoa, US",20419,4498
-60,American Samoa,US,2021-06-19,-14.271,-170.132,"American Samoa, US",20419,4498
-60,American Samoa,US,2021-06-20,-14.271,-170.132,"American Samoa, US",20419,4498
-60,American Samoa,US,2021-06-21,-14.271,-170.132,"American Samoa, US",20419,4498
-60,American Samoa,US,2021-06-22,-14.271,-170.132,"American Samoa, US",20561,4544
-60,American Samoa,US,2021-06-23,-14.271,-170.132,"American Samoa, US",20561,4544
-60,American Samoa,US,2021-06-24,-14.271,-170.132,"American Samoa, US",20792,4529
-60,American Samoa,US,2021-06-25,-14.271,-170.132,"American Samoa, US",20966,4505
-60,American Samoa,US,2021-06-26,-14.271,-170.132,"American Samoa, US",20990,4517
-60,American Samoa,US,2021-06-27,-14.271,-170.132,"American Samoa, US",20991,4516
-60,American Samoa,US,2021-06-28,-14.271,-170.132,"American Samoa, US",20991,4516
-60,American Samoa,US,2021-06-29,-14.271,-170.132,"American Samoa, US",20991,4516
-60,American Samoa,US,2021-06-30,-14.271,-170.132,"American Samoa, US",20991,4516
-60,American Samoa,US,2021-07-01,-14.271,-170.132,"American Samoa, US",21291,4648
-60,American Samoa,US,2021-07-02,-14.271,-170.132,"American Samoa, US",21448,4611
-60,American Samoa,US,2021-07-03,-14.271,-170.132,"American Samoa, US",21481,4607
-60,American Samoa,US,2021-07-04,-14.271,-170.132,"American Samoa, US",21583,4643
-60,American Samoa,US,2021-07-05,-14.271,-170.132,"American Samoa, US",21583,4643
-60,American Samoa,US,2021-07-06,-14.271,-170.132,"American Samoa, US",21583,4643
-60,American Samoa,US,2021-07-07,-14.271,-170.132,"American Samoa, US",21681,4814
-60,American Samoa,US,2021-07-08,-14.271,-170.132,"American Samoa, US",21714,4815
-60,American Samoa,US,2021-07-09,-14.271,-170.132,"American Samoa, US",21973,4744
-60,American Samoa,US,2021-07-10,-14.271,-170.132,"American Samoa, US",21997,4738
-60,American Samoa,US,2021-07-11,-14.271,-170.132,"American Samoa, US",21997,4738
-60,American Samoa,US,2021-07-12,-14.271,-170.132,"American Samoa, US",21998,4738
-60,American Samoa,US,2021-07-13,-14.271,-170.132,"American Samoa, US",22234,4849
-60,American Samoa,US,2021-07-14,-14.271,-170.132,"American Samoa, US",22388,4891
-60,American Samoa,US,2021-07-15,-14.271,-170.132,"American Samoa, US",22423,4906
-60,American Samoa,US,2021-07-16,-14.271,-170.132,"American Samoa, US",22580,4929
-60,American Samoa,US,2021-07-17,-14.271,-170.132,"American Samoa, US",22580,4929
-60,American Samoa,US,2021-07-18,-14.271,-170.132,"American Samoa, US",22580,4929
-60,American Samoa,US,2021-07-19,-14.271,-170.132,"American Samoa, US",22580,4929
-60,American Samoa,US,2021-07-20,-14.271,-170.132,"American Samoa, US",22643,4943
-60,American Samoa,US,2021-07-21,-14.271,-170.132,"American Samoa, US",22843,4971
-60,American Samoa,US,2021-07-22,-14.271,-170.132,"American Samoa, US",22868,4977
-60,American Samoa,US,2021-07-23,-14.271,-170.132,"American Samoa, US",22870,4977
-60,American Samoa,US,2021-07-24,-14.271,-170.132,"American Samoa, US",22993,4987
-60,American Samoa,US,2021-07-25,-14.271,-170.132,"American Samoa, US",22993,4987
-60,American Samoa,US,2021-07-26,-14.271,-170.132,"American Samoa, US",23405,5091
-60,American Samoa,US,2021-07-27,-14.271,-170.132,"American Samoa, US",23405,5091
-60,American Samoa,US,2021-07-28,-14.271,-170.132,"American Samoa, US",23558,5209
-60,American Samoa,US,2021-07-29,-14.271,-170.132,"American Samoa, US",23559,5208
-60,American Samoa,US,2021-07-30,-14.271,-170.132,"American Samoa, US",23560,5208
-60,American Samoa,US,2021-07-31,-14.271,-170.132,"American Samoa, US",23700,5222
-60,American Samoa,US,2021-08-01,-14.271,-170.132,"American Samoa, US",23700,5222
-60,American Samoa,US,2021-08-02,-14.271,-170.132,"American Samoa, US",23859,5149
-60,American Samoa,US,2021-08-03,-14.271,-170.132,"American Samoa, US",23859,5149
-60,American Samoa,US,2021-08-04,-14.271,-170.132,"American Samoa, US",24042,5126
-60,American Samoa,US,2021-08-05,-14.271,-170.132,"American Samoa, US",24043,5125
+2,Alaska,US,2021-08-06,61.3707,-152.4044,"Alaska, US",336928,45480
+60,American Samoa,US,2020-12-10,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-11,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-12,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-13,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-14,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-15,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-16,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-17,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-18,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-19,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-20,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-21,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-22,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-23,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-24,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-25,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-26,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-27,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-28,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-29,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-30,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2020-12-31,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-01,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-02,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-03,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-04,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-05,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-06,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-07,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-08,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-09,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-10,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-11,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-12,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-13,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-14,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-15,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-16,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-17,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-18,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-19,-14.270999999999999,-170.132,"American Samoa, US",,
+60,American Samoa,US,2021-01-20,-14.270999999999999,-170.132,"American Samoa, US",770,3640
+60,American Samoa,US,2021-01-21,-14.270999999999999,-170.132,"American Samoa, US",836,3805
+60,American Samoa,US,2021-01-22,-14.270999999999999,-170.132,"American Samoa, US",929,4687
+60,American Samoa,US,2021-01-23,-14.270999999999999,-170.132,"American Samoa, US",940,4933
+60,American Samoa,US,2021-01-24,-14.270999999999999,-170.132,"American Samoa, US",948,6148
+60,American Samoa,US,2021-01-25,-14.270999999999999,-170.132,"American Samoa, US",948,6148
+60,American Samoa,US,2021-01-26,-14.270999999999999,-170.132,"American Samoa, US",948,6417
+60,American Samoa,US,2021-01-27,-14.270999999999999,-170.132,"American Samoa, US",948,7183
+60,American Samoa,US,2021-01-28,-14.270999999999999,-170.132,"American Samoa, US",950,7183
+60,American Samoa,US,2021-01-29,-14.270999999999999,-170.132,"American Samoa, US",950,7929
+60,American Samoa,US,2021-01-30,-14.270999999999999,-170.132,"American Samoa, US",997,7929
+60,American Samoa,US,2021-01-31,-14.270999999999999,-170.132,"American Samoa, US",997,7929
+60,American Samoa,US,2021-02-01,-14.270999999999999,-170.132,"American Samoa, US",997,8667
+60,American Samoa,US,2021-02-02,-14.270999999999999,-170.132,"American Samoa, US",1046,8667
+60,American Samoa,US,2021-02-03,-14.270999999999999,-170.132,"American Samoa, US",1046,8454
+60,American Samoa,US,2021-02-04,-14.270999999999999,-170.132,"American Samoa, US",1305,8267
+60,American Samoa,US,2021-02-05,-14.270999999999999,-170.132,"American Samoa, US",1494,7523
+60,American Samoa,US,2021-02-06,-14.270999999999999,-170.132,"American Samoa, US",2252,7301
+60,American Samoa,US,2021-02-07,-14.270999999999999,-170.132,"American Samoa, US",2478,7301
+60,American Samoa,US,2021-02-08,-14.270999999999999,-170.132,"American Samoa, US",2478,7301
+60,American Samoa,US,2021-02-09,-14.270999999999999,-170.132,"American Samoa, US",2478,6907
+60,American Samoa,US,2021-02-10,-14.270999999999999,-170.132,"American Samoa, US",2885,6324
+60,American Samoa,US,2021-02-11,-14.270999999999999,-170.132,"American Samoa, US",3494,6137
+60,American Samoa,US,2021-02-12,-14.270999999999999,-170.132,"American Samoa, US",3685,5089
+60,American Samoa,US,2021-02-13,-14.270999999999999,-170.132,"American Samoa, US",4968,4754
+60,American Samoa,US,2021-02-14,-14.270999999999999,-170.132,"American Samoa, US",5308,4754
+60,American Samoa,US,2021-02-15,-14.270999999999999,-170.132,"American Samoa, US",5308,4754
+60,American Samoa,US,2021-02-16,-14.270999999999999,-170.132,"American Samoa, US",5308,4376
+60,American Samoa,US,2021-02-17,-14.270999999999999,-170.132,"American Samoa, US",5860,4278
+60,American Samoa,US,2021-02-18,-14.270999999999999,-170.132,"American Samoa, US",5989,4278
+60,American Samoa,US,2021-02-19,-14.270999999999999,-170.132,"American Samoa, US",5989,4278
+60,American Samoa,US,2021-02-20,-14.270999999999999,-170.132,"American Samoa, US",5989,3938
+60,American Samoa,US,2021-02-21,-14.270999999999999,-170.132,"American Samoa, US",6893,3137
+60,American Samoa,US,2021-02-22,-14.270999999999999,-170.132,"American Samoa, US",7811,3236
+60,American Samoa,US,2021-02-23,-14.270999999999999,-170.132,"American Samoa, US",7859,3236
+60,American Samoa,US,2021-02-24,-14.270999999999999,-170.132,"American Samoa, US",7859,3835
+60,American Samoa,US,2021-02-25,-14.270999999999999,-170.132,"American Samoa, US",8020,3835
+60,American Samoa,US,2021-02-26,-14.270999999999999,-170.132,"American Samoa, US",8020,4314
+60,American Samoa,US,2021-02-27,-14.270999999999999,-170.132,"American Samoa, US",8079,4317
+60,American Samoa,US,2021-02-28,-14.270999999999999,-170.132,"American Samoa, US",8079,4318
+60,American Samoa,US,2021-03-01,-14.270999999999999,-170.132,"American Samoa, US",8079,4318
+60,American Samoa,US,2021-03-02,-14.270999999999999,-170.132,"American Samoa, US",8080,4929
+60,American Samoa,US,2021-03-03,-14.270999999999999,-170.132,"American Samoa, US",8142,4930
+60,American Samoa,US,2021-03-04,-14.270999999999999,-170.132,"American Samoa, US",8142,5259
+60,American Samoa,US,2021-03-05,-14.270999999999999,-170.132,"American Samoa, US",8252,5260
+60,American Samoa,US,2021-03-06,-14.270999999999999,-170.132,"American Samoa, US",8252,5260
+60,American Samoa,US,2021-03-07,-14.270999999999999,-170.132,"American Samoa, US",8252,5261
+60,American Samoa,US,2021-03-08,-14.270999999999999,-170.132,"American Samoa, US",8252,5215
+60,American Samoa,US,2021-03-09,-14.270999999999999,-170.132,"American Samoa, US",8254,5217
+60,American Samoa,US,2021-03-10,-14.270999999999999,-170.132,"American Samoa, US",8254,6379
+60,American Samoa,US,2021-03-11,-14.270999999999999,-170.132,"American Samoa, US",8706,6379
+60,American Samoa,US,2021-03-12,-14.270999999999999,-170.132,"American Samoa, US",8706,6379
+60,American Samoa,US,2021-03-13,-14.270999999999999,-170.132,"American Samoa, US",8706,6369
+60,American Samoa,US,2021-03-14,-14.270999999999999,-170.132,"American Samoa, US",8713,6370
+60,American Samoa,US,2021-03-15,-14.270999999999999,-170.132,"American Samoa, US",8713,6354
+60,American Samoa,US,2021-03-16,-14.270999999999999,-170.132,"American Samoa, US",9023,6354
+60,American Samoa,US,2021-03-17,-14.270999999999999,-170.132,"American Samoa, US",9024,6354
+60,American Samoa,US,2021-03-18,-14.270999999999999,-170.132,"American Samoa, US",9025,6356
+60,American Samoa,US,2021-03-19,-14.270999999999999,-170.132,"American Samoa, US",9025,6357
+60,American Samoa,US,2021-03-20,-14.270999999999999,-170.132,"American Samoa, US",9026,6357
+60,American Samoa,US,2021-03-21,-14.270999999999999,-170.132,"American Samoa, US",9027,6358
+60,American Samoa,US,2021-03-22,-14.270999999999999,-170.132,"American Samoa, US",9028,6720
+60,American Samoa,US,2021-03-23,-14.270999999999999,-170.132,"American Samoa, US",10196,6874
+60,American Samoa,US,2021-03-24,-14.270999999999999,-170.132,"American Samoa, US",10240,6819
+60,American Samoa,US,2021-03-25,-14.270999999999999,-170.132,"American Samoa, US",10552,6819
+60,American Samoa,US,2021-03-26,-14.270999999999999,-170.132,"American Samoa, US",10566,6505
+60,American Samoa,US,2021-03-27,-14.270999999999999,-170.132,"American Samoa, US",11043,6521
+60,American Samoa,US,2021-03-28,-14.270999999999999,-170.132,"American Samoa, US",11046,6523
+60,American Samoa,US,2021-03-29,-14.270999999999999,-170.132,"American Samoa, US",11047,6526
+60,American Samoa,US,2021-03-30,-14.270999999999999,-170.132,"American Samoa, US",11049,6258
+60,American Samoa,US,2021-03-31,-14.270999999999999,-170.132,"American Samoa, US",11460,4450
+60,American Samoa,US,2021-04-01,-14.270999999999999,-170.132,"American Samoa, US",13406,4450
+60,American Samoa,US,2021-04-02,-14.270999999999999,-170.132,"American Samoa, US",13406,4343
+60,American Samoa,US,2021-04-03,-14.270999999999999,-170.132,"American Samoa, US",13754,4342
+60,American Samoa,US,2021-04-04,-14.270999999999999,-170.132,"American Samoa, US",13755,4344
+60,American Samoa,US,2021-04-05,-14.270999999999999,-170.132,"American Samoa, US",13755,4345
+60,American Samoa,US,2021-04-06,-14.270999999999999,-170.132,"American Samoa, US",13755,4345
+60,American Samoa,US,2021-04-07,-14.270999999999999,-170.132,"American Samoa, US",13755,4261
+60,American Samoa,US,2021-04-08,-14.270999999999999,-170.132,"American Samoa, US",14337,4312
+60,American Samoa,US,2021-04-09,-14.270999999999999,-170.132,"American Samoa, US",14338,4158
+60,American Samoa,US,2021-04-10,-14.270999999999999,-170.132,"American Samoa, US",14737,4158
+60,American Samoa,US,2021-04-11,-14.270999999999999,-170.132,"American Samoa, US",14737,4560
+60,American Samoa,US,2021-04-12,-14.270999999999999,-170.132,"American Samoa, US",14846,4560
+60,American Samoa,US,2021-04-13,-14.270999999999999,-170.132,"American Samoa, US",14846,4562
+60,American Samoa,US,2021-04-14,-14.270999999999999,-170.132,"American Samoa, US",14846,4393
+60,American Samoa,US,2021-04-15,-14.270999999999999,-170.132,"American Samoa, US",15239,4394
+60,American Samoa,US,2021-04-16,-14.270999999999999,-170.132,"American Samoa, US",15807,4440
+60,American Samoa,US,2021-04-17,-14.270999999999999,-170.132,"American Samoa, US",15807,4441
+60,American Samoa,US,2021-04-18,-14.270999999999999,-170.132,"American Samoa, US",15809,4439
+60,American Samoa,US,2021-04-19,-14.270999999999999,-170.132,"American Samoa, US",15809,4444
+60,American Samoa,US,2021-04-20,-14.270999999999999,-170.132,"American Samoa, US",15811,4444
+60,American Samoa,US,2021-04-21,-14.270999999999999,-170.132,"American Samoa, US",15849,4492
+60,American Samoa,US,2021-04-22,-14.270999999999999,-170.132,"American Samoa, US",15849,4493
+60,American Samoa,US,2021-04-23,-14.270999999999999,-170.132,"American Samoa, US",16454,4447
+60,American Samoa,US,2021-04-24,-14.270999999999999,-170.132,"American Samoa, US",16455,4447
+60,American Samoa,US,2021-04-25,-14.270999999999999,-170.132,"American Samoa, US",16553,4612
+60,American Samoa,US,2021-04-26,-14.270999999999999,-170.132,"American Samoa, US",16557,4608
+60,American Samoa,US,2021-04-27,-14.270999999999999,-170.132,"American Samoa, US",16650,4634
+60,American Samoa,US,2021-04-28,-14.270999999999999,-170.132,"American Samoa, US",16650,4634
+60,American Samoa,US,2021-04-29,-14.270999999999999,-170.132,"American Samoa, US",16914,4638
+60,American Samoa,US,2021-04-30,-14.270999999999999,-170.132,"American Samoa, US",17141,4590
+60,American Samoa,US,2021-05-01,-14.270999999999999,-170.132,"American Samoa, US",17142,4590
+60,American Samoa,US,2021-05-02,-14.270999999999999,-170.132,"American Samoa, US",17142,4590
+60,American Samoa,US,2021-05-03,-14.270999999999999,-170.132,"American Samoa, US",17142,4590
+60,American Samoa,US,2021-05-04,-14.270999999999999,-170.132,"American Samoa, US",17142,4551
+60,American Samoa,US,2021-05-05,-14.270999999999999,-170.132,"American Samoa, US",17399,4603
+60,American Samoa,US,2021-05-06,-14.270999999999999,-170.132,"American Samoa, US",17399,4603
+60,American Samoa,US,2021-05-07,-14.270999999999999,-170.132,"American Samoa, US",17694,4425
+60,American Samoa,US,2021-05-08,-14.270999999999999,-170.132,"American Samoa, US",17694,4428
+60,American Samoa,US,2021-05-09,-14.270999999999999,-170.132,"American Samoa, US",17695,4427
+60,American Samoa,US,2021-05-10,-14.270999999999999,-170.132,"American Samoa, US",17695,4427
+60,American Samoa,US,2021-05-11,-14.270999999999999,-170.132,"American Samoa, US",17697,4425
+60,American Samoa,US,2021-05-12,-14.270999999999999,-170.132,"American Samoa, US",17698,4424
+60,American Samoa,US,2021-05-13,-14.270999999999999,-170.132,"American Samoa, US",17911,4423
+60,American Samoa,US,2021-05-14,-14.270999999999999,-170.132,"American Samoa, US",17911,4424
+60,American Samoa,US,2021-05-15,-14.270999999999999,-170.132,"American Samoa, US",18182,4316
+60,American Samoa,US,2021-05-16,-14.270999999999999,-170.132,"American Samoa, US",18182,4316
+60,American Samoa,US,2021-05-17,-14.270999999999999,-170.132,"American Samoa, US",18182,4316
+60,American Samoa,US,2021-05-18,-14.270999999999999,-170.132,"American Samoa, US",18182,4316
+60,American Samoa,US,2021-05-19,-14.270999999999999,-170.132,"American Samoa, US",18655,4309
+60,American Samoa,US,2021-05-20,-14.270999999999999,-170.132,"American Samoa, US",18657,4307
+60,American Samoa,US,2021-05-21,-14.270999999999999,-170.132,"American Samoa, US",18900,4260
+60,American Samoa,US,2021-05-22,-14.270999999999999,-170.132,"American Samoa, US",18900,4260
+60,American Samoa,US,2021-05-23,-14.270999999999999,-170.132,"American Samoa, US",18900,4260
+60,American Samoa,US,2021-05-24,-14.270999999999999,-170.132,"American Samoa, US",18902,4259
+60,American Samoa,US,2021-05-25,-14.270999999999999,-170.132,"American Samoa, US",18902,4259
+60,American Samoa,US,2021-05-26,-14.270999999999999,-170.132,"American Samoa, US",18902,4259
+60,American Samoa,US,2021-05-27,-14.270999999999999,-170.132,"American Samoa, US",19250,4169
+60,American Samoa,US,2021-05-28,-14.270999999999999,-170.132,"American Samoa, US",19251,4168
+60,American Samoa,US,2021-05-29,-14.270999999999999,-170.132,"American Samoa, US",19251,4168
+60,American Samoa,US,2021-05-30,-14.270999999999999,-170.132,"American Samoa, US",19251,4168
+60,American Samoa,US,2021-05-31,-14.270999999999999,-170.132,"American Samoa, US",19251,4168
+60,American Samoa,US,2021-06-01,-14.270999999999999,-170.132,"American Samoa, US",19252,4167
+60,American Samoa,US,2021-06-02,-14.270999999999999,-170.132,"American Samoa, US",19400,4406
+60,American Samoa,US,2021-06-03,-14.270999999999999,-170.132,"American Samoa, US",19403,4404
+60,American Samoa,US,2021-06-04,-14.270999999999999,-170.132,"American Samoa, US",19403,4404
+60,American Samoa,US,2021-06-05,-14.270999999999999,-170.132,"American Samoa, US",19590,4392
+60,American Samoa,US,2021-06-06,-14.270999999999999,-170.132,"American Samoa, US",19590,4392
+60,American Samoa,US,2021-06-07,-14.270999999999999,-170.132,"American Samoa, US",19590,4392
+60,American Samoa,US,2021-06-08,-14.270999999999999,-170.132,"American Samoa, US",19590,4392
+60,American Samoa,US,2021-06-09,-14.270999999999999,-170.132,"American Samoa, US",19590,4392
+60,American Samoa,US,2021-06-10,-14.270999999999999,-170.132,"American Samoa, US",19591,4391
+60,American Samoa,US,2021-06-11,-14.270999999999999,-170.132,"American Samoa, US",19757,4403
+60,American Samoa,US,2021-06-12,-14.270999999999999,-170.132,"American Samoa, US",19758,4402
+60,American Samoa,US,2021-06-13,-14.270999999999999,-170.132,"American Samoa, US",19928,4403
+60,American Samoa,US,2021-06-14,-14.270999999999999,-170.132,"American Samoa, US",19928,4403
+60,American Samoa,US,2021-06-15,-14.270999999999999,-170.132,"American Samoa, US",20103,4449
+60,American Samoa,US,2021-06-16,-14.270999999999999,-170.132,"American Samoa, US",20249,4435
+60,American Samoa,US,2021-06-17,-14.270999999999999,-170.132,"American Samoa, US",20249,4435
+60,American Samoa,US,2021-06-18,-14.270999999999999,-170.132,"American Samoa, US",20419,4498
+60,American Samoa,US,2021-06-19,-14.270999999999999,-170.132,"American Samoa, US",20419,4498
+60,American Samoa,US,2021-06-20,-14.270999999999999,-170.132,"American Samoa, US",20419,4498
+60,American Samoa,US,2021-06-21,-14.270999999999999,-170.132,"American Samoa, US",20419,4498
+60,American Samoa,US,2021-06-22,-14.270999999999999,-170.132,"American Samoa, US",20561,4544
+60,American Samoa,US,2021-06-23,-14.270999999999999,-170.132,"American Samoa, US",20561,4544
+60,American Samoa,US,2021-06-24,-14.270999999999999,-170.132,"American Samoa, US",20792,4529
+60,American Samoa,US,2021-06-25,-14.270999999999999,-170.132,"American Samoa, US",20966,4505
+60,American Samoa,US,2021-06-26,-14.270999999999999,-170.132,"American Samoa, US",20990,4517
+60,American Samoa,US,2021-06-27,-14.270999999999999,-170.132,"American Samoa, US",20991,4516
+60,American Samoa,US,2021-06-28,-14.270999999999999,-170.132,"American Samoa, US",20991,4516
+60,American Samoa,US,2021-06-29,-14.270999999999999,-170.132,"American Samoa, US",20991,4516
+60,American Samoa,US,2021-06-30,-14.270999999999999,-170.132,"American Samoa, US",20991,4516
+60,American Samoa,US,2021-07-01,-14.270999999999999,-170.132,"American Samoa, US",21291,4648
+60,American Samoa,US,2021-07-02,-14.270999999999999,-170.132,"American Samoa, US",21448,4611
+60,American Samoa,US,2021-07-03,-14.270999999999999,-170.132,"American Samoa, US",21481,4607
+60,American Samoa,US,2021-07-04,-14.270999999999999,-170.132,"American Samoa, US",21583,4643
+60,American Samoa,US,2021-07-05,-14.270999999999999,-170.132,"American Samoa, US",21583,4643
+60,American Samoa,US,2021-07-06,-14.270999999999999,-170.132,"American Samoa, US",21583,4643
+60,American Samoa,US,2021-07-07,-14.270999999999999,-170.132,"American Samoa, US",21681,4814
+60,American Samoa,US,2021-07-08,-14.270999999999999,-170.132,"American Samoa, US",21714,4815
+60,American Samoa,US,2021-07-09,-14.270999999999999,-170.132,"American Samoa, US",21973,4744
+60,American Samoa,US,2021-07-10,-14.270999999999999,-170.132,"American Samoa, US",21997,4738
+60,American Samoa,US,2021-07-11,-14.270999999999999,-170.132,"American Samoa, US",21997,4738
+60,American Samoa,US,2021-07-12,-14.270999999999999,-170.132,"American Samoa, US",21998,4738
+60,American Samoa,US,2021-07-13,-14.270999999999999,-170.132,"American Samoa, US",22234,4849
+60,American Samoa,US,2021-07-14,-14.270999999999999,-170.132,"American Samoa, US",22388,4891
+60,American Samoa,US,2021-07-15,-14.270999999999999,-170.132,"American Samoa, US",22423,4906
+60,American Samoa,US,2021-07-16,-14.270999999999999,-170.132,"American Samoa, US",22580,4929
+60,American Samoa,US,2021-07-17,-14.270999999999999,-170.132,"American Samoa, US",22580,4929
+60,American Samoa,US,2021-07-18,-14.270999999999999,-170.132,"American Samoa, US",22580,4929
+60,American Samoa,US,2021-07-19,-14.270999999999999,-170.132,"American Samoa, US",22580,4929
+60,American Samoa,US,2021-07-20,-14.270999999999999,-170.132,"American Samoa, US",22643,4943
+60,American Samoa,US,2021-07-21,-14.270999999999999,-170.132,"American Samoa, US",22843,4971
+60,American Samoa,US,2021-07-22,-14.270999999999999,-170.132,"American Samoa, US",22868,4977
+60,American Samoa,US,2021-07-23,-14.270999999999999,-170.132,"American Samoa, US",22870,4977
+60,American Samoa,US,2021-07-24,-14.270999999999999,-170.132,"American Samoa, US",22993,4987
+60,American Samoa,US,2021-07-25,-14.270999999999999,-170.132,"American Samoa, US",22993,4987
+60,American Samoa,US,2021-07-26,-14.270999999999999,-170.132,"American Samoa, US",23405,5091
+60,American Samoa,US,2021-07-27,-14.270999999999999,-170.132,"American Samoa, US",23405,5091
+60,American Samoa,US,2021-07-28,-14.270999999999999,-170.132,"American Samoa, US",23558,5209
+60,American Samoa,US,2021-07-29,-14.270999999999999,-170.132,"American Samoa, US",23559,5208
+60,American Samoa,US,2021-07-30,-14.270999999999999,-170.132,"American Samoa, US",23560,5208
+60,American Samoa,US,2021-07-31,-14.270999999999999,-170.132,"American Samoa, US",23700,5222
+60,American Samoa,US,2021-08-01,-14.270999999999999,-170.132,"American Samoa, US",23700,5222
+60,American Samoa,US,2021-08-02,-14.270999999999999,-170.132,"American Samoa, US",23859,5149
+60,American Samoa,US,2021-08-03,-14.270999999999999,-170.132,"American Samoa, US",23859,5149
+60,American Samoa,US,2021-08-04,-14.270999999999999,-170.132,"American Samoa, US",24042,5126
+60,American Samoa,US,2021-08-05,-14.270999999999999,-170.132,"American Samoa, US",24043,5125
+60,American Samoa,US,2021-08-06,-14.271,-170.132,"American Samoa, US",24217,5149
 4,Arizona,US,2020-12-10,33.7298,-111.4312,"Arizona, US",,
 4,Arizona,US,2020-12-11,33.7298,-111.4312,"Arizona, US",,
 4,Arizona,US,2020-12-12,33.7298,-111.4312,"Arizona, US",,
@@ -955,6 +958,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2021-08-03,33.7298,-111.4312,"Arizona, US",3349896,579347
 4,Arizona,US,2021-08-04,33.7298,-111.4312,"Arizona, US",3360247,584183
 4,Arizona,US,2021-08-05,33.7298,-111.4312,"Arizona, US",3360281,588789
+4,Arizona,US,2021-08-06,33.7298,-111.4312,"Arizona, US",3365078,594483
 5,Arkansas,US,2020-12-10,34.9697,-92.3731,"Arkansas, US",,
 5,Arkansas,US,2020-12-11,34.9697,-92.3731,"Arkansas, US",,
 5,Arkansas,US,2020-12-12,34.9697,-92.3731,"Arkansas, US",,
@@ -1194,6 +1198,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 5,Arkansas,US,2021-08-03,34.9697,-92.3731,"Arkansas, US",1104020,326818
 5,Arkansas,US,2021-08-04,34.9697,-92.3731,"Arkansas, US",1118090,330440
 5,Arkansas,US,2021-08-05,34.9697,-92.3731,"Arkansas, US",1121950,334862
+5,Arkansas,US,2021-08-06,34.9697,-92.3731,"Arkansas, US",1125427,339962
 6,California,US,2020-12-10,36.1162,-119.6816,"California, US",,
 6,California,US,2020-12-11,36.1162,-119.6816,"California, US",,
 6,California,US,2020-12-12,36.1162,-119.6816,"California, US",,
@@ -1433,6 +1438,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 6,California,US,2021-08-03,36.1162,-119.6816,"California, US",21368344,4777147
 6,California,US,2021-08-04,36.1162,-119.6816,"California, US",21406856,4798037
 6,California,US,2021-08-05,36.1162,-119.6816,"California, US",21458452,4817694
+6,California,US,2021-08-06,36.1162,-119.6816,"California, US",21495872,4840801
 8,Colorado,US,2020-12-10,39.0598,-105.3111,"Colorado, US",,
 8,Colorado,US,2020-12-11,39.0598,-105.3111,"Colorado, US",,
 8,Colorado,US,2020-12-12,39.0598,-105.3111,"Colorado, US",,
@@ -1672,6 +1678,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 8,Colorado,US,2021-08-03,39.0598,-105.3111,"Colorado, US",3143513,341965
 8,Colorado,US,2021-08-04,39.0598,-105.3111,"Colorado, US",3148013,344607
 8,Colorado,US,2021-08-05,39.0598,-105.3111,"Colorado, US",3200348,347393
+8,Colorado,US,2021-08-06,39.0598,-105.3111,"Colorado, US",3204629,350271
 9,Connecticut,US,2020-12-10,41.5978,-72.7554,"Connecticut, US",,
 9,Connecticut,US,2020-12-11,41.5978,-72.7554,"Connecticut, US",,
 9,Connecticut,US,2020-12-12,41.5978,-72.7554,"Connecticut, US",,
@@ -1911,6 +1918,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 9,Connecticut,US,2021-08-03,41.5978,-72.7554,"Connecticut, US",2261776,239379
 9,Connecticut,US,2021-08-04,41.5978,-72.7554,"Connecticut, US",2264139,241021
 9,Connecticut,US,2021-08-05,41.5978,-72.7554,"Connecticut, US",2267356,243435
+9,Connecticut,US,2021-08-06,41.5978,-72.7554,"Connecticut, US",2270704,245733
 10,Delaware,US,2020-12-10,39.3185,-75.5071,"Delaware, US",,
 10,Delaware,US,2020-12-11,39.3185,-75.5071,"Delaware, US",,
 10,Delaware,US,2020-12-12,39.3185,-75.5071,"Delaware, US",,
@@ -2150,6 +2158,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 10,Delaware,US,2021-08-03,39.3185,-75.5071,"Delaware, US",515389,78718
 10,Delaware,US,2021-08-04,39.3185,-75.5071,"Delaware, US",515850,79053
 10,Delaware,US,2021-08-05,39.3185,-75.5071,"Delaware, US",516584,79576
+10,Delaware,US,2021-08-06,39.3185,-75.5071,"Delaware, US",517378,80177
 ,Department of Defense,US,2020-12-10,,,"Department of Defense, US",,
 ,Department of Defense,US,2020-12-11,,,"Department of Defense, US",,
 ,Department of Defense,US,2020-12-12,,,"Department of Defense, US",,
@@ -2389,6 +2398,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Department of Defense,US,2021-08-03,,,"Department of Defense, US",1968950,584071
 ,Department of Defense,US,2021-08-04,,,"Department of Defense, US",1975555,589561
 ,Department of Defense,US,2021-08-05,,,"Department of Defense, US",1980997,592264
+,Department of Defense,US,2021-08-06,,,"Department of Defense, US",1985793,594742
 11,District of Columbia,US,2020-12-10,38.8974,-77.0268,"District of Columbia, US",,
 11,District of Columbia,US,2020-12-11,38.8974,-77.0268,"District of Columbia, US",,
 11,District of Columbia,US,2020-12-12,38.8974,-77.0268,"District of Columbia, US",,
@@ -2628,6 +2638,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2021-08-03,38.8974,-77.0268,"District of Columbia, US",387859,65707
 11,District of Columbia,US,2021-08-04,38.8974,-77.0268,"District of Columbia, US",483158,65915
 11,District of Columbia,US,2021-08-05,38.8974,-77.0268,"District of Columbia, US",488299,66225
+11,District of Columbia,US,2021-08-06,38.8974,-77.0268,"District of Columbia, US",488299,65570
 ,Federal Bureau of Prisons,US,2020-12-10,,,"Federal Bureau of Prisons, US",,
 ,Federal Bureau of Prisons,US,2020-12-11,,,"Federal Bureau of Prisons, US",,
 ,Federal Bureau of Prisons,US,2020-12-12,,,"Federal Bureau of Prisons, US",,
@@ -2867,6 +2878,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Federal Bureau of Prisons,US,2021-08-03,,,"Federal Bureau of Prisons, US",100258,9146
 ,Federal Bureau of Prisons,US,2021-08-04,,,"Federal Bureau of Prisons, US",100269,9154
 ,Federal Bureau of Prisons,US,2021-08-05,,,"Federal Bureau of Prisons, US",100556,9532
+,Federal Bureau of Prisons,US,2021-08-06,,,"Federal Bureau of Prisons, US",100842,10236
 12,Florida,US,2020-12-10,27.7663,-81.6868,"Florida, US",,
 12,Florida,US,2020-12-11,27.7663,-81.6868,"Florida, US",,
 12,Florida,US,2020-12-12,27.7663,-81.6868,"Florida, US",,
@@ -3106,6 +3118,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2021-08-03,27.7663,-81.6868,"Florida, US",10551931,1987020
 12,Florida,US,2021-08-04,27.7663,-81.6868,"Florida, US",10567995,2013569
 12,Florida,US,2021-08-05,27.7663,-81.6868,"Florida, US",10588372,2049505
+12,Florida,US,2021-08-06,27.7663,-81.6868,"Florida, US",10609339,2085960
 13,Georgia,US,2020-12-10,33.0406,-83.6431,"Georgia, US",,
 13,Georgia,US,2020-12-11,33.0406,-83.6431,"Georgia, US",,
 13,Georgia,US,2020-12-12,33.0406,-83.6431,"Georgia, US",,
@@ -3345,6 +3358,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2021-08-03,33.0406,-83.6431,"Georgia, US",4159165,808534
 13,Georgia,US,2021-08-04,33.0406,-83.6431,"Georgia, US",4198472,809079
 13,Georgia,US,2021-08-05,33.0406,-83.6431,"Georgia, US",4198472,864170
+13,Georgia,US,2021-08-06,33.0406,-83.6431,"Georgia, US",4198472,864827
 66,Guam,US,2020-12-10,13.4443,144.7937,"Guam, US",,
 66,Guam,US,2020-12-11,13.4443,144.7937,"Guam, US",,
 66,Guam,US,2020-12-12,13.4443,144.7937,"Guam, US",,
@@ -3584,6 +3598,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 66,Guam,US,2021-08-03,13.4443,144.7937,"Guam, US",103652,9822
 66,Guam,US,2021-08-04,13.4443,144.7937,"Guam, US",103766,9797
 66,Guam,US,2021-08-05,13.4443,144.7937,"Guam, US",103766,9770
+66,Guam,US,2021-08-06,13.4443,144.7937,"Guam, US",103766,9771
 15,Hawaii,US,2020-12-10,21.0943,-157.4983,"Hawaii, US",,
 15,Hawaii,US,2020-12-11,21.0943,-157.4983,"Hawaii, US",,
 15,Hawaii,US,2020-12-12,21.0943,-157.4983,"Hawaii, US",,
@@ -3823,6 +3838,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 15,Hawaii,US,2021-08-03,21.0943,-157.4983,"Hawaii, US",858222,253902
 15,Hawaii,US,2021-08-04,21.0943,-157.4983,"Hawaii, US",859358,254472
 15,Hawaii,US,2021-08-05,21.0943,-157.4983,"Hawaii, US",860517,255125
+15,Hawaii,US,2021-08-06,21.0943,-157.4983,"Hawaii, US",861606,255820
 16,Idaho,US,2020-12-10,44.2405,-114.4788,"Idaho, US",,
 16,Idaho,US,2020-12-11,44.2405,-114.4788,"Idaho, US",,
 16,Idaho,US,2020-12-12,44.2405,-114.4788,"Idaho, US",,
@@ -4062,6 +4078,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2021-08-03,44.2405,-114.4788,"Idaho, US",694906,69152
 16,Idaho,US,2021-08-04,44.2405,-114.4788,"Idaho, US",696059,69837
 16,Idaho,US,2021-08-05,44.2405,-114.4788,"Idaho, US",697176,70708
+16,Idaho,US,2021-08-06,44.2405,-114.4788,"Idaho, US",698207,71696
 17,Illinois,US,2020-12-10,40.3495,-88.9861,"Illinois, US",,
 17,Illinois,US,2020-12-11,40.3495,-88.9861,"Illinois, US",,
 17,Illinois,US,2020-12-12,40.3495,-88.9861,"Illinois, US",,
@@ -4301,6 +4318,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 17,Illinois,US,2021-08-03,40.3495,-88.9861,"Illinois, US",6514041,1770136
 17,Illinois,US,2021-08-04,40.3495,-88.9861,"Illinois, US",6524981,1775494
 17,Illinois,US,2021-08-05,40.3495,-88.9861,"Illinois, US",6535148,1782600
+17,Illinois,US,2021-08-06,40.3495,-88.9861,"Illinois, US",6545532,1789877
 ,Indian Health Services,US,2020-12-10,,,"Indian Health Services, US",,
 ,Indian Health Services,US,2020-12-11,,,"Indian Health Services, US",,
 ,Indian Health Services,US,2020-12-12,,,"Indian Health Services, US",,
@@ -4540,6 +4558,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Indian Health Services,US,2021-08-03,,,"Indian Health Services, US",683388,149850
 ,Indian Health Services,US,2021-08-04,,,"Indian Health Services, US",684170,150676
 ,Indian Health Services,US,2021-08-05,,,"Indian Health Services, US",685141,151354
+,Indian Health Services,US,2021-08-06,,,"Indian Health Services, US",686087,152436
 18,Indiana,US,2020-12-10,39.8494,-86.2583,"Indiana, US",,
 18,Indiana,US,2020-12-11,39.8494,-86.2583,"Indiana, US",,
 18,Indiana,US,2020-12-12,39.8494,-86.2583,"Indiana, US",,
@@ -4779,6 +4798,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 18,Indiana,US,2021-08-03,39.8494,-86.2583,"Indiana, US",2987001,210422
 18,Indiana,US,2021-08-04,39.8494,-86.2583,"Indiana, US",2990310,213356
 18,Indiana,US,2021-08-05,39.8494,-86.2583,"Indiana, US",2994681,216764
+18,Indiana,US,2021-08-06,39.8494,-86.2583,"Indiana, US",2998649,220106
 19,Iowa,US,2020-12-10,42.0115,-93.2105,"Iowa, US",,
 19,Iowa,US,2020-12-11,42.0115,-93.2105,"Iowa, US",,
 19,Iowa,US,2020-12-12,42.0115,-93.2105,"Iowa, US",,
@@ -5018,6 +5038,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 19,Iowa,US,2021-08-03,42.0115,-93.2105,"Iowa, US",1570598,118654
 19,Iowa,US,2021-08-04,42.0115,-93.2105,"Iowa, US",1572078,120248
 19,Iowa,US,2021-08-05,42.0115,-93.2105,"Iowa, US",1574118,122326
+19,Iowa,US,2021-08-06,42.0115,-93.2105,"Iowa, US",1575957,124277
 20,Kansas,US,2020-12-10,38.5266,-96.7265,"Kansas, US",,
 20,Kansas,US,2020-12-11,38.5266,-96.7265,"Kansas, US",,
 20,Kansas,US,2020-12-12,38.5266,-96.7265,"Kansas, US",,
@@ -5257,6 +5278,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 20,Kansas,US,2021-08-03,38.5266,-96.7265,"Kansas, US",1322173,242554
 20,Kansas,US,2021-08-04,38.5266,-96.7265,"Kansas, US",1324216,244483
 20,Kansas,US,2021-08-05,38.5266,-96.7265,"Kansas, US",1326778,246765
+20,Kansas,US,2021-08-06,38.5266,-96.7265,"Kansas, US",1329793,248434
 21,Kentucky,US,2020-12-10,37.6681,-84.6701,"Kentucky, US",,
 21,Kentucky,US,2020-12-11,37.6681,-84.6701,"Kentucky, US",,
 21,Kentucky,US,2020-12-12,37.6681,-84.6701,"Kentucky, US",,
@@ -5496,6 +5518,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 21,Kentucky,US,2021-08-03,37.6681,-84.6701,"Kentucky, US",2046273,298321
 21,Kentucky,US,2021-08-04,37.6681,-84.6701,"Kentucky, US",2049739,303476
 21,Kentucky,US,2021-08-05,37.6681,-84.6701,"Kentucky, US",2053066,307689
+21,Kentucky,US,2021-08-06,37.6681,-84.6701,"Kentucky, US",2056629,312821
 ,Long Term Care (LTC) Program,US,2020-12-10,,,"Long Term Care (LTC) Program, US",,
 ,Long Term Care (LTC) Program,US,2020-12-11,,,"Long Term Care (LTC) Program, US",,
 ,Long Term Care (LTC) Program,US,2020-12-12,,,"Long Term Care (LTC) Program, US",,
@@ -5735,6 +5758,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Long Term Care (LTC) Program,US,2021-08-03,,,"Long Term Care (LTC) Program, US",0,
 ,Long Term Care (LTC) Program,US,2021-08-04,,,"Long Term Care (LTC) Program, US",0,
 ,Long Term Care (LTC) Program,US,2021-08-05,,,"Long Term Care (LTC) Program, US",0,
+,Long Term Care (LTC) Program,US,2021-08-06,,,"Long Term Care (LTC) Program, US",0,
 22,Louisiana,US,2020-12-10,31.1695,-91.8678,"Louisiana, US",,
 22,Louisiana,US,2020-12-11,31.1695,-91.8678,"Louisiana, US",,
 22,Louisiana,US,2020-12-12,31.1695,-91.8678,"Louisiana, US",,
@@ -5974,6 +5998,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 22,Louisiana,US,2021-08-03,31.1695,-91.8678,"Louisiana, US",1722557,275606
 22,Louisiana,US,2021-08-04,31.1695,-91.8678,"Louisiana, US",1727145,288599
 22,Louisiana,US,2021-08-05,31.1695,-91.8678,"Louisiana, US",1727264,288814
+22,Louisiana,US,2021-08-06,31.1695,-91.8678,"Louisiana, US",1735728,312746
 23,Maine,US,2020-12-10,44.6939,-69.3819,"Maine, US",,
 23,Maine,US,2020-12-11,44.6939,-69.3819,"Maine, US",,
 23,Maine,US,2020-12-12,44.6939,-69.3819,"Maine, US",,
@@ -6213,6 +6238,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 23,Maine,US,2021-08-03,44.6939,-69.3819,"Maine, US",860273,62768
 23,Maine,US,2021-08-04,44.6939,-69.3819,"Maine, US",860804,63106
 23,Maine,US,2021-08-05,44.6939,-69.3819,"Maine, US",861597,63748
+23,Maine,US,2021-08-06,44.6939,-69.3819,"Maine, US",862391,64373
 24,Maryland,US,2020-12-10,39.0639,-76.8021,"Maryland, US",,
 24,Maryland,US,2020-12-11,39.0639,-76.8021,"Maryland, US",,
 24,Maryland,US,2020-12-12,39.0639,-76.8021,"Maryland, US",,
@@ -6452,6 +6478,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 24,Maryland,US,2021-08-03,39.0639,-76.8021,"Maryland, US",3573537,360915
 24,Maryland,US,2021-08-04,39.0639,-76.8021,"Maryland, US",3578413,363917
 24,Maryland,US,2021-08-05,39.0639,-76.8021,"Maryland, US",3585152,368247
+24,Maryland,US,2021-08-06,39.0639,-76.8021,"Maryland, US",3590065,371194
 25,Massachusetts,US,2020-12-10,42.2302,-71.5301,"Massachusetts, US",,
 25,Massachusetts,US,2020-12-11,42.2302,-71.5301,"Massachusetts, US",,
 25,Massachusetts,US,2020-12-12,42.2302,-71.5301,"Massachusetts, US",,
@@ -6691,6 +6718,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-08-03,42.2302,-71.5301,"Massachusetts, US",4417348,606295
 25,Massachusetts,US,2021-08-04,42.2302,-71.5301,"Massachusetts, US",4420802,608676
 25,Massachusetts,US,2021-08-05,42.2302,-71.5301,"Massachusetts, US",4425475,611532
+25,Massachusetts,US,2021-08-06,42.2302,-71.5301,"Massachusetts, US",4429815,614197
 26,Michigan,US,2020-12-10,43.3266,-84.5361,"Michigan, US",,
 26,Michigan,US,2020-12-11,43.3266,-84.5361,"Michigan, US",,
 26,Michigan,US,2020-12-12,43.3266,-84.5361,"Michigan, US",,
@@ -6930,6 +6958,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2021-08-03,43.3266,-84.5361,"Michigan, US",4890859,433288
 26,Michigan,US,2021-08-04,43.3266,-84.5361,"Michigan, US",4895367,436087
 26,Michigan,US,2021-08-05,43.3266,-84.5361,"Michigan, US",4900413,439921
+26,Michigan,US,2021-08-06,43.3266,-84.5361,"Michigan, US",4906126,443770
 27,Minnesota,US,2020-12-10,45.6945,-93.9002,"Minnesota, US",,
 27,Minnesota,US,2020-12-11,45.6945,-93.9002,"Minnesota, US",,
 27,Minnesota,US,2020-12-12,45.6945,-93.9002,"Minnesota, US",,
@@ -7169,6 +7198,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 27,Minnesota,US,2021-08-03,45.6945,-93.9002,"Minnesota, US",3040861,292199
 27,Minnesota,US,2021-08-04,45.6945,-93.9002,"Minnesota, US",3043718,294494
 27,Minnesota,US,2021-08-05,45.6945,-93.9002,"Minnesota, US",3047240,298062
+27,Minnesota,US,2021-08-06,45.6945,-93.9002,"Minnesota, US",3051003,302455
 28,Mississippi,US,2020-12-10,32.7416,-89.6787,"Mississippi, US",,
 28,Mississippi,US,2020-12-11,32.7416,-89.6787,"Mississippi, US",,
 28,Mississippi,US,2020-12-12,32.7416,-89.6787,"Mississippi, US",,
@@ -7408,6 +7438,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 28,Mississippi,US,2021-08-03,32.7416,-89.6787,"Mississippi, US",1038185,157323
 28,Mississippi,US,2021-08-04,32.7416,-89.6787,"Mississippi, US",1043017,178066
 28,Mississippi,US,2021-08-05,32.7416,-89.6787,"Mississippi, US",1045849,178294
+28,Mississippi,US,2021-08-06,32.7416,-89.6787,"Mississippi, US",1048917,178602
 29,Missouri,US,2020-12-10,38.4561,-92.2884,"Missouri, US",,
 29,Missouri,US,2020-12-11,38.4561,-92.2884,"Missouri, US",,
 29,Missouri,US,2020-12-12,38.4561,-92.2884,"Missouri, US",,
@@ -7647,6 +7678,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 29,Missouri,US,2021-08-03,38.4561,-92.2884,"Missouri, US",2549091,466675
 29,Missouri,US,2021-08-04,38.4561,-92.2884,"Missouri, US",2554854,469811
 29,Missouri,US,2021-08-05,38.4561,-92.2884,"Missouri, US",2562424,472956
+29,Missouri,US,2021-08-06,38.4561,-92.2884,"Missouri, US",2568927,476375
 30,Montana,US,2020-12-10,46.9219,-110.4544,"Montana, US",,
 30,Montana,US,2020-12-11,46.9219,-110.4544,"Montana, US",,
 30,Montana,US,2020-12-12,46.9219,-110.4544,"Montana, US",,
@@ -7886,6 +7918,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 30,Montana,US,2021-08-03,46.9219,-110.4544,"Montana, US",474642,56031
 30,Montana,US,2021-08-04,46.9219,-110.4544,"Montana, US",475041,56388
 30,Montana,US,2021-08-05,46.9219,-110.4544,"Montana, US",475619,56910
+30,Montana,US,2021-08-06,46.9219,-110.4544,"Montana, US",475689,57035
 31,Nebraska,US,2020-12-10,41.1254,-98.2681,"Nebraska, US",,
 31,Nebraska,US,2020-12-11,41.1254,-98.2681,"Nebraska, US",,
 31,Nebraska,US,2020-12-12,41.1254,-98.2681,"Nebraska, US",,
@@ -8125,6 +8158,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2021-08-03,41.1254,-98.2681,"Nebraska, US",960655,88650
 31,Nebraska,US,2021-08-04,41.1254,-98.2681,"Nebraska, US",961636,89826
 31,Nebraska,US,2021-08-05,41.1254,-98.2681,"Nebraska, US",964450,93052
+31,Nebraska,US,2021-08-06,41.1254,-98.2681,"Nebraska, US",964529,93149
 32,Nevada,US,2020-12-10,38.3135,-117.0554,"Nevada, US",,
 32,Nevada,US,2020-12-11,38.3135,-117.0554,"Nevada, US",,
 32,Nevada,US,2020-12-12,38.3135,-117.0554,"Nevada, US",,
@@ -8364,6 +8398,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 32,Nevada,US,2021-08-03,38.3135,-117.0554,"Nevada, US",1375778,291027
 32,Nevada,US,2021-08-04,38.3135,-117.0554,"Nevada, US",1378022,293387
 32,Nevada,US,2021-08-05,38.3135,-117.0554,"Nevada, US",1380831,295628
+32,Nevada,US,2021-08-06,38.3135,-117.0554,"Nevada, US",1384243,298131
 33,New Hampshire,US,2020-12-10,43.4525,-71.5639,"New Hampshire, US",,
 33,New Hampshire,US,2020-12-11,43.4525,-71.5639,"New Hampshire, US",,
 33,New Hampshire,US,2020-12-12,43.4525,-71.5639,"New Hampshire, US",,
@@ -8603,6 +8638,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-08-03,43.4525,-71.5639,"New Hampshire, US",794437,88952
 33,New Hampshire,US,2021-08-04,43.4525,-71.5639,"New Hampshire, US",794914,89417
 33,New Hampshire,US,2021-08-05,43.4525,-71.5639,"New Hampshire, US",795440,89866
+33,New Hampshire,US,2021-08-06,43.4525,-71.5639,"New Hampshire, US",795930,90245
 34,New Jersey,US,2020-12-10,40.2989,-74.521,"New Jersey, US",,
 34,New Jersey,US,2020-12-11,40.2989,-74.521,"New Jersey, US",,
 34,New Jersey,US,2020-12-12,40.2989,-74.521,"New Jersey, US",,
@@ -8842,6 +8878,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2021-08-03,40.2989,-74.521,"New Jersey, US",5315049,685046
 34,New Jersey,US,2021-08-04,40.2989,-74.521,"New Jersey, US",5324239,690741
 34,New Jersey,US,2021-08-05,40.2989,-74.521,"New Jersey, US",5332629,695944
+34,New Jersey,US,2021-08-06,40.2989,-74.521,"New Jersey, US",5341516,701230
 35,New Mexico,US,2020-12-10,34.8405,-106.2485,"New Mexico, US",,
 35,New Mexico,US,2020-12-11,34.8405,-106.2485,"New Mexico, US",,
 35,New Mexico,US,2020-12-12,34.8405,-106.2485,"New Mexico, US",,
@@ -9081,6 +9118,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 35,New Mexico,US,2021-08-03,34.8405,-106.2485,"New Mexico, US",1203488,176708
 35,New Mexico,US,2021-08-04,34.8405,-106.2485,"New Mexico, US",1205059,178180
 35,New Mexico,US,2021-08-05,34.8405,-106.2485,"New Mexico, US",1206469,179727
+35,New Mexico,US,2021-08-06,34.8405,-106.2485,"New Mexico, US",1208255,181514
 36,New York,US,2020-12-10,42.1657,-74.9481,"New York, US",,
 36,New York,US,2020-12-11,42.1657,-74.9481,"New York, US",,
 36,New York,US,2020-12-12,42.1657,-74.9481,"New York, US",,
@@ -9320,6 +9358,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2021-08-03,42.1657,-74.9481,"New York, US",11150603,1184009
 36,New York,US,2021-08-04,42.1657,-74.9481,"New York, US",11165792,1196139
 36,New York,US,2021-08-05,42.1657,-74.9481,"New York, US",11185892,1209033
+36,New York,US,2021-08-06,42.1657,-74.9481,"New York, US",11206809,1226761
 37,North Carolina,US,2020-12-10,35.6301,-79.8064,"North Carolina, US",,
 37,North Carolina,US,2020-12-11,35.6301,-79.8064,"North Carolina, US",,
 37,North Carolina,US,2020-12-12,35.6301,-79.8064,"North Carolina, US",,
@@ -9559,245 +9598,247 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 37,North Carolina,US,2021-08-03,35.6301,-79.8064,"North Carolina, US",4934740,804301
 37,North Carolina,US,2021-08-04,35.6301,-79.8064,"North Carolina, US",4940832,811732
 37,North Carolina,US,2021-08-05,35.6301,-79.8064,"North Carolina, US",4946603,820128
-38,North Dakota,US,2020-12-10,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-11,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-12,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-13,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-14,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-15,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-16,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-17,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-18,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-19,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-20,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-21,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-22,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-23,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-24,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-25,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-26,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-27,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-28,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-29,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-30,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2020-12-31,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-01,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-02,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-03,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-04,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-05,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-06,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-07,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-08,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-09,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-10,47.5289,-99.784,"North Dakota, US",,
-38,North Dakota,US,2021-01-11,47.5289,-99.784,"North Dakota, US",4932,26492
-38,North Dakota,US,2021-01-12,47.5289,-99.784,"North Dakota, US",5451,27833
-38,North Dakota,US,2021-01-13,47.5289,-99.784,"North Dakota, US",6213,27922
-38,North Dakota,US,2021-01-14,47.5289,-99.784,"North Dakota, US",6523,28770
-38,North Dakota,US,2021-01-15,47.5289,-99.784,"North Dakota, US",7134,32024
-38,North Dakota,US,2021-01-16,47.5289,-99.784,"North Dakota, US",7555,32891
-38,North Dakota,US,2021-01-17,47.5289,-99.784,"North Dakota, US",6688,32891
-38,North Dakota,US,2021-01-18,47.5289,-99.784,"North Dakota, US",6688,32891
-38,North Dakota,US,2021-01-19,47.5289,-99.784,"North Dakota, US",6688,38975
-38,North Dakota,US,2021-01-20,47.5289,-99.784,"North Dakota, US",8641,39396
-38,North Dakota,US,2021-01-21,47.5289,-99.784,"North Dakota, US",8954,39105
-38,North Dakota,US,2021-01-22,47.5289,-99.784,"North Dakota, US",10998,38590
-38,North Dakota,US,2021-01-23,47.5289,-99.784,"North Dakota, US",13005,39079
-38,North Dakota,US,2021-01-24,47.5289,-99.784,"North Dakota, US",14412,40569
-38,North Dakota,US,2021-01-25,47.5289,-99.784,"North Dakota, US",15589,42316
-38,North Dakota,US,2021-01-26,47.5289,-99.784,"North Dakota, US",15680,42389
-38,North Dakota,US,2021-01-27,47.5289,-99.784,"North Dakota, US",15742,41721
-38,North Dakota,US,2021-01-28,47.5289,-99.784,"North Dakota, US",16952,41920
-38,North Dakota,US,2021-01-29,47.5289,-99.784,"North Dakota, US",18244,43073
-38,North Dakota,US,2021-01-30,47.5289,-99.784,"North Dakota, US",21806,43917
-38,North Dakota,US,2021-01-31,47.5289,-99.784,"North Dakota, US",22968,45463
-38,North Dakota,US,2021-02-01,47.5289,-99.784,"North Dakota, US",25359,45451
-38,North Dakota,US,2021-02-02,47.5289,-99.784,"North Dakota, US",26136,45242
-38,North Dakota,US,2021-02-03,47.5289,-99.784,"North Dakota, US",26659,45171
-38,North Dakota,US,2021-02-04,47.5289,-99.784,"North Dakota, US",28263,45540
-38,North Dakota,US,2021-02-05,47.5289,-99.784,"North Dakota, US",30243,47496
-38,North Dakota,US,2021-02-06,47.5289,-99.784,"North Dakota, US",34764,46812
-38,North Dakota,US,2021-02-07,47.5289,-99.784,"North Dakota, US",35123,47831
-38,North Dakota,US,2021-02-08,47.5289,-99.784,"North Dakota, US",37651,49216
-38,North Dakota,US,2021-02-09,47.5289,-99.784,"North Dakota, US",38417,49216
-38,North Dakota,US,2021-02-10,47.5289,-99.784,"North Dakota, US",39129,49763
-38,North Dakota,US,2021-02-11,47.5289,-99.784,"North Dakota, US",40870,50069
-38,North Dakota,US,2021-02-12,47.5289,-99.784,"North Dakota, US",43744,50416
-38,North Dakota,US,2021-02-13,47.5289,-99.784,"North Dakota, US",45851,50880
-38,North Dakota,US,2021-02-14,47.5289,-99.784,"North Dakota, US",45851,51812
-38,North Dakota,US,2021-02-15,47.5289,-99.784,"North Dakota, US",47552,51812
-38,North Dakota,US,2021-02-16,47.5289,-99.784,"North Dakota, US",49691,52460
-38,North Dakota,US,2021-02-17,47.5289,-99.784,"North Dakota, US",50043,52371
-38,North Dakota,US,2021-02-18,47.5289,-99.784,"North Dakota, US",50866,53330
-38,North Dakota,US,2021-02-19,47.5289,-99.784,"North Dakota, US",53547,63927
-38,North Dakota,US,2021-02-20,47.5289,-99.784,"North Dakota, US",58099,63047
-38,North Dakota,US,2021-02-21,47.5289,-99.784,"North Dakota, US",61624,61616
-38,North Dakota,US,2021-02-22,47.5289,-99.784,"North Dakota, US",65293,63154
-38,North Dakota,US,2021-02-23,47.5289,-99.784,"North Dakota, US",65701,62968
-38,North Dakota,US,2021-02-24,47.5289,-99.784,"North Dakota, US",65701,63591
-38,North Dakota,US,2021-02-25,47.5289,-99.784,"North Dakota, US",67006,64417
-38,North Dakota,US,2021-02-26,47.5289,-99.784,"North Dakota, US",68641,66072
-38,North Dakota,US,2021-02-27,47.5289,-99.784,"North Dakota, US",72168,69028
-38,North Dakota,US,2021-02-28,47.5289,-99.784,"North Dakota, US",77018,70629
-38,North Dakota,US,2021-03-01,47.5289,-99.784,"North Dakota, US",77942,71729
-38,North Dakota,US,2021-03-02,47.5289,-99.784,"North Dakota, US",79483,71763
-38,North Dakota,US,2021-03-03,47.5289,-99.784,"North Dakota, US",79607,71833
-38,North Dakota,US,2021-03-04,47.5289,-99.784,"North Dakota, US",80709,72362
-38,North Dakota,US,2021-03-05,47.5289,-99.784,"North Dakota, US",82964,73893
-38,North Dakota,US,2021-03-06,47.5289,-99.784,"North Dakota, US",86601,78379
-38,North Dakota,US,2021-03-07,47.5289,-99.784,"North Dakota, US",88541,82467
-38,North Dakota,US,2021-03-08,47.5289,-99.784,"North Dakota, US",90596,81262
-38,North Dakota,US,2021-03-09,47.5289,-99.784,"North Dakota, US",91818,82087
-38,North Dakota,US,2021-03-10,47.5289,-99.784,"North Dakota, US",91874,81470
-38,North Dakota,US,2021-03-11,47.5289,-99.784,"North Dakota, US",93608,81899
-38,North Dakota,US,2021-03-12,47.5289,-99.784,"North Dakota, US",96489,85009
-38,North Dakota,US,2021-03-13,47.5289,-99.784,"North Dakota, US",100996,85325
-38,North Dakota,US,2021-03-14,47.5289,-99.784,"North Dakota, US",106812,87248
-38,North Dakota,US,2021-03-15,47.5289,-99.784,"North Dakota, US",110128,85107
-38,North Dakota,US,2021-03-16,47.5289,-99.784,"North Dakota, US",113549,85093
-38,North Dakota,US,2021-03-17,47.5289,-99.784,"North Dakota, US",113616,85929
-38,North Dakota,US,2021-03-18,47.5289,-99.784,"North Dakota, US",114769,86674
-38,North Dakota,US,2021-03-19,47.5289,-99.784,"North Dakota, US",117049,89004
-38,North Dakota,US,2021-03-20,47.5289,-99.784,"North Dakota, US",120838,90445
-38,North Dakota,US,2021-03-21,47.5289,-99.784,"North Dakota, US",125067,90930
-38,North Dakota,US,2021-03-22,47.5289,-99.784,"North Dakota, US",128013,91231
-38,North Dakota,US,2021-03-23,47.5289,-99.784,"North Dakota, US",129480,91225
-38,North Dakota,US,2021-03-24,47.5289,-99.784,"North Dakota, US",129550,91824
-38,North Dakota,US,2021-03-25,47.5289,-99.784,"North Dakota, US",130409,93043
-38,North Dakota,US,2021-03-26,47.5289,-99.784,"North Dakota, US",132641,90928
-38,North Dakota,US,2021-03-27,47.5289,-99.784,"North Dakota, US",138883,89480
-38,North Dakota,US,2021-03-28,47.5289,-99.784,"North Dakota, US",144728,86441
-38,North Dakota,US,2021-03-29,47.5289,-99.784,"North Dakota, US",149705,85370
-38,North Dakota,US,2021-03-30,47.5289,-99.784,"North Dakota, US",151984,90945
-38,North Dakota,US,2021-03-31,47.5289,-99.784,"North Dakota, US",153845,91951
-38,North Dakota,US,2021-04-01,47.5289,-99.784,"North Dakota, US",154549,93206
-38,North Dakota,US,2021-04-02,47.5289,-99.784,"North Dakota, US",157052,91829
-38,North Dakota,US,2021-04-03,47.5289,-99.784,"North Dakota, US",164684,89163
-38,North Dakota,US,2021-04-04,47.5289,-99.784,"North Dakota, US",172158,88441
-38,North Dakota,US,2021-04-05,47.5289,-99.784,"North Dakota, US",174538,88429
-38,North Dakota,US,2021-04-06,47.5289,-99.784,"North Dakota, US",175389,87398
-38,North Dakota,US,2021-04-07,47.5289,-99.784,"North Dakota, US",176603,86267
-38,North Dakota,US,2021-04-08,47.5289,-99.784,"North Dakota, US",178877,85453
-38,North Dakota,US,2021-04-09,47.5289,-99.784,"North Dakota, US",182852,81357
-38,North Dakota,US,2021-04-10,47.5289,-99.784,"North Dakota, US",190635,78166
-38,North Dakota,US,2021-04-11,47.5289,-99.784,"North Dakota, US",198260,75730
-38,North Dakota,US,2021-04-12,47.5289,-99.784,"North Dakota, US",203101,73865
-38,North Dakota,US,2021-04-13,47.5289,-99.784,"North Dakota, US",206710,73909
-38,North Dakota,US,2021-04-14,47.5289,-99.784,"North Dakota, US",206741,73040
-38,North Dakota,US,2021-04-15,47.5289,-99.784,"North Dakota, US",212728,70348
-38,North Dakota,US,2021-04-16,47.5289,-99.784,"North Dakota, US",216079,70238
-38,North Dakota,US,2021-04-17,47.5289,-99.784,"North Dakota, US",221253,66552
-38,North Dakota,US,2021-04-18,47.5289,-99.784,"North Dakota, US",225263,64000
-38,North Dakota,US,2021-04-19,47.5289,-99.784,"North Dakota, US",226895,62777
-38,North Dakota,US,2021-04-20,47.5289,-99.784,"North Dakota, US",226960,62759
-38,North Dakota,US,2021-04-21,47.5289,-99.784,"North Dakota, US",229053,61283
-38,North Dakota,US,2021-04-22,47.5289,-99.784,"North Dakota, US",231490,59699
-38,North Dakota,US,2021-04-23,47.5289,-99.784,"North Dakota, US",235778,57055
-38,North Dakota,US,2021-04-24,47.5289,-99.784,"North Dakota, US",240077,54013
-38,North Dakota,US,2021-04-25,47.5289,-99.784,"North Dakota, US",242962,52413
-38,North Dakota,US,2021-04-26,47.5289,-99.784,"North Dakota, US",243968,51786
-38,North Dakota,US,2021-04-27,47.5289,-99.784,"North Dakota, US",243992,51896
-38,North Dakota,US,2021-04-28,47.5289,-99.784,"North Dakota, US",244760,51778
-38,North Dakota,US,2021-04-29,47.5289,-99.784,"North Dakota, US",247082,50482
-38,North Dakota,US,2021-04-30,47.5289,-99.784,"North Dakota, US",249623,49335
-38,North Dakota,US,2021-05-01,47.5289,-99.784,"North Dakota, US",251660,48427
-38,North Dakota,US,2021-05-02,47.5289,-99.784,"North Dakota, US",252915,47759
-38,North Dakota,US,2021-05-03,47.5289,-99.784,"North Dakota, US",253174,47579
-38,North Dakota,US,2021-05-04,47.5289,-99.784,"North Dakota, US",253174,47544
-38,North Dakota,US,2021-05-05,47.5289,-99.784,"North Dakota, US",254181,47396
-38,North Dakota,US,2021-05-06,47.5289,-99.784,"North Dakota, US",255367,47040
-38,North Dakota,US,2021-05-07,47.5289,-99.784,"North Dakota, US",258207,45145
-38,North Dakota,US,2021-05-08,47.5289,-99.784,"North Dakota, US",260528,44112
-38,North Dakota,US,2021-05-09,47.5289,-99.784,"North Dakota, US",261859,43702
-38,North Dakota,US,2021-05-10,47.5289,-99.784,"North Dakota, US",262443,43360
-38,North Dakota,US,2021-05-11,47.5289,-99.784,"North Dakota, US",262479,43367
-38,North Dakota,US,2021-05-12,47.5289,-99.784,"North Dakota, US",262933,43250
-38,North Dakota,US,2021-05-13,47.5289,-99.784,"North Dakota, US",264447,42535
-38,North Dakota,US,2021-05-14,47.5289,-99.784,"North Dakota, US",265936,41820
-38,North Dakota,US,2021-05-15,47.5289,-99.784,"North Dakota, US",267334,41566
-38,North Dakota,US,2021-05-16,47.5289,-99.784,"North Dakota, US",268358,41369
-38,North Dakota,US,2021-05-17,47.5289,-99.784,"North Dakota, US",268603,41359
-38,North Dakota,US,2021-05-18,47.5289,-99.784,"North Dakota, US",268635,41372
-38,North Dakota,US,2021-05-19,47.5289,-99.784,"North Dakota, US",269237,41441
-38,North Dakota,US,2021-05-20,47.5289,-99.784,"North Dakota, US",270414,42009
-38,North Dakota,US,2021-05-21,47.5289,-99.784,"North Dakota, US",271413,41971
-38,North Dakota,US,2021-05-22,47.5289,-99.784,"North Dakota, US",272862,42196
-38,North Dakota,US,2021-05-23,47.5289,-99.784,"North Dakota, US",273967,42259
-38,North Dakota,US,2021-05-24,47.5289,-99.784,"North Dakota, US",274239,42351
-38,North Dakota,US,2021-05-25,47.5289,-99.784,"North Dakota, US",274335,42392
-38,North Dakota,US,2021-05-26,47.5289,-99.784,"North Dakota, US",274839,42614
-38,North Dakota,US,2021-05-27,47.5289,-99.784,"North Dakota, US",275726,42586
-38,North Dakota,US,2021-05-28,47.5289,-99.784,"North Dakota, US",276647,42743
-38,North Dakota,US,2021-05-29,47.5289,-99.784,"North Dakota, US",277860,42646
-38,North Dakota,US,2021-05-30,47.5289,-99.784,"North Dakota, US",278804,42750
-38,North Dakota,US,2021-05-31,47.5289,-99.784,"North Dakota, US",278804,42750
-38,North Dakota,US,2021-06-01,47.5289,-99.784,"North Dakota, US",278971,42792
-38,North Dakota,US,2021-06-02,47.5289,-99.784,"North Dakota, US",279030,42815
-38,North Dakota,US,2021-06-03,47.5289,-99.784,"North Dakota, US",279802,42790
-38,North Dakota,US,2021-06-04,47.5289,-99.784,"North Dakota, US",280490,42874
-38,North Dakota,US,2021-06-05,47.5289,-99.784,"North Dakota, US",280566,42895
-38,North Dakota,US,2021-06-06,47.5289,-99.784,"North Dakota, US",281557,42735
-38,North Dakota,US,2021-06-07,47.5289,-99.784,"North Dakota, US",282536,42481
-38,North Dakota,US,2021-06-08,47.5289,-99.784,"North Dakota, US",282571,42486
-38,North Dakota,US,2021-06-09,47.5289,-99.784,"North Dakota, US",283066,42449
-38,North Dakota,US,2021-06-10,47.5289,-99.784,"North Dakota, US",283113,42455
-38,North Dakota,US,2021-06-11,47.5289,-99.784,"North Dakota, US",284278,41980
-38,North Dakota,US,2021-06-12,47.5289,-99.784,"North Dakota, US",285377,41533
-38,North Dakota,US,2021-06-13,47.5289,-99.784,"North Dakota, US",286399,41108
-38,North Dakota,US,2021-06-14,47.5289,-99.784,"North Dakota, US",287390,40646
-38,North Dakota,US,2021-06-15,47.5289,-99.784,"North Dakota, US",287627,40531
-38,North Dakota,US,2021-06-16,47.5289,-99.784,"North Dakota, US",288032,40463
-38,North Dakota,US,2021-06-17,47.5289,-99.784,"North Dakota, US",289031,40184
-38,North Dakota,US,2021-06-18,47.5289,-99.784,"North Dakota, US",289693,40030
-38,North Dakota,US,2021-06-19,47.5289,-99.784,"North Dakota, US",290709,39650
-38,North Dakota,US,2021-06-20,47.5289,-99.784,"North Dakota, US",291387,39435
-38,North Dakota,US,2021-06-21,47.5289,-99.784,"North Dakota, US",291678,39326
-38,North Dakota,US,2021-06-22,47.5289,-99.784,"North Dakota, US",291720,39325
-38,North Dakota,US,2021-06-23,47.5289,-99.784,"North Dakota, US",292099,39287
-38,North Dakota,US,2021-06-24,47.5289,-99.784,"North Dakota, US",292840,39029
-38,North Dakota,US,2021-06-25,47.5289,-99.784,"North Dakota, US",293591,38875
-38,North Dakota,US,2021-06-26,47.5289,-99.784,"North Dakota, US",294390,38671
-38,North Dakota,US,2021-06-27,47.5289,-99.784,"North Dakota, US",295006,38512
-38,North Dakota,US,2021-06-28,47.5289,-99.784,"North Dakota, US",295215,38407
-38,North Dakota,US,2021-06-29,47.5289,-99.784,"North Dakota, US",295253,38412
-38,North Dakota,US,2021-06-30,47.5289,-99.784,"North Dakota, US",295725,38406
-38,North Dakota,US,2021-07-01,47.5289,-99.784,"North Dakota, US",296509,38241
-38,North Dakota,US,2021-07-02,47.5289,-99.784,"North Dakota, US",297070,38216
-38,North Dakota,US,2021-07-03,47.5289,-99.784,"North Dakota, US",297605,38144
-38,North Dakota,US,2021-07-04,47.5289,-99.784,"North Dakota, US",298062,38202
-38,North Dakota,US,2021-07-05,47.5289,-99.784,"North Dakota, US",298062,38202
-38,North Dakota,US,2021-07-06,47.5289,-99.784,"North Dakota, US",298138,38244
-38,North Dakota,US,2021-07-07,47.5289,-99.784,"North Dakota, US",298201,38275
-38,North Dakota,US,2021-07-08,47.5289,-99.784,"North Dakota, US",298782,38149
-38,North Dakota,US,2021-07-09,47.5289,-99.784,"North Dakota, US",299249,38139
-38,North Dakota,US,2021-07-10,47.5289,-99.784,"North Dakota, US",299715,38059
-38,North Dakota,US,2021-07-11,47.5289,-99.784,"North Dakota, US",300159,38083
-38,North Dakota,US,2021-07-12,47.5289,-99.784,"North Dakota, US",300211,38099
-38,North Dakota,US,2021-07-13,47.5289,-99.784,"North Dakota, US",300266,38146
-38,North Dakota,US,2021-07-14,47.5289,-99.784,"North Dakota, US",300531,38152
-38,North Dakota,US,2021-07-15,47.5289,-99.784,"North Dakota, US",300870,38230
-38,North Dakota,US,2021-07-16,47.5289,-99.784,"North Dakota, US",301349,38243
-38,North Dakota,US,2021-07-17,47.5289,-99.784,"North Dakota, US",301804,38332
-38,North Dakota,US,2021-07-18,47.5289,-99.784,"North Dakota, US",302172,38419
-38,North Dakota,US,2021-07-19,47.5289,-99.784,"North Dakota, US",302207,38417
-38,North Dakota,US,2021-07-20,47.5289,-99.784,"North Dakota, US",301939,38156
-38,North Dakota,US,2021-07-21,47.5289,-99.784,"North Dakota, US",302419,38263
-38,North Dakota,US,2021-07-22,47.5289,-99.784,"North Dakota, US",302806,38432
-38,North Dakota,US,2021-07-23,47.5289,-99.784,"North Dakota, US",303242,38685
-38,North Dakota,US,2021-07-24,47.5289,-99.784,"North Dakota, US",303705,39002
-38,North Dakota,US,2021-07-25,47.5289,-99.784,"North Dakota, US",304084,39300
-38,North Dakota,US,2021-07-26,47.5289,-99.784,"North Dakota, US",304184,39330
-38,North Dakota,US,2021-07-27,47.5289,-99.784,"North Dakota, US",304231,39331
-38,North Dakota,US,2021-07-28,47.5289,-99.784,"North Dakota, US",304560,39708
-38,North Dakota,US,2021-07-29,47.5289,-99.784,"North Dakota, US",304936,40026
-38,North Dakota,US,2021-07-30,47.5289,-99.784,"North Dakota, US",305349,40492
-38,North Dakota,US,2021-07-31,47.5289,-99.784,"North Dakota, US",305794,40982
-38,North Dakota,US,2021-08-01,47.5289,-99.784,"North Dakota, US",306118,41379
-38,North Dakota,US,2021-08-02,47.5289,-99.784,"North Dakota, US",306177,41470
-38,North Dakota,US,2021-08-03,47.5289,-99.784,"North Dakota, US",306237,41543
-38,North Dakota,US,2021-08-04,47.5289,-99.784,"North Dakota, US",306542,41850
-38,North Dakota,US,2021-08-05,47.5289,-99.784,"North Dakota, US",306946,42272
+37,North Carolina,US,2021-08-06,35.6301,-79.8064,"North Carolina, US",4954352,828359
+38,North Dakota,US,2020-12-10,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-11,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-12,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-13,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-14,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-15,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-16,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-17,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-18,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-19,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-20,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-21,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-22,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-23,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-24,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-25,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-26,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-27,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-28,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-29,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-30,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2020-12-31,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-01,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-02,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-03,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-04,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-05,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-06,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-07,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-08,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-09,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-10,47.5289,-99.78399999999999,"North Dakota, US",,
+38,North Dakota,US,2021-01-11,47.5289,-99.78399999999999,"North Dakota, US",4932,26492
+38,North Dakota,US,2021-01-12,47.5289,-99.78399999999999,"North Dakota, US",5451,27833
+38,North Dakota,US,2021-01-13,47.5289,-99.78399999999999,"North Dakota, US",6213,27922
+38,North Dakota,US,2021-01-14,47.5289,-99.78399999999999,"North Dakota, US",6523,28770
+38,North Dakota,US,2021-01-15,47.5289,-99.78399999999999,"North Dakota, US",7134,32024
+38,North Dakota,US,2021-01-16,47.5289,-99.78399999999999,"North Dakota, US",7555,32891
+38,North Dakota,US,2021-01-17,47.5289,-99.78399999999999,"North Dakota, US",6688,32891
+38,North Dakota,US,2021-01-18,47.5289,-99.78399999999999,"North Dakota, US",6688,32891
+38,North Dakota,US,2021-01-19,47.5289,-99.78399999999999,"North Dakota, US",6688,38975
+38,North Dakota,US,2021-01-20,47.5289,-99.78399999999999,"North Dakota, US",8641,39396
+38,North Dakota,US,2021-01-21,47.5289,-99.78399999999999,"North Dakota, US",8954,39105
+38,North Dakota,US,2021-01-22,47.5289,-99.78399999999999,"North Dakota, US",10998,38590
+38,North Dakota,US,2021-01-23,47.5289,-99.78399999999999,"North Dakota, US",13005,39079
+38,North Dakota,US,2021-01-24,47.5289,-99.78399999999999,"North Dakota, US",14412,40569
+38,North Dakota,US,2021-01-25,47.5289,-99.78399999999999,"North Dakota, US",15589,42316
+38,North Dakota,US,2021-01-26,47.5289,-99.78399999999999,"North Dakota, US",15680,42389
+38,North Dakota,US,2021-01-27,47.5289,-99.78399999999999,"North Dakota, US",15742,41721
+38,North Dakota,US,2021-01-28,47.5289,-99.78399999999999,"North Dakota, US",16952,41920
+38,North Dakota,US,2021-01-29,47.5289,-99.78399999999999,"North Dakota, US",18244,43073
+38,North Dakota,US,2021-01-30,47.5289,-99.78399999999999,"North Dakota, US",21806,43917
+38,North Dakota,US,2021-01-31,47.5289,-99.78399999999999,"North Dakota, US",22968,45463
+38,North Dakota,US,2021-02-01,47.5289,-99.78399999999999,"North Dakota, US",25359,45451
+38,North Dakota,US,2021-02-02,47.5289,-99.78399999999999,"North Dakota, US",26136,45242
+38,North Dakota,US,2021-02-03,47.5289,-99.78399999999999,"North Dakota, US",26659,45171
+38,North Dakota,US,2021-02-04,47.5289,-99.78399999999999,"North Dakota, US",28263,45540
+38,North Dakota,US,2021-02-05,47.5289,-99.78399999999999,"North Dakota, US",30243,47496
+38,North Dakota,US,2021-02-06,47.5289,-99.78399999999999,"North Dakota, US",34764,46812
+38,North Dakota,US,2021-02-07,47.5289,-99.78399999999999,"North Dakota, US",35123,47831
+38,North Dakota,US,2021-02-08,47.5289,-99.78399999999999,"North Dakota, US",37651,49216
+38,North Dakota,US,2021-02-09,47.5289,-99.78399999999999,"North Dakota, US",38417,49216
+38,North Dakota,US,2021-02-10,47.5289,-99.78399999999999,"North Dakota, US",39129,49763
+38,North Dakota,US,2021-02-11,47.5289,-99.78399999999999,"North Dakota, US",40870,50069
+38,North Dakota,US,2021-02-12,47.5289,-99.78399999999999,"North Dakota, US",43744,50416
+38,North Dakota,US,2021-02-13,47.5289,-99.78399999999999,"North Dakota, US",45851,50880
+38,North Dakota,US,2021-02-14,47.5289,-99.78399999999999,"North Dakota, US",45851,51812
+38,North Dakota,US,2021-02-15,47.5289,-99.78399999999999,"North Dakota, US",47552,51812
+38,North Dakota,US,2021-02-16,47.5289,-99.78399999999999,"North Dakota, US",49691,52460
+38,North Dakota,US,2021-02-17,47.5289,-99.78399999999999,"North Dakota, US",50043,52371
+38,North Dakota,US,2021-02-18,47.5289,-99.78399999999999,"North Dakota, US",50866,53330
+38,North Dakota,US,2021-02-19,47.5289,-99.78399999999999,"North Dakota, US",53547,63927
+38,North Dakota,US,2021-02-20,47.5289,-99.78399999999999,"North Dakota, US",58099,63047
+38,North Dakota,US,2021-02-21,47.5289,-99.78399999999999,"North Dakota, US",61624,61616
+38,North Dakota,US,2021-02-22,47.5289,-99.78399999999999,"North Dakota, US",65293,63154
+38,North Dakota,US,2021-02-23,47.5289,-99.78399999999999,"North Dakota, US",65701,62968
+38,North Dakota,US,2021-02-24,47.5289,-99.78399999999999,"North Dakota, US",65701,63591
+38,North Dakota,US,2021-02-25,47.5289,-99.78399999999999,"North Dakota, US",67006,64417
+38,North Dakota,US,2021-02-26,47.5289,-99.78399999999999,"North Dakota, US",68641,66072
+38,North Dakota,US,2021-02-27,47.5289,-99.78399999999999,"North Dakota, US",72168,69028
+38,North Dakota,US,2021-02-28,47.5289,-99.78399999999999,"North Dakota, US",77018,70629
+38,North Dakota,US,2021-03-01,47.5289,-99.78399999999999,"North Dakota, US",77942,71729
+38,North Dakota,US,2021-03-02,47.5289,-99.78399999999999,"North Dakota, US",79483,71763
+38,North Dakota,US,2021-03-03,47.5289,-99.78399999999999,"North Dakota, US",79607,71833
+38,North Dakota,US,2021-03-04,47.5289,-99.78399999999999,"North Dakota, US",80709,72362
+38,North Dakota,US,2021-03-05,47.5289,-99.78399999999999,"North Dakota, US",82964,73893
+38,North Dakota,US,2021-03-06,47.5289,-99.78399999999999,"North Dakota, US",86601,78379
+38,North Dakota,US,2021-03-07,47.5289,-99.78399999999999,"North Dakota, US",88541,82467
+38,North Dakota,US,2021-03-08,47.5289,-99.78399999999999,"North Dakota, US",90596,81262
+38,North Dakota,US,2021-03-09,47.5289,-99.78399999999999,"North Dakota, US",91818,82087
+38,North Dakota,US,2021-03-10,47.5289,-99.78399999999999,"North Dakota, US",91874,81470
+38,North Dakota,US,2021-03-11,47.5289,-99.78399999999999,"North Dakota, US",93608,81899
+38,North Dakota,US,2021-03-12,47.5289,-99.78399999999999,"North Dakota, US",96489,85009
+38,North Dakota,US,2021-03-13,47.5289,-99.78399999999999,"North Dakota, US",100996,85325
+38,North Dakota,US,2021-03-14,47.5289,-99.78399999999999,"North Dakota, US",106812,87248
+38,North Dakota,US,2021-03-15,47.5289,-99.78399999999999,"North Dakota, US",110128,85107
+38,North Dakota,US,2021-03-16,47.5289,-99.78399999999999,"North Dakota, US",113549,85093
+38,North Dakota,US,2021-03-17,47.5289,-99.78399999999999,"North Dakota, US",113616,85929
+38,North Dakota,US,2021-03-18,47.5289,-99.78399999999999,"North Dakota, US",114769,86674
+38,North Dakota,US,2021-03-19,47.5289,-99.78399999999999,"North Dakota, US",117049,89004
+38,North Dakota,US,2021-03-20,47.5289,-99.78399999999999,"North Dakota, US",120838,90445
+38,North Dakota,US,2021-03-21,47.5289,-99.78399999999999,"North Dakota, US",125067,90930
+38,North Dakota,US,2021-03-22,47.5289,-99.78399999999999,"North Dakota, US",128013,91231
+38,North Dakota,US,2021-03-23,47.5289,-99.78399999999999,"North Dakota, US",129480,91225
+38,North Dakota,US,2021-03-24,47.5289,-99.78399999999999,"North Dakota, US",129550,91824
+38,North Dakota,US,2021-03-25,47.5289,-99.78399999999999,"North Dakota, US",130409,93043
+38,North Dakota,US,2021-03-26,47.5289,-99.78399999999999,"North Dakota, US",132641,90928
+38,North Dakota,US,2021-03-27,47.5289,-99.78399999999999,"North Dakota, US",138883,89480
+38,North Dakota,US,2021-03-28,47.5289,-99.78399999999999,"North Dakota, US",144728,86441
+38,North Dakota,US,2021-03-29,47.5289,-99.78399999999999,"North Dakota, US",149705,85370
+38,North Dakota,US,2021-03-30,47.5289,-99.78399999999999,"North Dakota, US",151984,90945
+38,North Dakota,US,2021-03-31,47.5289,-99.78399999999999,"North Dakota, US",153845,91951
+38,North Dakota,US,2021-04-01,47.5289,-99.78399999999999,"North Dakota, US",154549,93206
+38,North Dakota,US,2021-04-02,47.5289,-99.78399999999999,"North Dakota, US",157052,91829
+38,North Dakota,US,2021-04-03,47.5289,-99.78399999999999,"North Dakota, US",164684,89163
+38,North Dakota,US,2021-04-04,47.5289,-99.78399999999999,"North Dakota, US",172158,88441
+38,North Dakota,US,2021-04-05,47.5289,-99.78399999999999,"North Dakota, US",174538,88429
+38,North Dakota,US,2021-04-06,47.5289,-99.78399999999999,"North Dakota, US",175389,87398
+38,North Dakota,US,2021-04-07,47.5289,-99.78399999999999,"North Dakota, US",176603,86267
+38,North Dakota,US,2021-04-08,47.5289,-99.78399999999999,"North Dakota, US",178877,85453
+38,North Dakota,US,2021-04-09,47.5289,-99.78399999999999,"North Dakota, US",182852,81357
+38,North Dakota,US,2021-04-10,47.5289,-99.78399999999999,"North Dakota, US",190635,78166
+38,North Dakota,US,2021-04-11,47.5289,-99.78399999999999,"North Dakota, US",198260,75730
+38,North Dakota,US,2021-04-12,47.5289,-99.78399999999999,"North Dakota, US",203101,73865
+38,North Dakota,US,2021-04-13,47.5289,-99.78399999999999,"North Dakota, US",206710,73909
+38,North Dakota,US,2021-04-14,47.5289,-99.78399999999999,"North Dakota, US",206741,73040
+38,North Dakota,US,2021-04-15,47.5289,-99.78399999999999,"North Dakota, US",212728,70348
+38,North Dakota,US,2021-04-16,47.5289,-99.78399999999999,"North Dakota, US",216079,70238
+38,North Dakota,US,2021-04-17,47.5289,-99.78399999999999,"North Dakota, US",221253,66552
+38,North Dakota,US,2021-04-18,47.5289,-99.78399999999999,"North Dakota, US",225263,64000
+38,North Dakota,US,2021-04-19,47.5289,-99.78399999999999,"North Dakota, US",226895,62777
+38,North Dakota,US,2021-04-20,47.5289,-99.78399999999999,"North Dakota, US",226960,62759
+38,North Dakota,US,2021-04-21,47.5289,-99.78399999999999,"North Dakota, US",229053,61283
+38,North Dakota,US,2021-04-22,47.5289,-99.78399999999999,"North Dakota, US",231490,59699
+38,North Dakota,US,2021-04-23,47.5289,-99.78399999999999,"North Dakota, US",235778,57055
+38,North Dakota,US,2021-04-24,47.5289,-99.78399999999999,"North Dakota, US",240077,54013
+38,North Dakota,US,2021-04-25,47.5289,-99.78399999999999,"North Dakota, US",242962,52413
+38,North Dakota,US,2021-04-26,47.5289,-99.78399999999999,"North Dakota, US",243968,51786
+38,North Dakota,US,2021-04-27,47.5289,-99.78399999999999,"North Dakota, US",243992,51896
+38,North Dakota,US,2021-04-28,47.5289,-99.78399999999999,"North Dakota, US",244760,51778
+38,North Dakota,US,2021-04-29,47.5289,-99.78399999999999,"North Dakota, US",247082,50482
+38,North Dakota,US,2021-04-30,47.5289,-99.78399999999999,"North Dakota, US",249623,49335
+38,North Dakota,US,2021-05-01,47.5289,-99.78399999999999,"North Dakota, US",251660,48427
+38,North Dakota,US,2021-05-02,47.5289,-99.78399999999999,"North Dakota, US",252915,47759
+38,North Dakota,US,2021-05-03,47.5289,-99.78399999999999,"North Dakota, US",253174,47579
+38,North Dakota,US,2021-05-04,47.5289,-99.78399999999999,"North Dakota, US",253174,47544
+38,North Dakota,US,2021-05-05,47.5289,-99.78399999999999,"North Dakota, US",254181,47396
+38,North Dakota,US,2021-05-06,47.5289,-99.78399999999999,"North Dakota, US",255367,47040
+38,North Dakota,US,2021-05-07,47.5289,-99.78399999999999,"North Dakota, US",258207,45145
+38,North Dakota,US,2021-05-08,47.5289,-99.78399999999999,"North Dakota, US",260528,44112
+38,North Dakota,US,2021-05-09,47.5289,-99.78399999999999,"North Dakota, US",261859,43702
+38,North Dakota,US,2021-05-10,47.5289,-99.78399999999999,"North Dakota, US",262443,43360
+38,North Dakota,US,2021-05-11,47.5289,-99.78399999999999,"North Dakota, US",262479,43367
+38,North Dakota,US,2021-05-12,47.5289,-99.78399999999999,"North Dakota, US",262933,43250
+38,North Dakota,US,2021-05-13,47.5289,-99.78399999999999,"North Dakota, US",264447,42535
+38,North Dakota,US,2021-05-14,47.5289,-99.78399999999999,"North Dakota, US",265936,41820
+38,North Dakota,US,2021-05-15,47.5289,-99.78399999999999,"North Dakota, US",267334,41566
+38,North Dakota,US,2021-05-16,47.5289,-99.78399999999999,"North Dakota, US",268358,41369
+38,North Dakota,US,2021-05-17,47.5289,-99.78399999999999,"North Dakota, US",268603,41359
+38,North Dakota,US,2021-05-18,47.5289,-99.78399999999999,"North Dakota, US",268635,41372
+38,North Dakota,US,2021-05-19,47.5289,-99.78399999999999,"North Dakota, US",269237,41441
+38,North Dakota,US,2021-05-20,47.5289,-99.78399999999999,"North Dakota, US",270414,42009
+38,North Dakota,US,2021-05-21,47.5289,-99.78399999999999,"North Dakota, US",271413,41971
+38,North Dakota,US,2021-05-22,47.5289,-99.78399999999999,"North Dakota, US",272862,42196
+38,North Dakota,US,2021-05-23,47.5289,-99.78399999999999,"North Dakota, US",273967,42259
+38,North Dakota,US,2021-05-24,47.5289,-99.78399999999999,"North Dakota, US",274239,42351
+38,North Dakota,US,2021-05-25,47.5289,-99.78399999999999,"North Dakota, US",274335,42392
+38,North Dakota,US,2021-05-26,47.5289,-99.78399999999999,"North Dakota, US",274839,42614
+38,North Dakota,US,2021-05-27,47.5289,-99.78399999999999,"North Dakota, US",275726,42586
+38,North Dakota,US,2021-05-28,47.5289,-99.78399999999999,"North Dakota, US",276647,42743
+38,North Dakota,US,2021-05-29,47.5289,-99.78399999999999,"North Dakota, US",277860,42646
+38,North Dakota,US,2021-05-30,47.5289,-99.78399999999999,"North Dakota, US",278804,42750
+38,North Dakota,US,2021-05-31,47.5289,-99.78399999999999,"North Dakota, US",278804,42750
+38,North Dakota,US,2021-06-01,47.5289,-99.78399999999999,"North Dakota, US",278971,42792
+38,North Dakota,US,2021-06-02,47.5289,-99.78399999999999,"North Dakota, US",279030,42815
+38,North Dakota,US,2021-06-03,47.5289,-99.78399999999999,"North Dakota, US",279802,42790
+38,North Dakota,US,2021-06-04,47.5289,-99.78399999999999,"North Dakota, US",280490,42874
+38,North Dakota,US,2021-06-05,47.5289,-99.78399999999999,"North Dakota, US",280566,42895
+38,North Dakota,US,2021-06-06,47.5289,-99.78399999999999,"North Dakota, US",281557,42735
+38,North Dakota,US,2021-06-07,47.5289,-99.78399999999999,"North Dakota, US",282536,42481
+38,North Dakota,US,2021-06-08,47.5289,-99.78399999999999,"North Dakota, US",282571,42486
+38,North Dakota,US,2021-06-09,47.5289,-99.78399999999999,"North Dakota, US",283066,42449
+38,North Dakota,US,2021-06-10,47.5289,-99.78399999999999,"North Dakota, US",283113,42455
+38,North Dakota,US,2021-06-11,47.5289,-99.78399999999999,"North Dakota, US",284278,41980
+38,North Dakota,US,2021-06-12,47.5289,-99.78399999999999,"North Dakota, US",285377,41533
+38,North Dakota,US,2021-06-13,47.5289,-99.78399999999999,"North Dakota, US",286399,41108
+38,North Dakota,US,2021-06-14,47.5289,-99.78399999999999,"North Dakota, US",287390,40646
+38,North Dakota,US,2021-06-15,47.5289,-99.78399999999999,"North Dakota, US",287627,40531
+38,North Dakota,US,2021-06-16,47.5289,-99.78399999999999,"North Dakota, US",288032,40463
+38,North Dakota,US,2021-06-17,47.5289,-99.78399999999999,"North Dakota, US",289031,40184
+38,North Dakota,US,2021-06-18,47.5289,-99.78399999999999,"North Dakota, US",289693,40030
+38,North Dakota,US,2021-06-19,47.5289,-99.78399999999999,"North Dakota, US",290709,39650
+38,North Dakota,US,2021-06-20,47.5289,-99.78399999999999,"North Dakota, US",291387,39435
+38,North Dakota,US,2021-06-21,47.5289,-99.78399999999999,"North Dakota, US",291678,39326
+38,North Dakota,US,2021-06-22,47.5289,-99.78399999999999,"North Dakota, US",291720,39325
+38,North Dakota,US,2021-06-23,47.5289,-99.78399999999999,"North Dakota, US",292099,39287
+38,North Dakota,US,2021-06-24,47.5289,-99.78399999999999,"North Dakota, US",292840,39029
+38,North Dakota,US,2021-06-25,47.5289,-99.78399999999999,"North Dakota, US",293591,38875
+38,North Dakota,US,2021-06-26,47.5289,-99.78399999999999,"North Dakota, US",294390,38671
+38,North Dakota,US,2021-06-27,47.5289,-99.78399999999999,"North Dakota, US",295006,38512
+38,North Dakota,US,2021-06-28,47.5289,-99.78399999999999,"North Dakota, US",295215,38407
+38,North Dakota,US,2021-06-29,47.5289,-99.78399999999999,"North Dakota, US",295253,38412
+38,North Dakota,US,2021-06-30,47.5289,-99.78399999999999,"North Dakota, US",295725,38406
+38,North Dakota,US,2021-07-01,47.5289,-99.78399999999999,"North Dakota, US",296509,38241
+38,North Dakota,US,2021-07-02,47.5289,-99.78399999999999,"North Dakota, US",297070,38216
+38,North Dakota,US,2021-07-03,47.5289,-99.78399999999999,"North Dakota, US",297605,38144
+38,North Dakota,US,2021-07-04,47.5289,-99.78399999999999,"North Dakota, US",298062,38202
+38,North Dakota,US,2021-07-05,47.5289,-99.78399999999999,"North Dakota, US",298062,38202
+38,North Dakota,US,2021-07-06,47.5289,-99.78399999999999,"North Dakota, US",298138,38244
+38,North Dakota,US,2021-07-07,47.5289,-99.78399999999999,"North Dakota, US",298201,38275
+38,North Dakota,US,2021-07-08,47.5289,-99.78399999999999,"North Dakota, US",298782,38149
+38,North Dakota,US,2021-07-09,47.5289,-99.78399999999999,"North Dakota, US",299249,38139
+38,North Dakota,US,2021-07-10,47.5289,-99.78399999999999,"North Dakota, US",299715,38059
+38,North Dakota,US,2021-07-11,47.5289,-99.78399999999999,"North Dakota, US",300159,38083
+38,North Dakota,US,2021-07-12,47.5289,-99.78399999999999,"North Dakota, US",300211,38099
+38,North Dakota,US,2021-07-13,47.5289,-99.78399999999999,"North Dakota, US",300266,38146
+38,North Dakota,US,2021-07-14,47.5289,-99.78399999999999,"North Dakota, US",300531,38152
+38,North Dakota,US,2021-07-15,47.5289,-99.78399999999999,"North Dakota, US",300870,38230
+38,North Dakota,US,2021-07-16,47.5289,-99.78399999999999,"North Dakota, US",301349,38243
+38,North Dakota,US,2021-07-17,47.5289,-99.78399999999999,"North Dakota, US",301804,38332
+38,North Dakota,US,2021-07-18,47.5289,-99.78399999999999,"North Dakota, US",302172,38419
+38,North Dakota,US,2021-07-19,47.5289,-99.78399999999999,"North Dakota, US",302207,38417
+38,North Dakota,US,2021-07-20,47.5289,-99.78399999999999,"North Dakota, US",301939,38156
+38,North Dakota,US,2021-07-21,47.5289,-99.78399999999999,"North Dakota, US",302419,38263
+38,North Dakota,US,2021-07-22,47.5289,-99.78399999999999,"North Dakota, US",302806,38432
+38,North Dakota,US,2021-07-23,47.5289,-99.78399999999999,"North Dakota, US",303242,38685
+38,North Dakota,US,2021-07-24,47.5289,-99.78399999999999,"North Dakota, US",303705,39002
+38,North Dakota,US,2021-07-25,47.5289,-99.78399999999999,"North Dakota, US",304084,39300
+38,North Dakota,US,2021-07-26,47.5289,-99.78399999999999,"North Dakota, US",304184,39330
+38,North Dakota,US,2021-07-27,47.5289,-99.78399999999999,"North Dakota, US",304231,39331
+38,North Dakota,US,2021-07-28,47.5289,-99.78399999999999,"North Dakota, US",304560,39708
+38,North Dakota,US,2021-07-29,47.5289,-99.78399999999999,"North Dakota, US",304936,40026
+38,North Dakota,US,2021-07-30,47.5289,-99.78399999999999,"North Dakota, US",305349,40492
+38,North Dakota,US,2021-07-31,47.5289,-99.78399999999999,"North Dakota, US",305794,40982
+38,North Dakota,US,2021-08-01,47.5289,-99.78399999999999,"North Dakota, US",306118,41379
+38,North Dakota,US,2021-08-02,47.5289,-99.78399999999999,"North Dakota, US",306177,41470
+38,North Dakota,US,2021-08-03,47.5289,-99.78399999999999,"North Dakota, US",306237,41543
+38,North Dakota,US,2021-08-04,47.5289,-99.78399999999999,"North Dakota, US",306542,41850
+38,North Dakota,US,2021-08-05,47.5289,-99.78399999999999,"North Dakota, US",306946,42272
+38,North Dakota,US,2021-08-06,47.5289,-99.784,"North Dakota, US",307918,42810
 69,Northern Mariana Islands,US,2020-12-10,15.0979,145.6739,"Northern Mariana Islands, US",,
 69,Northern Mariana Islands,US,2020-12-11,15.0979,145.6739,"Northern Mariana Islands, US",,
 69,Northern Mariana Islands,US,2020-12-12,15.0979,145.6739,"Northern Mariana Islands, US",,
@@ -10037,6 +10078,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 69,Northern Mariana Islands,US,2021-08-03,15.0979,145.6739,"Northern Mariana Islands, US",30562,2998
 69,Northern Mariana Islands,US,2021-08-04,15.0979,145.6739,"Northern Mariana Islands, US",30715,3001
 69,Northern Mariana Islands,US,2021-08-05,15.0979,145.6739,"Northern Mariana Islands, US",30841,2995
+69,Northern Mariana Islands,US,2021-08-06,15.0979,145.6739,"Northern Mariana Islands, US",30943,2938
 39,Ohio,US,2020-12-10,40.3888,-82.7649,"Ohio, US",,
 39,Ohio,US,2020-12-11,40.3888,-82.7649,"Ohio, US",,
 39,Ohio,US,2020-12-12,40.3888,-82.7649,"Ohio, US",,
@@ -10276,6 +10318,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 39,Ohio,US,2021-08-03,40.3888,-82.7649,"Ohio, US",5452959,399204
 39,Ohio,US,2021-08-04,40.3888,-82.7649,"Ohio, US",5458126,404395
 39,Ohio,US,2021-08-05,40.3888,-82.7649,"Ohio, US",5464123,409934
+39,Ohio,US,2021-08-06,40.3888,-82.7649,"Ohio, US",5470576,416176
 40,Oklahoma,US,2020-12-10,35.5653,-96.9289,"Oklahoma, US",,
 40,Oklahoma,US,2020-12-11,35.5653,-96.9289,"Oklahoma, US",,
 40,Oklahoma,US,2020-12-12,35.5653,-96.9289,"Oklahoma, US",,
@@ -10515,245 +10558,247 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2021-08-03,35.5653,-96.9289,"Oklahoma, US",1600177,314943
 40,Oklahoma,US,2021-08-04,35.5653,-96.9289,"Oklahoma, US",1602871,319189
 40,Oklahoma,US,2021-08-05,35.5653,-96.9289,"Oklahoma, US",1606041,323786
-41,Oregon,US,2020-12-10,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-11,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-12,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-13,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-14,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-15,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-16,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-17,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-18,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-19,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-20,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-21,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-22,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-23,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-24,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-25,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-26,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-27,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-28,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-29,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-30,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2020-12-31,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2021-01-01,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2021-01-02,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2021-01-03,44.572,-122.0709,"Oregon, US",,
-41,Oregon,US,2021-01-04,44.572,-122.0709,"Oregon, US",9,51246
-41,Oregon,US,2021-01-05,44.572,-122.0709,"Oregon, US",326,54253
-41,Oregon,US,2021-01-06,44.572,-122.0709,"Oregon, US",595,59868
-41,Oregon,US,2021-01-07,44.572,-122.0709,"Oregon, US",995,63926
-41,Oregon,US,2021-01-08,44.572,-122.0709,"Oregon, US",1600,70086
-41,Oregon,US,2021-01-09,44.572,-122.0709,"Oregon, US",3177,78727
-41,Oregon,US,2021-01-10,44.572,-122.0709,"Oregon, US",4081,84639
-41,Oregon,US,2021-01-11,44.572,-122.0709,"Oregon, US",4081,84639
-41,Oregon,US,2021-01-12,44.572,-122.0709,"Oregon, US",7029,93754
-41,Oregon,US,2021-01-13,44.572,-122.0709,"Oregon, US",9568,100843
-41,Oregon,US,2021-01-14,44.572,-122.0709,"Oregon, US",9568,110364
-41,Oregon,US,2021-01-15,44.572,-122.0709,"Oregon, US",13000,120091
-41,Oregon,US,2021-01-16,44.572,-122.0709,"Oregon, US",17703,133081
-41,Oregon,US,2021-01-17,44.572,-122.0709,"Oregon, US",19480,143518
-41,Oregon,US,2021-01-18,44.572,-122.0709,"Oregon, US",21314,149921
-41,Oregon,US,2021-01-19,44.572,-122.0709,"Oregon, US",21314,168684
-41,Oregon,US,2021-01-20,44.572,-122.0709,"Oregon, US",24515,168035
-41,Oregon,US,2021-01-21,44.572,-122.0709,"Oregon, US",27464,165086
-41,Oregon,US,2021-01-22,44.572,-122.0709,"Oregon, US",31517,183877
-41,Oregon,US,2021-01-23,44.572,-122.0709,"Oregon, US",34902,193623
-41,Oregon,US,2021-01-24,44.572,-122.0709,"Oregon, US",37983,204321
-41,Oregon,US,2021-01-25,44.572,-122.0709,"Oregon, US",40348,214870
-41,Oregon,US,2021-01-26,44.572,-122.0709,"Oregon, US",42426,219225
-41,Oregon,US,2021-01-27,44.572,-122.0709,"Oregon, US",45057,227939
-41,Oregon,US,2021-01-28,44.572,-122.0709,"Oregon, US",50587,231866
-41,Oregon,US,2021-01-29,44.572,-122.0709,"Oregon, US",55572,240844
-41,Oregon,US,2021-01-30,44.572,-122.0709,"Oregon, US",63089,248776
-41,Oregon,US,2021-01-31,44.572,-122.0709,"Oregon, US",71747,256765
-41,Oregon,US,2021-02-01,44.572,-122.0709,"Oregon, US",76314,263305
-41,Oregon,US,2021-02-02,44.572,-122.0709,"Oregon, US",80561,269137
-41,Oregon,US,2021-02-03,44.572,-122.0709,"Oregon, US",87748,270009
-41,Oregon,US,2021-02-04,44.572,-122.0709,"Oregon, US",96876,269290
-41,Oregon,US,2021-02-05,44.572,-122.0709,"Oregon, US",103566,270932
-41,Oregon,US,2021-02-06,44.572,-122.0709,"Oregon, US",114810,271135
-41,Oregon,US,2021-02-07,44.572,-122.0709,"Oregon, US",127036,269332
-41,Oregon,US,2021-02-08,44.572,-122.0709,"Oregon, US",136062,272960
-41,Oregon,US,2021-02-09,44.572,-122.0709,"Oregon, US",141874,279569
-41,Oregon,US,2021-02-10,44.572,-122.0709,"Oregon, US",148671,282200
-41,Oregon,US,2021-02-11,44.572,-122.0709,"Oregon, US",155689,278872
-41,Oregon,US,2021-02-12,44.572,-122.0709,"Oregon, US",163406,271155
-41,Oregon,US,2021-02-13,44.572,-122.0709,"Oregon, US",177848,284960
-41,Oregon,US,2021-02-14,44.572,-122.0709,"Oregon, US",189061,282736
-41,Oregon,US,2021-02-15,44.572,-122.0709,"Oregon, US",193105,282736
-41,Oregon,US,2021-02-16,44.572,-122.0709,"Oregon, US",195611,283424
-41,Oregon,US,2021-02-17,44.572,-122.0709,"Oregon, US",199679,284327
-41,Oregon,US,2021-02-18,44.572,-122.0709,"Oregon, US",205901,286162
-41,Oregon,US,2021-02-19,44.572,-122.0709,"Oregon, US",218415,295816
-41,Oregon,US,2021-02-20,44.572,-122.0709,"Oregon, US",234021,292450
-41,Oregon,US,2021-02-21,44.572,-122.0709,"Oregon, US",249241,286269
-41,Oregon,US,2021-02-22,44.572,-122.0709,"Oregon, US",265789,280788
-41,Oregon,US,2021-02-23,44.572,-122.0709,"Oregon, US",292195,276534
-41,Oregon,US,2021-02-24,44.572,-122.0709,"Oregon, US",292195,277098
-41,Oregon,US,2021-02-25,44.572,-122.0709,"Oregon, US",294725,275061
-41,Oregon,US,2021-02-26,44.572,-122.0709,"Oregon, US",305366,272177
-41,Oregon,US,2021-02-27,44.572,-122.0709,"Oregon, US",325641,279668
-41,Oregon,US,2021-02-28,44.572,-122.0709,"Oregon, US",338259,278134
-41,Oregon,US,2021-03-01,44.572,-122.0709,"Oregon, US",355818,285187
-41,Oregon,US,2021-03-02,44.572,-122.0709,"Oregon, US",367112,287785
-41,Oregon,US,2021-03-03,44.572,-122.0709,"Oregon, US",372950,290257
-41,Oregon,US,2021-03-04,44.572,-122.0709,"Oregon, US",377528,290900
-41,Oregon,US,2021-03-05,44.572,-122.0709,"Oregon, US",388626,291318
-41,Oregon,US,2021-03-06,44.572,-122.0709,"Oregon, US",400819,307337
-41,Oregon,US,2021-03-07,44.572,-122.0709,"Oregon, US",412573,320680
-41,Oregon,US,2021-03-08,44.572,-122.0709,"Oregon, US",432675,328238
-41,Oregon,US,2021-03-09,44.572,-122.0709,"Oregon, US",438174,333250
-41,Oregon,US,2021-03-10,44.572,-122.0709,"Oregon, US",440717,337901
-41,Oregon,US,2021-03-11,44.572,-122.0709,"Oregon, US",447042,337461
-41,Oregon,US,2021-03-12,44.572,-122.0709,"Oregon, US",448006,344901
-41,Oregon,US,2021-03-13,44.572,-122.0709,"Oregon, US",461917,360731
-41,Oregon,US,2021-03-14,44.572,-122.0709,"Oregon, US",486353,372226
-41,Oregon,US,2021-03-15,44.572,-122.0709,"Oregon, US",498278,379663
-41,Oregon,US,2021-03-16,44.572,-122.0709,"Oregon, US",508427,386919
-41,Oregon,US,2021-03-17,44.572,-122.0709,"Oregon, US",518520,386302
-41,Oregon,US,2021-03-18,44.572,-122.0709,"Oregon, US",519950,388988
-41,Oregon,US,2021-03-19,44.572,-122.0709,"Oregon, US",529551,403657
-41,Oregon,US,2021-03-20,44.572,-122.0709,"Oregon, US",548689,412614
-41,Oregon,US,2021-03-21,44.572,-122.0709,"Oregon, US",565879,425609
-41,Oregon,US,2021-03-22,44.572,-122.0709,"Oregon, US",578990,430220
-41,Oregon,US,2021-03-23,44.572,-122.0709,"Oregon, US",589589,431739
-41,Oregon,US,2021-03-24,44.572,-122.0709,"Oregon, US",600466,436040
-41,Oregon,US,2021-03-25,44.572,-122.0709,"Oregon, US",608702,448755
-41,Oregon,US,2021-03-26,44.572,-122.0709,"Oregon, US",618399,465940
-41,Oregon,US,2021-03-27,44.572,-122.0709,"Oregon, US",629470,472382
-41,Oregon,US,2021-03-28,44.572,-122.0709,"Oregon, US",648511,476336
-41,Oregon,US,2021-03-29,44.572,-122.0709,"Oregon, US",665111,478697
-41,Oregon,US,2021-03-30,44.572,-122.0709,"Oregon, US",679516,481243
-41,Oregon,US,2021-03-31,44.572,-122.0709,"Oregon, US",687942,483963
-41,Oregon,US,2021-04-01,44.572,-122.0709,"Oregon, US",703262,490327
-41,Oregon,US,2021-04-02,44.572,-122.0709,"Oregon, US",720833,503621
-41,Oregon,US,2021-04-03,44.572,-122.0709,"Oregon, US",739353,507986
-41,Oregon,US,2021-04-04,44.572,-122.0709,"Oregon, US",762016,514166
-41,Oregon,US,2021-04-05,44.572,-122.0709,"Oregon, US",782997,514173
-41,Oregon,US,2021-04-06,44.572,-122.0709,"Oregon, US",800917,515487
-41,Oregon,US,2021-04-07,44.572,-122.0709,"Oregon, US",811749,523921
-41,Oregon,US,2021-04-08,44.572,-122.0709,"Oregon, US",825601,527755
-41,Oregon,US,2021-04-09,44.572,-122.0709,"Oregon, US",844551,539058
-41,Oregon,US,2021-04-10,44.572,-122.0709,"Oregon, US",867782,540194
-41,Oregon,US,2021-04-11,44.572,-122.0709,"Oregon, US",897440,549903
-41,Oregon,US,2021-04-12,44.572,-122.0709,"Oregon, US",923545,553932
-41,Oregon,US,2021-04-13,44.572,-122.0709,"Oregon, US",942416,556576
-41,Oregon,US,2021-04-14,44.572,-122.0709,"Oregon, US",956243,564452
-41,Oregon,US,2021-04-15,44.572,-122.0709,"Oregon, US",988029,570969
-41,Oregon,US,2021-04-16,44.572,-122.0709,"Oregon, US",1010493,573309
-41,Oregon,US,2021-04-17,44.572,-122.0709,"Oregon, US",1033215,577141
-41,Oregon,US,2021-04-18,44.572,-122.0709,"Oregon, US",1053435,583625
-41,Oregon,US,2021-04-19,44.572,-122.0709,"Oregon, US",1067255,589852
-41,Oregon,US,2021-04-20,44.572,-122.0709,"Oregon, US",1080273,590070
-41,Oregon,US,2021-04-21,44.572,-122.0709,"Oregon, US",1092175,593612
-41,Oregon,US,2021-04-22,44.572,-122.0709,"Oregon, US",1093608,592914
-41,Oregon,US,2021-04-23,44.572,-122.0709,"Oregon, US",1141576,587947
-41,Oregon,US,2021-04-24,44.572,-122.0709,"Oregon, US",1167265,586953
-41,Oregon,US,2021-04-25,44.572,-122.0709,"Oregon, US",1195669,585979
-41,Oregon,US,2021-04-26,44.572,-122.0709,"Oregon, US",1214652,582943
-41,Oregon,US,2021-04-27,44.572,-122.0709,"Oregon, US",1228652,583326
-41,Oregon,US,2021-04-28,44.572,-122.0709,"Oregon, US",1242716,584904
-41,Oregon,US,2021-04-29,44.572,-122.0709,"Oregon, US",1264674,583530
-41,Oregon,US,2021-04-30,44.572,-122.0709,"Oregon, US",1284955,584108
-41,Oregon,US,2021-05-01,44.572,-122.0709,"Oregon, US",1285928,584303
-41,Oregon,US,2021-05-02,44.572,-122.0709,"Oregon, US",1332714,581607
-41,Oregon,US,2021-05-03,44.572,-122.0709,"Oregon, US",1344028,583060
-41,Oregon,US,2021-05-04,44.572,-122.0709,"Oregon, US",1344028,582471
-41,Oregon,US,2021-05-05,44.572,-122.0709,"Oregon, US",1373067,574006
-41,Oregon,US,2021-05-06,44.572,-122.0709,"Oregon, US",1391319,571022
-41,Oregon,US,2021-05-07,44.572,-122.0709,"Oregon, US",1413377,566199
-41,Oregon,US,2021-05-08,44.572,-122.0709,"Oregon, US",1445588,558743
-41,Oregon,US,2021-05-09,44.572,-122.0709,"Oregon, US",1484308,546040
-41,Oregon,US,2021-05-10,44.572,-122.0709,"Oregon, US",1509212,536931
-41,Oregon,US,2021-05-11,44.572,-122.0709,"Oregon, US",1529708,531046
-41,Oregon,US,2021-05-12,44.572,-122.0709,"Oregon, US",1553061,519922
-41,Oregon,US,2021-05-13,44.572,-122.0709,"Oregon, US",1572905,511639
-41,Oregon,US,2021-05-14,44.572,-122.0709,"Oregon, US",1592964,503537
-41,Oregon,US,2021-05-15,44.572,-122.0709,"Oregon, US",1616676,495374
-41,Oregon,US,2021-05-16,44.572,-122.0709,"Oregon, US",1643042,486776
-41,Oregon,US,2021-05-17,44.572,-122.0709,"Oregon, US",1656877,483707
-41,Oregon,US,2021-05-18,44.572,-122.0709,"Oregon, US",1670204,482467
-41,Oregon,US,2021-05-19,44.572,-122.0709,"Oregon, US",1686285,478730
-41,Oregon,US,2021-05-20,44.572,-122.0709,"Oregon, US",1701973,474612
-41,Oregon,US,2021-05-21,44.572,-122.0709,"Oregon, US",1724172,469784
-41,Oregon,US,2021-05-22,44.572,-122.0709,"Oregon, US",1753699,461748
-41,Oregon,US,2021-05-23,44.572,-122.0709,"Oregon, US",1777764,452432
-41,Oregon,US,2021-05-24,44.572,-122.0709,"Oregon, US",1794974,448787
-41,Oregon,US,2021-05-25,44.572,-122.0709,"Oregon, US",1809594,441815
-41,Oregon,US,2021-05-26,44.572,-122.0709,"Oregon, US",1824408,437197
-41,Oregon,US,2021-05-27,44.572,-122.0709,"Oregon, US",1841255,432514
-41,Oregon,US,2021-05-28,44.572,-122.0709,"Oregon, US",1860015,425694
-41,Oregon,US,2021-05-29,44.572,-122.0709,"Oregon, US",1880818,416772
-41,Oregon,US,2021-05-30,44.572,-122.0709,"Oregon, US",1901281,408426
-41,Oregon,US,2021-05-31,44.572,-122.0709,"Oregon, US",1901281,408426
-41,Oregon,US,2021-06-01,44.572,-122.0709,"Oregon, US",1920451,399647
-41,Oregon,US,2021-06-02,44.572,-122.0709,"Oregon, US",1923494,398472
-41,Oregon,US,2021-06-03,44.572,-122.0709,"Oregon, US",1934265,392638
-41,Oregon,US,2021-06-04,44.572,-122.0709,"Oregon, US",1948094,386458
-41,Oregon,US,2021-06-05,44.572,-122.0709,"Oregon, US",1964324,379886
-41,Oregon,US,2021-06-06,44.572,-122.0709,"Oregon, US",1984341,368942
-41,Oregon,US,2021-06-07,44.572,-122.0709,"Oregon, US",1984709,368816
-41,Oregon,US,2021-06-08,44.572,-122.0709,"Oregon, US",2010949,354941
-41,Oregon,US,2021-06-09,44.572,-122.0709,"Oregon, US",2023320,348302
-41,Oregon,US,2021-06-10,44.572,-122.0709,"Oregon, US",2023687,348167
-41,Oregon,US,2021-06-11,44.572,-122.0709,"Oregon, US",2038711,340702
-41,Oregon,US,2021-06-12,44.572,-122.0709,"Oregon, US",2058647,328951
-41,Oregon,US,2021-06-13,44.572,-122.0709,"Oregon, US",2077018,317165
-41,Oregon,US,2021-06-14,44.572,-122.0709,"Oregon, US",2089259,310726
-41,Oregon,US,2021-06-15,44.572,-122.0709,"Oregon, US",2109652,297776
-41,Oregon,US,2021-06-16,44.572,-122.0709,"Oregon, US",2125535,288087
-41,Oregon,US,2021-06-17,44.572,-122.0709,"Oregon, US",2138497,281140
-41,Oregon,US,2021-06-18,44.572,-122.0709,"Oregon, US",2150380,274281
-41,Oregon,US,2021-06-19,44.572,-122.0709,"Oregon, US",2159948,268747
-41,Oregon,US,2021-06-20,44.572,-122.0709,"Oregon, US",2169285,264018
-41,Oregon,US,2021-06-21,44.572,-122.0709,"Oregon, US",2176923,259406
-41,Oregon,US,2021-06-22,44.572,-122.0709,"Oregon, US",2178921,258720
-41,Oregon,US,2021-06-23,44.572,-122.0709,"Oregon, US",2185102,256165
-41,Oregon,US,2021-06-24,44.572,-122.0709,"Oregon, US",2190389,254478
-41,Oregon,US,2021-06-25,44.572,-122.0709,"Oregon, US",2197094,252556
-41,Oregon,US,2021-06-26,44.572,-122.0709,"Oregon, US",2207481,248448
-41,Oregon,US,2021-06-27,44.572,-122.0709,"Oregon, US",2215238,246278
-41,Oregon,US,2021-06-28,44.572,-122.0709,"Oregon, US",2218884,244911
-41,Oregon,US,2021-06-29,44.572,-122.0709,"Oregon, US",2218940,244932
-41,Oregon,US,2021-06-30,44.572,-122.0709,"Oregon, US",2223826,243640
-41,Oregon,US,2021-07-01,44.572,-122.0709,"Oregon, US",2268409,212876
-41,Oregon,US,2021-07-02,44.572,-122.0709,"Oregon, US",2273919,210912
-41,Oregon,US,2021-07-03,44.572,-122.0709,"Oregon, US",2278941,209341
-41,Oregon,US,2021-07-04,44.572,-122.0709,"Oregon, US",2286438,206421
-41,Oregon,US,2021-07-05,44.572,-122.0709,"Oregon, US",2286438,206421
-41,Oregon,US,2021-07-06,44.572,-122.0709,"Oregon, US",2289915,205868
-41,Oregon,US,2021-07-07,44.572,-122.0709,"Oregon, US",2290996,205669
-41,Oregon,US,2021-07-08,44.572,-122.0709,"Oregon, US",2296413,203757
-41,Oregon,US,2021-07-09,44.572,-122.0709,"Oregon, US",2296570,203741
-41,Oregon,US,2021-07-10,44.572,-122.0709,"Oregon, US",2300922,202262
-41,Oregon,US,2021-07-11,44.572,-122.0709,"Oregon, US",2305483,200720
-41,Oregon,US,2021-07-12,44.572,-122.0709,"Oregon, US",2308772,199715
-41,Oregon,US,2021-07-13,44.572,-122.0709,"Oregon, US",2310662,199098
-41,Oregon,US,2021-07-14,44.572,-122.0709,"Oregon, US",2313684,198134
-41,Oregon,US,2021-07-15,44.572,-122.0709,"Oregon, US",2317504,196878
-41,Oregon,US,2021-07-16,44.572,-122.0709,"Oregon, US",2321172,195930
-41,Oregon,US,2021-07-17,44.572,-122.0709,"Oregon, US",2324348,195214
-41,Oregon,US,2021-07-18,44.572,-122.0709,"Oregon, US",2327768,194277
-41,Oregon,US,2021-07-19,44.572,-122.0709,"Oregon, US",2330680,193838
-41,Oregon,US,2021-07-20,44.572,-122.0709,"Oregon, US",2334446,193513
-41,Oregon,US,2021-07-21,44.572,-122.0709,"Oregon, US",2334523,193572
-41,Oregon,US,2021-07-22,44.572,-122.0709,"Oregon, US",2334660,193598
-41,Oregon,US,2021-07-23,44.572,-122.0709,"Oregon, US",2341087,193498
-41,Oregon,US,2021-07-24,44.572,-122.0709,"Oregon, US",2341192,193539
-41,Oregon,US,2021-07-25,44.572,-122.0709,"Oregon, US",2347560,193578
-41,Oregon,US,2021-07-26,44.572,-122.0709,"Oregon, US",2349688,193775
-41,Oregon,US,2021-07-27,44.572,-122.0709,"Oregon, US",2350859,194090
-41,Oregon,US,2021-07-28,44.572,-122.0709,"Oregon, US",2353133,194864
-41,Oregon,US,2021-07-29,44.572,-122.0709,"Oregon, US",2355462,196001
-41,Oregon,US,2021-07-30,44.572,-122.0709,"Oregon, US",2357975,198629
-41,Oregon,US,2021-07-31,44.572,-122.0709,"Oregon, US",2360847,200009
-41,Oregon,US,2021-08-01,44.572,-122.0709,"Oregon, US",2363696,201207
-41,Oregon,US,2021-08-02,44.572,-122.0709,"Oregon, US",2365761,202132
-41,Oregon,US,2021-08-03,44.572,-122.0709,"Oregon, US",2366875,202872
-41,Oregon,US,2021-08-04,44.572,-122.0709,"Oregon, US",2369063,203878
-41,Oregon,US,2021-08-05,44.572,-122.0709,"Oregon, US",2371953,205701
+40,Oklahoma,US,2021-08-06,35.5653,-96.9289,"Oklahoma, US",1609164,328511
+41,Oregon,US,2020-12-10,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-11,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-12,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-13,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-14,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-15,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-16,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-17,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-18,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-19,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-20,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-21,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-22,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-23,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-24,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-25,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-26,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-27,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-28,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-29,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-30,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2020-12-31,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2021-01-01,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2021-01-02,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2021-01-03,44.571999999999996,-122.0709,"Oregon, US",,
+41,Oregon,US,2021-01-04,44.571999999999996,-122.0709,"Oregon, US",9,51246
+41,Oregon,US,2021-01-05,44.571999999999996,-122.0709,"Oregon, US",326,54253
+41,Oregon,US,2021-01-06,44.571999999999996,-122.0709,"Oregon, US",595,59868
+41,Oregon,US,2021-01-07,44.571999999999996,-122.0709,"Oregon, US",995,63926
+41,Oregon,US,2021-01-08,44.571999999999996,-122.0709,"Oregon, US",1600,70086
+41,Oregon,US,2021-01-09,44.571999999999996,-122.0709,"Oregon, US",3177,78727
+41,Oregon,US,2021-01-10,44.571999999999996,-122.0709,"Oregon, US",4081,84639
+41,Oregon,US,2021-01-11,44.571999999999996,-122.0709,"Oregon, US",4081,84639
+41,Oregon,US,2021-01-12,44.571999999999996,-122.0709,"Oregon, US",7029,93754
+41,Oregon,US,2021-01-13,44.571999999999996,-122.0709,"Oregon, US",9568,100843
+41,Oregon,US,2021-01-14,44.571999999999996,-122.0709,"Oregon, US",9568,110364
+41,Oregon,US,2021-01-15,44.571999999999996,-122.0709,"Oregon, US",13000,120091
+41,Oregon,US,2021-01-16,44.571999999999996,-122.0709,"Oregon, US",17703,133081
+41,Oregon,US,2021-01-17,44.571999999999996,-122.0709,"Oregon, US",19480,143518
+41,Oregon,US,2021-01-18,44.571999999999996,-122.0709,"Oregon, US",21314,149921
+41,Oregon,US,2021-01-19,44.571999999999996,-122.0709,"Oregon, US",21314,168684
+41,Oregon,US,2021-01-20,44.571999999999996,-122.0709,"Oregon, US",24515,168035
+41,Oregon,US,2021-01-21,44.571999999999996,-122.0709,"Oregon, US",27464,165086
+41,Oregon,US,2021-01-22,44.571999999999996,-122.0709,"Oregon, US",31517,183877
+41,Oregon,US,2021-01-23,44.571999999999996,-122.0709,"Oregon, US",34902,193623
+41,Oregon,US,2021-01-24,44.571999999999996,-122.0709,"Oregon, US",37983,204321
+41,Oregon,US,2021-01-25,44.571999999999996,-122.0709,"Oregon, US",40348,214870
+41,Oregon,US,2021-01-26,44.571999999999996,-122.0709,"Oregon, US",42426,219225
+41,Oregon,US,2021-01-27,44.571999999999996,-122.0709,"Oregon, US",45057,227939
+41,Oregon,US,2021-01-28,44.571999999999996,-122.0709,"Oregon, US",50587,231866
+41,Oregon,US,2021-01-29,44.571999999999996,-122.0709,"Oregon, US",55572,240844
+41,Oregon,US,2021-01-30,44.571999999999996,-122.0709,"Oregon, US",63089,248776
+41,Oregon,US,2021-01-31,44.571999999999996,-122.0709,"Oregon, US",71747,256765
+41,Oregon,US,2021-02-01,44.571999999999996,-122.0709,"Oregon, US",76314,263305
+41,Oregon,US,2021-02-02,44.571999999999996,-122.0709,"Oregon, US",80561,269137
+41,Oregon,US,2021-02-03,44.571999999999996,-122.0709,"Oregon, US",87748,270009
+41,Oregon,US,2021-02-04,44.571999999999996,-122.0709,"Oregon, US",96876,269290
+41,Oregon,US,2021-02-05,44.571999999999996,-122.0709,"Oregon, US",103566,270932
+41,Oregon,US,2021-02-06,44.571999999999996,-122.0709,"Oregon, US",114810,271135
+41,Oregon,US,2021-02-07,44.571999999999996,-122.0709,"Oregon, US",127036,269332
+41,Oregon,US,2021-02-08,44.571999999999996,-122.0709,"Oregon, US",136062,272960
+41,Oregon,US,2021-02-09,44.571999999999996,-122.0709,"Oregon, US",141874,279569
+41,Oregon,US,2021-02-10,44.571999999999996,-122.0709,"Oregon, US",148671,282200
+41,Oregon,US,2021-02-11,44.571999999999996,-122.0709,"Oregon, US",155689,278872
+41,Oregon,US,2021-02-12,44.571999999999996,-122.0709,"Oregon, US",163406,271155
+41,Oregon,US,2021-02-13,44.571999999999996,-122.0709,"Oregon, US",177848,284960
+41,Oregon,US,2021-02-14,44.571999999999996,-122.0709,"Oregon, US",189061,282736
+41,Oregon,US,2021-02-15,44.571999999999996,-122.0709,"Oregon, US",193105,282736
+41,Oregon,US,2021-02-16,44.571999999999996,-122.0709,"Oregon, US",195611,283424
+41,Oregon,US,2021-02-17,44.571999999999996,-122.0709,"Oregon, US",199679,284327
+41,Oregon,US,2021-02-18,44.571999999999996,-122.0709,"Oregon, US",205901,286162
+41,Oregon,US,2021-02-19,44.571999999999996,-122.0709,"Oregon, US",218415,295816
+41,Oregon,US,2021-02-20,44.571999999999996,-122.0709,"Oregon, US",234021,292450
+41,Oregon,US,2021-02-21,44.571999999999996,-122.0709,"Oregon, US",249241,286269
+41,Oregon,US,2021-02-22,44.571999999999996,-122.0709,"Oregon, US",265789,280788
+41,Oregon,US,2021-02-23,44.571999999999996,-122.0709,"Oregon, US",292195,276534
+41,Oregon,US,2021-02-24,44.571999999999996,-122.0709,"Oregon, US",292195,277098
+41,Oregon,US,2021-02-25,44.571999999999996,-122.0709,"Oregon, US",294725,275061
+41,Oregon,US,2021-02-26,44.571999999999996,-122.0709,"Oregon, US",305366,272177
+41,Oregon,US,2021-02-27,44.571999999999996,-122.0709,"Oregon, US",325641,279668
+41,Oregon,US,2021-02-28,44.571999999999996,-122.0709,"Oregon, US",338259,278134
+41,Oregon,US,2021-03-01,44.571999999999996,-122.0709,"Oregon, US",355818,285187
+41,Oregon,US,2021-03-02,44.571999999999996,-122.0709,"Oregon, US",367112,287785
+41,Oregon,US,2021-03-03,44.571999999999996,-122.0709,"Oregon, US",372950,290257
+41,Oregon,US,2021-03-04,44.571999999999996,-122.0709,"Oregon, US",377528,290900
+41,Oregon,US,2021-03-05,44.571999999999996,-122.0709,"Oregon, US",388626,291318
+41,Oregon,US,2021-03-06,44.571999999999996,-122.0709,"Oregon, US",400819,307337
+41,Oregon,US,2021-03-07,44.571999999999996,-122.0709,"Oregon, US",412573,320680
+41,Oregon,US,2021-03-08,44.571999999999996,-122.0709,"Oregon, US",432675,328238
+41,Oregon,US,2021-03-09,44.571999999999996,-122.0709,"Oregon, US",438174,333250
+41,Oregon,US,2021-03-10,44.571999999999996,-122.0709,"Oregon, US",440717,337901
+41,Oregon,US,2021-03-11,44.571999999999996,-122.0709,"Oregon, US",447042,337461
+41,Oregon,US,2021-03-12,44.571999999999996,-122.0709,"Oregon, US",448006,344901
+41,Oregon,US,2021-03-13,44.571999999999996,-122.0709,"Oregon, US",461917,360731
+41,Oregon,US,2021-03-14,44.571999999999996,-122.0709,"Oregon, US",486353,372226
+41,Oregon,US,2021-03-15,44.571999999999996,-122.0709,"Oregon, US",498278,379663
+41,Oregon,US,2021-03-16,44.571999999999996,-122.0709,"Oregon, US",508427,386919
+41,Oregon,US,2021-03-17,44.571999999999996,-122.0709,"Oregon, US",518520,386302
+41,Oregon,US,2021-03-18,44.571999999999996,-122.0709,"Oregon, US",519950,388988
+41,Oregon,US,2021-03-19,44.571999999999996,-122.0709,"Oregon, US",529551,403657
+41,Oregon,US,2021-03-20,44.571999999999996,-122.0709,"Oregon, US",548689,412614
+41,Oregon,US,2021-03-21,44.571999999999996,-122.0709,"Oregon, US",565879,425609
+41,Oregon,US,2021-03-22,44.571999999999996,-122.0709,"Oregon, US",578990,430220
+41,Oregon,US,2021-03-23,44.571999999999996,-122.0709,"Oregon, US",589589,431739
+41,Oregon,US,2021-03-24,44.571999999999996,-122.0709,"Oregon, US",600466,436040
+41,Oregon,US,2021-03-25,44.571999999999996,-122.0709,"Oregon, US",608702,448755
+41,Oregon,US,2021-03-26,44.571999999999996,-122.0709,"Oregon, US",618399,465940
+41,Oregon,US,2021-03-27,44.571999999999996,-122.0709,"Oregon, US",629470,472382
+41,Oregon,US,2021-03-28,44.571999999999996,-122.0709,"Oregon, US",648511,476336
+41,Oregon,US,2021-03-29,44.571999999999996,-122.0709,"Oregon, US",665111,478697
+41,Oregon,US,2021-03-30,44.571999999999996,-122.0709,"Oregon, US",679516,481243
+41,Oregon,US,2021-03-31,44.571999999999996,-122.0709,"Oregon, US",687942,483963
+41,Oregon,US,2021-04-01,44.571999999999996,-122.0709,"Oregon, US",703262,490327
+41,Oregon,US,2021-04-02,44.571999999999996,-122.0709,"Oregon, US",720833,503621
+41,Oregon,US,2021-04-03,44.571999999999996,-122.0709,"Oregon, US",739353,507986
+41,Oregon,US,2021-04-04,44.571999999999996,-122.0709,"Oregon, US",762016,514166
+41,Oregon,US,2021-04-05,44.571999999999996,-122.0709,"Oregon, US",782997,514173
+41,Oregon,US,2021-04-06,44.571999999999996,-122.0709,"Oregon, US",800917,515487
+41,Oregon,US,2021-04-07,44.571999999999996,-122.0709,"Oregon, US",811749,523921
+41,Oregon,US,2021-04-08,44.571999999999996,-122.0709,"Oregon, US",825601,527755
+41,Oregon,US,2021-04-09,44.571999999999996,-122.0709,"Oregon, US",844551,539058
+41,Oregon,US,2021-04-10,44.571999999999996,-122.0709,"Oregon, US",867782,540194
+41,Oregon,US,2021-04-11,44.571999999999996,-122.0709,"Oregon, US",897440,549903
+41,Oregon,US,2021-04-12,44.571999999999996,-122.0709,"Oregon, US",923545,553932
+41,Oregon,US,2021-04-13,44.571999999999996,-122.0709,"Oregon, US",942416,556576
+41,Oregon,US,2021-04-14,44.571999999999996,-122.0709,"Oregon, US",956243,564452
+41,Oregon,US,2021-04-15,44.571999999999996,-122.0709,"Oregon, US",988029,570969
+41,Oregon,US,2021-04-16,44.571999999999996,-122.0709,"Oregon, US",1010493,573309
+41,Oregon,US,2021-04-17,44.571999999999996,-122.0709,"Oregon, US",1033215,577141
+41,Oregon,US,2021-04-18,44.571999999999996,-122.0709,"Oregon, US",1053435,583625
+41,Oregon,US,2021-04-19,44.571999999999996,-122.0709,"Oregon, US",1067255,589852
+41,Oregon,US,2021-04-20,44.571999999999996,-122.0709,"Oregon, US",1080273,590070
+41,Oregon,US,2021-04-21,44.571999999999996,-122.0709,"Oregon, US",1092175,593612
+41,Oregon,US,2021-04-22,44.571999999999996,-122.0709,"Oregon, US",1093608,592914
+41,Oregon,US,2021-04-23,44.571999999999996,-122.0709,"Oregon, US",1141576,587947
+41,Oregon,US,2021-04-24,44.571999999999996,-122.0709,"Oregon, US",1167265,586953
+41,Oregon,US,2021-04-25,44.571999999999996,-122.0709,"Oregon, US",1195669,585979
+41,Oregon,US,2021-04-26,44.571999999999996,-122.0709,"Oregon, US",1214652,582943
+41,Oregon,US,2021-04-27,44.571999999999996,-122.0709,"Oregon, US",1228652,583326
+41,Oregon,US,2021-04-28,44.571999999999996,-122.0709,"Oregon, US",1242716,584904
+41,Oregon,US,2021-04-29,44.571999999999996,-122.0709,"Oregon, US",1264674,583530
+41,Oregon,US,2021-04-30,44.571999999999996,-122.0709,"Oregon, US",1284955,584108
+41,Oregon,US,2021-05-01,44.571999999999996,-122.0709,"Oregon, US",1285928,584303
+41,Oregon,US,2021-05-02,44.571999999999996,-122.0709,"Oregon, US",1332714,581607
+41,Oregon,US,2021-05-03,44.571999999999996,-122.0709,"Oregon, US",1344028,583060
+41,Oregon,US,2021-05-04,44.571999999999996,-122.0709,"Oregon, US",1344028,582471
+41,Oregon,US,2021-05-05,44.571999999999996,-122.0709,"Oregon, US",1373067,574006
+41,Oregon,US,2021-05-06,44.571999999999996,-122.0709,"Oregon, US",1391319,571022
+41,Oregon,US,2021-05-07,44.571999999999996,-122.0709,"Oregon, US",1413377,566199
+41,Oregon,US,2021-05-08,44.571999999999996,-122.0709,"Oregon, US",1445588,558743
+41,Oregon,US,2021-05-09,44.571999999999996,-122.0709,"Oregon, US",1484308,546040
+41,Oregon,US,2021-05-10,44.571999999999996,-122.0709,"Oregon, US",1509212,536931
+41,Oregon,US,2021-05-11,44.571999999999996,-122.0709,"Oregon, US",1529708,531046
+41,Oregon,US,2021-05-12,44.571999999999996,-122.0709,"Oregon, US",1553061,519922
+41,Oregon,US,2021-05-13,44.571999999999996,-122.0709,"Oregon, US",1572905,511639
+41,Oregon,US,2021-05-14,44.571999999999996,-122.0709,"Oregon, US",1592964,503537
+41,Oregon,US,2021-05-15,44.571999999999996,-122.0709,"Oregon, US",1616676,495374
+41,Oregon,US,2021-05-16,44.571999999999996,-122.0709,"Oregon, US",1643042,486776
+41,Oregon,US,2021-05-17,44.571999999999996,-122.0709,"Oregon, US",1656877,483707
+41,Oregon,US,2021-05-18,44.571999999999996,-122.0709,"Oregon, US",1670204,482467
+41,Oregon,US,2021-05-19,44.571999999999996,-122.0709,"Oregon, US",1686285,478730
+41,Oregon,US,2021-05-20,44.571999999999996,-122.0709,"Oregon, US",1701973,474612
+41,Oregon,US,2021-05-21,44.571999999999996,-122.0709,"Oregon, US",1724172,469784
+41,Oregon,US,2021-05-22,44.571999999999996,-122.0709,"Oregon, US",1753699,461748
+41,Oregon,US,2021-05-23,44.571999999999996,-122.0709,"Oregon, US",1777764,452432
+41,Oregon,US,2021-05-24,44.571999999999996,-122.0709,"Oregon, US",1794974,448787
+41,Oregon,US,2021-05-25,44.571999999999996,-122.0709,"Oregon, US",1809594,441815
+41,Oregon,US,2021-05-26,44.571999999999996,-122.0709,"Oregon, US",1824408,437197
+41,Oregon,US,2021-05-27,44.571999999999996,-122.0709,"Oregon, US",1841255,432514
+41,Oregon,US,2021-05-28,44.571999999999996,-122.0709,"Oregon, US",1860015,425694
+41,Oregon,US,2021-05-29,44.571999999999996,-122.0709,"Oregon, US",1880818,416772
+41,Oregon,US,2021-05-30,44.571999999999996,-122.0709,"Oregon, US",1901281,408426
+41,Oregon,US,2021-05-31,44.571999999999996,-122.0709,"Oregon, US",1901281,408426
+41,Oregon,US,2021-06-01,44.571999999999996,-122.0709,"Oregon, US",1920451,399647
+41,Oregon,US,2021-06-02,44.571999999999996,-122.0709,"Oregon, US",1923494,398472
+41,Oregon,US,2021-06-03,44.571999999999996,-122.0709,"Oregon, US",1934265,392638
+41,Oregon,US,2021-06-04,44.571999999999996,-122.0709,"Oregon, US",1948094,386458
+41,Oregon,US,2021-06-05,44.571999999999996,-122.0709,"Oregon, US",1964324,379886
+41,Oregon,US,2021-06-06,44.571999999999996,-122.0709,"Oregon, US",1984341,368942
+41,Oregon,US,2021-06-07,44.571999999999996,-122.0709,"Oregon, US",1984709,368816
+41,Oregon,US,2021-06-08,44.571999999999996,-122.0709,"Oregon, US",2010949,354941
+41,Oregon,US,2021-06-09,44.571999999999996,-122.0709,"Oregon, US",2023320,348302
+41,Oregon,US,2021-06-10,44.571999999999996,-122.0709,"Oregon, US",2023687,348167
+41,Oregon,US,2021-06-11,44.571999999999996,-122.0709,"Oregon, US",2038711,340702
+41,Oregon,US,2021-06-12,44.571999999999996,-122.0709,"Oregon, US",2058647,328951
+41,Oregon,US,2021-06-13,44.571999999999996,-122.0709,"Oregon, US",2077018,317165
+41,Oregon,US,2021-06-14,44.571999999999996,-122.0709,"Oregon, US",2089259,310726
+41,Oregon,US,2021-06-15,44.571999999999996,-122.0709,"Oregon, US",2109652,297776
+41,Oregon,US,2021-06-16,44.571999999999996,-122.0709,"Oregon, US",2125535,288087
+41,Oregon,US,2021-06-17,44.571999999999996,-122.0709,"Oregon, US",2138497,281140
+41,Oregon,US,2021-06-18,44.571999999999996,-122.0709,"Oregon, US",2150380,274281
+41,Oregon,US,2021-06-19,44.571999999999996,-122.0709,"Oregon, US",2159948,268747
+41,Oregon,US,2021-06-20,44.571999999999996,-122.0709,"Oregon, US",2169285,264018
+41,Oregon,US,2021-06-21,44.571999999999996,-122.0709,"Oregon, US",2176923,259406
+41,Oregon,US,2021-06-22,44.571999999999996,-122.0709,"Oregon, US",2178921,258720
+41,Oregon,US,2021-06-23,44.571999999999996,-122.0709,"Oregon, US",2185102,256165
+41,Oregon,US,2021-06-24,44.571999999999996,-122.0709,"Oregon, US",2190389,254478
+41,Oregon,US,2021-06-25,44.571999999999996,-122.0709,"Oregon, US",2197094,252556
+41,Oregon,US,2021-06-26,44.571999999999996,-122.0709,"Oregon, US",2207481,248448
+41,Oregon,US,2021-06-27,44.571999999999996,-122.0709,"Oregon, US",2215238,246278
+41,Oregon,US,2021-06-28,44.571999999999996,-122.0709,"Oregon, US",2218884,244911
+41,Oregon,US,2021-06-29,44.571999999999996,-122.0709,"Oregon, US",2218940,244932
+41,Oregon,US,2021-06-30,44.571999999999996,-122.0709,"Oregon, US",2223826,243640
+41,Oregon,US,2021-07-01,44.571999999999996,-122.0709,"Oregon, US",2268409,212876
+41,Oregon,US,2021-07-02,44.571999999999996,-122.0709,"Oregon, US",2273919,210912
+41,Oregon,US,2021-07-03,44.571999999999996,-122.0709,"Oregon, US",2278941,209341
+41,Oregon,US,2021-07-04,44.571999999999996,-122.0709,"Oregon, US",2286438,206421
+41,Oregon,US,2021-07-05,44.571999999999996,-122.0709,"Oregon, US",2286438,206421
+41,Oregon,US,2021-07-06,44.571999999999996,-122.0709,"Oregon, US",2289915,205868
+41,Oregon,US,2021-07-07,44.571999999999996,-122.0709,"Oregon, US",2290996,205669
+41,Oregon,US,2021-07-08,44.571999999999996,-122.0709,"Oregon, US",2296413,203757
+41,Oregon,US,2021-07-09,44.571999999999996,-122.0709,"Oregon, US",2296570,203741
+41,Oregon,US,2021-07-10,44.571999999999996,-122.0709,"Oregon, US",2300922,202262
+41,Oregon,US,2021-07-11,44.571999999999996,-122.0709,"Oregon, US",2305483,200720
+41,Oregon,US,2021-07-12,44.571999999999996,-122.0709,"Oregon, US",2308772,199715
+41,Oregon,US,2021-07-13,44.571999999999996,-122.0709,"Oregon, US",2310662,199098
+41,Oregon,US,2021-07-14,44.571999999999996,-122.0709,"Oregon, US",2313684,198134
+41,Oregon,US,2021-07-15,44.571999999999996,-122.0709,"Oregon, US",2317504,196878
+41,Oregon,US,2021-07-16,44.571999999999996,-122.0709,"Oregon, US",2321172,195930
+41,Oregon,US,2021-07-17,44.571999999999996,-122.0709,"Oregon, US",2324348,195214
+41,Oregon,US,2021-07-18,44.571999999999996,-122.0709,"Oregon, US",2327768,194277
+41,Oregon,US,2021-07-19,44.571999999999996,-122.0709,"Oregon, US",2330680,193838
+41,Oregon,US,2021-07-20,44.571999999999996,-122.0709,"Oregon, US",2334446,193513
+41,Oregon,US,2021-07-21,44.571999999999996,-122.0709,"Oregon, US",2334523,193572
+41,Oregon,US,2021-07-22,44.571999999999996,-122.0709,"Oregon, US",2334660,193598
+41,Oregon,US,2021-07-23,44.571999999999996,-122.0709,"Oregon, US",2341087,193498
+41,Oregon,US,2021-07-24,44.571999999999996,-122.0709,"Oregon, US",2341192,193539
+41,Oregon,US,2021-07-25,44.571999999999996,-122.0709,"Oregon, US",2347560,193578
+41,Oregon,US,2021-07-26,44.571999999999996,-122.0709,"Oregon, US",2349688,193775
+41,Oregon,US,2021-07-27,44.571999999999996,-122.0709,"Oregon, US",2350859,194090
+41,Oregon,US,2021-07-28,44.571999999999996,-122.0709,"Oregon, US",2353133,194864
+41,Oregon,US,2021-07-29,44.571999999999996,-122.0709,"Oregon, US",2355462,196001
+41,Oregon,US,2021-07-30,44.571999999999996,-122.0709,"Oregon, US",2357975,198629
+41,Oregon,US,2021-07-31,44.571999999999996,-122.0709,"Oregon, US",2360847,200009
+41,Oregon,US,2021-08-01,44.571999999999996,-122.0709,"Oregon, US",2363696,201207
+41,Oregon,US,2021-08-02,44.571999999999996,-122.0709,"Oregon, US",2365761,202132
+41,Oregon,US,2021-08-03,44.571999999999996,-122.0709,"Oregon, US",2366875,202872
+41,Oregon,US,2021-08-04,44.571999999999996,-122.0709,"Oregon, US",2369063,203878
+41,Oregon,US,2021-08-05,44.571999999999996,-122.0709,"Oregon, US",2371953,205701
+41,Oregon,US,2021-08-06,44.572,-122.0709,"Oregon, US",2374442,208028
 42,Pennsylvania,US,2020-12-10,40.5908,-77.2098,"Pennsylvania, US",,
 42,Pennsylvania,US,2020-12-11,40.5908,-77.2098,"Pennsylvania, US",,
 42,Pennsylvania,US,2020-12-12,40.5908,-77.2098,"Pennsylvania, US",,
@@ -10993,6 +11038,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 42,Pennsylvania,US,2021-08-03,40.5908,-77.2098,"Pennsylvania, US",6731236,1699934
 42,Pennsylvania,US,2021-08-04,40.5908,-77.2098,"Pennsylvania, US",6743072,1704633
 42,Pennsylvania,US,2021-08-05,40.5908,-77.2098,"Pennsylvania, US",6754834,1712136
+42,Pennsylvania,US,2021-08-06,40.5908,-77.2098,"Pennsylvania, US",6767007,1719604
 72,Puerto Rico,US,2020-12-10,18.2208,-66.5901,"Puerto Rico, US",,
 72,Puerto Rico,US,2020-12-11,18.2208,-66.5901,"Puerto Rico, US",,
 72,Puerto Rico,US,2020-12-12,18.2208,-66.5901,"Puerto Rico, US",,
@@ -11232,6 +11278,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 72,Puerto Rico,US,2021-08-03,18.2208,-66.5901,"Puerto Rico, US",1916897,285439
 72,Puerto Rico,US,2021-08-04,18.2208,-66.5901,"Puerto Rico, US",1920091,285505
 72,Puerto Rico,US,2021-08-05,18.2208,-66.5901,"Puerto Rico, US",1923313,285788
+72,Puerto Rico,US,2021-08-06,18.2208,-66.5901,"Puerto Rico, US",1931522,286524
 44,Rhode Island,US,2020-12-10,41.6809,-71.5118,"Rhode Island, US",,
 44,Rhode Island,US,2020-12-11,41.6809,-71.5118,"Rhode Island, US",,
 44,Rhode Island,US,2020-12-12,41.6809,-71.5118,"Rhode Island, US",,
@@ -11471,6 +11518,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2021-08-03,41.6809,-71.5118,"Rhode Island, US",719406,63329
 44,Rhode Island,US,2021-08-04,41.6809,-71.5118,"Rhode Island, US",720846,63676
 44,Rhode Island,US,2021-08-05,41.6809,-71.5118,"Rhode Island, US",722182,65498
+44,Rhode Island,US,2021-08-06,41.6809,-71.5118,"Rhode Island, US",723473,66006
 45,South Carolina,US,2020-12-10,33.8569,-80.945,"South Carolina, US",,
 45,South Carolina,US,2020-12-11,33.8569,-80.945,"South Carolina, US",,
 45,South Carolina,US,2020-12-12,33.8569,-80.945,"South Carolina, US",,
@@ -11710,6 +11758,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2021-08-03,33.8569,-80.945,"South Carolina, US",2100297,328096
 45,South Carolina,US,2021-08-04,33.8569,-80.945,"South Carolina, US",2102925,331279
 45,South Carolina,US,2021-08-05,33.8569,-80.945,"South Carolina, US",2106365,336773
+45,South Carolina,US,2021-08-06,33.8569,-80.945,"South Carolina, US",2109553,342370
 46,South Dakota,US,2020-12-10,44.2998,-99.4388,"South Dakota, US",,
 46,South Dakota,US,2020-12-11,44.2998,-99.4388,"South Dakota, US",,
 46,South Dakota,US,2020-12-12,44.2998,-99.4388,"South Dakota, US",,
@@ -11949,6 +11998,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2021-08-03,44.2998,-99.4388,"South Dakota, US",416490,52618
 46,South Dakota,US,2021-08-04,44.2998,-99.4388,"South Dakota, US",416897,53233
 46,South Dakota,US,2021-08-05,44.2998,-99.4388,"South Dakota, US",417625,53988
+46,South Dakota,US,2021-08-06,44.2998,-99.4388,"South Dakota, US",418517,54673
 47,Tennessee,US,2020-12-10,35.7478,-86.6923,"Tennessee, US",,
 47,Tennessee,US,2020-12-11,35.7478,-86.6923,"Tennessee, US",,
 47,Tennessee,US,2020-12-12,35.7478,-86.6923,"Tennessee, US",,
@@ -12188,6 +12238,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 47,Tennessee,US,2021-08-03,35.7478,-86.6923,"Tennessee, US",2687915,401710
 47,Tennessee,US,2021-08-04,35.7478,-86.6923,"Tennessee, US",2693349,407000
 47,Tennessee,US,2021-08-05,35.7478,-86.6923,"Tennessee, US",2698517,413756
+47,Tennessee,US,2021-08-06,35.7478,-86.6923,"Tennessee, US",2703391,420338
 48,Texas,US,2020-12-10,31.0545,-97.5635,"Texas, US",,
 48,Texas,US,2020-12-11,31.0545,-97.5635,"Texas, US",,
 48,Texas,US,2020-12-12,31.0545,-97.5635,"Texas, US",,
@@ -12427,6 +12478,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 48,Texas,US,2021-08-03,31.0545,-97.5635,"Texas, US",12786339,2329863
 48,Texas,US,2021-08-04,31.0545,-97.5635,"Texas, US",12810625,2360836
 48,Texas,US,2021-08-05,31.0545,-97.5635,"Texas, US",12835583,2390514
+48,Texas,US,2021-08-06,31.0545,-97.5635,"Texas, US",12858582,2428667
 49,Utah,US,2020-12-10,40.15,-111.8624,"Utah, US",,
 49,Utah,US,2020-12-11,40.15,-111.8624,"Utah, US",,
 49,Utah,US,2020-12-12,40.15,-111.8624,"Utah, US",,
@@ -12666,6 +12718,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 49,Utah,US,2021-08-03,40.15,-111.8624,"Utah, US",1488331,233918
 49,Utah,US,2021-08-04,40.15,-111.8624,"Utah, US",1491534,239281
 49,Utah,US,2021-08-05,40.15,-111.8624,"Utah, US",1494266,239355
+49,Utah,US,2021-08-06,40.15,-111.8624,"Utah, US",1497019,239467
 50,Vermont,US,2020-12-10,44.0459,-72.7107,"Vermont, US",,
 50,Vermont,US,2020-12-11,44.0459,-72.7107,"Vermont, US",,
 50,Vermont,US,2020-12-12,44.0459,-72.7107,"Vermont, US",,
@@ -12905,6 +12958,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 50,Vermont,US,2021-08-03,44.0459,-72.7107,"Vermont, US",428452,50184
 50,Vermont,US,2021-08-04,44.0459,-72.7107,"Vermont, US",428704,50274
 50,Vermont,US,2021-08-05,44.0459,-72.7107,"Vermont, US",429119,50424
+50,Vermont,US,2021-08-06,44.0459,-72.7107,"Vermont, US",429531,50460
 ,Veterans Health Administration,US,2020-12-10,,,"Veterans Health Administration, US",,
 ,Veterans Health Administration,US,2020-12-11,,,"Veterans Health Administration, US",,
 ,Veterans Health Administration,US,2020-12-12,,,"Veterans Health Administration, US",,
@@ -13144,6 +13198,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Veterans Health Administration,US,2021-08-03,,,"Veterans Health Administration, US",2736306,148148
 ,Veterans Health Administration,US,2021-08-04,,,"Veterans Health Administration, US",2737936,149606
 ,Veterans Health Administration,US,2021-08-05,,,"Veterans Health Administration, US",2739975,150973
+,Veterans Health Administration,US,2021-08-06,,,"Veterans Health Administration, US",2742037,152517
 78,Virgin Islands,US,2020-12-10,18.3358,-64.8963,"Virgin Islands, US",,
 78,Virgin Islands,US,2020-12-11,18.3358,-64.8963,"Virgin Islands, US",,
 78,Virgin Islands,US,2020-12-12,18.3358,-64.8963,"Virgin Islands, US",,
@@ -13383,6 +13438,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-08-03,18.3358,-64.8963,"Virgin Islands, US",37739,8196
 78,Virgin Islands,US,2021-08-04,18.3358,-64.8963,"Virgin Islands, US",37870,8401
 78,Virgin Islands,US,2021-08-05,18.3358,-64.8963,"Virgin Islands, US",37985,8555
+78,Virgin Islands,US,2021-08-06,18.3358,-64.8963,"Virgin Islands, US",38110,8755
 51,Virginia,US,2020-12-10,37.7693,-78.17,"Virginia, US",,
 51,Virginia,US,2020-12-11,37.7693,-78.17,"Virginia, US",,
 51,Virginia,US,2020-12-12,37.7693,-78.17,"Virginia, US",,
@@ -13622,6 +13678,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 51,Virginia,US,2021-08-03,37.7693,-78.17,"Virginia, US",4669654,624967
 51,Virginia,US,2021-08-04,37.7693,-78.17,"Virginia, US",4674811,628608
 51,Virginia,US,2021-08-05,37.7693,-78.17,"Virginia, US",4681679,633222
+51,Virginia,US,2021-08-06,37.7693,-78.17,"Virginia, US",4688721,637760
 53,Washington,US,2020-12-10,47.4009,-121.4905,"Washington, US",,
 53,Washington,US,2020-12-11,47.4009,-121.4905,"Washington, US",,
 53,Washington,US,2020-12-12,47.4009,-121.4905,"Washington, US",,
@@ -13861,6 +13918,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 53,Washington,US,2021-08-03,47.4009,-121.4905,"Washington, US",4403203,489305
 53,Washington,US,2021-08-04,47.4009,-121.4905,"Washington, US",4409114,490202
 53,Washington,US,2021-08-05,47.4009,-121.4905,"Washington, US",4415993,493558
+53,Washington,US,2021-08-06,47.4009,-121.4905,"Washington, US",4422548,497333
 54,West Virginia,US,2020-12-10,38.4912,-80.9545,"West Virginia, US",,
 54,West Virginia,US,2020-12-11,38.4912,-80.9545,"West Virginia, US",,
 54,West Virginia,US,2020-12-12,38.4912,-80.9545,"West Virginia, US",,
@@ -14100,6 +14158,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 54,West Virginia,US,2021-08-03,38.4912,-80.9545,"West Virginia, US",773605,125702
 54,West Virginia,US,2021-08-04,38.4912,-80.9545,"West Virginia, US",774417,125947
 54,West Virginia,US,2021-08-05,38.4912,-80.9545,"West Virginia, US",775029,126265
+54,West Virginia,US,2021-08-06,38.4912,-80.9545,"West Virginia, US",776004,126628
 55,Wisconsin,US,2020-12-10,44.2685,-89.6165,"Wisconsin, US",,
 55,Wisconsin,US,2020-12-11,44.2685,-89.6165,"Wisconsin, US",,
 55,Wisconsin,US,2020-12-12,44.2685,-89.6165,"Wisconsin, US",,
@@ -14339,6 +14398,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 55,Wisconsin,US,2021-08-03,44.2685,-89.6165,"Wisconsin, US",3022244,229425
 55,Wisconsin,US,2021-08-04,44.2685,-89.6165,"Wisconsin, US",3024706,231835
 55,Wisconsin,US,2021-08-05,44.2685,-89.6165,"Wisconsin, US",3028426,235425
+55,Wisconsin,US,2021-08-06,44.2685,-89.6165,"Wisconsin, US",3032217,239411
 56,Wyoming,US,2020-12-10,42.756,-107.3025,"Wyoming, US",,
 56,Wyoming,US,2020-12-11,42.756,-107.3025,"Wyoming, US",,
 56,Wyoming,US,2020-12-12,42.756,-107.3025,"Wyoming, US",,
@@ -14578,3 +14638,4 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 56,Wyoming,US,2021-08-03,42.756,-107.3025,"Wyoming, US",212359,29453
 56,Wyoming,US,2021-08-04,42.756,-107.3025,"Wyoming, US",212447,29545
 56,Wyoming,US,2021-08-05,42.756,-107.3025,"Wyoming, US",212533,29613
+56,Wyoming,US,2021-08-06,42.756,-107.3025,"Wyoming, US",213889,30977
