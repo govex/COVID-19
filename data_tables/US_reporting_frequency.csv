@@ -23,10 +23,10 @@ Colorado,Cases,https://covid19.colorado.gov/data,7/19/21,Y,Y,Y,Y,Y,N,N,,5
 Colorado,Deaths,https://covid19.colorado.gov/data,7/19/21,Y,Y,Y,Y,Y,N,N,,5
 Colorado,Tests,https://covid19.colorado.gov/data,7/19/21,Y,Y,Y,Y,Y,N,N,,5
 Colorado,Vaccines,https://covid19.colorado.gov/vaccine-data-dashboard,7/19/21,Y,Y,Y,Y,Y,N,N,,5
-Conneticut,Cases,https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/,7/1/21,Y,Y,Y,Y,Y,N,N,,5
-Conneticut,Deaths,https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/,7/1/21,Y,Y,Y,Y,Y,N,N,,5
-Conneticut,Tests,https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/,7/1/21,Y,Y,Y,Y,Y,N,N,,5
-Conneticut,Vaccines,https://data.ct.gov/stories/s/CoVP-COVID-Vaccine-Distribution-Data/bhcd-4mnv/,7/1/21,N,N,N,Y,N,N,N,,1
+Connecticut,Cases,https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/,7/1/21,Y,Y,Y,Y,Y,N,N,,5
+Connecticut,Deaths,https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/,7/1/21,Y,Y,Y,Y,Y,N,N,,5
+Connecticut,Tests,https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/,7/1/21,Y,Y,Y,Y,Y,N,N,,5
+Connecticut,Vaccines,https://data.ct.gov/stories/s/CoVP-COVID-Vaccine-Distribution-Data/bhcd-4mnv/,7/1/21,N,N,N,Y,N,N,N,,1
 Delaware,Cases,https://coronavirus.delaware.gov/,7/1/21,Y,Y,Y,Y,Y,Y,Y,,7
 Delaware,Deaths,https://coronavirus.delaware.gov/,7/1/21,Y,Y,Y,Y,Y,Y,Y,,7
 Delaware,Tests,https://coronavirus.delaware.gov/,7/1/21,Y,Y,Y,Y,Y,Y,Y,,7
