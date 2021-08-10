@@ -20,6 +20,7 @@
   - Argentina: Ministry of Health: http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina/archivo/b4684dd9-3cb7-45f7-9c0e-086550013e22
   - Australia: COVID Live: https://covidlive.com.au/vaccinations
   - Austria: Department of Health: https://info.gesundheitsministerium.gv.at/?re=opendata
+  - Bahrain: Ministry of Health: https://healthalert.gov.bh/en/
   - Bangladesh: Directorate General of Health Services: http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
   - Belgium: Institute of Health (Sciensano): https://covid-vaccinatie.be/en
   - Bolivia: Ministry of Health and Sports: https://www.minsalud.gob.bo/
@@ -34,12 +35,14 @@
   - Dominican Republic: Government of the Dominican Republic: https://vacunate.gob.do/
   - El Salvador: Government of El Salvador: https://covid19.gob.sv/
   - Equatorial Guinea: Ministry of Health and Social Welfare Equatorial Guinea: https://guineasalud.org/estadisticas/
+  - Estonia: The Health Board: https://www.terviseamet.ee/et/koroonaviirus/avaandmed
   - Faroe Islands: The Government of the Faroe Islands: https://corona.fo/
   - Finland: Department of Health Welfare: https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta and https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html
   - France: Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
   - Germany: Federal Ministry of Health: https://impfdashboard.de/
   - Ghana: Ghana Health Service: https://ghanahealthservice.org/covid19/
   - Greece: https://data.gov.gr
+  - Greenland: Government of Greenland: https://corona.nun.gl/emner/statistik/antal_vaccinerede
   - Guatemala: Ministry of Public Health and Social Assistance: https://tablerocovid.mspas.gob.gt/
   - Honduras: Government of the Republic of Honduras: http://www.salud.gob.hn/site/index.php/vacunascovid
   - Hong Kong: Government of Hong Kong Special Administration Region: https://www.covidvaccine.gov.hk/en/dashboard
@@ -51,6 +54,7 @@
   - Italy: Ministry of Health: https://www.governo.it/it/cscovid19/report-vaccini/
   - Japan: Prime Minister of Japan and His Cabinet: https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html 
   - Jordan: Ministry of Health: https://corona.moh.gov.jo/en
+  - Kazakhstan: Ministry of Health: https://www.coronavirus2020.kz
   - Kenya: Ministry of Health: https://www.health.go.ke/#1621663315215-d6245403-4901
   - Latvia: National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
   - Lebanon: https://impact.cib.gov.lb/home/dashboard/vaccine
@@ -93,3 +97,4 @@
   - United Arab Emirates: Supreme Council for National Security: https://covid19.ncema.gov.ae/en
   - United Kingdom: United Kingdom Government: https://coronavirus.data.gov.uk/
   - Uruguay: Ministry of Public Health: https://monitor.uruguaysevacuna.gub.uy/
+  - Zambia: Zambia National Public health Institute: https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63
