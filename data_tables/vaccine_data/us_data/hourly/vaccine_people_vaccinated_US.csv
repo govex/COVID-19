@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-08-11,43.4525,-71.5639,"New Hampshire, US",799090,92784
 34,New Jersey,US,2021-08-11,40.2989,-74.521,"New Jersey, US",5376198,718664
 35,New Mexico,US,2021-08-11,34.8405,-106.2485,"New Mexico, US",1213844,186619
-36,New York,US,2021-08-11,42.1657,-74.9481,"New York, US",11265249,1279204
+36,New York,US,2021-08-11,42.1657,-74.9481,"New York, US",11267589,1279204
 37,North Carolina,US,2021-08-11,35.6301,-79.8064,"North Carolina, US",4981343,861298
 38,North Dakota,US,2021-08-11,47.5289,-99.78399999999999,"North Dakota, US",309288,44193
 69,Northern Mariana Islands,US,2021-08-11,15.0979,145.6739,"Northern Mariana Islands, US",31318,2806
@@ -49,7 +49,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2021-08-11,41.6809,-71.5118,"Rhode Island, US",727947,68804
 45,South Carolina,US,2021-08-11,33.8569,-80.945,"South Carolina, US",2123387,361814
 46,South Dakota,US,2021-08-11,44.2998,-99.4388,"South Dakota, US",420280,56496
-47,Tennessee,US,2021-08-11,35.7478,-86.6923,"Tennessee, US",2721513,446545
+47,Tennessee,US,2021-08-11,35.7478,-86.6923,"Tennessee, US",2725266,446545
 48,Texas,US,2021-08-11,31.0545,-97.5635,"Texas, US",12946189,2553602
 49,Utah,US,2021-08-11,40.15,-111.8624,"Utah, US",1509140,252812
 50,Vermont,US,2021-08-11,44.0459,-72.7107,"Vermont, US",430951,50890
