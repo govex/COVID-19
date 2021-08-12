@@ -16,7 +16,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 66,Guam,US,2021-08-12,13.4443,144.7937,"Guam, US",104930,9714
 15,Hawaii,US,2021-08-12,21.0943,-157.4983,"Hawaii, US",866963,258836
 16,Idaho,US,2021-08-12,44.2405,-114.4788,"Idaho, US",702524,75062
-17,Illinois,US,2021-08-12,40.3495,-88.9861,"Illinois, US",6505315,1820114
+17,Illinois,US,2021-08-12,40.3495,-88.9861,"Illinois, US",6531554,1820114
 ,Indian Health Services,US,2021-08-12,,,"Indian Health Services, US",689323,154748
 18,Indiana,US,2021-08-12,39.8494,-86.2583,"Indiana, US",3016170,232818
 19,Iowa,US,2021-08-12,42.0115,-93.2105,"Iowa, US",1583886,133419
@@ -29,7 +29,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-08-12,42.2302,-71.5301,"Massachusetts, US",4447391,626268
 26,Michigan,US,2021-08-12,43.3266,-84.5361,"Michigan, US",4926748,457258
 27,Minnesota,US,2021-08-12,45.6945,-93.9002,"Minnesota, US",3065638,317444
-28,Mississippi,US,2021-08-12,32.7416,-89.6787,"Mississippi, US",1062396,210368
+28,Mississippi,US,2021-08-12,32.7416,-89.6787,"Mississippi, US",1065743,210368
 29,Missouri,US,2021-08-12,38.4561,-92.2884,"Missouri, US",2615525,485819
 30,Montana,US,2021-08-12,46.9219,-110.4544,"Montana, US",478472,59771
 31,Nebraska,US,2021-08-12,41.1254,-98.2681,"Nebraska, US",970147,99274
@@ -46,7 +46,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2021-08-12,44.571999999999996,-122.0709,"Oregon, US",2385758,215834
 42,Pennsylvania,US,2021-08-12,40.5908,-77.2098,"Pennsylvania, US",6814649,1747996
 72,Puerto Rico,US,2021-08-12,18.2208,-66.5901,"Puerto Rico, US",1943455,291082
-44,Rhode Island,US,2021-08-12,41.6809,-71.5118,"Rhode Island, US",727947,69027
+44,Rhode Island,US,2021-08-12,41.6809,-71.5118,"Rhode Island, US",729687,69027
 45,South Carolina,US,2021-08-12,33.8569,-80.945,"South Carolina, US",2123769,362132
 46,South Dakota,US,2021-08-12,44.2998,-99.4388,"South Dakota, US",420963,56769
 47,Tennessee,US,2021-08-12,35.7478,-86.6923,"Tennessee, US",2725266,451308
