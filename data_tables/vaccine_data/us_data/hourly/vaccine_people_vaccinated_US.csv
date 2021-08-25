@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-08-25,32.3182,-86.9023,"Alabama, US",1802279,566010
-2,Alaska,US,2021-08-25,61.3707,-152.4044,"Alaska, US",344696,48878
+2,Alaska,US,2021-08-25,61.3707,-152.4044,"Alaska, US",345423,48878
 60,American Samoa,US,2021-08-25,-14.270999999999999,-170.132,"American Samoa, US",25376,5061
 4,Arizona,US,2021-08-25,33.7298,-111.4312,"Arizona, US",3483917,635097
 5,Arkansas,US,2021-08-25,34.9697,-92.3731,"Arkansas, US",1211140,362026
@@ -14,7 +14,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2021-08-25,27.7663,-81.6868,"Florida, US",11102484,2364890
 13,Georgia,US,2021-08-25,33.0406,-83.6431,"Georgia, US",4293478,1004771
 66,Guam,US,2021-08-25,13.4443,144.7937,"Guam, US",107509,10391
-15,Hawaii,US,2021-08-25,21.0943,-157.4983,"Hawaii, US",883321,265336
+15,Hawaii,US,2021-08-25,21.0943,-157.4983,"Hawaii, US",885417,265336
 16,Idaho,US,2021-08-25,44.2405,-114.4788,"Idaho, US",724235,85933
 17,Illinois,US,2021-08-25,40.3495,-88.9861,"Illinois, US",6719139,1855707
 ,Indian Health Services,US,2021-08-25,,,"Indian Health Services, US",708417,154639
@@ -51,7 +51,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2021-08-25,44.2998,-99.4388,"South Dakota, US",428402,60249
 47,Tennessee,US,2021-08-25,35.7478,-86.6923,"Tennessee, US",2820123,508108
 48,Texas,US,2021-08-25,31.0545,-97.5635,"Texas, US",13466896,2802846
-49,Utah,US,2021-08-25,40.15,-111.8624,"Utah, US",1551747,278119
+49,Utah,US,2021-08-25,40.15,-111.8624,"Utah, US",1556679,278119
 50,Vermont,US,2021-08-25,44.0459,-72.7107,"Vermont, US",436153,50979
 ,Veterans Health Administration,US,2021-08-25,,,"Veterans Health Administration, US",2768331,161511
 78,Virgin Islands,US,2021-08-25,18.3358,-64.8963,"Virgin Islands, US",41258,8861
