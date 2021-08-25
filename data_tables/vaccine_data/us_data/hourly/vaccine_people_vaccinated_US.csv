@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2021-08-25,-14.270999999999999,-170.132,"American Samoa, US",25376,5061
 4,Arizona,US,2021-08-25,33.7298,-111.4312,"Arizona, US",3483917,635097
 5,Arkansas,US,2021-08-25,34.9697,-92.3731,"Arkansas, US",1211140,362026
-6,California,US,2021-08-25,36.1162,-119.6816,"California, US",22216026,5106944
+6,California,US,2021-08-25,36.1162,-119.6816,"California, US",22273873,5106944
 8,Colorado,US,2021-08-25,39.0598,-105.3111,"Colorado, US",3285724,372614
 9,Connecticut,US,2021-08-25,41.5978,-72.7554,"Connecticut, US",2326321,267307
 10,Delaware,US,2021-08-25,39.3185,-75.5071,"Delaware, US",531368,85569
@@ -25,7 +25,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Long Term Care (LTC) Program,US,2021-08-25,,,"Long Term Care (LTC) Program, US",0,
 22,Louisiana,US,2021-08-25,31.1695,-91.8678,"Louisiana, US",1873834,386921
 23,Maine,US,2021-08-25,44.6939,-69.3819,"Maine, US",876846,73314
-24,Maryland,US,2021-08-25,39.0639,-76.8021,"Maryland, US",3678839,401125
+24,Maryland,US,2021-08-25,39.0639,-76.8021,"Maryland, US",3685847,401125
 25,Massachusetts,US,2021-08-25,42.2302,-71.5301,"Massachusetts, US",4507841,642864
 26,Michigan,US,2021-08-25,43.3266,-84.5361,"Michigan, US",4996080,472045
 27,Minnesota,US,2021-08-25,45.6945,-93.9002,"Minnesota, US",3115109,339443
@@ -35,7 +35,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2021-08-25,41.1254,-98.2681,"Nebraska, US",991773,105517
 32,Nevada,US,2021-08-25,38.3135,-117.0554,"Nevada, US",1444294,314651
 33,New Hampshire,US,2021-08-25,43.4525,-71.5639,"New Hampshire, US",807422,98275
-34,New Jersey,US,2021-08-25,40.2989,-74.521,"New Jersey, US",5497801,750332
+34,New Jersey,US,2021-08-25,40.2989,-74.521,"New Jersey, US",5514728,750332
 35,New Mexico,US,2021-08-25,34.8405,-106.2485,"New Mexico, US",1238378,203377
 36,New York,US,2021-08-25,42.1657,-74.9481,"New York, US",11526991,1391194
 37,North Carolina,US,2021-08-25,35.6301,-79.8064,"North Carolina, US",5102515,952014
