@@ -30,7 +30,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2021-08-28,43.3266,-84.5361,"Michigan, US",5018900,472488
 27,Minnesota,US,2021-08-28,45.6945,-93.9002,"Minnesota, US",3132409,336891
 28,Mississippi,US,2021-08-28,32.7416,-89.6787,"Mississippi, US",1154329,254944
-29,Missouri,US,2021-08-28,38.4561,-92.2884,"Missouri, US",2743038,472671
+29,Missouri,US,2021-08-28,38.4561,-92.2884,"Missouri, US",2745565,472671
 30,Montana,US,2021-08-28,46.9219,-110.4544,"Montana, US",489605,65517
 31,Nebraska,US,2021-08-28,41.1254,-98.2681,"Nebraska, US",998122,105494
 32,Nevada,US,2021-08-28,38.3135,-117.0554,"Nevada, US",1456877,314209
@@ -50,7 +50,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2021-08-28,33.8569,-80.945,"South Carolina, US",2205525,419443
 46,South Dakota,US,2021-08-28,44.2998,-99.4388,"South Dakota, US",432051,61158
 47,Tennessee,US,2021-08-28,35.7478,-86.6923,"Tennessee, US",2850116,518327
-48,Texas,US,2021-08-28,31.0545,-97.5635,"Texas, US",13595695,2824637
+48,Texas,US,2021-08-28,31.0545,-97.5635,"Texas, US",13604236,2824637
 49,Utah,US,2021-08-28,40.15,-111.8624,"Utah, US",1564511,279141
 50,Vermont,US,2021-08-28,44.0459,-72.7107,"Vermont, US",437120,51065
 ,Veterans Health Administration,US,2021-08-28,,,"Veterans Health Administration, US",2776317,161963
