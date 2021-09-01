@@ -207,10 +207,10 @@ Washington,Cases,https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard#dashbo
 Washington,Deaths,https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard#dashboard,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Washington,Tests,https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard#dashboard,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Washington,Vaccines,https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard#dashboard,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-West Virginia,Cases,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-West Virginia,Deaths,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-West Virginia,Tests,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-West Virginia,Vaccines,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,7/2/21,Y,Y,Y,Y,Y,N,N,,5
+West Virginia,Cases,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,8/28/21,Y,Y,Y,Y,Y,Y,Y,,7
+West Virginia,Deaths,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,8/28/21,Y,Y,Y,Y,Y,N,N,,5
+West Virginia,Tests,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,8/28/21,Y,Y,Y,Y,Y,Y,Y,,7
+West Virginia,Vaccines,https://dhhr.wv.gov/COVID-19/Pages/default.aspx,8/28/21,Y,Y,Y,Y,Y,N,N,,5
 Wisconsin,Cases,https://www.dhs.wisconsin.gov/covid-19/data.htm,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Wisconsin,Deaths,https://www.dhs.wisconsin.gov/covid-19/data.htm,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Wisconsin,Tests,https://www.dhs.wisconsin.gov/covid-19/data.htm,7/2/21,Y,Y,Y,Y,Y,N,N,,5
