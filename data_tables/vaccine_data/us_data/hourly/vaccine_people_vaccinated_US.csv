@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-09-02,32.3182,-86.9023,"Alabama, US",1891063,561484
-2,Alaska,US,2021-09-02,61.3707,-152.4044,"Alaska, US",352184,51864
+2,Alaska,US,2021-09-02,61.3707,-152.4044,"Alaska, US",353122,51864
 60,American Samoa,US,2021-09-02,-14.270999999999999,-170.132,"American Samoa, US",25574,5028
 4,Arizona,US,2021-09-02,33.7298,-111.4312,"Arizona, US",3549370,640650
 5,Arkansas,US,2021-09-02,34.9697,-92.3731,"Arkansas, US",1267963,347122
@@ -9,12 +9,12 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 9,Connecticut,US,2021-09-02,41.5978,-72.7554,"Connecticut, US",2360741,271919
 10,Delaware,US,2021-09-02,39.3185,-75.5071,"Delaware, US",540571,85335
 ,Department of Defense,US,2021-09-02,,,"Department of Defense, US",2134446,651732
-11,District of Columbia,US,2021-09-02,38.8974,-77.0268,"District of Columbia, US",500274,72302
+11,District of Columbia,US,2021-09-02,38.8974,-77.0268,"District of Columbia, US",504371,72302
 ,Federal Bureau of Prisons,US,2021-09-02,,,"Federal Bureau of Prisons, US",110704,6859
 12,Florida,US,2021-09-02,27.7663,-81.6868,"Florida, US",11468372,2304777
 13,Georgia,US,2021-09-02,33.0406,-83.6431,"Georgia, US",4445340,1036755
 66,Guam,US,2021-09-02,13.4443,144.7937,"Guam, US",108134,13328
-15,Hawaii,US,2021-09-02,21.0943,-157.4983,"Hawaii, US",901099,267188
+15,Hawaii,US,2021-09-02,21.0943,-157.4983,"Hawaii, US",904753,267188
 16,Idaho,US,2021-09-02,44.2405,-114.4788,"Idaho, US",737385,90619
 17,Illinois,US,2021-09-02,40.3495,-88.9861,"Illinois, US",6764410,1873839
 ,Indian Health Services,US,2021-09-02,,,"Indian Health Services, US",718717,156383
@@ -57,6 +57,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-09-02,18.3358,-64.8963,"Virgin Islands, US",42995,8275
 51,Virginia,US,2021-09-02,37.7693,-78.17,"Virginia, US",4903533,687320
 53,Washington,US,2021-09-02,47.4009,-121.4905,"Washington, US",4597296,588727
-54,West Virginia,US,2021-09-02,38.4912,-80.9545,"West Virginia, US",805009,133459
+54,West Virginia,US,2021-09-02,38.4912,-80.9545,"West Virginia, US",806498,133459
 55,Wisconsin,US,2021-09-02,44.2685,-89.6165,"Wisconsin, US",3154598,271079
 56,Wyoming,US,2021-09-02,42.756,-107.3025,"Wyoming, US",226176,37904
