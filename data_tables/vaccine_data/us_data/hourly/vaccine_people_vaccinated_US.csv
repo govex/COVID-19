@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-09-09,32.3182,-86.9023,"Alabama, US",1938065,553568
-2,Alaska,US,2021-09-09,61.3707,-152.4044,"Alaska, US",356341,52314
+2,Alaska,US,2021-09-09,61.3707,-152.4044,"Alaska, US",357488,52314
 60,American Samoa,US,2021-09-09,-14.270999999999999,-170.132,"American Samoa, US",26357,5630
 4,Arizona,US,2021-09-09,33.7298,-111.4312,"Arizona, US",3588996,605482
 5,Arkansas,US,2021-09-09,34.9697,-92.3731,"Arkansas, US",1295202,336316
@@ -23,7 +23,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 20,Kansas,US,2021-09-09,38.5266,-96.7265,"Kansas, US",1429204,264532
 21,Kentucky,US,2021-09-09,37.6681,-84.6701,"Kentucky, US",2210493,390448
 ,Long Term Care (LTC) Program,US,2021-09-09,,,"Long Term Care (LTC) Program, US",0,
-22,Louisiana,US,2021-09-09,31.1695,-91.8678,"Louisiana, US",1980577,352748
+22,Louisiana,US,2021-09-09,31.1695,-91.8678,"Louisiana, US",1993856,352748
 23,Maine,US,2021-09-09,44.6939,-69.3819,"Maine, US",893235,78684
 24,Maryland,US,2021-09-09,39.0639,-76.8021,"Maryland, US",3780987,403173
 25,Massachusetts,US,2021-09-09,42.2302,-71.5301,"Massachusetts, US",4584763,650266
