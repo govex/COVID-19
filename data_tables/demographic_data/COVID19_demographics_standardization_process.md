@@ -6,8 +6,13 @@ In order to create a dataset where the demographic categories are comparable bet
 ### For each State:
 ---
 1. Unify naming conventions
-    - Ensure all "Unknowns" are labeled the same
-    - Ensure all demographic categories are labeled the same
+    - Unify naming of unknowns by renaming categories that represent unknowns. (i.e. `not_reported`, `not_available`, `missing`, etc.)
+    - Create a consistent naming convention for demographic categories
+        - Separate mixed categories with a hyphen (-)
+        - Set all data to lower case
+        - Unify differently named categories that represent the same group. (i.e. change `hispanic_or_latino` to `hispanic_latino`)
+        - Generalize specific racial groups to broader categories (i.e. change `filipino` to `asian`)
+        - Decisions on how to rename and recategorize race and ethnicity groups based on guidance from [Office of Management and Budget Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity](https://www.federalregister.gov/documents/2016/09/30/2016-23672/standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity)
 ---
 2. Filter data to only contain `Estimate_type` equal to `total_cumulative` or `rate_percent`, which are the most informative estimates when it comes to compare incidence and disparities across states. 
 ---
