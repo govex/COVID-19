@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-09-27,32.3182,-86.9023,"Alabama, US",2073717,499199
-2,Alaska,US,2021-09-27,61.3707,-152.4044,"Alaska, US",372964,49286
+2,Alaska,US,2021-09-27,61.3707,-152.4044,"Alaska, US",375384,49286
 60,American Samoa,US,2021-09-27,-14.270999999999999,-170.132,"American Samoa, US",28253,5845
 4,Arizona,US,2021-09-27,33.7298,-111.4312,"Arizona, US",3707131,597807
 5,Arkansas,US,2021-09-27,34.9697,-92.3731,"Arkansas, US",1368926,307723
@@ -46,12 +46,12 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2021-09-27,44.571999999999996,-122.0709,"Oregon, US",2553922,246488
 42,Pennsylvania,US,2021-09-27,40.5908,-77.2098,"Pennsylvania, US",7378591,1857349
 72,Puerto Rico,US,2021-09-27,18.2208,-66.5901,"Puerto Rico, US",2239286,286864
-44,Rhode Island,US,2021-09-27,41.6809,-71.5118,"Rhode Island, US",777211,73860
+44,Rhode Island,US,2021-09-27,41.6809,-71.5118,"Rhode Island, US",777322,73860
 45,South Carolina,US,2021-09-27,33.8569,-80.945,"South Carolina, US",2419877,412761
 46,South Dakota,US,2021-09-27,44.2998,-99.4388,"South Dakota, US",454704,65298
 47,Tennessee,US,2021-09-27,35.7478,-86.6923,"Tennessee, US",3137790,507259
 48,Texas,US,2021-09-27,31.0545,-97.5635,"Texas, US",14799694,2515507
-49,Utah,US,2021-09-27,40.15,-111.8624,"Utah, US",1669819,270664
+49,Utah,US,2021-09-27,40.15,-111.8624,"Utah, US",1677552,270664
 50,Vermont,US,2021-09-27,44.0459,-72.7107,"Vermont, US",447610,51306
 ,Veterans Health Administration,US,2021-09-27,,,"Veterans Health Administration, US",2826623,164923
 78,Virgin Islands,US,2021-09-27,18.3358,-64.8963,"Virgin Islands, US",46194,7239
