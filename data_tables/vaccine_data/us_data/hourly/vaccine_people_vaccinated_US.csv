@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2021-09-27,-14.270999999999999,-170.132,"American Samoa, US",27875,5820
 4,Arizona,US,2021-09-27,33.7298,-111.4312,"Arizona, US",3702564,598349
 5,Arkansas,US,2021-09-27,34.9697,-92.3731,"Arkansas, US",1367406,308281
-6,California,US,2021-09-27,36.1162,-119.6816,"California, US",23749941,5032087
+6,California,US,2021-09-27,36.1162,-119.6816,"California, US",23767562,5032087
 8,Colorado,US,2021-09-27,39.0598,-105.3111,"Colorado, US",3448223,358821
 9,Connecticut,US,2021-09-27,41.5978,-72.7554,"Connecticut, US",2440711,263628
 10,Delaware,US,2021-09-27,39.3185,-75.5071,"Delaware, US",557929,84387
@@ -39,7 +39,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 35,New Mexico,US,2021-09-27,34.8405,-106.2485,"New Mexico, US",1317839,197223
 36,New York,US,2021-09-27,42.1657,-74.9481,"New York, US",12330704,1462254
 37,North Carolina,US,2021-09-27,35.6301,-79.8064,"North Carolina, US",5512391,1011167
-38,North Dakota,US,2021-09-27,47.5289,-99.78399999999999,"North Dakota, US",334552,52413
+38,North Dakota,US,2021-09-27,47.5289,-99.78399999999999,"North Dakota, US",337528,52413
 69,Northern Mariana Islands,US,2021-09-27,15.0979,145.6739,"Northern Mariana Islands, US",34671,1679
 39,Ohio,US,2021-09-27,40.3888,-82.7649,"Ohio, US",5847754,469661
 40,Oklahoma,US,2021-09-27,35.5653,-96.9289,"Oklahoma, US",1870502,355843
