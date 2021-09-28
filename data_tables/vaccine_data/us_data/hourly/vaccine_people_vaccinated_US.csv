@@ -25,7 +25,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Long Term Care (LTC) Program,US,2021-09-28,,,"Long Term Care (LTC) Program, US",0,
 22,Louisiana,US,2021-09-28,31.1695,-91.8678,"Louisiana, US",2101609,296530
 23,Maine,US,2021-09-28,44.6939,-69.3819,"Maine, US",916832,75371
-24,Maryland,US,2021-09-28,39.0639,-76.8021,"Maryland, US",3880367,394077
+24,Maryland,US,2021-09-28,39.0639,-76.8021,"Maryland, US",3884282,394077
 25,Massachusetts,US,2021-09-28,42.2302,-71.5301,"Massachusetts, US",4671465,652924
 26,Michigan,US,2021-09-28,43.3266,-84.5361,"Michigan, US",5210719,467574
 27,Minnesota,US,2021-09-28,45.6945,-93.9002,"Minnesota, US",3272085,303465
@@ -52,11 +52,11 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 47,Tennessee,US,2021-09-28,35.7478,-86.6923,"Tennessee, US",3137790,507259
 48,Texas,US,2021-09-28,31.0545,-97.5635,"Texas, US",14799694,2515507
 49,Utah,US,2021-09-28,40.15,-111.8624,"Utah, US",1677552,270664
-50,Vermont,US,2021-09-28,44.0459,-72.7107,"Vermont, US",447610,51306
+50,Vermont,US,2021-09-28,44.0459,-72.7107,"Vermont, US",448250,51306
 ,Veterans Health Administration,US,2021-09-28,,,"Veterans Health Administration, US",2826623,164923
 78,Virgin Islands,US,2021-09-28,18.3358,-64.8963,"Virgin Islands, US",46194,7239
 51,Virginia,US,2021-09-28,37.7693,-78.17,"Virginia, US",5148638,671088
 53,Washington,US,2021-09-28,47.4009,-121.4905,"Washington, US",4600527,493282
-54,West Virginia,US,2021-09-28,38.4912,-80.9545,"West Virginia, US",838395,138279
+54,West Virginia,US,2021-09-28,38.4912,-80.9545,"West Virginia, US",839301,138279
 55,Wisconsin,US,2021-09-28,44.2685,-89.6165,"Wisconsin, US",3277087,263112
 56,Wyoming,US,2021-09-28,42.756,-107.3025,"Wyoming, US",238222,39880
