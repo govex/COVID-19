@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-09-29,32.3182,-86.9023,"Alabama, US",2081567,496090
-2,Alaska,US,2021-09-29,61.3707,-152.4044,"Alaska, US",377101,49233
+2,Alaska,US,2021-09-29,61.3707,-152.4044,"Alaska, US",382462,49233
 60,American Samoa,US,2021-09-29,-14.270999999999999,-170.132,"American Samoa, US",28253,5845
 4,Arizona,US,2021-09-29,33.7298,-111.4312,"Arizona, US",3710533,597586
 5,Arkansas,US,2021-09-29,34.9697,-92.3731,"Arkansas, US",1369877,307403
@@ -14,7 +14,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2021-09-29,27.7663,-81.6868,"Florida, US",12263256,2083806
 13,Georgia,US,2021-09-29,33.0406,-83.6431,"Georgia, US",4785984,1017338
 66,Guam,US,2021-09-29,13.4443,144.7937,"Guam, US",118756,14755
-15,Hawaii,US,2021-09-29,21.0943,-157.4983,"Hawaii, US",963557,267286
+15,Hawaii,US,2021-09-29,21.0943,-157.4983,"Hawaii, US",964416,267286
 16,Idaho,US,2021-09-29,44.2405,-114.4788,"Idaho, US",784135,96589
 17,Illinois,US,2021-09-29,40.3495,-88.9861,"Illinois, US",7031019,1887987
 ,Indian Health Services,US,2021-09-29,,,"Indian Health Services, US",746941,154336
@@ -46,12 +46,12 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2021-09-29,44.571999999999996,-122.0709,"Oregon, US",2555875,245972
 42,Pennsylvania,US,2021-09-29,40.5908,-77.2098,"Pennsylvania, US",7382475,1857903
 72,Puerto Rico,US,2021-09-29,18.2208,-66.5901,"Puerto Rico, US",2240528,286536
-44,Rhode Island,US,2021-09-29,41.6809,-71.5118,"Rhode Island, US",778081,73843
+44,Rhode Island,US,2021-09-29,41.6809,-71.5118,"Rhode Island, US",778975,73843
 45,South Carolina,US,2021-09-29,33.8569,-80.945,"South Carolina, US",2423527,411594
 46,South Dakota,US,2021-09-29,44.2998,-99.4388,"South Dakota, US",456108,65480
 47,Tennessee,US,2021-09-29,35.7478,-86.6923,"Tennessee, US",3147865,500453
 48,Texas,US,2021-09-29,31.0545,-97.5635,"Texas, US",15971094,2451149
-49,Utah,US,2021-09-29,40.15,-111.8624,"Utah, US",1677552,269459
+49,Utah,US,2021-09-29,40.15,-111.8624,"Utah, US",1681943,269459
 50,Vermont,US,2021-09-29,44.0459,-72.7107,"Vermont, US",448903,51305
 ,Veterans Health Administration,US,2021-09-29,,,"Veterans Health Administration, US",2826627,164931
 78,Virgin Islands,US,2021-09-29,18.3358,-64.8963,"Virgin Islands, US",46270,7253
