@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2021-09-30,-14.270999999999999,-170.132,"American Samoa, US",28433,5754
 4,Arizona,US,2021-09-30,33.7298,-111.4312,"Arizona, US",3714729,597127
 5,Arkansas,US,2021-09-30,34.9697,-92.3731,"Arkansas, US",1373152,306350
-6,California,US,2021-09-30,36.1162,-119.6816,"California, US",23822421,5031782
+6,California,US,2021-09-30,36.1162,-119.6816,"California, US",23844831,5031782
 8,Colorado,US,2021-09-30,39.0598,-105.3111,"Colorado, US",3458682,357703
 9,Connecticut,US,2021-09-30,41.5978,-72.7554,"Connecticut, US",2447436,267157
 10,Delaware,US,2021-09-30,39.3185,-75.5071,"Delaware, US",561186,84530
@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2021-09-30,44.2405,-114.4788,"Idaho, US",784135,96929
 17,Illinois,US,2021-09-30,40.3495,-88.9861,"Illinois, US",7031019,1889743
 ,Indian Health Services,US,2021-09-30,,,"Indian Health Services, US",747748,154402
-18,Indiana,US,2021-09-30,39.8494,-86.2583,"Indiana, US",3264427,259424
+18,Indiana,US,2021-09-30,39.8494,-86.2583,"Indiana, US",3266854,259424
 19,Iowa,US,2021-09-30,42.0115,-93.2105,"Iowa, US",1701757,129765
 20,Kansas,US,2021-09-30,38.5266,-96.7265,"Kansas, US",1488390,254289
 21,Kentucky,US,2021-09-30,37.6681,-84.6701,"Kentucky, US",2331594,374415
@@ -38,8 +38,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2021-09-30,40.2989,-74.521,"New Jersey, US",5851381,726134
 35,New Mexico,US,2021-09-30,34.8405,-106.2485,"New Mexico, US",1321259,197458
 36,New York,US,2021-09-30,42.1657,-74.9481,"New York, US",12379401,1474751
-37,North Carolina,US,2021-09-30,35.6301,-79.8064,"North Carolina, US",5564973,1039773
-38,North Dakota,US,2021-09-30,47.5289,-99.78399999999999,"North Dakota, US",338564,52236
+37,North Carolina,US,2021-09-30,35.6301,-79.8064,"North Carolina, US",5574841,1039773
+38,North Dakota,US,2021-09-30,47.5289,-99.78399999999999,"North Dakota, US",339227,52236
 69,Northern Mariana Islands,US,2021-09-30,15.0979,145.6739,"Northern Mariana Islands, US",34766,1642
 39,Ohio,US,2021-09-30,40.3888,-82.7649,"Ohio, US",5865123,467608
 40,Oklahoma,US,2021-09-30,35.5653,-96.9289,"Oklahoma, US",1879922,355721
