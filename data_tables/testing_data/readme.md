@@ -20,7 +20,7 @@ https://jhucoronavirus.azureedge.net/api/v1/testing/daily.json
 This API contains only testing data at this time.
 
 ## Data sources
-Our data sources are a combination of the State's public dashboards:
+Our data sources are a combination of the State's public dashboards, and, when that data is not available at a frequent cadence, the U.S. Department of Health & Human Services: https://healthdata.gov/dataset/COVID-19-Diagnostic-Laboratory-Testing-PCR-Testing/j8mb-icvb
 
 - AK: https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/app/ed1c874ca60b4c15ab09095a070065ca
 - AL: https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7
