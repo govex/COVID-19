@@ -1,11 +1,11 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vaccinated,People_Partially_Vaccinated
 1,Alabama,US,2021-10-01,32.3182,-86.9023,"Alabama, US",2090806,493452
-2,Alaska,US,2021-10-01,61.3707,-152.4044,"Alaska, US",384604,48847
+2,Alaska,US,2021-10-01,61.3707,-152.4044,"Alaska, US",370883,48847
 60,American Samoa,US,2021-10-01,-14.270999999999999,-170.132,"American Samoa, US",28763,5506
 4,Arizona,US,2021-10-01,33.7298,-111.4312,"Arizona, US",3722711,597541
 5,Arkansas,US,2021-10-01,34.9697,-92.3731,"Arkansas, US",1378871,305079
 6,California,US,2021-10-01,36.1162,-119.6816,"California, US",23893202,5046134
-8,Colorado,US,2021-10-01,39.0598,-105.3111,"Colorado, US",3461855,357365
+8,Colorado,US,2021-10-01,39.0598,-105.3111,"Colorado, US",3465294,357365
 9,Connecticut,US,2021-10-01,41.5978,-72.7554,"Connecticut, US",2453791,269267
 10,Delaware,US,2021-10-01,39.3185,-75.5071,"Delaware, US",561343,84627
 ,Department of Defense,US,2021-10-01,,,"Department of Defense, US",2391171,771296
