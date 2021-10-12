@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2021-10-12,44.2405,-114.4788,"Idaho, US",798684,96651
 17,Illinois,US,2021-10-12,40.3495,-88.9861,"Illinois, US",7109230,1907050
 ,Indian Health Services,US,2021-10-12,,,"Indian Health Services, US",757342,155172
-18,Indiana,US,2021-10-12,39.8494,-86.2583,"Indiana, US",3313593,257553
+18,Indiana,US,2021-10-12,39.8494,-86.2583,"Indiana, US",3317833,257553
 19,Iowa,US,2021-10-12,42.0115,-93.2105,"Iowa, US",1719270,128869
 20,Kansas,US,2021-10-12,38.5266,-96.7265,"Kansas, US",1509797,257382
 21,Kentucky,US,2021-10-12,37.6681,-84.6701,"Kentucky, US",2382294,368693
@@ -57,6 +57,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-10-12,18.3358,-64.8963,"Virgin Islands, US",47592,6938
 51,Virginia,US,2021-10-12,37.7693,-78.17,"Virginia, US",5239151,667696
 53,Washington,US,2021-10-12,47.4009,-121.4905,"Washington, US",4715807,458878
-54,West Virginia,US,2021-10-12,38.4912,-80.9545,"West Virginia, US",855919,140151
+54,West Virginia,US,2021-10-12,38.4912,-80.9545,"West Virginia, US",856769,140151
 55,Wisconsin,US,2021-10-12,44.2685,-89.6165,"Wisconsin, US",3327433,256428
 56,Wyoming,US,2021-10-12,42.756,-107.3025,"Wyoming, US",245545,39652
