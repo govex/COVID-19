@@ -35,9 +35,9 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2021-10-12,41.1254,-98.2681,"Nebraska, US",1067981,90932
 32,Nevada,US,2021-10-12,38.3135,-117.0554,"Nevada, US",1585164,311203
 33,New Hampshire,US,2021-10-12,43.4525,-71.5639,"New Hampshire, US",842567,130447
-34,New Jersey,US,2021-10-12,40.2989,-74.521,"New Jersey, US",5930886,733304
+34,New Jersey,US,2021-10-12,40.2989,-74.521,"New Jersey, US",5936193,733304
 35,New Mexico,US,2021-10-12,34.8405,-106.2485,"New Mexico, US",1337808,198992
-36,New York,US,2021-10-12,42.1657,-74.9481,"New York, US",12614868,1485720
+36,New York,US,2021-10-12,42.1657,-74.9481,"New York, US",12627804,1485720
 37,North Carolina,US,2021-10-12,35.6301,-79.8064,"North Carolina, US",5665119,1058161
 38,North Dakota,US,2021-10-12,47.5289,-99.78399999999999,"North Dakota, US",345884,52607
 69,Northern Mariana Islands,US,2021-10-12,15.0979,145.6739,"Northern Mariana Islands, US",35091,1585
@@ -50,7 +50,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2021-10-12,33.8569,-80.945,"South Carolina, US",2484043,398961
 46,South Dakota,US,2021-10-12,44.2998,-99.4388,"South Dakota, US",462245,69046
 47,Tennessee,US,2021-10-12,35.7478,-86.6923,"Tennessee, US",3233959,481517
-48,Texas,US,2021-10-12,31.0545,-97.5635,"Texas, US",15097347,2388509
+48,Texas,US,2021-10-12,31.0545,-97.5635,"Texas, US",15110705,2388509
 49,Utah,US,2021-10-12,40.15,-111.8624,"Utah, US",1706555,253932
 50,Vermont,US,2021-10-12,44.0459,-72.7107,"Vermont, US",459771,51406
 ,Veterans Health Administration,US,2021-10-12,,,"Veterans Health Administration, US",2840578,188499
