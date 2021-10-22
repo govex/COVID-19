@@ -5,7 +5,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2021-10-22,33.7298,-111.4312,"Arizona, US",3829511,593394
 5,Arkansas,US,2021-10-22,34.9697,-92.3731,"Arkansas, US",1434030,300304
 6,California,US,2021-10-22,36.1162,-119.6816,"California, US",24549354,5178790
-8,Colorado,US,2021-10-22,39.0598,-105.3111,"Colorado, US",3537562,346142
+8,Colorado,US,2021-10-22,39.0598,-105.3111,"Colorado, US",3541364,346142
 9,Connecticut,US,2021-10-22,41.5978,-72.7554,"Connecticut, US",2504611,281814
 10,Delaware,US,2021-10-22,39.3185,-75.5071,"Delaware, US",578337,87390
 ,Department of Defense,US,2021-10-22,,,"Department of Defense, US",2595394,740200
@@ -39,7 +39,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2021-10-22,42.1657,-74.9481,"New York, US",12831988,1450061
 37,North Carolina,US,2021-10-22,35.6301,-79.8064,"North Carolina, US",5766301,1111787
 38,North Dakota,US,2021-10-22,47.5289,-99.78399999999999,"North Dakota, US",350928,53432
-69,Northern Mariana Islands,US,2021-10-22,15.0979,145.6739,"Northern Mariana Islands, US",35281,1555
+69,Northern Mariana Islands,US,2021-10-22,15.0979,145.6739,"Northern Mariana Islands, US",35282,1555
 39,Ohio,US,2021-10-22,40.3888,-82.7649,"Ohio, US",6017435,461238
 40,Oklahoma,US,2021-10-22,35.5653,-96.9289,"Oklahoma, US",1959013,361470
 41,Oregon,US,2021-10-22,44.571999999999996,-122.0709,"Oregon, US",2631246,232211
