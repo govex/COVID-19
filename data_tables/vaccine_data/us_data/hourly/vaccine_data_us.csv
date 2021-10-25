@@ -353,7 +353,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 ,Indian Health Services,US,2021-10-25,,,Moderna,,,,,,"Indian Health Services, US"
 ,Indian Health Services,US,2021-10-25,,,Unknown,,,,,,"Indian Health Services, US"
 ,Indian Health Services,US,2021-10-25,,,Unassigned,,,,,,"Indian Health Services, US"
-,Long Term Care (LTC) Program,US,2021-10-25,,,All,,,8022049,,,"Long Term Care (LTC) Program, US"
+,Long Term Care (LTC) Program,US,2021-10-25,,,All,,,,,,"Long Term Care (LTC) Program, US"
 ,Long Term Care (LTC) Program,US,2021-10-25,,,Janssen,,,,,,"Long Term Care (LTC) Program, US"
 ,Long Term Care (LTC) Program,US,2021-10-25,,,Pfizer,,,,,,"Long Term Care (LTC) Program, US"
 ,Long Term Care (LTC) Program,US,2021-10-25,,,Moderna,,,,,,"Long Term Care (LTC) Program, US"
