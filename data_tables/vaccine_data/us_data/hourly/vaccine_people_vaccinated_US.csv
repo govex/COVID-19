@@ -5,11 +5,11 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2021-10-28,33.7298,-111.4312,"Arizona, US",3851270,592089
 5,Arkansas,US,2021-10-28,34.9697,-92.3731,"Arkansas, US",1442790,300987
 6,California,US,2021-10-28,36.1162,-119.6816,"California, US",24695084,5223680
-8,Colorado,US,2021-10-28,39.0598,-105.3111,"Colorado, US",3556265,346530
+8,Colorado,US,2021-10-28,39.0598,-105.3111,"Colorado, US",3558422,346530
 9,Connecticut,US,2021-10-28,41.5978,-72.7554,"Connecticut, US",2515556,290727
 10,Delaware,US,2021-10-28,39.3185,-75.5071,"Delaware, US",581375,88474
 ,Department of Defense,US,2021-10-28,,,"Department of Defense, US",2625504,743437
-11,District of Columbia,US,2021-10-28,38.8974,-77.0268,"District of Columbia, US",542203,83222
+11,District of Columbia,US,2021-10-28,38.8974,-77.0268,"District of Columbia, US",546926,83222
 ,Federal Bureau of Prisons,US,2021-10-28,,,"Federal Bureau of Prisons, US",120392,6271
 12,Florida,US,2021-10-28,27.7663,-81.6868,"Florida, US",12793276,2007330
 13,Georgia,US,2021-10-28,33.0406,-83.6431,"Georgia, US",5091916,928294
