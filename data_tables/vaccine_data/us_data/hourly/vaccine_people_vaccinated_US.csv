@@ -16,7 +16,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 66,Guam,US,2021-10-29,13.4443,144.7937,"Guam, US",120842,11090
 15,Hawaii,US,2021-10-29,21.0943,-157.4983,"Hawaii, US",1011013,117469
 16,Idaho,US,2021-10-29,44.2405,-114.4788,"Idaho, US",828171,92227
-17,Illinois,US,2021-10-29,40.3495,-88.9861,"Illinois, US",7244701,1920996
+17,Illinois,US,2021-10-29,40.3495,-88.9861,"Illinois, US",7254009,1920996
 ,Indian Health Services,US,2021-10-29,,,"Indian Health Services, US",768907,157204
 18,Indiana,US,2021-10-29,39.8494,-86.2583,"Indiana, US",3365028,260282
 19,Iowa,US,2021-10-29,42.0115,-93.2105,"Iowa, US",1748251,129063
@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-10-29,42.2302,-71.5301,"Massachusetts, US",4791152,714641
 26,Michigan,US,2021-10-29,43.3266,-84.5361,"Michigan, US",5332993,465838
 27,Minnesota,US,2021-10-29,45.6945,-93.9002,"Minnesota, US",3367124,298369
-28,Mississippi,US,2021-10-29,32.7416,-89.6787,"Mississippi, US",1370743,189214
+28,Mississippi,US,2021-10-29,32.7416,-89.6787,"Mississippi, US",1373234,189214
 29,Missouri,US,2021-10-29,38.4561,-92.2884,"Missouri, US",3044188,432067
 30,Montana,US,2021-10-29,46.9219,-110.4544,"Montana, US",537870,68033
 31,Nebraska,US,2021-10-29,41.1254,-98.2681,"Nebraska, US",1085937,91118
@@ -42,7 +42,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 69,Northern Mariana Islands,US,2021-10-29,15.0979,145.6739,"Northern Mariana Islands, US",35448,1529
 39,Ohio,US,2021-10-29,40.3888,-82.7649,"Ohio, US",6046207,461771
 40,Oklahoma,US,2021-10-29,35.5653,-96.9289,"Oklahoma, US",1972206,369859
-41,Oregon,US,2021-10-29,44.572,-122.0709,"Oregon, US",2644914,2810730
+41,Oregon,US,2021-10-29,44.572,-122.0709,"Oregon, US",2644914,2813720
 42,Pennsylvania,US,2021-10-29,40.5908,-77.2098,"Pennsylvania, US",7724871,2166612
 72,Puerto Rico,US,2021-10-29,18.2208,-66.5901,"Puerto Rico, US",2341967,272391
 44,Rhode Island,US,2021-10-29,41.6809,-71.5118,"Rhode Island, US",748968,75618
