@@ -5,7 +5,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2021-10-31,33.7298,-111.4312,"Arizona, US",3866294,592916
 5,Arkansas,US,2021-10-31,34.9697,-92.3731,"Arkansas, US",1449656,302085
 6,California,US,2021-10-31,36.1162,-119.6816,"California, US",24776945,5249407
-8,Colorado,US,2021-10-31,39.0598,-105.3111,"Colorado, US",3564293,347966
+8,Colorado,US,2021-10-31,39.0598,-105.3111,"Colorado, US",3568226,347966
 9,Connecticut,US,2021-10-31,41.5978,-72.7554,"Connecticut, US",2519770,297614
 10,Delaware,US,2021-10-31,39.3185,-75.5071,"Delaware, US",581584,88862
 ,Department of Defense,US,2021-10-31,,,"Department of Defense, US",2637320,745511
