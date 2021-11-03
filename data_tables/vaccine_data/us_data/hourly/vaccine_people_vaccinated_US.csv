@@ -24,7 +24,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 21,Kentucky,US,2021-11-03,37.6681,-84.6701,"Kentucky, US",2441766,359447
 22,Louisiana,US,2021-11-03,31.1695,-91.8678,"Louisiana, US",2219226,330973
 23,Maine,US,2021-11-03,44.6939,-69.3819,"Maine, US",950619,84384
-24,Maryland,US,2021-11-03,39.0639,-76.8021,"Maryland, US",4039592,415636
+24,Maryland,US,2021-11-03,39.0639,-76.8021,"Maryland, US",4046658,415636
 25,Massachusetts,US,2021-11-03,42.2302,-71.5301,"Massachusetts, US",4808517,736450
 26,Michigan,US,2021-11-03,43.3266,-84.5361,"Michigan, US",5351156,475812
 27,Minnesota,US,2021-11-03,45.6945,-93.9002,"Minnesota, US",3381479,300244
@@ -42,7 +42,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 69,Northern Mariana Islands,US,2021-11-03,15.0979,145.6739,"Northern Mariana Islands, US",35538,1626
 39,Ohio,US,2021-11-03,40.3888,-82.7649,"Ohio, US",6070430,465955
 40,Oklahoma,US,2021-11-03,35.5653,-96.9289,"Oklahoma, US",1984181,375758
-41,Oregon,US,2021-11-03,44.572,-122.0709,"Oregon, US",2655832,2822346
+41,Oregon,US,2021-11-03,44.572,-122.0709,"Oregon, US",2655832,2824604
 42,Pennsylvania,US,2021-11-03,40.5908,-77.2098,"Pennsylvania, US",7762882,2261026
 72,Puerto Rico,US,2021-11-03,18.2208,-66.5901,"Puerto Rico, US",2350817,276573
 44,Rhode Island,US,2021-11-03,41.6809,-71.5118,"Rhode Island, US",752193,77745
