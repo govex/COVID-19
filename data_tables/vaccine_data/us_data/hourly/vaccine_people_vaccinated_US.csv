@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2021-11-03,-14.271,-170.132,"American Samoa, US",30977,4262
 4,Arizona,US,2021-11-03,33.7298,-111.4312,"Arizona, US",3873343,592789
 5,Arkansas,US,2021-11-03,34.9697,-92.3731,"Arkansas, US",1451106,302586
-6,California,US,2021-11-03,36.1162,-119.6816,"California, US",24813153,5261361
+6,California,US,2021-11-03,36.1162,-119.6816,"California, US",24843811,5261361
 8,Colorado,US,2021-11-03,39.0598,-105.3111,"Colorado, US",3572399,348615
 9,Connecticut,US,2021-11-03,41.5978,-72.7554,"Connecticut, US",2524461,303452
 10,Delaware,US,2021-11-03,39.3185,-75.5071,"Delaware, US",585425,90801
@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-11-03,42.2302,-71.5301,"Massachusetts, US",4808517,736450
 26,Michigan,US,2021-11-03,43.3266,-84.5361,"Michigan, US",5351156,475812
 27,Minnesota,US,2021-11-03,45.6945,-93.9002,"Minnesota, US",3381479,300244
-28,Mississippi,US,2021-11-03,32.7416,-89.6787,"Mississippi, US",1379333,189400
+28,Mississippi,US,2021-11-03,32.7416,-89.6787,"Mississippi, US",1381357,189400
 29,Missouri,US,2021-11-03,38.4561,-92.2884,"Missouri, US",3059281,437628
 30,Montana,US,2021-11-03,46.9219,-110.4544,"Montana, US",540802,68884
 31,Nebraska,US,2021-11-03,41.1254,-98.2681,"Nebraska, US",1089739,92810
