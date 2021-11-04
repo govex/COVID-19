@@ -34,7 +34,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 8,Colorado,US,2021-11-04,39.0598,-105.3111,Moderna,,3564600,3037712,,1337464,"Colorado, US"
 8,Colorado,US,2021-11-04,39.0598,-105.3111,Unknown,,78200,6022,,,"Colorado, US"
 8,Colorado,US,2021-11-04,39.0598,-105.3111,All,,9117455,7918451,3907586,3304619,"Colorado, US"
-8,Colorado,US,2021-11-04,39.0598,-105.3111,Unassigned,,0,78908,3632479,28269,"Colorado, US"
+8,Colorado,US,2021-11-04,39.0598,-105.3111,Unassigned,,0,96450,3632479,28269,"Colorado, US"
 9,Connecticut,US,2021-11-04,41.5978,-72.7554,Janssen,,298900,213983,211510,,"Connecticut, US"
 9,Connecticut,US,2021-11-04,41.5978,-72.7554,Pfizer,,3461205,3271855,,1420151,"Connecticut, US"
 9,Connecticut,US,2021-11-04,41.5978,-72.7554,Moderna,,2510460,2002049,,896266,"Connecticut, US"
