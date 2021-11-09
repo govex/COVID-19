@@ -100,6 +100,8 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 - Vaccines: https://www.health.nd.gov/covid19vaccine/dashboard
 ### NE
 - Cases, deaths, and vaccines: https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd
+- Cases, deaths, and vaccines (after 9/24): https://datanexus-dhhs.ne.gov/views/Covid/1_AgeGender?%3AisGuestRedirectFromVizportal=y&%3Aembed=y&%3AdeepLinkingDisabled=y
+- Cases, deaths, and vaccines (after 9/24): https://datanexus-dhhs.ne.gov/views/Covid/1_RaceEthnicity?%3AisGuestRedirectFromVizportal=y&%3Aembed=y&%3AdeepLinkingDisabled=y	
 ### NH
 - Cases and deaths: https://www.nh.gov/covid19/dashboard/equity.htm#dash
 - Testing: https://www.nh.gov/covid19/dashboard/testing.htm#dash
