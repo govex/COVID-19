@@ -51,10 +51,10 @@ Hawaii,Cases,https://health.hawaii.gov/coronavirusdisease2019/current-situation-
 Hawaii,Deaths,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 Hawaii,Tests,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 Hawaii,Vaccines,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
-Idaho,Cases,https://coronavirus.idaho.gov/,11/8/21,Y,Y,Y,Y,Y,Y,N,N,6
-Idaho,Deaths,https://coronavirus.idaho.gov/,11/8/21,Y,Y,Y,Y,Y,Y,N,N,6
-Idaho,Tests,https://coronavirus.idaho.gov/,11/8/21,Y,Y,Y,Y,Y,Y,N,N,6
-Idaho,Vaccines,https://coronavirus.idaho.gov/,7/1/21,Y,Y,Y,Y,Y,N,N,N,5
+Idaho,Cases,https://coronavirus.idaho.gov/,9/7/21,Y,Y,Y,Y,Y,Y,N,N,7
+Idaho,Deaths,https://coronavirus.idaho.gov/,9/7/21,Y,Y,Y,Y,Y,Y,N,N,7
+Idaho,Tests,https://coronavirus.idaho.gov/,9/7/21,Y,Y,Y,Y,Y,Y,N,N,7
+Idaho,Vaccines,https://coronavirus.idaho.gov/,7/1/21,Y,Y,Y,Y,Y,N,N,,5
 Illinois,Cases,https://dph.illinois.gov/covid19,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Illinois,Deaths,https://dph.illinois.gov/covid19,7/2/21,Y,Y,Y,Y,Y,N,N,,5
 Illinois,Tests,https://dph.illinois.gov/covid19,7/2/21,Y,Y,Y,Y,Y,N,N,,5
