@@ -2,7 +2,10 @@
 
 
 ## Files in this folder
-- [data_dictionary.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/data_dictionary.csv): Metric definitions and column name equivalences with CTP.
+- [time_series_covid19_US.csv](https://github.com/govex/COVID-19/blob/sarabertrandelis-positivity-doc/data_tables/testing_data/time_series_covid19_US.csv): US State-level daily testing data. Each row corresponds with a unique State and date.
+- [time_series_covid19_US_data_dictionary.csv](https://github.com/govex/COVID-19/blob/sarabertrandelis-positivity-doc/data_tables/testing_data/time_series_covid19_US_data_dictionary.csv): Data dictionary for the US State-level daily testing data file. 
+- [county_time_series_covid19_US.csv](https://github.com/govex/COVID-19/blob/sarabertrandelis-positivity-doc/data_tables/testing_data/county_time_series_covid19_US.csv): US county-level daily total tests. Each row corresponds with a unique County and date.
+- [JHU_CTP_metric_name_equivalences.csv](https://github.com/govex/COVID-19/blob/sarabertrandelis-positivity-doc/data_tables/testing_data/JHU_CTP_metric_name_equivalences.csv): Metric definitions and column name equivalences with CTP.
 - [tests_combined_total_source.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/tests_combined_total_source.csv): For each state, a reference to the data field used to produce the tests_combined_total metric.
 
 ## Transition from Covid Tracking Project (CTP)
