@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2021-11-18,-14.271,-170.132,"American Samoa, US",31274,4123
 4,Arizona,US,2021-11-18,33.7298,-111.4312,"Arizona, US",3933703,637101
 5,Arkansas,US,2021-11-18,34.9697,-92.3731,"Arkansas, US",1472976,319351
-6,California,US,2021-11-18,36.1162,-119.6816,"California, US",25187157,5754536
+6,California,US,2021-11-18,36.1162,-119.6816,"California, US",25215484,5754536
 8,Colorado,US,2021-11-18,39.0598,-105.3111,"Colorado, US",3610902,417327
 9,Connecticut,US,2021-11-18,41.5978,-72.7554,"Connecticut, US",2548393,369407
 10,Delaware,US,2021-11-18,39.3185,-75.5071,"Delaware, US",593149,100370
@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2021-11-18,44.2405,-114.4788,"Idaho, US",847863,95616
 17,Illinois,US,2021-11-18,40.3495,-88.9861,"Illinois, US",7799879,741185
 ,Indian Health Services,US,2021-11-18,,,"Indian Health Services, US",780469,175719
-18,Indiana,US,2021-11-18,39.8494,-86.2583,"Indiana, US",3405785,306696
+18,Indiana,US,2021-11-18,39.8494,-86.2583,"Indiana, US",3408432,306696
 19,Iowa,US,2021-11-18,42.0115,-93.2105,"Iowa, US",1774687,163671
 20,Kansas,US,2021-11-18,38.5266,-96.7265,"Kansas, US",1574219,308577
 21,Kentucky,US,2021-11-18,37.6681,-84.6701,"Kentucky, US",2303350,334556
@@ -28,8 +28,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-11-18,42.2302,-71.5301,"Massachusetts, US",4859946,883844
 26,Michigan,US,2021-11-18,43.3266,-84.5361,"Michigan, US",5408137,573679
 27,Minnesota,US,2021-11-18,45.6945,-93.9002,"Minnesota, US",3492192,301880
-28,Mississippi,US,2021-11-18,32.7416,-89.6787,"Mississippi, US",1397987,195606
-29,Missouri,US,2021-11-18,38.4561,-92.2884,"Missouri, US",3098748,491876
+28,Mississippi,US,2021-11-18,32.7416,-89.6787,"Mississippi, US",1399745,195606
+29,Missouri,US,2021-11-18,38.4561,-92.2884,"Missouri, US",3099103,491876
 30,Montana,US,2021-11-18,46.9219,-110.4544,"Montana, US",549379,76685
 31,Nebraska,US,2021-11-18,41.1254,-98.2681,"Nebraska, US",1101301,113685
 32,Nevada,US,2021-11-18,38.3135,-117.0554,"Nevada, US",1660092,346382
