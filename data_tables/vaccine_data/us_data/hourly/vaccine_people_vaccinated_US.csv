@@ -9,7 +9,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 9,Connecticut,US,2021-11-18,41.5978,-72.7554,"Connecticut, US",2548393,369407
 10,Delaware,US,2021-11-18,39.3185,-75.5071,"Delaware, US",593149,100370
 ,Department of Defense,US,2021-11-18,,,"Department of Defense, US",2737475,807329
-11,District of Columbia,US,2021-11-18,38.8974,-77.0268,"District of Columbia, US",558671,104170
+11,District of Columbia,US,2021-11-18,38.8974,-77.0268,"District of Columbia, US",563056,104170
 ,Federal Bureau of Prisons,US,2021-11-18,,,"Federal Bureau of Prisons, US",124258,5491
 12,Florida,US,2021-11-18,27.7663,-81.6868,"Florida, US",13030030,2890568
 13,Georgia,US,2021-11-18,33.0406,-83.6431,"Georgia, US",5202989,954034
@@ -48,8 +48,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2021-11-18,41.6809,-71.5118,"Rhode Island, US",760979,96780
 45,South Carolina,US,2021-11-18,33.8569,-80.945,"South Carolina, US",2617970,426877
 46,South Dakota,US,2021-11-18,44.2998,-99.4388,"South Dakota, US",476379,95134
-47,Tennessee,US,2021-11-18,35.7478,-86.6923,"Tennessee, US",3388043,466199
-48,Texas,US,2021-11-18,31.0545,-97.5635,"Texas, US",15750267,2488541
+47,Tennessee,US,2021-11-18,35.7478,-86.6923,"Tennessee, US",3391625,466199
+48,Texas,US,2021-11-18,31.0545,-97.5635,"Texas, US",15750267,2509747
 49,Utah,US,2021-11-18,40.15,-111.8624,"Utah, US",1786170,249055
 50,Vermont,US,2021-11-18,44.0459,-72.7107,"Vermont, US",450447,65083
 ,Veterans Health Administration,US,2021-11-18,,,"Veterans Health Administration, US",2878826,292605
