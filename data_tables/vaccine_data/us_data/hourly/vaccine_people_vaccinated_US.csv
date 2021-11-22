@@ -5,7 +5,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2021-11-22,33.7298,-111.4312,"Arizona, US",3952853,665496
 5,Arkansas,US,2021-11-22,34.9697,-92.3731,"Arkansas, US",1479058,327592
 6,California,US,2021-11-22,36.1162,-119.6816,"California, US",25285341,5958103
-8,Colorado,US,2021-11-22,39.0598,-105.3111,"Colorado, US",3620469,447098
+8,Colorado,US,2021-11-22,39.0598,-105.3111,"Colorado, US",3622782,447098
 9,Connecticut,US,2021-11-22,41.5978,-72.7554,"Connecticut, US",2554791,395849
 10,Delaware,US,2021-11-22,39.3185,-75.5071,"Delaware, US",593434,101006
 ,Department of Defense,US,2021-11-22,,,"Department of Defense, US",2757063,823321
@@ -56,6 +56,6 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2021-11-22,18.3358,-64.8963,"Virgin Islands, US",51791,7698
 51,Virginia,US,2021-11-22,37.7693,-78.17,"Virginia, US",5505255,850318
 53,Washington,US,2021-11-22,47.4009,-121.4905,"Washington, US",4920840,544225
-54,West Virginia,US,2021-11-22,38.4912,-80.9545,"West Virginia, US",892711,220017
+54,West Virginia,US,2021-11-22,38.4912,-80.9545,"West Virginia, US",893337,220017
 55,Wisconsin,US,2021-11-22,44.2685,-89.6165,"Wisconsin, US",3448582,342575
 56,Wyoming,US,2021-11-22,42.756,-107.3025,"Wyoming, US",261735,44805
