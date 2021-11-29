@@ -5,7 +5,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2021-11-29,33.7298,-111.4312,"Arizona, US",3961885,679887
 5,Arkansas,US,2021-11-29,34.9697,-92.3731,"Arkansas, US",1480277,329570
 6,California,US,2021-11-29,36.1162,-119.6816,"California, US",25420643,6059042
-8,Colorado,US,2021-11-29,39.0598,-105.3111,"Colorado, US",3635601,461357
+8,Colorado,US,2021-11-29,39.0598,-105.3111,"Colorado, US",3638179,461357
 9,Connecticut,US,2021-11-29,41.5978,-72.7554,"Connecticut, US",2558052,412378
 10,Delaware,US,2021-11-29,39.3185,-75.5071,"Delaware, US",593295,101666
 ,Department of Defense,US,2021-11-29,,,"Department of Defense, US",2763856,834195
@@ -34,7 +34,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2021-11-29,41.1254,-98.2681,"Nebraska, US",1106433,125837
 32,Nevada,US,2021-11-29,38.3135,-117.0554,"Nevada, US",1670646,360218
 33,New Hampshire,US,2021-11-29,43.4525,-71.5639,"New Hampshire, US",878808,294281
-34,New Jersey,US,2021-11-29,40.2989,-74.521,"New Jersey, US",6174569,969685
+34,New Jersey,US,2021-11-29,40.2989,-74.521,"New Jersey, US",6176475,969685
 35,New Mexico,US,2021-11-29,34.8405,-106.2485,"New Mexico, US",1328003,266408
 36,New York,US,2021-11-29,42.1657,-74.9481,"New York, US",13268116,1806925
 37,North Carolina,US,2021-11-29,35.6301,-79.8064,"North Carolina, US",5926764,1621916
