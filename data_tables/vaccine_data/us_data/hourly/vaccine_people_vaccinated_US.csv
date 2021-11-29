@@ -22,7 +22,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 19,Iowa,US,2021-11-29,42.0115,-93.2105,"Iowa, US",1782766,179875
 20,Kansas,US,2021-11-29,38.5266,-96.7265,"Kansas, US",1584917,328004
 21,Kentucky,US,2021-11-29,37.6681,-84.6701,"Kentucky, US",2318846,355876
-22,Louisiana,US,2021-11-29,31.1695,-91.8678,"Louisiana, US",2262153,330973
+22,Louisiana,US,2021-11-29,31.1695,-91.8678,"Louisiana, US",2262153,306626
 23,Maine,US,2021-11-29,44.6939,-69.3819,"Maine, US",968553,125182
 24,Maryland,US,2021-11-29,39.0639,-76.8021,"Maryland, US",4084557,558406
 25,Massachusetts,US,2021-11-29,42.2302,-71.5301,"Massachusetts, US",4883284,973645
@@ -36,7 +36,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2021-11-29,43.4525,-71.5639,"New Hampshire, US",878808,294281
 34,New Jersey,US,2021-11-29,40.2989,-74.521,"New Jersey, US",6176475,969685
 35,New Mexico,US,2021-11-29,34.8405,-106.2485,"New Mexico, US",1328003,266408
-36,New York,US,2021-11-29,42.1657,-74.9481,"New York, US",13268116,1806925
+36,New York,US,2021-11-29,42.1657,-74.9481,"New York, US",13276765,1806925
 37,North Carolina,US,2021-11-29,35.6301,-79.8064,"North Carolina, US",5948760,1621916
 38,North Dakota,US,2021-11-29,47.5289,-99.784,"North Dakota, US",370361,68288
 69,Northern Mariana Islands,US,2021-11-29,15.0979,145.6739,"Northern Mariana Islands, US",36420,3245
