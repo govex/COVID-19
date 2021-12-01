@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2021-12-01,40.2989,-74.521,"New Jersey, US",6202095,1005132
 35,New Mexico,US,2021-12-01,34.8405,-106.2485,"New Mexico, US",1331844,273669
 36,New York,US,2021-12-01,42.1657,-74.9481,"New York, US",13324752,1895318
-37,North Carolina,US,2021-12-01,35.6301,-79.8064,"North Carolina, US",5955625,1685041
+37,North Carolina,US,2021-12-01,35.6301,-79.8064,"North Carolina, US",5971067,1685041
 38,North Dakota,US,2021-12-01,47.5289,-99.784,"North Dakota, US",371573,70058
 69,Northern Mariana Islands,US,2021-12-01,15.0979,145.6739,"Northern Mariana Islands, US",36838,4183
 39,Ohio,US,2021-12-01,40.3888,-82.7649,"Ohio, US",6200220,624036
@@ -54,7 +54,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 50,Vermont,US,2021-12-01,44.0459,-72.7107,"Vermont, US",454783,78435
 ,Veterans Health Administration,US,2021-12-01,,,"Veterans Health Administration, US",2889363,331276
 78,Virgin Islands,US,2021-12-01,18.3358,-64.8963,"Virgin Islands, US",52087,8108
-51,Virginia,US,2021-12-01,37.7693,-78.17,"Virginia, US",5542940,908505
+51,Virginia,US,2021-12-01,37.7693,-78.17,"Virginia, US",5550654,908505
 53,Washington,US,2021-12-01,47.4009,-121.4905,"Washington, US",4953066,599210
 54,West Virginia,US,2021-12-01,38.4912,-80.9545,"West Virginia, US",915384,221651
 55,Wisconsin,US,2021-12-01,44.2685,-89.6165,"Wisconsin, US",3464470,368049
