@@ -57,6 +57,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 ### IL
 - Cases, deaths, and tests: http://www.dph.illinois.gov/content/covid-19-county-historical-demographics
 - Vaccines: http://www.dph.illinois.gov/covid19/vaccinedata?county=Illinois
+- Vaccines after 12/3/2021: https://dph.illinois.gov/covid19/vaccine/vaccine-data.html?county=Illinois
 ### KS
 - Cases, deaths, and tests: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
 - Vaccines: https://www.kansasvaccine.gov/158/Data
