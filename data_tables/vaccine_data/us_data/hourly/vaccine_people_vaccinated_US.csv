@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2021-12-02,-14.271,-170.132,"American Samoa, US",31395,4190
 4,Arizona,US,2021-12-02,33.7298,-111.4312,"Arizona, US",3983477,704799
 5,Arkansas,US,2021-12-02,34.9697,-92.3731,"Arkansas, US",1490934,337706
-6,California,US,2021-12-02,36.1162,-119.6816,"California, US",25536877,6185910
+6,California,US,2021-12-02,36.1162,-119.6816,"California, US",25589280,6185910
 8,Colorado,US,2021-12-02,39.0598,-105.3111,"Colorado, US",3653187,474640
 9,Connecticut,US,2021-12-02,41.5978,-72.7554,"Connecticut, US",2569921,432916
 10,Delaware,US,2021-12-02,39.3185,-75.5071,"Delaware, US",599899,111785
@@ -29,7 +29,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2021-12-02,43.3266,-84.5361,"Michigan, US",5460170,663141
 27,Minnesota,US,2021-12-02,45.6945,-93.9002,"Minnesota, US",3530588,367988
 28,Mississippi,US,2021-12-02,32.7416,-89.6787,"Mississippi, US",1412397,206845
-29,Missouri,US,2021-12-02,38.4561,-92.2884,"Missouri, US",3144186,541465
+29,Missouri,US,2021-12-02,38.4561,-92.2884,"Missouri, US",3150505,541465
 30,Montana,US,2021-12-02,46.9219,-110.4544,"Montana, US",554841,85134
 31,Nebraska,US,2021-12-02,41.1254,-98.2681,"Nebraska, US",1110565,130146
 32,Nevada,US,2021-12-02,38.3135,-117.0554,"Nevada, US",1681079,368143
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2021-12-02,40.2989,-74.521,"New Jersey, US",6213114,1008037
 35,New Mexico,US,2021-12-02,34.8405,-106.2485,"New Mexico, US",1334001,274853
 36,New York,US,2021-12-02,42.1657,-74.9481,"New York, US",13341839,1910998
-37,North Carolina,US,2021-12-02,35.6301,-79.8064,"North Carolina, US",5971067,1690418
+37,North Carolina,US,2021-12-02,35.6301,-79.8064,"North Carolina, US",5980233,1690418
 38,North Dakota,US,2021-12-02,47.5289,-99.784,"North Dakota, US",372270,70191
 69,Northern Mariana Islands,US,2021-12-02,15.0979,145.6739,"Northern Mariana Islands, US",36988,4163
 39,Ohio,US,2021-12-02,40.3888,-82.7649,"Ohio, US",6209524,623150
