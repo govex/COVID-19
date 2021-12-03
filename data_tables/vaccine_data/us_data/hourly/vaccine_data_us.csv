@@ -69,7 +69,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 15,Hawaii,US,2021-12-03,21.0943,-157.4983,Pfizer,,,,,,"Hawaii, US"
 15,Hawaii,US,2021-12-03,21.0943,-157.4983,Moderna,,,,,,"Hawaii, US"
 15,Hawaii,US,2021-12-03,21.0943,-157.4983,Unknown,,,,,,"Hawaii, US"
-15,Hawaii,US,2021-12-03,21.0943,-157.4983,All,1315360,1315360,3884150,,,"Hawaii, US"
+15,Hawaii,US,2021-12-03,21.0943,-157.4983,All,1315360,1315360,2352493,,,"Hawaii, US"
 15,Hawaii,US,2021-12-03,21.0943,-157.4983,Unassigned,1315360,1315360,2352493,,,"Hawaii, US"
 16,Idaho,US,2021-12-03,44.2405,-114.4788,Janssen,,143700,76116,72958,,"Idaho, US"
 16,Idaho,US,2021-12-03,44.2405,-114.4788,Pfizer,,1555170,1046419,,426638,"Idaho, US"
