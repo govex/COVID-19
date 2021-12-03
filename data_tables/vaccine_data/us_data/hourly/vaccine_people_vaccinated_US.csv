@@ -24,7 +24,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 21,Kentucky,US,2021-12-03,37.6681,-84.6701,"Kentucky, US",2337202,363779
 22,Louisiana,US,2021-12-03,31.1695,-91.8678,"Louisiana, US",2278316,314484
 23,Maine,US,2021-12-03,44.6939,-69.3819,"Maine, US",974851,131074
-24,Maryland,US,2021-12-03,39.0639,-76.8021,"Maryland, US",4108654,563875
+24,Maryland,US,2021-12-03,39.0639,-76.8021,"Maryland, US",4118630,563875
 25,Massachusetts,US,2021-12-03,42.2302,-71.5301,"Massachusetts, US",4924144,1011134
 26,Michigan,US,2021-12-03,43.3266,-84.5361,"Michigan, US",5470903,662300
 27,Minnesota,US,2021-12-03,45.6945,-93.9002,"Minnesota, US",3539329,365170
@@ -54,7 +54,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 50,Vermont,US,2021-12-03,44.0459,-72.7107,"Vermont, US",456006,78597
 ,Veterans Health Administration,US,2021-12-03,,,"Veterans Health Administration, US",2891886,340463
 78,Virgin Islands,US,2021-12-03,18.3358,-64.8963,"Virgin Islands, US",52251,8381
-51,Virginia,US,2021-12-03,37.7693,-78.17,"Virginia, US",5565330,907405
+51,Virginia,US,2021-12-03,37.7693,-78.17,"Virginia, US",5583106,907405
 53,Washington,US,2021-12-03,47.4009,-121.4905,"Washington, US",4972495,596945
 54,West Virginia,US,2021-12-03,38.4912,-80.9545,"West Virginia, US",876911,359373
 55,Wisconsin,US,2021-12-03,44.2685,-89.6165,"Wisconsin, US",3477030,367282
