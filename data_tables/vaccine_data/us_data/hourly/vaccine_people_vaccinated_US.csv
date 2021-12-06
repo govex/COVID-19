@@ -14,7 +14,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2021-12-06,27.7663,-81.6868,"Florida, US",13285963,2255561
 13,Georgia,US,2021-12-06,33.0406,-83.6431,"Georgia, US",5241622,1064167
 66,Guam,US,2021-12-06,13.4443,144.7937,"Guam, US",124151,12806
-15,Hawaii,US,2021-12-06,21.0943,-157.4983,"Hawaii, US",1018896,82264
+15,Hawaii,US,2021-12-06,21.0943,-157.4983,"Hawaii, US",1024577,79225
 16,Idaho,US,2021-12-06,44.2405,-114.4788,"Idaho, US",859714,100206
 17,Illinois,US,2021-12-06,40.3495,-88.9861,"Illinois, US",7878109,960392
 ,Indian Health Services,US,2021-12-06,,,"Indian Health Services, US",794291,198851
@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-12-06,42.2302,-71.5301,"Massachusetts, US",4958289,1017958
 26,Michigan,US,2021-12-06,43.3266,-84.5361,"Michigan, US",5507797,659184
 27,Minnesota,US,2021-12-06,45.6945,-93.9002,"Minnesota, US",3570353,354800
-28,Mississippi,US,2021-12-06,32.7416,-89.6787,"Mississippi, US",1415210,207684
+28,Mississippi,US,2021-12-06,32.7416,-89.6787,"Mississippi, US",1419540,207684
 29,Missouri,US,2021-12-06,38.4561,-92.2884,"Missouri, US",3181760,546583
 30,Montana,US,2021-12-06,46.9219,-110.4544,"Montana, US",558390,86131
 31,Nebraska,US,2021-12-06,41.1254,-98.2681,"Nebraska, US",1120137,128411
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2021-12-06,40.2989,-74.521,"New Jersey, US",6273039,1026927
 35,New Mexico,US,2021-12-06,34.8405,-106.2485,"New Mexico, US",1344630,281308
 36,New York,US,2021-12-06,42.1657,-74.9481,"New York, US",13434407,1985054
-37,North Carolina,US,2021-12-06,35.6301,-79.8064,"North Carolina, US",5995439,1750697
+37,North Carolina,US,2021-12-06,35.6301,-79.8064,"North Carolina, US",6027919,1750697
 38,North Dakota,US,2021-12-06,47.5289,-99.784,"North Dakota, US",375065,70948
 69,Northern Mariana Islands,US,2021-12-06,15.0979,145.6739,"Northern Mariana Islands, US",37708,3963
 39,Ohio,US,2021-12-06,40.3888,-82.7649,"Ohio, US",6261026,623888
