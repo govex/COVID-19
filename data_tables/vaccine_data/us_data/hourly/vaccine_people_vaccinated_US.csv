@@ -15,7 +15,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2021-12-10,33.0406,-83.6431,"Georgia, US",5284283,1061417
 66,Guam,US,2021-12-10,13.4443,144.7937,"Guam, US",124685,13553
 15,Hawaii,US,2021-12-10,21.0943,-157.4983,"Hawaii, US",1031943,77920
-16,Idaho,US,2021-12-10,44.2405,-114.4788,"Idaho, US",871377,101395
+16,Idaho,US,2021-12-10,44.2405,-114.4788,"Idaho, US",872788,101356
 17,Illinois,US,2021-12-10,40.3495,-88.9861,"Illinois, US",7942254,943333
 ,Indian Health Services,US,2021-12-10,,,"Indian Health Services, US",797993,200848
 18,Indiana,US,2021-12-10,39.8494,-86.2583,"Indiana, US",3483755,360007
@@ -48,9 +48,9 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2021-12-10,41.6809,-71.5118,"Rhode Island, US",787165,113367
 45,South Carolina,US,2021-12-10,33.8569,-80.945,"South Carolina, US",2682726,467812
 46,South Dakota,US,2021-12-10,44.2998,-99.4388,"South Dakota, US",492226,113713
-47,Tennessee,US,2021-12-10,35.7478,-86.6923,"Tennessee, US",3476474,501755
+47,Tennessee,US,2021-12-10,35.7478,-86.6923,"Tennessee, US",3486364,501755
 48,Texas,US,2021-12-10,31.0545,-97.5635,"Texas, US",16222565,2721740
-49,Utah,US,2021-12-10,40.15,-111.8624,"Utah, US",1850172,284462
+49,Utah,US,2021-12-10,40.15,-111.8624,"Utah, US",1854484,284462
 50,Vermont,US,2021-12-10,44.0459,-72.7107,"Vermont, US",464972,76244
 ,Veterans Health Administration,US,2021-12-10,,,"Veterans Health Administration, US",2897860,366547
 78,Virgin Islands,US,2021-12-10,18.3358,-64.8963,"Virgin Islands, US",52724,8679
