@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2021-12-20,44.2405,-114.4788,"Idaho, US",881270,103352
 17,Illinois,US,2021-12-20,40.3495,-88.9861,"Illinois, US",8079130,964340
 ,Indian Health Services,US,2021-12-20,,,"Indian Health Services, US",810094,205426
-18,Indiana,US,2021-12-20,39.8494,-86.2583,"Indiana, US",3518105,377331
+18,Indiana,US,2021-12-20,39.8494,-86.2583,"Indiana, US",3525616,377331
 19,Iowa,US,2021-12-20,42.0115,-93.2105,"Iowa, US",1843143,179544
 20,Kansas,US,2021-12-20,38.5266,-96.7265,"Kansas, US",1643871,346992
 21,Kentucky,US,2021-12-20,37.6681,-84.6701,"Kentucky, US",2403025,360103
@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2021-12-20,42.2302,-71.5301,"Massachusetts, US",5094149,1048634
 26,Michigan,US,2021-12-20,43.3266,-84.5361,"Michigan, US",5622475,649336
 27,Minnesota,US,2021-12-20,45.6945,-93.9002,"Minnesota, US",3660844,331632
-28,Mississippi,US,2021-12-20,32.7416,-89.6787,"Mississippi, US",1435238,213697
+28,Mississippi,US,2021-12-20,32.7416,-89.6787,"Mississippi, US",1437475,213697
 29,Missouri,US,2021-12-20,38.4561,-92.2884,"Missouri, US",3259259,556274
 30,Montana,US,2021-12-20,46.9219,-110.4544,"Montana, US",572769,84198
 31,Nebraska,US,2021-12-20,41.1254,-98.2681,"Nebraska, US",1145920,123976
