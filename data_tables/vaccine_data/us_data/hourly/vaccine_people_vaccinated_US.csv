@@ -15,7 +15,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2021-12-20,33.0406,-83.6431,"Georgia, US",5353843,1059547
 66,Guam,US,2021-12-20,13.4443,144.7937,"Guam, US",126214,13821
 15,Hawaii,US,2021-12-20,21.0943,-157.4983,"Hawaii, US",1045416,75548
-16,Idaho,US,2021-12-20,44.2405,-114.4788,"Idaho, US",882003,103555
+16,Idaho,US,2021-12-20,44.2405,-114.4788,"Idaho, US",883488,103555
 17,Illinois,US,2021-12-20,40.3495,-88.9861,"Illinois, US",8088772,971900
 ,Indian Health Services,US,2021-12-20,,,"Indian Health Services, US",810181,205470
 18,Indiana,US,2021-12-20,39.8494,-86.2583,"Indiana, US",3525616,380139
@@ -39,7 +39,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2021-12-20,42.1657,-74.9481,"New York, US",13829671,2184135
 37,North Carolina,US,2021-12-20,35.6301,-79.8064,"North Carolina, US",6116101,1918769
 38,North Dakota,US,2021-12-20,47.5289,-99.784,"North Dakota, US",396510,72725
-69,Northern Mariana Islands,US,2021-12-20,15.0979,145.6739,"Northern Mariana Islands, US",39517,4046
+69,Northern Mariana Islands,US,2021-12-20,15.0979,145.6739,"Northern Mariana Islands, US",39556,4046
 39,Ohio,US,2021-12-20,40.3888,-82.7649,"Ohio, US",6411645,597209
 40,Oklahoma,US,2021-12-20,35.5653,-96.9289,"Oklahoma, US",2098408,477755
 41,Oregon,US,2021-12-20,44.572,-122.0709,"Oregon, US",2785541,309652
