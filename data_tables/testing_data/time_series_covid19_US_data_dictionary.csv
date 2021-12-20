@@ -1,0 +1,17 @@
+column name,definition 
+date,Date on which data was collected
+state,Two-letter abbreviation for the state or territory
+cases_conf_probable,Total number of confirmed plus probable cases of COVID-19
+cases_confirmed,Total number of confirmed cases of COVID-19
+cases_probable,Total number of probable cases of COVID-19
+tests_viral_positive,Cumulative number of completed PCR tests (or specimens tested) or other approved nucleic acid amplification test (NAAT) that return positive
+tests_viral_negative,Cumulative number of completed PCR tests (or specimens tested) or other approved nucleic acid amplification test (NAAT) that return negative
+tests_viral_total,Cumulative number of completed PCR tests (or specimens tested) or other approved nucleic acid amplification test (NAAT)
+tests_antigen_positive,Cumulative number of completed antigen tests that return positive 
+tests_antigen_total,Cumulative number of completed antigen tests
+people_viral_positive,Cumulative number of unique people with a positive PCR or other approved nucleic acid amplification test (NAAT)
+people_viral_total,Cumulative number of unique people tested at least once via PCR testing or other approved nucleic acid amplification test (NAAT)
+people_antigen_positive,Cumulative number of unique people with a completed antigen test that returned positive
+people_antigen_total,Cumulative number of unique people who have been tested at least once via antigen testing
+encounters_viral_total,Cumulative number of people tested per day via PCR testing or other approved nucleic acid amplification test (NAAT)
+tests_combined_total,Derived from other metrics (see readme for more details)
