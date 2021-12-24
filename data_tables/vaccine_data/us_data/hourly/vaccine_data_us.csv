@@ -141,7 +141,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 27,Minnesota,US,2021-12-24,45.6945,-93.9002,Pfizer,,6550490,5336824,,2091225,"Minnesota, US"
 27,Minnesota,US,2021-12-24,45.6945,-93.9002,Moderna,,3912760,3324140,,1260946,"Minnesota, US"
 27,Minnesota,US,2021-12-24,45.6945,-93.9002,Unknown,,0,2943,,,"Minnesota, US"
-27,Minnesota,US,2021-12-24,45.6945,-93.9002,All,,10950630,9006530,4005557,3480447,"Minnesota, US"
+27,Minnesota,US,2021-12-24,45.6945,-93.9002,All,,10951800,9006530,4005557,3480447,"Minnesota, US"
 27,Minnesota,US,2021-12-24,45.6945,-93.9002,Unassigned,,,0,3687355,128276,"Minnesota, US"
 28,Mississippi,US,2021-12-24,32.7416,-89.6787,Janssen,,215300,84878,79948,,"Mississippi, US"
 28,Mississippi,US,2021-12-24,32.7416,-89.6787,Pfizer,,2608685,1916817,,789797,"Mississippi, US"
