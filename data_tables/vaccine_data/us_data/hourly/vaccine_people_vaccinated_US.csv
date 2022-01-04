@@ -14,8 +14,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2022-01-04,27.7663,-81.6868,"Florida, US",13607439,2393701
 13,Georgia,US,2022-01-04,33.0406,-83.6431,"Georgia, US",5423280,1081913
 66,Guam,US,2022-01-04,13.4443,144.7937,"Guam, US",127007,13868
-15,Hawaii,US,2022-01-04,21.0943,-157.4983,"Hawaii, US",1057481,78712
-16,Idaho,US,2022-01-04,44.2405,-114.4788,"Idaho, US",893193,105601
+15,Hawaii,US,2022-01-04,21.0943,-157.4983,"Hawaii, US",1058656,78867
+16,Idaho,US,2022-01-04,44.2405,-114.4788,"Idaho, US",894076,105601
 17,Illinois,US,2022-01-04,40.3495,-88.9861,"Illinois, US",8114639,1004245
 ,Indian Health Services,US,2022-01-04,,,"Indian Health Services, US",817836,207964
 18,Indiana,US,2022-01-04,39.8494,-86.2583,"Indiana, US",3564896,397185
@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2022-01-04,42.2302,-71.5301,"Massachusetts, US",5140101,1107649
 26,Michigan,US,2022-01-04,43.3266,-84.5361,"Michigan, US",5673450,664137
 27,Minnesota,US,2022-01-04,45.6945,-93.9002,"Minnesota, US",3689641,338405
-28,Mississippi,US,2022-01-04,32.7416,-89.6787,"Mississippi, US",1447794,215073
+28,Mississippi,US,2022-01-04,32.7416,-89.6787,"Mississippi, US",1449932,215073
 29,Missouri,US,2022-01-04,38.4561,-92.2884,"Missouri, US",3310044,571828
 30,Montana,US,2022-01-04,46.9219,-110.4544,"Montana, US",577327,85871
 31,Nebraska,US,2022-01-04,41.1254,-98.2681,"Nebraska, US",1157774,126318
@@ -36,7 +36,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2022-01-04,43.4525,-71.5639,"New Hampshire, US",913328,422018
 34,New Jersey,US,2022-01-04,40.2989,-74.521,"New Jersey, US",6436236,1172962
 35,New Mexico,US,2022-01-04,34.8405,-106.2485,"New Mexico, US",1389097,303488
-36,New York,US,2022-01-04,42.1657,-74.9481,"New York, US",13975611,2382166
+36,New York,US,2022-01-04,42.1657,-74.9481,"New York, US",13988513,2382166
 37,North Carolina,US,2022-01-04,35.6301,-79.8064,"North Carolina, US",6178636,2056799
 38,North Dakota,US,2022-01-04,47.5289,-99.784,"North Dakota, US",400490,73675
 69,Northern Mariana Islands,US,2022-01-04,15.0979,145.6739,"Northern Mariana Islands, US",41227,3480
@@ -49,13 +49,13 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2022-01-04,33.8569,-80.945,"South Carolina, US",2735224,496495
 46,South Dakota,US,2022-01-04,44.2998,-99.4388,"South Dakota, US",505031,122278
 47,Tennessee,US,2022-01-04,35.7478,-86.6923,"Tennessee, US",3569721,502893
-48,Texas,US,2022-01-04,31.0545,-97.5635,"Texas, US",16517363,2902935
+48,Texas,US,2022-01-04,31.0545,-97.5635,"Texas, US",16518976,2902935
 49,Utah,US,2022-01-04,40.15,-111.8624,"Utah, US",1903895,275216
 50,Vermont,US,2022-01-04,44.0459,-72.7107,"Vermont, US",482925,74232
 ,Veterans Health Administration,US,2022-01-04,,,"Veterans Health Administration, US",2910351,421910
 78,Virgin Islands,US,2022-01-04,18.3358,-64.8963,"Virgin Islands, US",53783,9524
 51,Virginia,US,2022-01-04,37.7693,-78.17,"Virginia, US",5800214,940135
 53,Washington,US,2022-01-04,47.4009,-121.4905,"Washington, US",5171727,588985
-54,West Virginia,US,2022-01-04,38.4912,-80.9545,"West Virginia, US",985611,122836
+54,West Virginia,US,2022-01-04,38.4912,-80.9545,"West Virginia, US",986688,122836
 55,Wisconsin,US,2022-01-04,44.2685,-89.6165,"Wisconsin, US",3607515,364831
 56,Wyoming,US,2022-01-04,42.756,-107.3025,"Wyoming, US",275046,48199
