@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2022-01-04,-14.271,-170.132,"American Samoa, US",32705,7549
 4,Arizona,US,2022-01-04,33.7298,-111.4312,"Arizona, US",4149298,749272
 5,Arkansas,US,2022-01-04,34.9697,-92.3731,"Arkansas, US",1545513,355716
-6,California,US,2022-01-04,36.1162,-119.6816,"California, US",26826864,6563162
+6,California,US,2022-01-04,36.1162,-119.6816,"California, US",26853832,6563162
 8,Colorado,US,2022-01-04,39.0598,-105.3111,"Colorado, US",3815377,480279
 9,Connecticut,US,2022-01-04,41.5978,-72.7554,"Connecticut, US",2659830,499514
 10,Delaware,US,2022-01-04,39.3185,-75.5071,"Delaware, US",624808,121670
@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-01-04,44.2405,-114.4788,"Idaho, US",893193,105601
 17,Illinois,US,2022-01-04,40.3495,-88.9861,"Illinois, US",8114639,1004245
 ,Indian Health Services,US,2022-01-04,,,"Indian Health Services, US",817836,207964
-18,Indiana,US,2022-01-04,39.8494,-86.2583,"Indiana, US",3561514,397185
+18,Indiana,US,2022-01-04,39.8494,-86.2583,"Indiana, US",3564896,397185
 19,Iowa,US,2022-01-04,42.0115,-93.2105,"Iowa, US",1860149,187527
 20,Kansas,US,2022-01-04,38.5266,-96.7265,"Kansas, US",1661170,357691
 21,Kentucky,US,2022-01-04,37.6681,-84.6701,"Kentucky, US",2422138,368233
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2022-01-04,40.2989,-74.521,"New Jersey, US",6436236,1172962
 35,New Mexico,US,2022-01-04,34.8405,-106.2485,"New Mexico, US",1389097,303488
 36,New York,US,2022-01-04,42.1657,-74.9481,"New York, US",13975611,2382166
-37,North Carolina,US,2022-01-04,35.6301,-79.8064,"North Carolina, US",6175249,2056799
+37,North Carolina,US,2022-01-04,35.6301,-79.8064,"North Carolina, US",6178636,2056799
 38,North Dakota,US,2022-01-04,47.5289,-99.784,"North Dakota, US",400490,73675
 69,Northern Mariana Islands,US,2022-01-04,15.0979,145.6739,"Northern Mariana Islands, US",41227,3480
 39,Ohio,US,2022-01-04,40.3888,-82.7649,"Ohio, US",6457896,607861
