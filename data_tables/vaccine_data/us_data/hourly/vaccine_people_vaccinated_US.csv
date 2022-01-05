@@ -15,7 +15,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2022-01-05,33.0406,-83.6431,"Georgia, US",5439187,1088116
 66,Guam,US,2022-01-05,13.4443,144.7937,"Guam, US",127146,13916
 15,Hawaii,US,2022-01-05,21.0943,-157.4983,"Hawaii, US",1059666,79159
-16,Idaho,US,2022-01-05,44.2405,-114.4788,"Idaho, US",894076,106474
+16,Idaho,US,2022-01-05,44.2405,-114.4788,"Idaho, US",894927,106474
 17,Illinois,US,2022-01-05,40.3495,-88.9861,"Illinois, US",8162058,1039718
 ,Indian Health Services,US,2022-01-05,,,"Indian Health Services, US",820830,209022
 18,Indiana,US,2022-01-05,39.8494,-86.2583,"Indiana, US",3568721,401663
@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2022-01-05,42.2302,-71.5301,"Massachusetts, US",5156701,1127105
 26,Michigan,US,2022-01-05,43.3266,-84.5361,"Michigan, US",5690977,670924
 27,Minnesota,US,2022-01-05,45.6945,-93.9002,"Minnesota, US",3702329,341261
-28,Mississippi,US,2022-01-05,32.7416,-89.6787,"Mississippi, US",1449932,222840
+28,Mississippi,US,2022-01-05,32.7416,-89.6787,"Mississippi, US",1452587,222840
 29,Missouri,US,2022-01-05,38.4561,-92.2884,"Missouri, US",3313860,575898
 30,Montana,US,2022-01-05,46.9219,-110.4544,"Montana, US",578347,86294
 31,Nebraska,US,2022-01-05,41.1254,-98.2681,"Nebraska, US",1162039,127666
@@ -50,7 +50,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2022-01-05,44.2998,-99.4388,"South Dakota, US",507287,123663
 47,Tennessee,US,2022-01-05,35.7478,-86.6923,"Tennessee, US",3572845,509338
 48,Texas,US,2022-01-05,31.0545,-97.5635,"Texas, US",16576843,2910634
-49,Utah,US,2022-01-05,40.15,-111.8624,"Utah, US",1906458,276170
+49,Utah,US,2022-01-05,40.15,-111.8624,"Utah, US",1908850,276170
 50,Vermont,US,2022-01-05,44.0459,-72.7107,"Vermont, US",485140,74915
 ,Veterans Health Administration,US,2022-01-05,,,"Veterans Health Administration, US",2911829,427578
 78,Virgin Islands,US,2022-01-05,18.3358,-64.8963,"Virgin Islands, US",53912,9780
