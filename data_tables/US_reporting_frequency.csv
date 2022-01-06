@@ -178,11 +178,11 @@ South Carolina,Vaccines,https://scdhec.gov/covid19/covid-19-vaccination-dashboar
 South Dakota,Cases,https://doh.sd.gov/COVID/Dashboard.aspx,8/13/21,Y,Y,Y,Y,Y,N,N,,5
 South Dakota,Deaths,https://doh.sd.gov/COVID/Dashboard.aspx,8/13/21,Y,Y,Y,Y,Y,N,N,,5
 South Dakota,Tests,https://doh.sd.gov/COVID/Dashboard.aspx,8/13/21,Y,Y,Y,Y,Y,N,N,,5
-South Dakota,Vaccines,https://doh.sd.gov/COVID/Dashboard.aspx,8/13/21,Y,Y,Y,Y,Y,N,N,,5
-Tennessee,Cases,https://www.tn.gov/health/cedep/ncov.html,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-Tennessee,Deaths,https://www.tn.gov/health/cedep/ncov.html,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-Tennessee,Tests,https://www.tn.gov/health/cedep/ncov.html,7/2/21,Y,Y,Y,Y,Y,N,N,,5
-Tennessee,Vaccines,https://www.tn.gov/health/cedep/ncov/covid-19-vaccine-information.html,7/2/21,Y,Y,Y,Y,Y,N,N,,5
+South Dakota,Vaccines,https://doh.sd.gov/COVID/Dashboard.aspx,8/13/21,N,N,Y,N,N,N,N,,1
+Tennessee,Cases,https://www.tn.gov/health/cedep/ncov.html,1/5/22,N,N,Y,N,N,N,N,,1
+Tennessee,Deaths,https://www.tn.gov/health/cedep/ncov.html,1/5/22,N,N,Y,N,N,N,N,,1
+Tennessee,Tests,https://www.tn.gov/health/cedep/ncov.html,1/5/22,N,N,Y,N,N,N,N,,1
+Tennessee,Vaccines,https://www.tn.gov/health/cedep/ncov/covid-19-vaccine-information.html,1/5/22,N,N,Y,N,N,N,N,,1
 Texas,Cases,https://dshs.texas.gov/coronavirus/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 Texas,Deaths,https://dshs.texas.gov/coronavirus/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
 Texas,Tests,https://dshs.texas.gov/coronavirus/,7/2/21,Y,Y,Y,Y,Y,Y,Y,,7
