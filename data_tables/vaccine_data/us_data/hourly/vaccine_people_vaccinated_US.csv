@@ -3,7 +3,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-01-07,61.3707,-152.4044,"Alaska, US",413827,64167
 60,American Samoa,US,2022-01-07,-14.271,-170.132,"American Samoa, US",34947,6047
 4,Arizona,US,2022-01-07,33.7298,-111.4312,"Arizona, US",4176104,761276
-5,Arkansas,US,2022-01-07,34.9697,-92.3731,"Arkansas, US",1554295,359775
+5,Arkansas,US,2022-01-07,34.9697,-92.3731,"Arkansas, US",1554295,361041
 6,California,US,2022-01-07,36.1162,-119.6816,"California, US",26956555,6688127
 8,Colorado,US,2022-01-07,39.0598,-105.3111,"Colorado, US",3830901,487443
 9,Connecticut,US,2022-01-07,41.5978,-72.7554,"Connecticut, US",2675408,520100
@@ -15,7 +15,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2022-01-07,33.0406,-83.6431,"Georgia, US",5458048,1094661
 66,Guam,US,2022-01-07,13.4443,144.7937,"Guam, US",127519,13998
 15,Hawaii,US,2022-01-07,21.0943,-157.4983,"Hawaii, US",1062369,79559
-16,Idaho,US,2022-01-07,44.2405,-114.4788,"Idaho, US",895763,106864
+16,Idaho,US,2022-01-07,44.2405,-114.4788,"Idaho, US",896597,106864
 17,Illinois,US,2022-01-07,40.3495,-88.9861,"Illinois, US",8193461,1058582
 ,Indian Health Services,US,2022-01-07,,,"Indian Health Services, US",823480,209774
 18,Indiana,US,2022-01-07,39.8494,-86.2583,"Indiana, US",3575607,405926
@@ -49,8 +49,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2022-01-07,33.8569,-80.945,"South Carolina, US",2749856,507753
 46,South Dakota,US,2022-01-07,44.2998,-99.4388,"South Dakota, US",508494,124258
 47,Tennessee,US,2022-01-07,35.7478,-86.6923,"Tennessee, US",3572845,511341
-48,Texas,US,2022-01-07,31.0545,-97.5635,"Texas, US",16610658,2935706
-49,Utah,US,2022-01-07,40.15,-111.8624,"Utah, US",1911331,276578
+48,Texas,US,2022-01-07,31.0545,-97.5635,"Texas, US",16610658,2947832
+49,Utah,US,2022-01-07,40.15,-111.8624,"Utah, US",1913864,276578
 50,Vermont,US,2022-01-07,44.0459,-72.7107,"Vermont, US",485667,75013
 ,Veterans Health Administration,US,2022-01-07,,,"Veterans Health Administration, US",2913282,432046
 78,Virgin Islands,US,2022-01-07,18.3358,-64.8963,"Virgin Islands, US",54017,9854
