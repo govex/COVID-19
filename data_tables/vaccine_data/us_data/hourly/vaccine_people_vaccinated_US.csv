@@ -39,7 +39,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2022-01-11,42.1657,-74.9481,"New York, US",14126890,2517051
 37,North Carolina,US,2022-01-11,35.6301,-79.8064,"North Carolina, US",6207750,2206409
 38,North Dakota,US,2022-01-11,47.5289,-99.784,"North Dakota, US",404618,74497
-69,Northern Mariana Islands,US,2022-01-11,15.0979,145.6739,"Northern Mariana Islands, US",41870,2800
+69,Northern Mariana Islands,US,2022-01-11,15.0979,145.6739,"Northern Mariana Islands, US",41876,2800
 39,Ohio,US,2022-01-11,40.3888,-82.7649,"Ohio, US",6523487,629678
 40,Oklahoma,US,2022-01-11,35.5653,-96.9289,"Oklahoma, US",2137006,518861
 41,Oregon,US,2022-01-11,44.572,-122.0709,"Oregon, US",2822249,325850
@@ -49,7 +49,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2022-01-11,33.8569,-80.945,"South Carolina, US",2761810,518513
 46,South Dakota,US,2022-01-11,44.2998,-99.4388,"South Dakota, US",510898,126111
 47,Tennessee,US,2022-01-11,35.7478,-86.6923,"Tennessee, US",3572845,515873
-48,Texas,US,2022-01-11,31.0545,-97.5635,"Texas, US",16685870,2977707
+48,Texas,US,2022-01-11,31.0545,-97.5635,"Texas, US",16685870,2986534
 49,Utah,US,2022-01-11,40.15,-111.8624,"Utah, US",1920838,276597
 50,Vermont,US,2022-01-11,44.0459,-72.7107,"Vermont, US",488332,75886
 ,Veterans Health Administration,US,2022-01-11,,,"Veterans Health Administration, US",2915446,440572
