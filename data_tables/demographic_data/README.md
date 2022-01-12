@@ -144,7 +144,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 ### TN
 - Cases, deaths and vaccines: https://www.tn.gov/health/cedep/ncov/data/downloadable-datasets.html
 ### TX
-- Cases and deaths: https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83
+- Cases and deaths: https://dshs.texas.gov/coronavirus/AdditionalData.aspx
 - Vaccines: https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/PeopleVaccinated?%3Aorigin=card_share_link&%3Aembed=y&%3AisGuestRedirectFromVizportal=y
 ### UT
 - Cases, deaths, tests, and vaccines: https://coronavirus.utah.gov/case-counts/
