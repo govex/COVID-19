@@ -29,7 +29,7 @@ In order to create a dataset where the demographic categories are comparable bet
 ---
 5. Convert the existing age ranges to standardized ranges: 
     - Assume uniform distribution across existing age ranges and assume the max age is `100`
-    - Divide the value in the existing age range by the number of years in it, and assign each individual age that dividend. Add an exception for vaccines, ages below 12 are assigned a value of `0`. 
+    - Divide the value in the existing age range by the number of years in it, and assign each individual age that dividend. Add an exception for vaccines, ages below 5 are assigned a value of `0`. 
     - Group the ages together by the desiered age ranges using the sum of the group to get the standardized age. 
 ---
 6. Calculate rate_percent where missing or if we determine it needs to be recalculated
