@@ -4,6 +4,7 @@
 - data_tables/vaccine_data/ contains U.S. and Global vaccination data
 - data_tables/JHU_USCounty_map/ contains production files for the U.S. dashboard
 - data_tables/Data_for_UScounty_map/ contains data for the U.S. dashboard
+- US_reporting_frequency.csv contains information about the cadence of reporting for each state territory.
 
 
 ## Data sources
