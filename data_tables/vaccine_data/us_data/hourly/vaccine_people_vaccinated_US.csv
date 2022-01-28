@@ -3,7 +3,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-01-28,61.3707,-152.4044,"Alaska, US",426402,69388
 60,American Samoa,US,2022-01-28,-14.271,-170.132,"American Samoa, US",36974,5106
 4,Arizona,US,2022-01-28,33.7298,-111.4312,"Arizona, US",4270969,819550
-5,Arkansas,US,2022-01-28,34.9697,-92.3731,"Arkansas, US",1587794,372645
+5,Arkansas,US,2022-01-28,34.9697,-92.3731,"Arkansas, US",1587794,372478
 6,California,US,2022-01-28,36.1162,-119.6816,"California, US",27476629,4447770
 8,Colorado,US,2022-01-28,39.0598,-105.3111,"Colorado, US",3921540,528765
 9,Connecticut,US,2022-01-28,41.5978,-72.7554,"Connecticut, US",2725562,568429
