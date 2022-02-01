@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2022-02-01,-14.271,-170.132,"American Samoa, US",37089,5008
 4,Arizona,US,2022-02-01,33.7298,-111.4312,"Arizona, US",4282544,823006
 5,Arkansas,US,2022-02-01,34.9697,-92.3731,"Arkansas, US",1591368,372308
-6,California,US,2022-02-01,36.1162,-119.6816,"California, US",27543219,4475372
+6,California,US,2022-02-01,36.1162,-119.6816,"California, US",27565451,4475372
 8,Colorado,US,2022-02-01,39.0598,-105.3111,"Colorado, US",3928435,529784
 9,Connecticut,US,2022-02-01,41.5978,-72.7554,"Connecticut, US",2731019,570498
 10,Delaware,US,2022-02-01,39.3185,-75.5071,"Delaware, US",644659,137475
@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-02-01,44.2405,-114.4788,"Idaho, US",933393,131277
 17,Illinois,US,2022-02-01,40.3495,-88.9861,"Illinois, US",8399336,1154548
 ,Indian Health Services,US,2022-02-01,,,"Indian Health Services, US",841014,221367
-18,Indiana,US,2022-02-01,39.8494,-86.2583,"Indiana, US",3643508,453539
+18,Indiana,US,2022-02-01,39.8494,-86.2583,"Indiana, US",3646087,453539
 19,Iowa,US,2022-02-01,42.0115,-93.2105,"Iowa, US",1904276,198200
 20,Kansas,US,2022-02-01,38.5266,-96.7265,"Kansas, US",1721681,390354
 21,Kentucky,US,2022-02-01,37.6681,-84.6701,"Kentucky, US",2487984,399880
@@ -34,10 +34,10 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2022-02-01,41.1254,-98.2681,"Nebraska, US",1189070,137676
 32,Nevada,US,2022-02-01,38.3135,-117.0554,"Nevada, US",1801860,444780
 33,New Hampshire,US,2022-02-01,43.4525,-71.5639,"New Hampshire, US",935590,500280
-34,New Jersey,US,2022-02-01,40.2989,-74.521,"New Jersey, US",6602357,1314693
+34,New Jersey,US,2022-02-01,40.2989,-74.521,"New Jersey, US",6612450,1314693
 35,New Mexico,US,2022-02-01,34.8405,-106.2485,"New Mexico, US",1433509,339307
 36,New York,US,2022-02-01,42.1657,-74.9481,"New York, US",14421767,2616645
-37,North Carolina,US,2022-02-01,35.6301,-79.8064,"North Carolina, US",6317810,2352325
+37,North Carolina,US,2022-02-01,35.6301,-79.8064,"North Carolina, US",6321305,2352325
 38,North Dakota,US,2022-02-01,47.5289,-99.784,"North Dakota, US",411160,76401
 69,Northern Mariana Islands,US,2022-02-01,15.0979,145.6739,"Northern Mariana Islands, US",42802,2497
 39,Ohio,US,2022-02-01,40.3888,-82.7649,"Ohio, US",6640780,646554
