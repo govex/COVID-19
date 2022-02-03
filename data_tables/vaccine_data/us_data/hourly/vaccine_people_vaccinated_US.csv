@@ -3,13 +3,13 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-02-03,61.3707,-152.4044,"Alaska, US",427344,69442
 60,American Samoa,US,2022-02-03,-14.271,-170.132,"American Samoa, US",37406,4742
 4,Arizona,US,2022-02-03,33.7298,-111.4312,"Arizona, US",4287171,824598
-5,Arkansas,US,2022-02-03,34.9697,-92.3731,"Arkansas, US",1591804,372221
+5,Arkansas,US,2022-02-03,34.9697,-92.3731,"Arkansas, US",1591804,371864
 6,California,US,2022-02-03,36.1162,-119.6816,"California, US",27614961,4485973
 8,Colorado,US,2022-02-03,39.0598,-105.3111,"Colorado, US",3933236,530121
 9,Connecticut,US,2022-02-03,41.5978,-72.7554,"Connecticut, US",2733341,570997
 10,Delaware,US,2022-02-03,39.3185,-75.5071,"Delaware, US",646194,138014
 ,Department of Defense,US,2022-02-03,,,"Department of Defense, US",2939673,1057638
-11,District of Columbia,US,2022-02-03,38.8974,-77.0268,"District of Columbia, US",614182,164184
+11,District of Columbia,US,2022-02-03,38.8974,-77.0268,"District of Columbia, US",618449,164184
 ,Federal Bureau of Prisons,US,2022-02-03,,,"Federal Bureau of Prisons, US",129894,8858
 12,Florida,US,2022-02-03,27.7663,-81.6868,"Florida, US",13995404,2602371
 13,Georgia,US,2022-02-03,33.0406,-83.6431,"Georgia, US",5622805,1143548
@@ -50,7 +50,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2022-02-03,44.2998,-99.4388,"South Dakota, US",521806,132791
 47,Tennessee,US,2022-02-03,35.7478,-86.6923,"Tennessee, US",3644186,538888
 48,Texas,US,2022-02-03,31.0545,-97.5635,"Texas, US",17100467,3148711
-49,Utah,US,2022-02-03,40.15,-111.8624,"Utah, US",1949005,290210
+49,Utah,US,2022-02-03,40.15,-111.8624,"Utah, US",1950277,290210
 50,Vermont,US,2022-02-03,44.0459,-72.7107,"Vermont, US",495818,79396
 ,Veterans Health Administration,US,2022-02-03,,,"Veterans Health Administration, US",2923836,463576
 78,Virgin Islands,US,2022-02-03,18.3358,-64.8963,"Virgin Islands, US",55331,10954
