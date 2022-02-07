@@ -4,7 +4,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2022-02-07,-14.271,-170.132,"American Samoa, US",37589,4652
 4,Arizona,US,2022-02-07,33.7298,-111.4312,"Arizona, US",4308413,827471
 5,Arkansas,US,2022-02-07,34.9697,-92.3731,"Arkansas, US",1596726,371324
-6,California,US,2022-02-07,36.1162,-119.6816,"California, US",27695030,4509786
+6,California,US,2022-02-07,36.1162,-119.6816,"California, US",27703756,4509786
 8,Colorado,US,2022-02-07,39.0598,-105.3111,"Colorado, US",3943087,530023
 9,Connecticut,US,2022-02-07,41.5978,-72.7554,"Connecticut, US",2743346,572478
 10,Delaware,US,2022-02-07,39.3185,-75.5071,"Delaware, US",648182,138365
@@ -29,15 +29,15 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2022-02-07,43.3266,-84.5361,"Michigan, US",5840229,693543
 27,Minnesota,US,2022-02-07,45.6945,-93.9002,"Minnesota, US",3796416,364296
 28,Mississippi,US,2022-02-07,32.7416,-89.6787,"Mississippi, US",1497626,237334
-29,Missouri,US,2022-02-07,38.4561,-92.2884,"Missouri, US",3402807,631391
+29,Missouri,US,2022-02-07,38.4561,-92.2884,"Missouri, US",3406021,631391
 30,Montana,US,2022-02-07,46.9219,-110.4544,"Montana, US",592399,91339
 31,Nebraska,US,2022-02-07,41.1254,-98.2681,"Nebraska, US",1195821,136584
 32,Nevada,US,2022-02-07,38.3135,-117.0554,"Nevada, US",1811209,444903
 33,New Hampshire,US,2022-02-07,43.4525,-71.5639,"New Hampshire, US",939127,506319
-34,New Jersey,US,2022-02-07,40.2989,-74.521,"New Jersey, US",6652094,1304145
+34,New Jersey,US,2022-02-07,40.2989,-74.521,"New Jersey, US",6656841,1304145
 35,New Mexico,US,2022-02-07,34.8405,-106.2485,"New Mexico, US",1439830,340926
 36,New York,US,2022-02-07,42.1657,-74.9481,"New York, US",14502812,2607280
-37,North Carolina,US,2022-02-07,35.6301,-79.8064,"North Carolina, US",6332692,2376291
+37,North Carolina,US,2022-02-07,35.6301,-79.8064,"North Carolina, US",6340158,2376291
 38,North Dakota,US,2022-02-07,47.5289,-99.784,"North Dakota, US",412163,76564
 69,Northern Mariana Islands,US,2022-02-07,15.0979,145.6739,"Northern Mariana Islands, US",42982,2475
 39,Ohio,US,2022-02-07,40.3888,-82.7649,"Ohio, US",6664557,637984
@@ -55,7 +55,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Veterans Health Administration,US,2022-02-07,,,"Veterans Health Administration, US",2925592,466697
 78,Virgin Islands,US,2022-02-07,18.3358,-64.8963,"Virgin Islands, US",55433,10962
 51,Virginia,US,2022-02-07,37.7693,-78.17,"Virginia, US",6047522,1078526
-53,Washington,US,2022-02-07,47.4009,-121.4905,"Washington, US",5349653,665091
+53,Washington,US,2022-02-07,47.4009,-121.4905,"Washington, US",5349653,5583832
 54,West Virginia,US,2022-02-07,38.4912,-80.9545,"West Virginia, US",1009456,132907
 55,Wisconsin,US,2022-02-07,44.2685,-89.6165,"Wisconsin, US",3719776,390440
 56,Wyoming,US,2022-02-07,42.756,-107.3025,"Wyoming, US",289454,43076
