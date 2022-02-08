@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-02-08,44.2405,-114.4788,"Idaho, US",937444,131256
 17,Illinois,US,2022-02-08,40.3495,-88.9861,"Illinois, US",8435190,1146068
 ,Indian Health Services,US,2022-02-08,,,"Indian Health Services, US",844994,222613
-18,Indiana,US,2022-02-08,39.8494,-86.2583,"Indiana, US",3655117,451422
+18,Indiana,US,2022-02-08,39.8494,-86.2583,"Indiana, US",3657218,451422
 19,Iowa,US,2022-02-08,42.0115,-93.2105,"Iowa, US",1910494,198027
 20,Kansas,US,2022-02-08,38.5266,-96.7265,"Kansas, US",1730886,389450
 21,Kentucky,US,2022-02-08,37.6681,-84.6701,"Kentucky, US",2496923,398948
@@ -34,7 +34,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2022-02-08,41.1254,-98.2681,"Nebraska, US",1195831,136615
 32,Nevada,US,2022-02-08,38.3135,-117.0554,"Nevada, US",1812840,444759
 33,New Hampshire,US,2022-02-08,43.4525,-71.5639,"New Hampshire, US",939503,507128
-34,New Jersey,US,2022-02-08,40.2989,-74.521,"New Jersey, US",6656841,1303590
+34,New Jersey,US,2022-02-08,40.2989,-74.521,"New Jersey, US",6660897,1303590
 35,New Mexico,US,2022-02-08,34.8405,-106.2485,"New Mexico, US",1440742,341081
 36,New York,US,2022-02-08,42.1657,-74.9481,"New York, US",14509916,2607165
 37,North Carolina,US,2022-02-08,35.6301,-79.8064,"North Carolina, US",6340158,2377683
@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-02-08,35.5653,-96.9289,"Oklahoma, US",2191088,555738
 41,Oregon,US,2022-02-08,44.572,-122.0709,"Oregon, US",2873280,350768
 42,Pennsylvania,US,2022-02-08,40.5908,-77.2098,"Pennsylvania, US",8470554,2088536
-72,Puerto Rico,US,2022-02-08,18.2208,-66.5901,"Puerto Rico, US",2578167,442325
+72,Puerto Rico,US,2022-02-08,18.2208,-66.5901,"Puerto Rico, US",2581122,442325
 44,Rhode Island,US,2022-02-08,41.6809,-71.5118,"Rhode Island, US",841624,164975
 45,South Carolina,US,2022-02-08,33.8569,-80.945,"South Carolina, US",2842711,553780
 46,South Dakota,US,2022-02-08,44.2998,-99.4388,"South Dakota, US",523439,133056
