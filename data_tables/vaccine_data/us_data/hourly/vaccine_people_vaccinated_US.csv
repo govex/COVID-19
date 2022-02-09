@@ -3,7 +3,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-02-09,61.3707,-152.4044,"Alaska, US",437792,60323
 60,American Samoa,US,2022-02-09,-14.271,-170.132,"American Samoa, US",37807,4575
 4,Arizona,US,2022-02-09,33.7298,-111.4312,"Arizona, US",4314921,828145
-5,Arkansas,US,2022-02-09,34.9697,-92.3731,"Arkansas, US",1597692,371371
+5,Arkansas,US,2022-02-09,34.9697,-92.3731,"Arkansas, US",1597692,371343
 6,California,US,2022-02-09,36.1162,-119.6816,"California, US",27747572,4513258
 8,Colorado,US,2022-02-09,39.0598,-105.3111,"Colorado, US",3948280,529868
 9,Connecticut,US,2022-02-09,41.5978,-72.7554,"Connecticut, US",2746803,572456
@@ -48,7 +48,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2022-02-09,41.6809,-71.5118,"Rhode Island, US",842993,164953
 45,South Carolina,US,2022-02-09,33.8569,-80.945,"South Carolina, US",2843863,553517
 46,South Dakota,US,2022-02-09,44.2998,-99.4388,"South Dakota, US",524181,132910
-47,Tennessee,US,2022-02-09,35.7478,-86.6923,"Tennessee, US",3644186,538049
+47,Tennessee,US,2022-02-09,35.7478,-86.6923,"Tennessee, US",3657266,538049
 48,Texas,US,2022-02-09,31.0545,-97.5635,"Texas, US",17176046,3147947
 49,Utah,US,2022-02-09,40.15,-111.8624,"Utah, US",1963594,292280
 50,Vermont,US,2022-02-09,44.0459,-72.7107,"Vermont, US",497047,79525
