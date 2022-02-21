@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-02-21,44.2405,-114.4788,"Idaho, US",945244,129370
 17,Illinois,US,2022-02-21,40.3495,-88.9861,"Illinois, US",8503109,1097138
 ,Indian Health Services,US,2022-02-21,,,"Indian Health Services, US",851384,223232
-18,Indiana,US,2022-02-21,39.8494,-86.2583,"Indiana, US",3674836,446596
+18,Indiana,US,2022-02-21,39.8494,-86.2583,"Indiana, US",3678097,446596
 19,Iowa,US,2022-02-21,42.0115,-93.2105,"Iowa, US",1922643,195903
 20,Kansas,US,2022-02-21,38.5266,-96.7265,"Kansas, US",1745263,388106
 21,Kentucky,US,2022-02-21,37.6681,-84.6701,"Kentucky, US",2515316,396219
@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-02-21,35.5653,-96.9289,"Oklahoma, US",2209577,553105
 41,Oregon,US,2022-02-21,44.572,-122.0709,"Oregon, US",2888724,349735
 42,Pennsylvania,US,2022-02-21,40.5908,-77.2098,"Pennsylvania, US",8535603,2091339
-72,Puerto Rico,US,2022-02-21,18.2208,-66.5901,"Puerto Rico, US",2612926,446451
+72,Puerto Rico,US,2022-02-21,18.2208,-66.5901,"Puerto Rico, US",2613094,446451
 44,Rhode Island,US,2022-02-21,41.6809,-71.5118,"Rhode Island, US",850948,165142
 45,South Carolina,US,2022-02-21,33.8569,-80.945,"South Carolina, US",2859563,550841
 46,South Dakota,US,2022-02-21,44.2998,-99.4388,"South Dakota, US",527824,133182
