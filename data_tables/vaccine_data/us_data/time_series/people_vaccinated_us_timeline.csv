@@ -409,6 +409,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2022-01-21,32.3182,-86.9023,"Alabama, US",2401094,568591
 1,Alabama,US,2022-01-22,32.3182,-86.9023,"Alabama, US",2401192,568753
 1,Alabama,US,2022-01-23,32.3182,-86.9023,"Alabama, US",2411652,574054
+1,Alabama,US,2022-01-24,32.3182,-86.9023,"Alabama, US",2412148,574349
+1,Alabama,US,2022-01-25,32.3182,-86.9023,"Alabama, US",2414385,574718
+1,Alabama,US,2022-01-26,32.3182,-86.9023,"Alabama, US",2417639,574958
+1,Alabama,US,2022-01-27,32.3182,-86.9023,"Alabama, US",2418268,574928
+1,Alabama,US,2022-01-28,32.3182,-86.9023,"Alabama, US",2421487,574869
+1,Alabama,US,2022-01-29,32.3182,-86.9023,"Alabama, US",2421967,574915
+1,Alabama,US,2022-01-30,32.3182,-86.9023,"Alabama, US",2423893,575090
+1,Alabama,US,2022-01-31,32.3182,-86.9023,"Alabama, US",2425057,575148
+1,Alabama,US,2022-02-01,32.3182,-86.9023,"Alabama, US",2426408,575325
+1,Alabama,US,2022-02-02,32.3182,-86.9023,"Alabama, US",2427838,575258
+1,Alabama,US,2022-02-03,32.3182,-86.9023,"Alabama, US",2429527,575216
+1,Alabama,US,2022-02-04,32.3182,-86.9023,"Alabama, US",2431444,575274
+1,Alabama,US,2022-02-05,32.3182,-86.9023,"Alabama, US",2433084,575404
+1,Alabama,US,2022-02-06,32.3182,-86.9023,"Alabama, US",2434307,575605
+1,Alabama,US,2022-02-07,32.3182,-86.9023,"Alabama, US",2435296,575428
+1,Alabama,US,2022-02-08,32.3182,-86.9023,"Alabama, US",2437859,574870
+1,Alabama,US,2022-02-09,32.3182,-86.9023,"Alabama, US",2439486,574619
+1,Alabama,US,2022-02-10,32.3182,-86.9023,"Alabama, US",2440010,574613
+1,Alabama,US,2022-02-11,32.3182,-86.9023,"Alabama, US",2442615,574112
+1,Alabama,US,2022-02-12,32.3182,-86.9023,"Alabama, US",2444148,574155
+1,Alabama,US,2022-02-13,32.3182,-86.9023,"Alabama, US",2444634,574120
+1,Alabama,US,2022-02-14,32.3182,-86.9023,"Alabama, US",2445646,574031
+1,Alabama,US,2022-02-15,32.3182,-86.9023,"Alabama, US",2445646,574031
+1,Alabama,US,2022-02-16,32.3182,-86.9023,"Alabama, US",2445646,574031
+1,Alabama,US,2022-02-17,32.3182,-86.9023,"Alabama, US",2451886,572928
+1,Alabama,US,2022-02-18,32.3182,-86.9023,"Alabama, US",2452990,572807
+1,Alabama,US,2022-02-19,32.3182,-86.9023,"Alabama, US",2453426,572855
+1,Alabama,US,2022-02-20,32.3182,-86.9023,"Alabama, US",2453426,572855
+1,Alabama,US,2022-02-21,32.3182,-86.9023,"Alabama, US",2453426,572855
 2,Alaska,US,2020-12-10,61.3707,-152.4044,"Alaska, US",,
 2,Alaska,US,2020-12-11,61.3707,-152.4044,"Alaska, US",,
 2,Alaska,US,2020-12-12,61.3707,-152.4044,"Alaska, US",,
@@ -819,6 +848,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-01-21,61.3707,-152.4044,"Alaska, US",425012,68866
 2,Alaska,US,2022-01-22,61.3707,-152.4044,"Alaska, US",425270,68972
 2,Alaska,US,2022-01-23,61.3707,-152.4044,"Alaska, US",425292,69009
+2,Alaska,US,2022-01-24,61.3707,-152.4044,"Alaska, US",425640,69224
+2,Alaska,US,2022-01-25,61.3707,-152.4044,"Alaska, US",425713,69305
+2,Alaska,US,2022-01-26,61.3707,-152.4044,"Alaska, US",425905,69358
+2,Alaska,US,2022-01-27,61.3707,-152.4044,"Alaska, US",426170,69350
+2,Alaska,US,2022-01-28,61.3707,-152.4044,"Alaska, US",426402,69388
+2,Alaska,US,2022-01-29,61.3707,-152.4044,"Alaska, US",426749,69422
+2,Alaska,US,2022-01-30,61.3707,-152.4044,"Alaska, US",426767,69457
+2,Alaska,US,2022-01-31,61.3707,-152.4044,"Alaska, US",427182,69446
+2,Alaska,US,2022-02-01,61.3707,-152.4044,"Alaska, US",427300,69423
+2,Alaska,US,2022-02-02,61.3707,-152.4044,"Alaska, US",427344,69442
+2,Alaska,US,2022-02-03,61.3707,-152.4044,"Alaska, US",436875,60161
+2,Alaska,US,2022-02-04,61.3707,-152.4044,"Alaska, US",437138,60136
+2,Alaska,US,2022-02-05,61.3707,-152.4044,"Alaska, US",437339,60202
+2,Alaska,US,2022-02-06,61.3707,-152.4044,"Alaska, US",437377,60279
+2,Alaska,US,2022-02-07,61.3707,-152.4044,"Alaska, US",437742,60288
+2,Alaska,US,2022-02-08,61.3707,-152.4044,"Alaska, US",437792,60323
+2,Alaska,US,2022-02-09,61.3707,-152.4044,"Alaska, US",437839,60348
+2,Alaska,US,2022-02-10,61.3707,-152.4044,"Alaska, US",437871,60373
+2,Alaska,US,2022-02-11,61.3707,-152.4044,"Alaska, US",438482,60402
+2,Alaska,US,2022-02-12,61.3707,-152.4044,"Alaska, US",438745,60409
+2,Alaska,US,2022-02-13,61.3707,-152.4044,"Alaska, US",438751,60435
+2,Alaska,US,2022-02-14,61.3707,-152.4044,"Alaska, US",438753,60452
+2,Alaska,US,2022-02-15,61.3707,-152.4044,"Alaska, US",438753,60452
+2,Alaska,US,2022-02-16,61.3707,-152.4044,"Alaska, US",438753,60452
+2,Alaska,US,2022-02-17,61.3707,-152.4044,"Alaska, US",444386,55389
+2,Alaska,US,2022-02-18,61.3707,-152.4044,"Alaska, US",444604,55394
+2,Alaska,US,2022-02-19,61.3707,-152.4044,"Alaska, US",444763,55393
+2,Alaska,US,2022-02-20,61.3707,-152.4044,"Alaska, US",444763,55393
+2,Alaska,US,2022-02-21,61.3707,-152.4044,"Alaska, US",444763,55393
 60,American Samoa,US,2020-12-10,-14.270999999999999,-170.132,"American Samoa, US",,
 60,American Samoa,US,2020-12-11,-14.270999999999999,-170.132,"American Samoa, US",,
 60,American Samoa,US,2020-12-12,-14.270999999999999,-170.132,"American Samoa, US",,
@@ -1229,6 +1287,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2022-01-21,-14.270999999999999,-170.132,"American Samoa, US",36706,5318
 60,American Samoa,US,2022-01-22,-14.270999999999999,-170.132,"American Samoa, US",36799,5238
 60,American Samoa,US,2022-01-23,-14.270999999999999,-170.132,"American Samoa, US",36799,5239
+60,American Samoa,US,2022-01-24,-14.270999999999999,-170.132,"American Samoa, US",36799,5239
+60,American Samoa,US,2022-01-25,-14.270999999999999,-170.132,"American Samoa, US",36799,5240
+60,American Samoa,US,2022-01-26,-14.270999999999999,-170.132,"American Samoa, US",36832,5219
+60,American Samoa,US,2022-01-27,-14.270999999999999,-170.132,"American Samoa, US",36947,5127
+60,American Samoa,US,2022-01-28,-14.270999999999999,-170.132,"American Samoa, US",36974,5106
+60,American Samoa,US,2022-01-29,-14.270999999999999,-170.132,"American Samoa, US",37087,5009
+60,American Samoa,US,2022-01-30,-14.270999999999999,-170.132,"American Samoa, US",37088,5009
+60,American Samoa,US,2022-01-31,-14.270999999999999,-170.132,"American Samoa, US",37089,5008
+60,American Samoa,US,2022-02-01,-14.270999999999999,-170.132,"American Samoa, US",37362,4777
+60,American Samoa,US,2022-02-02,-14.270999999999999,-170.132,"American Samoa, US",37406,4742
+60,American Samoa,US,2022-02-03,-14.270999999999999,-170.132,"American Samoa, US",37547,4669
+60,American Samoa,US,2022-02-04,-14.270999999999999,-170.132,"American Samoa, US",37589,4650
+60,American Samoa,US,2022-02-05,-14.270999999999999,-170.132,"American Samoa, US",37589,4652
+60,American Samoa,US,2022-02-06,-14.270999999999999,-170.132,"American Samoa, US",37589,4652
+60,American Samoa,US,2022-02-07,-14.270999999999999,-170.132,"American Samoa, US",37590,4651
+60,American Samoa,US,2022-02-08,-14.270999999999999,-170.132,"American Samoa, US",37807,4575
+60,American Samoa,US,2022-02-09,-14.270999999999999,-170.132,"American Samoa, US",37828,4582
+60,American Samoa,US,2022-02-10,-14.270999999999999,-170.132,"American Samoa, US",37890,4562
+60,American Samoa,US,2022-02-11,-14.270999999999999,-170.132,"American Samoa, US",37890,4563
+60,American Samoa,US,2022-02-12,-14.270999999999999,-170.132,"American Samoa, US",37957,4522
+60,American Samoa,US,2022-02-13,-14.270999999999999,-170.132,"American Samoa, US",37957,4522
+60,American Samoa,US,2022-02-14,-14.270999999999999,-170.132,"American Samoa, US",37957,4522
+60,American Samoa,US,2022-02-15,-14.270999999999999,-170.132,"American Samoa, US",37957,4522
+60,American Samoa,US,2022-02-16,-14.270999999999999,-170.132,"American Samoa, US",37957,4522
+60,American Samoa,US,2022-02-17,-14.270999999999999,-170.132,"American Samoa, US",38024,4525
+60,American Samoa,US,2022-02-18,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
+60,American Samoa,US,2022-02-19,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
+60,American Samoa,US,2022-02-20,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
+60,American Samoa,US,2022-02-21,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
 4,Arizona,US,2020-12-10,33.7298,-111.4312,"Arizona, US",,
 4,Arizona,US,2020-12-11,33.7298,-111.4312,"Arizona, US",,
 4,Arizona,US,2020-12-12,33.7298,-111.4312,"Arizona, US",,
@@ -1639,6 +1726,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2022-01-21,33.7298,-111.4312,"Arizona, US",4247589,808194
 4,Arizona,US,2022-01-22,33.7298,-111.4312,"Arizona, US",4251751,810527
 4,Arizona,US,2022-01-23,33.7298,-111.4312,"Arizona, US",4256113,812952
+4,Arizona,US,2022-01-24,33.7298,-111.4312,"Arizona, US",4258437,814572
+4,Arizona,US,2022-01-25,33.7298,-111.4312,"Arizona, US",4259553,816240
+4,Arizona,US,2022-01-26,33.7298,-111.4312,"Arizona, US",4262622,817711
+4,Arizona,US,2022-01-27,33.7298,-111.4312,"Arizona, US",4266592,818274
+4,Arizona,US,2022-01-28,33.7298,-111.4312,"Arizona, US",4270969,819550
+4,Arizona,US,2022-01-29,33.7298,-111.4312,"Arizona, US",4274990,820896
+4,Arizona,US,2022-01-30,33.7298,-111.4312,"Arizona, US",4279319,822302
+4,Arizona,US,2022-01-31,33.7298,-111.4312,"Arizona, US",4282544,823006
+4,Arizona,US,2022-02-01,33.7298,-111.4312,"Arizona, US",4284236,823723
+4,Arizona,US,2022-02-02,33.7298,-111.4312,"Arizona, US",4287171,824598
+4,Arizona,US,2022-02-03,33.7298,-111.4312,"Arizona, US",4291956,825572
+4,Arizona,US,2022-02-04,33.7298,-111.4312,"Arizona, US",4296971,825829
+4,Arizona,US,2022-02-05,33.7298,-111.4312,"Arizona, US",4302898,826213
+4,Arizona,US,2022-02-06,33.7298,-111.4312,"Arizona, US",4308413,827471
+4,Arizona,US,2022-02-07,33.7298,-111.4312,"Arizona, US",4312826,827702
+4,Arizona,US,2022-02-08,33.7298,-111.4312,"Arizona, US",4314921,828145
+4,Arizona,US,2022-02-09,33.7298,-111.4312,"Arizona, US",4317684,829086
+4,Arizona,US,2022-02-10,33.7298,-111.4312,"Arizona, US",4321178,829987
+4,Arizona,US,2022-02-11,33.7298,-111.4312,"Arizona, US",4325696,829970
+4,Arizona,US,2022-02-12,33.7298,-111.4312,"Arizona, US",4329872,829859
+4,Arizona,US,2022-02-13,33.7298,-111.4312,"Arizona, US",4334058,829790
+4,Arizona,US,2022-02-14,33.7298,-111.4312,"Arizona, US",4336577,829701
+4,Arizona,US,2022-02-15,33.7298,-111.4312,"Arizona, US",4336577,829701
+4,Arizona,US,2022-02-16,33.7298,-111.4312,"Arizona, US",4336577,829701
+4,Arizona,US,2022-02-17,33.7298,-111.4312,"Arizona, US",4345647,829297
+4,Arizona,US,2022-02-18,33.7298,-111.4312,"Arizona, US",4348950,828981
+4,Arizona,US,2022-02-19,33.7298,-111.4312,"Arizona, US",4352169,828721
+4,Arizona,US,2022-02-20,33.7298,-111.4312,"Arizona, US",4352169,828721
+4,Arizona,US,2022-02-21,33.7298,-111.4312,"Arizona, US",4352169,828721
 5,Arkansas,US,2020-12-10,34.9697,-92.3731,"Arkansas, US",,
 5,Arkansas,US,2020-12-11,34.9697,-92.3731,"Arkansas, US",,
 5,Arkansas,US,2020-12-12,34.9697,-92.3731,"Arkansas, US",,
@@ -2049,6 +2165,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 5,Arkansas,US,2022-01-21,34.9697,-92.3731,"Arkansas, US",1579843,371748
 5,Arkansas,US,2022-01-22,34.9697,-92.3731,"Arkansas, US",1580904,372061
 5,Arkansas,US,2022-01-23,34.9697,-92.3731,"Arkansas, US",1580951,372507
+5,Arkansas,US,2022-01-24,34.9697,-92.3731,"Arkansas, US",1583043,372664
+5,Arkansas,US,2022-01-25,34.9697,-92.3731,"Arkansas, US",1583447,372524
+5,Arkansas,US,2022-01-26,34.9697,-92.3731,"Arkansas, US",1583884,372596
+5,Arkansas,US,2022-01-27,34.9697,-92.3731,"Arkansas, US",1586373,372645
+5,Arkansas,US,2022-01-28,34.9697,-92.3731,"Arkansas, US",1587794,372478
+5,Arkansas,US,2022-01-29,34.9697,-92.3731,"Arkansas, US",1589157,372478
+5,Arkansas,US,2022-01-30,34.9697,-92.3731,"Arkansas, US",1590521,372478
+5,Arkansas,US,2022-01-31,34.9697,-92.3731,"Arkansas, US",1591368,372308
+5,Arkansas,US,2022-02-01,34.9697,-92.3731,"Arkansas, US",1591771,372095
+5,Arkansas,US,2022-02-02,34.9697,-92.3731,"Arkansas, US",1591804,372221
+5,Arkansas,US,2022-02-03,34.9697,-92.3731,"Arkansas, US",1591841,371864
+5,Arkansas,US,2022-02-04,34.9697,-92.3731,"Arkansas, US",1595279,371640
+5,Arkansas,US,2022-02-05,34.9697,-92.3731,"Arkansas, US",1595320,371457
+5,Arkansas,US,2022-02-06,34.9697,-92.3731,"Arkansas, US",1596726,371324
+5,Arkansas,US,2022-02-07,34.9697,-92.3731,"Arkansas, US",1597246,371477
+5,Arkansas,US,2022-02-08,34.9697,-92.3731,"Arkansas, US",1597692,371371
+5,Arkansas,US,2022-02-09,34.9697,-92.3731,"Arkansas, US",1598814,371343
+5,Arkansas,US,2022-02-10,34.9697,-92.3731,"Arkansas, US",1599938,371320
+5,Arkansas,US,2022-02-11,34.9697,-92.3731,"Arkansas, US",1599992,371117
+5,Arkansas,US,2022-02-12,34.9697,-92.3731,"Arkansas, US",1602515,371001
+5,Arkansas,US,2022-02-13,34.9697,-92.3731,"Arkansas, US",1603984,370872
+5,Arkansas,US,2022-02-14,34.9697,-92.3731,"Arkansas, US",1604678,370878
+5,Arkansas,US,2022-02-15,34.9697,-92.3731,"Arkansas, US",1604678,370878
+5,Arkansas,US,2022-02-16,34.9697,-92.3731,"Arkansas, US",1604678,370878
+5,Arkansas,US,2022-02-17,34.9697,-92.3731,"Arkansas, US",1606459,370506
+5,Arkansas,US,2022-02-18,34.9697,-92.3731,"Arkansas, US",1606538,370903
+5,Arkansas,US,2022-02-19,34.9697,-92.3731,"Arkansas, US",1609584,370846
+5,Arkansas,US,2022-02-20,34.9697,-92.3731,"Arkansas, US",1609584,370789
+5,Arkansas,US,2022-02-21,34.9697,-92.3731,"Arkansas, US",1609584,370825
 6,California,US,2020-12-10,36.1162,-119.6816,"California, US",,
 6,California,US,2020-12-11,36.1162,-119.6816,"California, US",,
 6,California,US,2020-12-12,36.1162,-119.6816,"California, US",,
@@ -2459,6 +2604,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 6,California,US,2022-01-21,36.1162,-119.6816,"California, US",27322019,6944817
 6,California,US,2022-01-22,36.1162,-119.6816,"California, US",27346762,6969780
 6,California,US,2022-01-23,36.1162,-119.6816,"California, US",27360847,6971310
+6,California,US,2022-01-24,36.1162,-119.6816,"California, US",27369974,7005961
+6,California,US,2022-01-25,36.1162,-119.6816,"California, US",27391902,7014753
+6,California,US,2022-01-26,36.1162,-119.6816,"California, US",27421963,7025733
+6,California,US,2022-01-27,36.1162,-119.6816,"California, US",27421963,4437004
+6,California,US,2022-01-28,36.1162,-119.6816,"California, US",27476629,4447770
+6,California,US,2022-01-29,36.1162,-119.6816,"California, US",27511334,4455061
+6,California,US,2022-01-30,36.1162,-119.6816,"California, US",27534025,4470603
+6,California,US,2022-01-31,36.1162,-119.6816,"California, US",27543219,4475372
+6,California,US,2022-02-01,36.1162,-119.6816,"California, US",27565451,4478936
+6,California,US,2022-02-02,36.1162,-119.6816,"California, US",27592347,4485973
+6,California,US,2022-02-03,36.1162,-119.6816,"California, US",27614961,4491665
+6,California,US,2022-02-04,36.1162,-119.6816,"California, US",27643469,4497445
+6,California,US,2022-02-05,36.1162,-119.6816,"California, US",27676248,4501623
+6,California,US,2022-02-06,36.1162,-119.6816,"California, US",27695030,4509786
+6,California,US,2022-02-07,36.1162,-119.6816,"California, US",27703756,4511317
+6,California,US,2022-02-08,36.1162,-119.6816,"California, US",27722883,4513258
+6,California,US,2022-02-09,36.1162,-119.6816,"California, US",27747572,4518110
+6,California,US,2022-02-10,36.1162,-119.6816,"California, US",27771039,4522606
+6,California,US,2022-02-11,36.1162,-119.6816,"California, US",27792533,4526544
+6,California,US,2022-02-12,36.1162,-119.6816,"California, US",27815766,4529524
+6,California,US,2022-02-13,36.1162,-119.6816,"California, US",27832134,4530813
+6,California,US,2022-02-14,36.1162,-119.6816,"California, US",27841078,4531226
+6,California,US,2022-02-15,36.1162,-119.6816,"California, US",27841078,4531226
+6,California,US,2022-02-16,36.1162,-119.6816,"California, US",27841078,4531226
+6,California,US,2022-02-17,36.1162,-119.6816,"California, US",27893306,4502484
+6,California,US,2022-02-18,36.1162,-119.6816,"California, US",27920701,4505573
+6,California,US,2022-02-19,36.1162,-119.6816,"California, US",27941393,4504619
+6,California,US,2022-02-20,36.1162,-119.6816,"California, US",27955110,4504619
+6,California,US,2022-02-21,36.1162,-119.6816,"California, US",27963990,4504619
 8,Colorado,US,2020-12-10,39.0598,-105.3111,"Colorado, US",,
 8,Colorado,US,2020-12-11,39.0598,-105.3111,"Colorado, US",,
 8,Colorado,US,2020-12-12,39.0598,-105.3111,"Colorado, US",,
@@ -2869,6 +3043,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 8,Colorado,US,2022-01-21,39.0598,-105.3111,"Colorado, US",3904536,522093
 8,Colorado,US,2022-01-22,39.0598,-105.3111,"Colorado, US",3908012,523623
 8,Colorado,US,2022-01-23,39.0598,-105.3111,"Colorado, US",3909846,524856
+8,Colorado,US,2022-01-24,39.0598,-105.3111,"Colorado, US",3910744,525545
+8,Colorado,US,2022-01-25,39.0598,-105.3111,"Colorado, US",3913025,526438
+8,Colorado,US,2022-01-26,39.0598,-105.3111,"Colorado, US",3915242,528185
+8,Colorado,US,2022-01-27,39.0598,-105.3111,"Colorado, US",3918538,528442
+8,Colorado,US,2022-01-28,39.0598,-105.3111,"Colorado, US",3921540,528765
+8,Colorado,US,2022-01-29,39.0598,-105.3111,"Colorado, US",3924831,529233
+8,Colorado,US,2022-01-30,39.0598,-105.3111,"Colorado, US",3927291,529505
+8,Colorado,US,2022-01-31,39.0598,-105.3111,"Colorado, US",3928435,529784
+8,Colorado,US,2022-02-01,39.0598,-105.3111,"Colorado, US",3930513,529818
+8,Colorado,US,2022-02-02,39.0598,-105.3111,"Colorado, US",3933236,530121
+8,Colorado,US,2022-02-03,39.0598,-105.3111,"Colorado, US",3935264,530200
+8,Colorado,US,2022-02-04,39.0598,-105.3111,"Colorado, US",3937730,529880
+8,Colorado,US,2022-02-05,39.0598,-105.3111,"Colorado, US",3937928,530268
+8,Colorado,US,2022-02-06,39.0598,-105.3111,"Colorado, US",3943087,530023
+8,Colorado,US,2022-02-07,39.0598,-105.3111,"Colorado, US",3946525,529830
+8,Colorado,US,2022-02-08,39.0598,-105.3111,"Colorado, US",3948280,529868
+8,Colorado,US,2022-02-09,39.0598,-105.3111,"Colorado, US",3951033,529585
+8,Colorado,US,2022-02-10,39.0598,-105.3111,"Colorado, US",3953769,529406
+8,Colorado,US,2022-02-11,39.0598,-105.3111,"Colorado, US",3956784,528944
+8,Colorado,US,2022-02-12,39.0598,-105.3111,"Colorado, US",3956922,529129
+8,Colorado,US,2022-02-13,39.0598,-105.3111,"Colorado, US",3961283,528941
+8,Colorado,US,2022-02-14,39.0598,-105.3111,"Colorado, US",3961927,529024
+8,Colorado,US,2022-02-15,39.0598,-105.3111,"Colorado, US",3961927,529024
+8,Colorado,US,2022-02-16,39.0598,-105.3111,"Colorado, US",3961927,529024
+8,Colorado,US,2022-02-17,39.0598,-105.3111,"Colorado, US",3969935,527017
+8,Colorado,US,2022-02-18,39.0598,-105.3111,"Colorado, US",3972117,526807
+8,Colorado,US,2022-02-19,39.0598,-105.3111,"Colorado, US",3974464,526696
+8,Colorado,US,2022-02-20,39.0598,-105.3111,"Colorado, US",3974464,526696
+8,Colorado,US,2022-02-21,39.0598,-105.3111,"Colorado, US",3974464,526696
 9,Connecticut,US,2020-12-10,41.5978,-72.7554,"Connecticut, US",,
 9,Connecticut,US,2020-12-11,41.5978,-72.7554,"Connecticut, US",,
 9,Connecticut,US,2020-12-12,41.5978,-72.7554,"Connecticut, US",,
@@ -3279,6 +3482,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 9,Connecticut,US,2022-01-21,41.5978,-72.7554,"Connecticut, US",2713462,560479
 9,Connecticut,US,2022-01-22,41.5978,-72.7554,"Connecticut, US",2715833,561819
 9,Connecticut,US,2022-01-23,41.5978,-72.7554,"Connecticut, US",2717988,563326
+9,Connecticut,US,2022-01-24,41.5978,-72.7554,"Connecticut, US",2718099,564071
+9,Connecticut,US,2022-01-25,41.5978,-72.7554,"Connecticut, US",2718968,565303
+9,Connecticut,US,2022-01-26,41.5978,-72.7554,"Connecticut, US",2720695,566511
+9,Connecticut,US,2022-01-27,41.5978,-72.7554,"Connecticut, US",2722828,567599
+9,Connecticut,US,2022-01-28,41.5978,-72.7554,"Connecticut, US",2725562,568429
+9,Connecticut,US,2022-01-29,41.5978,-72.7554,"Connecticut, US",2727846,569244
+9,Connecticut,US,2022-01-30,41.5978,-72.7554,"Connecticut, US",2729766,569753
+9,Connecticut,US,2022-01-31,41.5978,-72.7554,"Connecticut, US",2731019,570498
+9,Connecticut,US,2022-02-01,41.5978,-72.7554,"Connecticut, US",2731560,570970
+9,Connecticut,US,2022-02-02,41.5978,-72.7554,"Connecticut, US",2733341,570997
+9,Connecticut,US,2022-02-03,41.5978,-72.7554,"Connecticut, US",2735682,571234
+9,Connecticut,US,2022-02-04,41.5978,-72.7554,"Connecticut, US",2737817,571255
+9,Connecticut,US,2022-02-05,41.5978,-72.7554,"Connecticut, US",2741556,572510
+9,Connecticut,US,2022-02-06,41.5978,-72.7554,"Connecticut, US",2743346,572478
+9,Connecticut,US,2022-02-07,41.5978,-72.7554,"Connecticut, US",2745532,572387
+9,Connecticut,US,2022-02-08,41.5978,-72.7554,"Connecticut, US",2746803,572456
+9,Connecticut,US,2022-02-09,41.5978,-72.7554,"Connecticut, US",2748306,572625
+9,Connecticut,US,2022-02-10,41.5978,-72.7554,"Connecticut, US",2750727,572394
+9,Connecticut,US,2022-02-11,41.5978,-72.7554,"Connecticut, US",2752692,572860
+9,Connecticut,US,2022-02-12,41.5978,-72.7554,"Connecticut, US",2754460,572917
+9,Connecticut,US,2022-02-13,41.5978,-72.7554,"Connecticut, US",2756300,572718
+9,Connecticut,US,2022-02-14,41.5978,-72.7554,"Connecticut, US",2758194,572720
+9,Connecticut,US,2022-02-15,41.5978,-72.7554,"Connecticut, US",2758194,572720
+9,Connecticut,US,2022-02-16,41.5978,-72.7554,"Connecticut, US",2758194,572720
+9,Connecticut,US,2022-02-17,41.5978,-72.7554,"Connecticut, US",2761748,573138
+9,Connecticut,US,2022-02-18,41.5978,-72.7554,"Connecticut, US",2763209,573236
+9,Connecticut,US,2022-02-19,41.5978,-72.7554,"Connecticut, US",2764670,573208
+9,Connecticut,US,2022-02-20,41.5978,-72.7554,"Connecticut, US",2764670,573208
+9,Connecticut,US,2022-02-21,41.5978,-72.7554,"Connecticut, US",2764670,573208
 10,Delaware,US,2020-12-10,39.3185,-75.5071,"Delaware, US",,
 10,Delaware,US,2020-12-11,39.3185,-75.5071,"Delaware, US",,
 10,Delaware,US,2020-12-12,39.3185,-75.5071,"Delaware, US",,
@@ -3689,6 +3921,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 10,Delaware,US,2022-01-21,39.3185,-75.5071,"Delaware, US",640070,134136
 10,Delaware,US,2022-01-22,39.3185,-75.5071,"Delaware, US",640837,134716
 10,Delaware,US,2022-01-23,39.3185,-75.5071,"Delaware, US",640897,134837
+10,Delaware,US,2022-01-24,39.3185,-75.5071,"Delaware, US",640922,134947
+10,Delaware,US,2022-01-25,39.3185,-75.5071,"Delaware, US",642180,136032
+10,Delaware,US,2022-01-26,39.3185,-75.5071,"Delaware, US",642616,136361
+10,Delaware,US,2022-01-27,39.3185,-75.5071,"Delaware, US",643213,136733
+10,Delaware,US,2022-01-28,39.3185,-75.5071,"Delaware, US",643874,137047
+10,Delaware,US,2022-01-29,39.3185,-75.5071,"Delaware, US",644590,137357
+10,Delaware,US,2022-01-30,39.3185,-75.5071,"Delaware, US",644643,137423
+10,Delaware,US,2022-01-31,39.3185,-75.5071,"Delaware, US",644659,137475
+10,Delaware,US,2022-02-01,39.3185,-75.5071,"Delaware, US",645787,137935
+10,Delaware,US,2022-02-02,39.3185,-75.5071,"Delaware, US",646194,138014
+10,Delaware,US,2022-02-03,39.3185,-75.5071,"Delaware, US",646255,138064
+10,Delaware,US,2022-02-04,39.3185,-75.5071,"Delaware, US",647425,138210
+10,Delaware,US,2022-02-05,39.3185,-75.5071,"Delaware, US",648127,138314
+10,Delaware,US,2022-02-06,39.3185,-75.5071,"Delaware, US",648182,138365
+10,Delaware,US,2022-02-07,39.3185,-75.5071,"Delaware, US",648215,138385
+10,Delaware,US,2022-02-08,39.3185,-75.5071,"Delaware, US",649602,138372
+10,Delaware,US,2022-02-09,39.3185,-75.5071,"Delaware, US",649952,138575
+10,Delaware,US,2022-02-10,39.3185,-75.5071,"Delaware, US",650563,138644
+10,Delaware,US,2022-02-11,39.3185,-75.5071,"Delaware, US",651222,138556
+10,Delaware,US,2022-02-12,39.3185,-75.5071,"Delaware, US",651827,138520
+10,Delaware,US,2022-02-13,39.3185,-75.5071,"Delaware, US",651856,138541
+10,Delaware,US,2022-02-14,39.3185,-75.5071,"Delaware, US",651868,138544
+10,Delaware,US,2022-02-15,39.3185,-75.5071,"Delaware, US",651868,138544
+10,Delaware,US,2022-02-16,39.3185,-75.5071,"Delaware, US",651868,138544
+10,Delaware,US,2022-02-17,39.3185,-75.5071,"Delaware, US",654010,138371
+10,Delaware,US,2022-02-18,39.3185,-75.5071,"Delaware, US",654528,138291
+10,Delaware,US,2022-02-19,39.3185,-75.5071,"Delaware, US",655127,138219
+10,Delaware,US,2022-02-20,39.3185,-75.5071,"Delaware, US",655127,138219
+10,Delaware,US,2022-02-21,39.3185,-75.5071,"Delaware, US",655127,138219
 ,Department of Defense,US,2020-12-10,,,"Department of Defense, US",,
 ,Department of Defense,US,2020-12-11,,,"Department of Defense, US",,
 ,Department of Defense,US,2020-12-12,,,"Department of Defense, US",,
@@ -4099,6 +4360,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Department of Defense,US,2022-01-21,,,"Department of Defense, US",2916863,1027090
 ,Department of Defense,US,2022-01-22,,,"Department of Defense, US",2919783,1029532
 ,Department of Defense,US,2022-01-23,,,"Department of Defense, US",2922260,1031442
+,Department of Defense,US,2022-01-24,,,"Department of Defense, US",2924429,1036876
+,Department of Defense,US,2022-01-25,,,"Department of Defense, US",2925514,1040564
+,Department of Defense,US,2022-01-26,,,"Department of Defense, US",2927453,1043285
+,Department of Defense,US,2022-01-27,,,"Department of Defense, US",2929591,1046363
+,Department of Defense,US,2022-01-28,,,"Department of Defense, US",2932317,1048156
+,Department of Defense,US,2022-01-29,,,"Department of Defense, US",2933173,1049460
+,Department of Defense,US,2022-01-30,,,"Department of Defense, US",2936673,1052206
+,Department of Defense,US,2022-01-31,,,"Department of Defense, US",2937325,1054503
+,Department of Defense,US,2022-02-01,,,"Department of Defense, US",2937410,1054497
+,Department of Defense,US,2022-02-02,,,"Department of Defense, US",2939673,1057638
+,Department of Defense,US,2022-02-03,,,"Department of Defense, US",2940801,1057879
+,Department of Defense,US,2022-02-04,,,"Department of Defense, US",2944012,1065201
+,Department of Defense,US,2022-02-05,,,"Department of Defense, US",2946995,1073023
+,Department of Defense,US,2022-02-06,,,"Department of Defense, US",2952331,1083475
+,Department of Defense,US,2022-02-07,,,"Department of Defense, US",2952948,1085497
+,Department of Defense,US,2022-02-08,,,"Department of Defense, US",2953416,1086731
+,Department of Defense,US,2022-02-09,,,"Department of Defense, US",2954359,1088661
+,Department of Defense,US,2022-02-10,,,"Department of Defense, US",2955756,1090728
+,Department of Defense,US,2022-02-11,,,"Department of Defense, US",2958541,1092532
+,Department of Defense,US,2022-02-12,,,"Department of Defense, US",2961193,1094749
+,Department of Defense,US,2022-02-13,,,"Department of Defense, US",2962977,1096009
+,Department of Defense,US,2022-02-14,,,"Department of Defense, US",2963603,1097259
+,Department of Defense,US,2022-02-15,,,"Department of Defense, US",2963603,1097259
+,Department of Defense,US,2022-02-16,,,"Department of Defense, US",2963603,1097259
+,Department of Defense,US,2022-02-17,,,"Department of Defense, US",3083171,982945
+,Department of Defense,US,2022-02-18,,,"Department of Defense, US",3085207,984426
+,Department of Defense,US,2022-02-19,,,"Department of Defense, US",3088279,987099
+,Department of Defense,US,2022-02-20,,,"Department of Defense, US",3088279,987099
+,Department of Defense,US,2022-02-21,,,"Department of Defense, US",3088279,987099
 11,District of Columbia,US,2020-12-10,38.8974,-77.0268,"District of Columbia, US",,
 11,District of Columbia,US,2020-12-11,38.8974,-77.0268,"District of Columbia, US",,
 11,District of Columbia,US,2020-12-12,38.8974,-77.0268,"District of Columbia, US",,
@@ -4509,6 +4799,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2022-01-21,38.8974,-77.0268,"District of Columbia, US",606261,160461
 11,District of Columbia,US,2022-01-22,38.8974,-77.0268,"District of Columbia, US",606261,160901
 11,District of Columbia,US,2022-01-23,38.8974,-77.0268,"District of Columbia, US",606261,161455
+11,District of Columbia,US,2022-01-24,38.8974,-77.0268,"District of Columbia, US",606261,161761
+11,District of Columbia,US,2022-01-25,38.8974,-77.0268,"District of Columbia, US",606261,162174
+11,District of Columbia,US,2022-01-26,38.8974,-77.0268,"District of Columbia, US",606261,162517
+11,District of Columbia,US,2022-01-27,38.8974,-77.0268,"District of Columbia, US",614182,162753
+11,District of Columbia,US,2022-01-28,38.8974,-77.0268,"District of Columbia, US",614182,163070
+11,District of Columbia,US,2022-01-29,38.8974,-77.0268,"District of Columbia, US",614182,163390
+11,District of Columbia,US,2022-01-30,38.8974,-77.0268,"District of Columbia, US",614182,163622
+11,District of Columbia,US,2022-01-31,38.8974,-77.0268,"District of Columbia, US",614182,163785
+11,District of Columbia,US,2022-02-01,38.8974,-77.0268,"District of Columbia, US",614182,163972
+11,District of Columbia,US,2022-02-02,38.8974,-77.0268,"District of Columbia, US",614182,164184
+11,District of Columbia,US,2022-02-03,38.8974,-77.0268,"District of Columbia, US",618449,164366
+11,District of Columbia,US,2022-02-04,38.8974,-77.0268,"District of Columbia, US",618449,164500
+11,District of Columbia,US,2022-02-05,38.8974,-77.0268,"District of Columbia, US",618449,164635
+11,District of Columbia,US,2022-02-06,38.8974,-77.0268,"District of Columbia, US",618449,164695
+11,District of Columbia,US,2022-02-07,38.8974,-77.0268,"District of Columbia, US",618449,164765
+11,District of Columbia,US,2022-02-08,38.8974,-77.0268,"District of Columbia, US",618449,164880
+11,District of Columbia,US,2022-02-09,38.8974,-77.0268,"District of Columbia, US",618449,165044
+11,District of Columbia,US,2022-02-10,38.8974,-77.0268,"District of Columbia, US",621861,165512
+11,District of Columbia,US,2022-02-11,38.8974,-77.0268,"District of Columbia, US",621861,165580
+11,District of Columbia,US,2022-02-12,38.8974,-77.0268,"District of Columbia, US",621861,165770
+11,District of Columbia,US,2022-02-13,38.8974,-77.0268,"District of Columbia, US",621861,165897
+11,District of Columbia,US,2022-02-14,38.8974,-77.0268,"District of Columbia, US",621861,166027
+11,District of Columbia,US,2022-02-15,38.8974,-77.0268,"District of Columbia, US",621861,166027
+11,District of Columbia,US,2022-02-16,38.8974,-77.0268,"District of Columbia, US",621861,166027
+11,District of Columbia,US,2022-02-17,38.8974,-77.0268,"District of Columbia, US",630021,166527
+11,District of Columbia,US,2022-02-18,38.8974,-77.0268,"District of Columbia, US",630021,166671
+11,District of Columbia,US,2022-02-19,38.8974,-77.0268,"District of Columbia, US",630021,166747
+11,District of Columbia,US,2022-02-20,38.8974,-77.0268,"District of Columbia, US",630021,166747
+11,District of Columbia,US,2022-02-21,38.8974,-77.0268,"District of Columbia, US",630021,166747
 ,Federal Bureau of Prisons,US,2020-12-10,,,"Federal Bureau of Prisons, US",,
 ,Federal Bureau of Prisons,US,2020-12-11,,,"Federal Bureau of Prisons, US",,
 ,Federal Bureau of Prisons,US,2020-12-12,,,"Federal Bureau of Prisons, US",,
@@ -4919,6 +5238,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Federal Bureau of Prisons,US,2022-01-21,,,"Federal Bureau of Prisons, US",129698,8468
 ,Federal Bureau of Prisons,US,2022-01-22,,,"Federal Bureau of Prisons, US",129700,8467
 ,Federal Bureau of Prisons,US,2022-01-23,,,"Federal Bureau of Prisons, US",129700,8467
+,Federal Bureau of Prisons,US,2022-01-24,,,"Federal Bureau of Prisons, US",129700,8467
+,Federal Bureau of Prisons,US,2022-01-25,,,"Federal Bureau of Prisons, US",129799,8721
+,Federal Bureau of Prisons,US,2022-01-26,,,"Federal Bureau of Prisons, US",129801,8724
+,Federal Bureau of Prisons,US,2022-01-27,,,"Federal Bureau of Prisons, US",129893,8852
+,Federal Bureau of Prisons,US,2022-01-28,,,"Federal Bureau of Prisons, US",129893,8852
+,Federal Bureau of Prisons,US,2022-01-29,,,"Federal Bureau of Prisons, US",129894,8854
+,Federal Bureau of Prisons,US,2022-01-30,,,"Federal Bureau of Prisons, US",129894,8855
+,Federal Bureau of Prisons,US,2022-01-31,,,"Federal Bureau of Prisons, US",129894,8855
+,Federal Bureau of Prisons,US,2022-02-01,,,"Federal Bureau of Prisons, US",129894,8857
+,Federal Bureau of Prisons,US,2022-02-02,,,"Federal Bureau of Prisons, US",129894,8858
+,Federal Bureau of Prisons,US,2022-02-03,,,"Federal Bureau of Prisons, US",129895,8858
+,Federal Bureau of Prisons,US,2022-02-04,,,"Federal Bureau of Prisons, US",130454,9293
+,Federal Bureau of Prisons,US,2022-02-05,,,"Federal Bureau of Prisons, US",130456,9293
+,Federal Bureau of Prisons,US,2022-02-06,,,"Federal Bureau of Prisons, US",130456,9293
+,Federal Bureau of Prisons,US,2022-02-07,,,"Federal Bureau of Prisons, US",130456,9293
+,Federal Bureau of Prisons,US,2022-02-08,,,"Federal Bureau of Prisons, US",130697,9503
+,Federal Bureau of Prisons,US,2022-02-09,,,"Federal Bureau of Prisons, US",130698,9503
+,Federal Bureau of Prisons,US,2022-02-10,,,"Federal Bureau of Prisons, US",130699,9504
+,Federal Bureau of Prisons,US,2022-02-11,,,"Federal Bureau of Prisons, US",130700,9508
+,Federal Bureau of Prisons,US,2022-02-12,,,"Federal Bureau of Prisons, US",130700,9508
+,Federal Bureau of Prisons,US,2022-02-13,,,"Federal Bureau of Prisons, US",130700,9508
+,Federal Bureau of Prisons,US,2022-02-14,,,"Federal Bureau of Prisons, US",130700,9508
+,Federal Bureau of Prisons,US,2022-02-15,,,"Federal Bureau of Prisons, US",130700,9508
+,Federal Bureau of Prisons,US,2022-02-16,,,"Federal Bureau of Prisons, US",130700,9508
+,Federal Bureau of Prisons,US,2022-02-17,,,"Federal Bureau of Prisons, US",130701,9517
+,Federal Bureau of Prisons,US,2022-02-18,,,"Federal Bureau of Prisons, US",130703,9515
+,Federal Bureau of Prisons,US,2022-02-19,,,"Federal Bureau of Prisons, US",130703,9519
+,Federal Bureau of Prisons,US,2022-02-20,,,"Federal Bureau of Prisons, US",130703,9519
+,Federal Bureau of Prisons,US,2022-02-21,,,"Federal Bureau of Prisons, US",130703,9519
 12,Florida,US,2020-12-10,27.7663,-81.6868,"Florida, US",,
 12,Florida,US,2020-12-11,27.7663,-81.6868,"Florida, US",,
 12,Florida,US,2020-12-12,27.7663,-81.6868,"Florida, US",,
@@ -5329,6 +5677,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2022-01-21,27.7663,-81.6868,"Florida, US",13893520,2586068
 12,Florida,US,2022-01-22,27.7663,-81.6868,"Florida, US",13903093,2588201
 12,Florida,US,2022-01-23,27.7663,-81.6868,"Florida, US",13912911,2589935
+12,Florida,US,2022-01-24,27.7663,-81.6868,"Florida, US",13920775,2593668
+12,Florida,US,2022-01-25,27.7663,-81.6868,"Florida, US",13925339,2597961
+12,Florida,US,2022-01-26,27.7663,-81.6868,"Florida, US",13933423,2601742
+12,Florida,US,2022-01-27,27.7663,-81.6868,"Florida, US",13943699,2601101
+12,Florida,US,2022-01-28,27.7663,-81.6868,"Florida, US",13953387,2601425
+12,Florida,US,2022-01-29,27.7663,-81.6868,"Florida, US",13962382,2601656
+12,Florida,US,2022-01-30,27.7663,-81.6868,"Florida, US",13971855,2601756
+12,Florida,US,2022-01-31,27.7663,-81.6868,"Florida, US",13981450,2600657
+12,Florida,US,2022-02-01,27.7663,-81.6868,"Florida, US",13987885,2601048
+12,Florida,US,2022-02-02,27.7663,-81.6868,"Florida, US",13995404,2602371
+12,Florida,US,2022-02-03,27.7663,-81.6868,"Florida, US",14004494,2601015
+12,Florida,US,2022-02-04,27.7663,-81.6868,"Florida, US",14011491,2601326
+12,Florida,US,2022-02-05,27.7663,-81.6868,"Florida, US",14020139,2601466
+12,Florida,US,2022-02-06,27.7663,-81.6868,"Florida, US",14029420,2601012
+12,Florida,US,2022-02-07,27.7663,-81.6868,"Florida, US",14038520,2599624
+12,Florida,US,2022-02-08,27.7663,-81.6868,"Florida, US",14044921,2602032
+12,Florida,US,2022-02-09,27.7663,-81.6868,"Florida, US",14051493,2602196
+12,Florida,US,2022-02-10,27.7663,-81.6868,"Florida, US",14059401,2602168
+12,Florida,US,2022-02-11,27.7663,-81.6868,"Florida, US",14066377,2602047
+12,Florida,US,2022-02-12,27.7663,-81.6868,"Florida, US",14072842,2601777
+12,Florida,US,2022-02-13,27.7663,-81.6868,"Florida, US",14073160,2602141
+12,Florida,US,2022-02-14,27.7663,-81.6868,"Florida, US",14085719,2600489
+12,Florida,US,2022-02-15,27.7663,-81.6868,"Florida, US",14085719,2600489
+12,Florida,US,2022-02-16,27.7663,-81.6868,"Florida, US",14085719,2600489
+12,Florida,US,2022-02-17,27.7663,-81.6868,"Florida, US",14106658,2599163
+12,Florida,US,2022-02-18,27.7663,-81.6868,"Florida, US",14112498,2598992
+12,Florida,US,2022-02-19,27.7663,-81.6868,"Florida, US",14118218,2598866
+12,Florida,US,2022-02-20,27.7663,-81.6868,"Florida, US",14118218,2598866
+12,Florida,US,2022-02-21,27.7663,-81.6868,"Florida, US",14118218,2598866
 13,Georgia,US,2020-12-10,33.0406,-83.6431,"Georgia, US",,
 13,Georgia,US,2020-12-11,33.0406,-83.6431,"Georgia, US",,
 13,Georgia,US,2020-12-12,33.0406,-83.6431,"Georgia, US",,
@@ -5739,6 +6116,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2022-01-21,33.0406,-83.6431,"Georgia, US",5573435,1150098
 13,Georgia,US,2022-01-22,33.0406,-83.6431,"Georgia, US",5573732,1150509
 13,Georgia,US,2022-01-23,33.0406,-83.6431,"Georgia, US",5574060,1151070
+13,Georgia,US,2022-01-24,33.0406,-83.6431,"Georgia, US",5574282,1151506
+13,Georgia,US,2022-01-25,33.0406,-83.6431,"Georgia, US",5589109,1150158
+13,Georgia,US,2022-01-26,33.0406,-83.6431,"Georgia, US",5592040,1150509
+13,Georgia,US,2022-01-27,33.0406,-83.6431,"Georgia, US",5597004,1149497
+13,Georgia,US,2022-01-28,33.0406,-83.6431,"Georgia, US",5603133,1148150
+13,Georgia,US,2022-01-29,33.0406,-83.6431,"Georgia, US",5608877,1146399
+13,Georgia,US,2022-01-30,33.0406,-83.6431,"Georgia, US",5609172,1146730
+13,Georgia,US,2022-01-31,33.0406,-83.6431,"Georgia, US",5609293,1146968
+13,Georgia,US,2022-02-01,33.0406,-83.6431,"Georgia, US",5618584,1144636
+13,Georgia,US,2022-02-02,33.0406,-83.6431,"Georgia, US",5622805,1143548
+13,Georgia,US,2022-02-03,33.0406,-83.6431,"Georgia, US",5626517,1144085
+13,Georgia,US,2022-02-04,33.0406,-83.6431,"Georgia, US",5631268,1143597
+13,Georgia,US,2022-02-05,33.0406,-83.6431,"Georgia, US",5636655,1142492
+13,Georgia,US,2022-02-06,33.0406,-83.6431,"Georgia, US",5637004,1143013
+13,Georgia,US,2022-02-07,33.0406,-83.6431,"Georgia, US",5637130,1143185
+13,Georgia,US,2022-02-08,33.0406,-83.6431,"Georgia, US",5651698,1138413
+13,Georgia,US,2022-02-09,33.0406,-83.6431,"Georgia, US",5654096,1137956
+13,Georgia,US,2022-02-10,33.0406,-83.6431,"Georgia, US",5654378,1138245
+13,Georgia,US,2022-02-11,33.0406,-83.6431,"Georgia, US",5654775,1138307
+13,Georgia,US,2022-02-12,33.0406,-83.6431,"Georgia, US",5655144,1138422
+13,Georgia,US,2022-02-13,33.0406,-83.6431,"Georgia, US",5655309,1138745
+13,Georgia,US,2022-02-14,33.0406,-83.6431,"Georgia, US",5655418,1138906
+13,Georgia,US,2022-02-15,33.0406,-83.6431,"Georgia, US",5655418,1138906
+13,Georgia,US,2022-02-16,33.0406,-83.6431,"Georgia, US",5655418,1138906
+13,Georgia,US,2022-02-17,33.0406,-83.6431,"Georgia, US",5665409,1140708
+13,Georgia,US,2022-02-18,33.0406,-83.6431,"Georgia, US",5668769,1140612
+13,Georgia,US,2022-02-19,33.0406,-83.6431,"Georgia, US",5671974,1140273
+13,Georgia,US,2022-02-20,33.0406,-83.6431,"Georgia, US",5671974,1140273
+13,Georgia,US,2022-02-21,33.0406,-83.6431,"Georgia, US",5671974,1140273
 66,Guam,US,2020-12-10,13.4443,144.7937,"Guam, US",,
 66,Guam,US,2020-12-11,13.4443,144.7937,"Guam, US",,
 66,Guam,US,2020-12-12,13.4443,144.7937,"Guam, US",,
@@ -6149,6 +6555,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 66,Guam,US,2022-01-21,13.4443,144.7937,"Guam, US",129295,14369
 66,Guam,US,2022-01-22,13.4443,144.7937,"Guam, US",129517,14453
 66,Guam,US,2022-01-23,13.4443,144.7937,"Guam, US",129560,14526
+66,Guam,US,2022-01-24,13.4443,144.7937,"Guam, US",129567,14523
+66,Guam,US,2022-01-25,13.4443,144.7937,"Guam, US",129843,14514
+66,Guam,US,2022-01-26,13.4443,144.7937,"Guam, US",129848,14527
+66,Guam,US,2022-01-27,13.4443,144.7937,"Guam, US",130323,14488
+66,Guam,US,2022-01-28,13.4443,144.7937,"Guam, US",130565,14429
+66,Guam,US,2022-01-29,13.4443,144.7937,"Guam, US",130790,14382
+66,Guam,US,2022-01-30,13.4443,144.7937,"Guam, US",130801,14397
+66,Guam,US,2022-01-31,13.4443,144.7937,"Guam, US",130914,14413
+66,Guam,US,2022-02-01,13.4443,144.7937,"Guam, US",130916,14418
+66,Guam,US,2022-02-02,13.4443,144.7937,"Guam, US",131319,14451
+66,Guam,US,2022-02-03,13.4443,144.7937,"Guam, US",131450,14510
+66,Guam,US,2022-02-04,13.4443,144.7937,"Guam, US",131555,14584
+66,Guam,US,2022-02-05,13.4443,144.7937,"Guam, US",131562,14585
+66,Guam,US,2022-02-06,13.4443,144.7937,"Guam, US",131757,14555
+66,Guam,US,2022-02-07,13.4443,144.7937,"Guam, US",131965,14530
+66,Guam,US,2022-02-08,13.4443,144.7937,"Guam, US",131965,14537
+66,Guam,US,2022-02-09,13.4443,144.7937,"Guam, US",132394,14559
+66,Guam,US,2022-02-10,13.4443,144.7937,"Guam, US",132546,14579
+66,Guam,US,2022-02-11,13.4443,144.7937,"Guam, US",132684,14555
+66,Guam,US,2022-02-12,13.4443,144.7937,"Guam, US",132804,14598
+66,Guam,US,2022-02-13,13.4443,144.7937,"Guam, US",132812,14595
+66,Guam,US,2022-02-14,13.4443,144.7937,"Guam, US",132812,14595
+66,Guam,US,2022-02-15,13.4443,144.7937,"Guam, US",132812,14595
+66,Guam,US,2022-02-16,13.4443,144.7937,"Guam, US",132812,14595
+66,Guam,US,2022-02-17,13.4443,144.7937,"Guam, US",133741,14654
+66,Guam,US,2022-02-18,13.4443,144.7937,"Guam, US",134130,14686
+66,Guam,US,2022-02-19,13.4443,144.7937,"Guam, US",134269,14732
+66,Guam,US,2022-02-20,13.4443,144.7937,"Guam, US",134269,14732
+66,Guam,US,2022-02-21,13.4443,144.7937,"Guam, US",134269,14732
 15,Hawaii,US,2020-12-10,21.0943,-157.4983,"Hawaii, US",,
 15,Hawaii,US,2020-12-11,21.0943,-157.4983,"Hawaii, US",,
 15,Hawaii,US,2020-12-12,21.0943,-157.4983,"Hawaii, US",,
@@ -6559,6 +6994,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 15,Hawaii,US,2022-01-21,21.0943,-157.4983,"Hawaii, US",1073421,84171
 15,Hawaii,US,2022-01-22,21.0943,-157.4983,"Hawaii, US",1073421,84171
 15,Hawaii,US,2022-01-23,21.0943,-157.4983,"Hawaii, US",1073421,84171
+15,Hawaii,US,2022-01-24,21.0943,-157.4983,"Hawaii, US",1058714,101110
+15,Hawaii,US,2022-01-25,21.0943,-157.4983,"Hawaii, US",1059558,101493
+15,Hawaii,US,2022-01-26,21.0943,-157.4983,"Hawaii, US",1060024,101581
+15,Hawaii,US,2022-01-27,21.0943,-157.4983,"Hawaii, US",1061126,101847
+15,Hawaii,US,2022-01-28,21.0943,-157.4983,"Hawaii, US",1061830,102030
+15,Hawaii,US,2022-01-29,21.0943,-157.4983,"Hawaii, US",1061830,102030
+15,Hawaii,US,2022-01-30,21.0943,-157.4983,"Hawaii, US",1061830,102030
+15,Hawaii,US,2022-01-31,21.0943,-157.4983,"Hawaii, US",1063270,102057
+15,Hawaii,US,2022-02-01,21.0943,-157.4983,"Hawaii, US",1064596,102265
+15,Hawaii,US,2022-02-02,21.0943,-157.4983,"Hawaii, US",1065007,102342
+15,Hawaii,US,2022-02-03,21.0943,-157.4983,"Hawaii, US",1066080,102352
+15,Hawaii,US,2022-02-04,21.0943,-157.4983,"Hawaii, US",1066677,102671
+15,Hawaii,US,2022-02-05,21.0943,-157.4983,"Hawaii, US",1066677,102671
+15,Hawaii,US,2022-02-06,21.0943,-157.4983,"Hawaii, US",1066677,102671
+15,Hawaii,US,2022-02-07,21.0943,-157.4983,"Hawaii, US",1068736,102333
+15,Hawaii,US,2022-02-08,21.0943,-157.4983,"Hawaii, US",1069741,102250
+15,Hawaii,US,2022-02-09,21.0943,-157.4983,"Hawaii, US",1070384,102228
+15,Hawaii,US,2022-02-10,21.0943,-157.4983,"Hawaii, US",1070907,102133
+15,Hawaii,US,2022-02-11,21.0943,-157.4983,"Hawaii, US",1071397,101960
+15,Hawaii,US,2022-02-12,21.0943,-157.4983,"Hawaii, US",1071397,101960
+15,Hawaii,US,2022-02-13,21.0943,-157.4983,"Hawaii, US",1071397,101960
+15,Hawaii,US,2022-02-14,21.0943,-157.4983,"Hawaii, US",1073605,101586
+15,Hawaii,US,2022-02-15,21.0943,-157.4983,"Hawaii, US",1073605,101586
+15,Hawaii,US,2022-02-16,21.0943,-157.4983,"Hawaii, US",1073605,101586
+15,Hawaii,US,2022-02-17,21.0943,-157.4983,"Hawaii, US",1075225,101357
+15,Hawaii,US,2022-02-18,21.0943,-157.4983,"Hawaii, US",1075895,101225
+15,Hawaii,US,2022-02-19,21.0943,-157.4983,"Hawaii, US",1075895,101225
+15,Hawaii,US,2022-02-20,21.0943,-157.4983,"Hawaii, US",1075895,101225
+15,Hawaii,US,2022-02-21,21.0943,-157.4983,"Hawaii, US",1083795,103702
 16,Idaho,US,2020-12-10,44.2405,-114.4788,"Idaho, US",,
 16,Idaho,US,2020-12-11,44.2405,-114.4788,"Idaho, US",,
 16,Idaho,US,2020-12-12,44.2405,-114.4788,"Idaho, US",,
@@ -6969,6 +7433,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-01-21,44.2405,-114.4788,"Idaho, US",905409,115087
 16,Idaho,US,2022-01-22,44.2405,-114.4788,"Idaho, US",905409,115343
 16,Idaho,US,2022-01-23,44.2405,-114.4788,"Idaho, US",905409,115572
+16,Idaho,US,2022-01-24,44.2405,-114.4788,"Idaho, US",906707,115729
+16,Idaho,US,2022-01-25,44.2405,-114.4788,"Idaho, US",928996,130957
+16,Idaho,US,2022-01-26,44.2405,-114.4788,"Idaho, US",930111,131143
+16,Idaho,US,2022-01-27,44.2405,-114.4788,"Idaho, US",930708,131258
+16,Idaho,US,2022-01-28,44.2405,-114.4788,"Idaho, US",931387,131352
+16,Idaho,US,2022-01-29,44.2405,-114.4788,"Idaho, US",931772,131514
+16,Idaho,US,2022-01-30,44.2405,-114.4788,"Idaho, US",932252,131548
+16,Idaho,US,2022-01-31,44.2405,-114.4788,"Idaho, US",933393,131277
+16,Idaho,US,2022-02-01,44.2405,-114.4788,"Idaho, US",933891,131326
+16,Idaho,US,2022-02-02,44.2405,-114.4788,"Idaho, US",934491,131333
+16,Idaho,US,2022-02-03,44.2405,-114.4788,"Idaho, US",935189,131333
+16,Idaho,US,2022-02-04,44.2405,-114.4788,"Idaho, US",935781,131359
+16,Idaho,US,2022-02-05,44.2405,-114.4788,"Idaho, US",936597,131272
+16,Idaho,US,2022-02-06,44.2405,-114.4788,"Idaho, US",937235,131240
+16,Idaho,US,2022-02-07,44.2405,-114.4788,"Idaho, US",937444,131256
+16,Idaho,US,2022-02-08,44.2405,-114.4788,"Idaho, US",937770,131209
+16,Idaho,US,2022-02-09,44.2405,-114.4788,"Idaho, US",938497,131082
+16,Idaho,US,2022-02-10,44.2405,-114.4788,"Idaho, US",939111,131047
+16,Idaho,US,2022-02-11,44.2405,-114.4788,"Idaho, US",939707,131002
+16,Idaho,US,2022-02-12,44.2405,-114.4788,"Idaho, US",940238,131052
+16,Idaho,US,2022-02-13,44.2405,-114.4788,"Idaho, US",940628,131083
+16,Idaho,US,2022-02-14,44.2405,-114.4788,"Idaho, US",941247,130910
+16,Idaho,US,2022-02-15,44.2405,-114.4788,"Idaho, US",941247,130910
+16,Idaho,US,2022-02-16,44.2405,-114.4788,"Idaho, US",941247,130910
+16,Idaho,US,2022-02-17,44.2405,-114.4788,"Idaho, US",944030,129414
+16,Idaho,US,2022-02-18,44.2405,-114.4788,"Idaho, US",944911,129325
+16,Idaho,US,2022-02-19,44.2405,-114.4788,"Idaho, US",945244,129370
+16,Idaho,US,2022-02-20,44.2405,-114.4788,"Idaho, US",945244,129370
+16,Idaho,US,2022-02-21,44.2405,-114.4788,"Idaho, US",945244,129370
 17,Illinois,US,2020-12-10,40.3495,-88.9861,"Illinois, US",,
 17,Illinois,US,2020-12-11,40.3495,-88.9861,"Illinois, US",,
 17,Illinois,US,2020-12-12,40.3495,-88.9861,"Illinois, US",,
@@ -7379,6 +7872,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 17,Illinois,US,2022-01-21,40.3495,-88.9861,"Illinois, US",8293518,1144457
 17,Illinois,US,2022-01-22,40.3495,-88.9861,"Illinois, US",8310044,1150487
 17,Illinois,US,2022-01-23,40.3495,-88.9861,"Illinois, US",8324461,1156291
+17,Illinois,US,2022-01-24,40.3495,-88.9861,"Illinois, US",8330026,1164150
+17,Illinois,US,2022-01-25,40.3495,-88.9861,"Illinois, US",8335013,1169874
+17,Illinois,US,2022-01-26,40.3495,-88.9861,"Illinois, US",8345634,1173459
+17,Illinois,US,2022-01-27,40.3495,-88.9861,"Illinois, US",8357859,1176244
+17,Illinois,US,2022-01-28,40.3495,-88.9861,"Illinois, US",8349821,1153622
+17,Illinois,US,2022-01-29,40.3495,-88.9861,"Illinois, US",8365052,1156792
+17,Illinois,US,2022-01-30,40.3495,-88.9861,"Illinois, US",8378684,1158187
+17,Illinois,US,2022-01-31,40.3495,-88.9861,"Illinois, US",8399336,1154548
+17,Illinois,US,2022-02-01,40.3495,-88.9861,"Illinois, US",8404248,1157068
+17,Illinois,US,2022-02-02,40.3495,-88.9861,"Illinois, US",8417207,1158503
+17,Illinois,US,2022-02-03,40.3495,-88.9861,"Illinois, US",8428885,1159376
+17,Illinois,US,2022-02-04,40.3495,-88.9861,"Illinois, US",8404510,1148067
+17,Illinois,US,2022-02-05,40.3495,-88.9861,"Illinois, US",8414571,1147663
+17,Illinois,US,2022-02-06,40.3495,-88.9861,"Illinois, US",8426262,1147491
+17,Illinois,US,2022-02-07,40.3495,-88.9861,"Illinois, US",8435190,1146068
+17,Illinois,US,2022-02-08,40.3495,-88.9861,"Illinois, US",8440786,1145536
+17,Illinois,US,2022-02-09,40.3495,-88.9861,"Illinois, US",8449101,1145709
+17,Illinois,US,2022-02-10,40.3495,-88.9861,"Illinois, US",8461913,1145792
+17,Illinois,US,2022-02-11,40.3495,-88.9861,"Illinois, US",8444024,1114939
+17,Illinois,US,2022-02-12,40.3495,-88.9861,"Illinois, US",8456457,1115152
+17,Illinois,US,2022-02-13,40.3495,-88.9861,"Illinois, US",8467789,1115295
+17,Illinois,US,2022-02-14,40.3495,-88.9861,"Illinois, US",8475225,1114688
+17,Illinois,US,2022-02-15,40.3495,-88.9861,"Illinois, US",8475225,1114688
+17,Illinois,US,2022-02-16,40.3495,-88.9861,"Illinois, US",8475225,1114688
+17,Illinois,US,2022-02-17,40.3495,-88.9861,"Illinois, US",8499176,1112778
+17,Illinois,US,2022-02-18,40.3495,-88.9861,"Illinois, US",8494121,1097098
+17,Illinois,US,2022-02-19,40.3495,-88.9861,"Illinois, US",8503109,1097138
+17,Illinois,US,2022-02-20,40.3495,-88.9861,"Illinois, US",8503109,1097138
+17,Illinois,US,2022-02-21,40.3495,-88.9861,"Illinois, US",8503109,1097138
 ,Indian Health Services,US,2020-12-10,,,"Indian Health Services, US",,
 ,Indian Health Services,US,2020-12-11,,,"Indian Health Services, US",,
 ,Indian Health Services,US,2020-12-12,,,"Indian Health Services, US",,
@@ -7789,6 +8311,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Indian Health Services,US,2022-01-21,,,"Indian Health Services, US",833492,217734
 ,Indian Health Services,US,2022-01-22,,,"Indian Health Services, US",834317,218371
 ,Indian Health Services,US,2022-01-23,,,"Indian Health Services, US",835204,219313
+,Indian Health Services,US,2022-01-24,,,"Indian Health Services, US",835256,219357
+,Indian Health Services,US,2022-01-25,,,"Indian Health Services, US",835440,219558
+,Indian Health Services,US,2022-01-26,,,"Indian Health Services, US",837241,219656
+,Indian Health Services,US,2022-01-27,,,"Indian Health Services, US",838039,220094
+,Indian Health Services,US,2022-01-28,,,"Indian Health Services, US",838907,220530
+,Indian Health Services,US,2022-01-29,,,"Indian Health Services, US",839675,221013
+,Indian Health Services,US,2022-01-30,,,"Indian Health Services, US",840596,221192
+,Indian Health Services,US,2022-01-31,,,"Indian Health Services, US",841014,221367
+,Indian Health Services,US,2022-02-01,,,"Indian Health Services, US",841202,221429
+,Indian Health Services,US,2022-02-02,,,"Indian Health Services, US",841867,221757
+,Indian Health Services,US,2022-02-03,,,"Indian Health Services, US",842701,222033
+,Indian Health Services,US,2022-02-04,,,"Indian Health Services, US",843465,222374
+,Indian Health Services,US,2022-02-05,,,"Indian Health Services, US",844200,222537
+,Indian Health Services,US,2022-02-06,,,"Indian Health Services, US",844923,222607
+,Indian Health Services,US,2022-02-07,,,"Indian Health Services, US",844994,222613
+,Indian Health Services,US,2022-02-08,,,"Indian Health Services, US",845098,222670
+,Indian Health Services,US,2022-02-09,,,"Indian Health Services, US",845666,222906
+,Indian Health Services,US,2022-02-10,,,"Indian Health Services, US",846348,222990
+,Indian Health Services,US,2022-02-11,,,"Indian Health Services, US",847075,223023
+,Indian Health Services,US,2022-02-12,,,"Indian Health Services, US",847759,223053
+,Indian Health Services,US,2022-02-13,,,"Indian Health Services, US",848552,223080
+,Indian Health Services,US,2022-02-14,,,"Indian Health Services, US",848671,223097
+,Indian Health Services,US,2022-02-15,,,"Indian Health Services, US",848671,223097
+,Indian Health Services,US,2022-02-16,,,"Indian Health Services, US",848671,223097
+,Indian Health Services,US,2022-02-17,,,"Indian Health Services, US",850067,223289
+,Indian Health Services,US,2022-02-18,,,"Indian Health Services, US",850659,223296
+,Indian Health Services,US,2022-02-19,,,"Indian Health Services, US",851384,223232
+,Indian Health Services,US,2022-02-20,,,"Indian Health Services, US",851384,223232
+,Indian Health Services,US,2022-02-21,,,"Indian Health Services, US",851384,223232
 18,Indiana,US,2020-12-10,39.8494,-86.2583,"Indiana, US",,
 18,Indiana,US,2020-12-11,39.8494,-86.2583,"Indiana, US",,
 18,Indiana,US,2020-12-12,39.8494,-86.2583,"Indiana, US",,
@@ -8199,6 +8750,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 18,Indiana,US,2022-01-21,39.8494,-86.2583,"Indiana, US",3620906,441546
 18,Indiana,US,2022-01-22,39.8494,-86.2583,"Indiana, US",3620906,444591
 18,Indiana,US,2022-01-23,39.8494,-86.2583,"Indiana, US",3620906,448363
+18,Indiana,US,2022-01-24,39.8494,-86.2583,"Indiana, US",3626421,450548
+18,Indiana,US,2022-01-25,39.8494,-86.2583,"Indiana, US",3628923,451562
+18,Indiana,US,2022-01-26,39.8494,-86.2583,"Indiana, US",3631349,452002
+18,Indiana,US,2022-01-27,39.8494,-86.2583,"Indiana, US",3634497,452145
+18,Indiana,US,2022-01-28,39.8494,-86.2583,"Indiana, US",3637424,452096
+18,Indiana,US,2022-01-29,39.8494,-86.2583,"Indiana, US",3637424,452832
+18,Indiana,US,2022-01-30,39.8494,-86.2583,"Indiana, US",3637424,453426
+18,Indiana,US,2022-01-31,39.8494,-86.2583,"Indiana, US",3643508,453539
+18,Indiana,US,2022-02-01,39.8494,-86.2583,"Indiana, US",3646087,453732
+18,Indiana,US,2022-02-02,39.8494,-86.2583,"Indiana, US",3648208,453685
+18,Indiana,US,2022-02-03,39.8494,-86.2583,"Indiana, US",3650268,453206
+18,Indiana,US,2022-02-04,39.8494,-86.2583,"Indiana, US",3650958,452713
+18,Indiana,US,2022-02-05,39.8494,-86.2583,"Indiana, US",3650958,452582
+18,Indiana,US,2022-02-06,39.8494,-86.2583,"Indiana, US",3650958,452162
+18,Indiana,US,2022-02-07,39.8494,-86.2583,"Indiana, US",3655117,451422
+18,Indiana,US,2022-02-08,39.8494,-86.2583,"Indiana, US",3657218,450887
+18,Indiana,US,2022-02-09,39.8494,-86.2583,"Indiana, US",3659528,450380
+18,Indiana,US,2022-02-10,39.8494,-86.2583,"Indiana, US",3662016,449438
+18,Indiana,US,2022-02-11,39.8494,-86.2583,"Indiana, US",3663847,448817
+18,Indiana,US,2022-02-12,39.8494,-86.2583,"Indiana, US",3663847,448426
+18,Indiana,US,2022-02-13,39.8494,-86.2583,"Indiana, US",3663847,447712
+18,Indiana,US,2022-02-14,39.8494,-86.2583,"Indiana, US",3668778,447492
+18,Indiana,US,2022-02-15,39.8494,-86.2583,"Indiana, US",3670036,447492
+18,Indiana,US,2022-02-16,39.8494,-86.2583,"Indiana, US",3670036,447492
+18,Indiana,US,2022-02-17,39.8494,-86.2583,"Indiana, US",3673421,447392
+18,Indiana,US,2022-02-18,39.8494,-86.2583,"Indiana, US",3674836,446898
+18,Indiana,US,2022-02-19,39.8494,-86.2583,"Indiana, US",3674836,446596
+18,Indiana,US,2022-02-20,39.8494,-86.2583,"Indiana, US",3674836,446596
+18,Indiana,US,2022-02-21,39.8494,-86.2583,"Indiana, US",3678097,446596
 19,Iowa,US,2020-12-10,42.0115,-93.2105,"Iowa, US",,
 19,Iowa,US,2020-12-11,42.0115,-93.2105,"Iowa, US",,
 19,Iowa,US,2020-12-12,42.0115,-93.2105,"Iowa, US",,
@@ -8609,6 +9189,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 19,Iowa,US,2022-01-21,42.0115,-93.2105,"Iowa, US",1894092,198242
 19,Iowa,US,2022-01-22,42.0115,-93.2105,"Iowa, US",1895586,198145
 19,Iowa,US,2022-01-23,42.0115,-93.2105,"Iowa, US",1895640,198197
+19,Iowa,US,2022-01-24,42.0115,-93.2105,"Iowa, US",1895671,198243
+19,Iowa,US,2022-01-25,42.0115,-93.2105,"Iowa, US",1897851,198511
+19,Iowa,US,2022-01-26,42.0115,-93.2105,"Iowa, US",1899255,198611
+19,Iowa,US,2022-01-27,42.0115,-93.2105,"Iowa, US",1900354,198586
+19,Iowa,US,2022-01-28,42.0115,-93.2105,"Iowa, US",1901965,198317
+19,Iowa,US,2022-01-29,42.0115,-93.2105,"Iowa, US",1903267,198187
+19,Iowa,US,2022-01-30,42.0115,-93.2105,"Iowa, US",1903318,198239
+19,Iowa,US,2022-01-31,42.0115,-93.2105,"Iowa, US",1904276,198200
+19,Iowa,US,2022-02-01,42.0115,-93.2105,"Iowa, US",1906748,198029
+19,Iowa,US,2022-02-02,42.0115,-93.2105,"Iowa, US",1907869,198242
+19,Iowa,US,2022-02-03,42.0115,-93.2105,"Iowa, US",1909011,198059
+19,Iowa,US,2022-02-04,42.0115,-93.2105,"Iowa, US",1909060,198325
+19,Iowa,US,2022-02-05,42.0115,-93.2105,"Iowa, US",1910439,197906
+19,Iowa,US,2022-02-06,42.0115,-93.2105,"Iowa, US",1910475,197986
+19,Iowa,US,2022-02-07,42.0115,-93.2105,"Iowa, US",1910494,198027
+19,Iowa,US,2022-02-08,42.0115,-93.2105,"Iowa, US",1912879,197537
+19,Iowa,US,2022-02-09,42.0115,-93.2105,"Iowa, US",1913768,197420
+19,Iowa,US,2022-02-10,42.0115,-93.2105,"Iowa, US",1914551,197276
+19,Iowa,US,2022-02-11,42.0115,-93.2105,"Iowa, US",1915810,196841
+19,Iowa,US,2022-02-12,42.0115,-93.2105,"Iowa, US",1917002,196611
+19,Iowa,US,2022-02-13,42.0115,-93.2105,"Iowa, US",1917027,196651
+19,Iowa,US,2022-02-14,42.0115,-93.2105,"Iowa, US",1917041,196682
+19,Iowa,US,2022-02-15,42.0115,-93.2105,"Iowa, US",1917041,196682
+19,Iowa,US,2022-02-16,42.0115,-93.2105,"Iowa, US",1917041,196682
+19,Iowa,US,2022-02-17,42.0115,-93.2105,"Iowa, US",1920753,196480
+19,Iowa,US,2022-02-18,42.0115,-93.2105,"Iowa, US",1921774,196127
+19,Iowa,US,2022-02-19,42.0115,-93.2105,"Iowa, US",1922643,195903
+19,Iowa,US,2022-02-20,42.0115,-93.2105,"Iowa, US",1922643,195903
+19,Iowa,US,2022-02-21,42.0115,-93.2105,"Iowa, US",1922643,195903
 20,Kansas,US,2020-12-10,38.5266,-96.7265,"Kansas, US",,
 20,Kansas,US,2020-12-11,38.5266,-96.7265,"Kansas, US",,
 20,Kansas,US,2020-12-12,38.5266,-96.7265,"Kansas, US",,
@@ -9019,6 +9628,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 20,Kansas,US,2022-01-21,38.5266,-96.7265,"Kansas, US",1708028,386836
 20,Kansas,US,2022-01-22,38.5266,-96.7265,"Kansas, US",1709698,387691
 20,Kansas,US,2022-01-23,38.5266,-96.7265,"Kansas, US",1711308,388244
+20,Kansas,US,2022-01-24,38.5266,-96.7265,"Kansas, US",1712167,388843
+20,Kansas,US,2022-01-25,38.5266,-96.7265,"Kansas, US",1712610,389561
+20,Kansas,US,2022-01-26,38.5266,-96.7265,"Kansas, US",1714084,389861
+20,Kansas,US,2022-01-27,38.5266,-96.7265,"Kansas, US",1715598,390071
+20,Kansas,US,2022-01-28,38.5266,-96.7265,"Kansas, US",1717283,390180
+20,Kansas,US,2022-01-29,38.5266,-96.7265,"Kansas, US",1718885,390304
+20,Kansas,US,2022-01-30,38.5266,-96.7265,"Kansas, US",1720593,390285
+20,Kansas,US,2022-01-31,38.5266,-96.7265,"Kansas, US",1721681,390354
+20,Kansas,US,2022-02-01,38.5266,-96.7265,"Kansas, US",1722231,390330
+20,Kansas,US,2022-02-02,38.5266,-96.7265,"Kansas, US",1723459,390462
+20,Kansas,US,2022-02-03,38.5266,-96.7265,"Kansas, US",1726225,390055
+20,Kansas,US,2022-02-04,38.5266,-96.7265,"Kansas, US",1727179,390202
+20,Kansas,US,2022-02-05,38.5266,-96.7265,"Kansas, US",1728221,390123
+20,Kansas,US,2022-02-06,38.5266,-96.7265,"Kansas, US",1729952,389780
+20,Kansas,US,2022-02-07,38.5266,-96.7265,"Kansas, US",1730886,389450
+20,Kansas,US,2022-02-08,38.5266,-96.7265,"Kansas, US",1731458,389372
+20,Kansas,US,2022-02-09,38.5266,-96.7265,"Kansas, US",1732598,389350
+20,Kansas,US,2022-02-10,38.5266,-96.7265,"Kansas, US",1733958,389033
+20,Kansas,US,2022-02-11,38.5266,-96.7265,"Kansas, US",1735317,388751
+20,Kansas,US,2022-02-12,38.5266,-96.7265,"Kansas, US",1736642,388543
+20,Kansas,US,2022-02-13,38.5266,-96.7265,"Kansas, US",1738156,388345
+20,Kansas,US,2022-02-14,38.5266,-96.7265,"Kansas, US",1739011,388121
+20,Kansas,US,2022-02-15,38.5266,-96.7265,"Kansas, US",1739011,388121
+20,Kansas,US,2022-02-16,38.5266,-96.7265,"Kansas, US",1739011,388121
+20,Kansas,US,2022-02-17,38.5266,-96.7265,"Kansas, US",1743177,388210
+20,Kansas,US,2022-02-18,38.5266,-96.7265,"Kansas, US",1744291,388110
+20,Kansas,US,2022-02-19,38.5266,-96.7265,"Kansas, US",1745263,388106
+20,Kansas,US,2022-02-20,38.5266,-96.7265,"Kansas, US",1745263,388106
+20,Kansas,US,2022-02-21,38.5266,-96.7265,"Kansas, US",1745263,388106
 21,Kentucky,US,2020-12-10,37.6681,-84.6701,"Kentucky, US",,
 21,Kentucky,US,2020-12-11,37.6681,-84.6701,"Kentucky, US",,
 21,Kentucky,US,2020-12-12,37.6681,-84.6701,"Kentucky, US",,
@@ -9429,6 +10067,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 21,Kentucky,US,2022-01-21,37.6681,-84.6701,"Kentucky, US",2472359,397560
 21,Kentucky,US,2022-01-22,37.6681,-84.6701,"Kentucky, US",2474187,398009
 21,Kentucky,US,2022-01-23,37.6681,-84.6701,"Kentucky, US",2475951,398579
+21,Kentucky,US,2022-01-24,37.6681,-84.6701,"Kentucky, US",2477097,398899
+21,Kentucky,US,2022-01-25,37.6681,-84.6701,"Kentucky, US",2477675,399250
+21,Kentucky,US,2022-01-26,37.6681,-84.6701,"Kentucky, US",2479299,399424
+21,Kentucky,US,2022-01-27,37.6681,-84.6701,"Kentucky, US",2481293,399484
+21,Kentucky,US,2022-01-28,37.6681,-84.6701,"Kentucky, US",2483343,399602
+21,Kentucky,US,2022-01-29,37.6681,-84.6701,"Kentucky, US",2485103,399780
+21,Kentucky,US,2022-01-30,37.6681,-84.6701,"Kentucky, US",2486845,399954
+21,Kentucky,US,2022-01-31,37.6681,-84.6701,"Kentucky, US",2487984,399880
+21,Kentucky,US,2022-02-01,37.6681,-84.6701,"Kentucky, US",2488702,399873
+21,Kentucky,US,2022-02-02,37.6681,-84.6701,"Kentucky, US",2490226,399818
+21,Kentucky,US,2022-02-03,37.6681,-84.6701,"Kentucky, US",2492022,399652
+21,Kentucky,US,2022-02-04,37.6681,-84.6701,"Kentucky, US",2493834,399416
+21,Kentucky,US,2022-02-05,37.6681,-84.6701,"Kentucky, US",2495016,399404
+21,Kentucky,US,2022-02-06,37.6681,-84.6701,"Kentucky, US",2495827,399438
+21,Kentucky,US,2022-02-07,37.6681,-84.6701,"Kentucky, US",2496923,398948
+21,Kentucky,US,2022-02-08,37.6681,-84.6701,"Kentucky, US",2497608,398746
+21,Kentucky,US,2022-02-09,37.6681,-84.6701,"Kentucky, US",2498986,398517
+21,Kentucky,US,2022-02-10,37.6681,-84.6701,"Kentucky, US",2500818,398233
+21,Kentucky,US,2022-02-11,37.6681,-84.6701,"Kentucky, US",2502505,397920
+21,Kentucky,US,2022-02-12,37.6681,-84.6701,"Kentucky, US",2504226,397641
+21,Kentucky,US,2022-02-13,37.6681,-84.6701,"Kentucky, US",2506330,397097
+21,Kentucky,US,2022-02-14,37.6681,-84.6701,"Kentucky, US",2507426,396905
+21,Kentucky,US,2022-02-15,37.6681,-84.6701,"Kentucky, US",2507426,396905
+21,Kentucky,US,2022-02-16,37.6681,-84.6701,"Kentucky, US",2507426,396905
+21,Kentucky,US,2022-02-17,37.6681,-84.6701,"Kentucky, US",2511245,396769
+21,Kentucky,US,2022-02-18,37.6681,-84.6701,"Kentucky, US",2512542,396626
+21,Kentucky,US,2022-02-19,37.6681,-84.6701,"Kentucky, US",2515316,396219
+21,Kentucky,US,2022-02-20,37.6681,-84.6701,"Kentucky, US",2515316,396219
+21,Kentucky,US,2022-02-21,37.6681,-84.6701,"Kentucky, US",2515316,396219
 ,Long Term Care (LTC) Program,US,2020-12-10,,,"Long Term Care (LTC) Program, US",,
 ,Long Term Care (LTC) Program,US,2020-12-11,,,"Long Term Care (LTC) Program, US",,
 ,Long Term Care (LTC) Program,US,2020-12-12,,,"Long Term Care (LTC) Program, US",,
@@ -10151,6 +10818,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 22,Louisiana,US,2022-01-21,31.1695,-91.8678,"Louisiana, US",2390276,358865
 22,Louisiana,US,2022-01-22,31.1695,-91.8678,"Louisiana, US",2392676,358795
 22,Louisiana,US,2022-01-23,31.1695,-91.8678,"Louisiana, US",2394610,358833
+22,Louisiana,US,2022-01-24,31.1695,-91.8678,"Louisiana, US",2395613,358973
+22,Louisiana,US,2022-01-25,31.1695,-91.8678,"Louisiana, US",2396194,359087
+22,Louisiana,US,2022-01-26,31.1695,-91.8678,"Louisiana, US",2397954,358958
+22,Louisiana,US,2022-01-27,31.1695,-91.8678,"Louisiana, US",2399954,358598
+22,Louisiana,US,2022-01-28,31.1695,-91.8678,"Louisiana, US",2402112,358506
+22,Louisiana,US,2022-01-29,31.1695,-91.8678,"Louisiana, US",2404181,358325
+22,Louisiana,US,2022-01-30,31.1695,-91.8678,"Louisiana, US",2406608,357882
+22,Louisiana,US,2022-01-31,31.1695,-91.8678,"Louisiana, US",2407946,357832
+22,Louisiana,US,2022-02-01,31.1695,-91.8678,"Louisiana, US",2408521,357867
+22,Louisiana,US,2022-02-02,31.1695,-91.8678,"Louisiana, US",2410434,357878
+22,Louisiana,US,2022-02-03,31.1695,-91.8678,"Louisiana, US",2412396,357699
+22,Louisiana,US,2022-02-04,31.1695,-91.8678,"Louisiana, US",2414532,357459
+22,Louisiana,US,2022-02-05,31.1695,-91.8678,"Louisiana, US",2416369,357123
+22,Louisiana,US,2022-02-06,31.1695,-91.8678,"Louisiana, US",2420058,356544
+22,Louisiana,US,2022-02-07,31.1695,-91.8678,"Louisiana, US",2421128,356139
+22,Louisiana,US,2022-02-08,31.1695,-91.8678,"Louisiana, US",2421610,356095
+22,Louisiana,US,2022-02-09,31.1695,-91.8678,"Louisiana, US",2422993,355898
+22,Louisiana,US,2022-02-10,31.1695,-91.8678,"Louisiana, US",2424529,355687
+22,Louisiana,US,2022-02-11,31.1695,-91.8678,"Louisiana, US",2426236,355510
+22,Louisiana,US,2022-02-12,31.1695,-91.8678,"Louisiana, US",2427898,355356
+22,Louisiana,US,2022-02-13,31.1695,-91.8678,"Louisiana, US",2429438,355129
+22,Louisiana,US,2022-02-14,31.1695,-91.8678,"Louisiana, US",2430136,355039
+22,Louisiana,US,2022-02-15,31.1695,-91.8678,"Louisiana, US",2430136,355039
+22,Louisiana,US,2022-02-16,31.1695,-91.8678,"Louisiana, US",2430136,355039
+22,Louisiana,US,2022-02-17,31.1695,-91.8678,"Louisiana, US",2433615,354447
+22,Louisiana,US,2022-02-18,31.1695,-91.8678,"Louisiana, US",2434954,354168
+22,Louisiana,US,2022-02-19,31.1695,-91.8678,"Louisiana, US",2436341,353822
+22,Louisiana,US,2022-02-20,31.1695,-91.8678,"Louisiana, US",2436341,353822
+22,Louisiana,US,2022-02-21,31.1695,-91.8678,"Louisiana, US",2436341,353822
 23,Maine,US,2020-12-10,44.6939,-69.3819,"Maine, US",,
 23,Maine,US,2020-12-11,44.6939,-69.3819,"Maine, US",,
 23,Maine,US,2020-12-12,44.6939,-69.3819,"Maine, US",,
@@ -10561,6 +11257,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 23,Maine,US,2022-01-21,44.6939,-69.3819,"Maine, US",1037285,146594
 23,Maine,US,2022-01-22,44.6939,-69.3819,"Maine, US",1038186,146754
 23,Maine,US,2022-01-23,44.6939,-69.3819,"Maine, US",1038233,146976
+23,Maine,US,2022-01-24,44.6939,-69.3819,"Maine, US",1038285,147230
+23,Maine,US,2022-01-25,44.6939,-69.3819,"Maine, US",1039373,147612
+23,Maine,US,2022-01-26,44.6939,-69.3819,"Maine, US",1039787,147752
+23,Maine,US,2022-01-27,44.6939,-69.3819,"Maine, US",1040548,147845
+23,Maine,US,2022-01-28,44.6939,-69.3819,"Maine, US",1041199,147909
+23,Maine,US,2022-01-29,44.6939,-69.3819,"Maine, US",1042031,147882
+23,Maine,US,2022-01-30,44.6939,-69.3819,"Maine, US",1042092,148045
+23,Maine,US,2022-01-31,44.6939,-69.3819,"Maine, US",1042154,148228
+23,Maine,US,2022-02-01,44.6939,-69.3819,"Maine, US",1042561,148258
+23,Maine,US,2022-02-02,44.6939,-69.3819,"Maine, US",1043014,148283
+23,Maine,US,2022-02-03,44.6939,-69.3819,"Maine, US",1043619,148264
+23,Maine,US,2022-02-04,44.6939,-69.3819,"Maine, US",1044290,148135
+23,Maine,US,2022-02-05,44.6939,-69.3819,"Maine, US",1044392,148290
+23,Maine,US,2022-02-06,44.6939,-69.3819,"Maine, US",1044452,148383
+23,Maine,US,2022-02-07,44.6939,-69.3819,"Maine, US",1044496,148437
+23,Maine,US,2022-02-08,44.6939,-69.3819,"Maine, US",1046108,147886
+23,Maine,US,2022-02-09,44.6939,-69.3819,"Maine, US",1046530,147757
+23,Maine,US,2022-02-10,44.6939,-69.3819,"Maine, US",1047138,147659
+23,Maine,US,2022-02-11,44.6939,-69.3819,"Maine, US",1047687,147512
+23,Maine,US,2022-02-12,44.6939,-69.3819,"Maine, US",1048302,147340
+23,Maine,US,2022-02-13,44.6939,-69.3819,"Maine, US",1048355,147385
+23,Maine,US,2022-02-14,44.6939,-69.3819,"Maine, US",1048427,147445
+23,Maine,US,2022-02-15,44.6939,-69.3819,"Maine, US",1048427,147445
+23,Maine,US,2022-02-16,44.6939,-69.3819,"Maine, US",1048427,147445
+23,Maine,US,2022-02-17,44.6939,-69.3819,"Maine, US",1050461,147045
+23,Maine,US,2022-02-18,44.6939,-69.3819,"Maine, US",1050956,146926
+23,Maine,US,2022-02-19,44.6939,-69.3819,"Maine, US",1051490,146757
+23,Maine,US,2022-02-20,44.6939,-69.3819,"Maine, US",1051490,146757
+23,Maine,US,2022-02-21,44.6939,-69.3819,"Maine, US",1051490,146757
 24,Maryland,US,2020-12-10,39.0639,-76.8021,"Maryland, US",,
 24,Maryland,US,2020-12-11,39.0639,-76.8021,"Maryland, US",,
 24,Maryland,US,2020-12-12,39.0639,-76.8021,"Maryland, US",,
@@ -10971,6 +11696,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 24,Maryland,US,2022-01-21,39.0639,-76.8021,"Maryland, US",4357655,657621
 24,Maryland,US,2022-01-22,39.0639,-76.8021,"Maryland, US",4361526,660334
 24,Maryland,US,2022-01-23,39.0639,-76.8021,"Maryland, US",4363933,662277
+24,Maryland,US,2022-01-24,39.0639,-76.8021,"Maryland, US",4365400,663653
+24,Maryland,US,2022-01-25,39.0639,-76.8021,"Maryland, US",4368323,665350
+24,Maryland,US,2022-01-26,39.0639,-76.8021,"Maryland, US",4372084,666785
+24,Maryland,US,2022-01-27,39.0639,-76.8021,"Maryland, US",4376894,667092
+24,Maryland,US,2022-01-28,39.0639,-76.8021,"Maryland, US",4381576,667565
+24,Maryland,US,2022-01-29,39.0639,-76.8021,"Maryland, US",4385497,668183
+24,Maryland,US,2022-01-30,39.0639,-76.8021,"Maryland, US",4388527,668459
+24,Maryland,US,2022-01-31,39.0639,-76.8021,"Maryland, US",4390178,669017
+24,Maryland,US,2022-02-01,39.0639,-76.8021,"Maryland, US",4393280,669093
+24,Maryland,US,2022-02-02,39.0639,-76.8021,"Maryland, US",4397159,669039
+24,Maryland,US,2022-02-03,39.0639,-76.8021,"Maryland, US",4401324,668522
+24,Maryland,US,2022-02-04,39.0639,-76.8021,"Maryland, US",4405582,668178
+24,Maryland,US,2022-02-05,39.0639,-76.8021,"Maryland, US",4410079,667257
+24,Maryland,US,2022-02-06,39.0639,-76.8021,"Maryland, US",4413436,666586
+24,Maryland,US,2022-02-07,39.0639,-76.8021,"Maryland, US",4415330,666377
+24,Maryland,US,2022-02-08,39.0639,-76.8021,"Maryland, US",4419194,665133
+24,Maryland,US,2022-02-09,39.0639,-76.8021,"Maryland, US",4422779,664505
+24,Maryland,US,2022-02-10,39.0639,-76.8021,"Maryland, US",4427003,664280
+24,Maryland,US,2022-02-11,39.0639,-76.8021,"Maryland, US",4430307,663414
+24,Maryland,US,2022-02-12,39.0639,-76.8021,"Maryland, US",4434156,662580
+24,Maryland,US,2022-02-13,39.0639,-76.8021,"Maryland, US",4436928,662022
+24,Maryland,US,2022-02-14,39.0639,-76.8021,"Maryland, US",4438528,661809
+24,Maryland,US,2022-02-15,39.0639,-76.8021,"Maryland, US",4438528,661809
+24,Maryland,US,2022-02-16,39.0639,-76.8021,"Maryland, US",4438528,661809
+24,Maryland,US,2022-02-17,39.0639,-76.8021,"Maryland, US",4451535,657887
+24,Maryland,US,2022-02-18,39.0639,-76.8021,"Maryland, US",4454594,657628
+24,Maryland,US,2022-02-19,39.0639,-76.8021,"Maryland, US",4463709,657337
+24,Maryland,US,2022-02-20,39.0639,-76.8021,"Maryland, US",4463709,657337
+24,Maryland,US,2022-02-21,39.0639,-76.8021,"Maryland, US",4463709,657337
 25,Massachusetts,US,2020-12-10,42.2302,-71.5301,"Massachusetts, US",,
 25,Massachusetts,US,2020-12-11,42.2302,-71.5301,"Massachusetts, US",,
 25,Massachusetts,US,2020-12-12,42.2302,-71.5301,"Massachusetts, US",,
@@ -11381,6 +12135,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2022-01-21,42.2302,-71.5301,"Massachusetts, US",5234306,1235056
 25,Massachusetts,US,2022-01-22,42.2302,-71.5301,"Massachusetts, US",5238603,1240782
 25,Massachusetts,US,2022-01-23,42.2302,-71.5301,"Massachusetts, US",5238788,1241469
+25,Massachusetts,US,2022-01-24,42.2302,-71.5301,"Massachusetts, US",5238941,1242318
+25,Massachusetts,US,2022-01-25,42.2302,-71.5301,"Massachusetts, US",5246573,1256531
+25,Massachusetts,US,2022-01-26,42.2302,-71.5301,"Massachusetts, US",5250029,1261079
+25,Massachusetts,US,2022-01-27,42.2302,-71.5301,"Massachusetts, US",5255176,1264367
+25,Massachusetts,US,2022-01-28,42.2302,-71.5301,"Massachusetts, US",5259592,1267928
+25,Massachusetts,US,2022-01-29,42.2302,-71.5301,"Massachusetts, US",5264035,1271722
+25,Massachusetts,US,2022-01-30,42.2302,-71.5301,"Massachusetts, US",5264228,1272093
+25,Massachusetts,US,2022-01-31,42.2302,-71.5301,"Massachusetts, US",5264354,1272499
+25,Massachusetts,US,2022-02-01,42.2302,-71.5301,"Massachusetts, US",5270527,1278146
+25,Massachusetts,US,2022-02-02,42.2302,-71.5301,"Massachusetts, US",5273944,1279980
+25,Massachusetts,US,2022-02-03,42.2302,-71.5301,"Massachusetts, US",5278183,1281357
+25,Massachusetts,US,2022-02-04,42.2302,-71.5301,"Massachusetts, US",5282391,1282649
+25,Massachusetts,US,2022-02-05,42.2302,-71.5301,"Massachusetts, US",5286864,1283490
+25,Massachusetts,US,2022-02-06,42.2302,-71.5301,"Massachusetts, US",5287062,1283743
+25,Massachusetts,US,2022-02-07,42.2302,-71.5301,"Massachusetts, US",5287189,1283939
+25,Massachusetts,US,2022-02-08,42.2302,-71.5301,"Massachusetts, US",5289592,1284541
+25,Massachusetts,US,2022-02-09,42.2302,-71.5301,"Massachusetts, US",5300218,1285528
+25,Massachusetts,US,2022-02-10,42.2302,-71.5301,"Massachusetts, US",5304474,1285958
+25,Massachusetts,US,2022-02-11,42.2302,-71.5301,"Massachusetts, US",5308554,1286322
+25,Massachusetts,US,2022-02-12,42.2302,-71.5301,"Massachusetts, US",5312382,1286788
+25,Massachusetts,US,2022-02-13,42.2302,-71.5301,"Massachusetts, US",5312594,1286950
+25,Massachusetts,US,2022-02-14,42.2302,-71.5301,"Massachusetts, US",5312763,1287158
+25,Massachusetts,US,2022-02-15,42.2302,-71.5301,"Massachusetts, US",5312763,1287158
+25,Massachusetts,US,2022-02-16,42.2302,-71.5301,"Massachusetts, US",5312763,1287158
+25,Massachusetts,US,2022-02-17,42.2302,-71.5301,"Massachusetts, US",5328858,1292407
+25,Massachusetts,US,2022-02-18,42.2302,-71.5301,"Massachusetts, US",5332325,1292649
+25,Massachusetts,US,2022-02-19,42.2302,-71.5301,"Massachusetts, US",5336437,1293302
+25,Massachusetts,US,2022-02-20,42.2302,-71.5301,"Massachusetts, US",5336437,1293302
+25,Massachusetts,US,2022-02-21,42.2302,-71.5301,"Massachusetts, US",5336437,1293302
 26,Michigan,US,2020-12-10,43.3266,-84.5361,"Michigan, US",,
 26,Michigan,US,2020-12-11,43.3266,-84.5361,"Michigan, US",,
 26,Michigan,US,2020-12-12,43.3266,-84.5361,"Michigan, US",,
@@ -11791,6 +12574,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2022-01-21,43.3266,-84.5361,"Michigan, US",5775866,697539
 26,Michigan,US,2022-01-22,43.3266,-84.5361,"Michigan, US",5780826,697617
 26,Michigan,US,2022-01-23,43.3266,-84.5361,"Michigan, US",5785570,698216
+26,Michigan,US,2022-01-24,43.3266,-84.5361,"Michigan, US",5787802,699207
+26,Michigan,US,2022-01-25,43.3266,-84.5361,"Michigan, US",5789101,699967
+26,Michigan,US,2022-01-26,43.3266,-84.5361,"Michigan, US",5792701,699993
+26,Michigan,US,2022-01-27,43.3266,-84.5361,"Michigan, US",5797034,699373
+26,Michigan,US,2022-01-28,43.3266,-84.5361,"Michigan, US",5801386,699038
+26,Michigan,US,2022-01-29,43.3266,-84.5361,"Michigan, US",5805887,698732
+26,Michigan,US,2022-01-30,43.3266,-84.5361,"Michigan, US",5811233,697760
+26,Michigan,US,2022-01-31,43.3266,-84.5361,"Michigan, US",5812209,697559
+26,Michigan,US,2022-02-01,43.3266,-84.5361,"Michigan, US",5812467,697594
+26,Michigan,US,2022-02-02,43.3266,-84.5361,"Michigan, US",5817912,697246
+26,Michigan,US,2022-02-03,43.3266,-84.5361,"Michigan, US",5824508,697625
+26,Michigan,US,2022-02-04,43.3266,-84.5361,"Michigan, US",5829606,696847
+26,Michigan,US,2022-02-05,43.3266,-84.5361,"Michigan, US",5835897,694984
+26,Michigan,US,2022-02-06,43.3266,-84.5361,"Michigan, US",5840229,693543
+26,Michigan,US,2022-02-07,43.3266,-84.5361,"Michigan, US",5843448,692148
+26,Michigan,US,2022-02-08,43.3266,-84.5361,"Michigan, US",5845252,691481
+26,Michigan,US,2022-02-09,43.3266,-84.5361,"Michigan, US",5848744,690216
+26,Michigan,US,2022-02-10,43.3266,-84.5361,"Michigan, US",5854113,690585
+26,Michigan,US,2022-02-11,43.3266,-84.5361,"Michigan, US",5862975,691862
+26,Michigan,US,2022-02-12,43.3266,-84.5361,"Michigan, US",5867016,691019
+26,Michigan,US,2022-02-13,43.3266,-84.5361,"Michigan, US",5871141,689600
+26,Michigan,US,2022-02-14,43.3266,-84.5361,"Michigan, US",5873500,688732
+26,Michigan,US,2022-02-15,43.3266,-84.5361,"Michigan, US",5873500,688732
+26,Michigan,US,2022-02-16,43.3266,-84.5361,"Michigan, US",5873500,688732
+26,Michigan,US,2022-02-17,43.3266,-84.5361,"Michigan, US",5883644,688017
+26,Michigan,US,2022-02-18,43.3266,-84.5361,"Michigan, US",5887012,687411
+26,Michigan,US,2022-02-19,43.3266,-84.5361,"Michigan, US",5889772,687031
+26,Michigan,US,2022-02-20,43.3266,-84.5361,"Michigan, US",5889772,687031
+26,Michigan,US,2022-02-21,43.3266,-84.5361,"Michigan, US",5889772,687031
 27,Minnesota,US,2020-12-10,45.6945,-93.9002,"Minnesota, US",,
 27,Minnesota,US,2020-12-11,45.6945,-93.9002,"Minnesota, US",,
 27,Minnesota,US,2020-12-12,45.6945,-93.9002,"Minnesota, US",,
@@ -12201,6 +13013,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 27,Minnesota,US,2022-01-21,45.6945,-93.9002,"Minnesota, US",3759065,358804
 27,Minnesota,US,2022-01-22,45.6945,-93.9002,"Minnesota, US",3762765,359801
 27,Minnesota,US,2022-01-23,45.6945,-93.9002,"Minnesota, US",3765973,360834
+27,Minnesota,US,2022-01-24,45.6945,-93.9002,"Minnesota, US",3766141,361108
+27,Minnesota,US,2022-01-25,45.6945,-93.9002,"Minnesota, US",3766943,361940
+27,Minnesota,US,2022-01-26,45.6945,-93.9002,"Minnesota, US",3769507,362408
+27,Minnesota,US,2022-01-27,45.6945,-93.9002,"Minnesota, US",3772286,362852
+27,Minnesota,US,2022-01-28,45.6945,-93.9002,"Minnesota, US",3775150,364356
+27,Minnesota,US,2022-01-29,45.6945,-93.9002,"Minnesota, US",3778716,364779
+27,Minnesota,US,2022-01-30,45.6945,-93.9002,"Minnesota, US",3782546,364771
+27,Minnesota,US,2022-01-31,45.6945,-93.9002,"Minnesota, US",3782674,364838
+27,Minnesota,US,2022-02-01,45.6945,-93.9002,"Minnesota, US",3783597,365110
+27,Minnesota,US,2022-02-02,45.6945,-93.9002,"Minnesota, US",3786409,365240
+27,Minnesota,US,2022-02-03,45.6945,-93.9002,"Minnesota, US",3789527,365051
+27,Minnesota,US,2022-02-04,45.6945,-93.9002,"Minnesota, US",3792876,364773
+27,Minnesota,US,2022-02-05,45.6945,-93.9002,"Minnesota, US",3796302,364168
+27,Minnesota,US,2022-02-06,45.6945,-93.9002,"Minnesota, US",3796416,364296
+27,Minnesota,US,2022-02-07,45.6945,-93.9002,"Minnesota, US",3801866,363001
+27,Minnesota,US,2022-02-08,45.6945,-93.9002,"Minnesota, US",3803322,362792
+27,Minnesota,US,2022-02-09,45.6945,-93.9002,"Minnesota, US",3805957,362289
+27,Minnesota,US,2022-02-10,45.6945,-93.9002,"Minnesota, US",3808729,361667
+27,Minnesota,US,2022-02-11,45.6945,-93.9002,"Minnesota, US",3811848,360607
+27,Minnesota,US,2022-02-12,45.6945,-93.9002,"Minnesota, US",3815105,359193
+27,Minnesota,US,2022-02-13,45.6945,-93.9002,"Minnesota, US",3818347,357840
+27,Minnesota,US,2022-02-14,45.6945,-93.9002,"Minnesota, US",3818373,357884
+27,Minnesota,US,2022-02-15,45.6945,-93.9002,"Minnesota, US",3818373,357884
+27,Minnesota,US,2022-02-16,45.6945,-93.9002,"Minnesota, US",3818373,357884
+27,Minnesota,US,2022-02-17,45.6945,-93.9002,"Minnesota, US",3824931,355852
+27,Minnesota,US,2022-02-18,45.6945,-93.9002,"Minnesota, US",3827639,354753
+27,Minnesota,US,2022-02-19,45.6945,-93.9002,"Minnesota, US",3830382,353370
+27,Minnesota,US,2022-02-20,45.6945,-93.9002,"Minnesota, US",3830382,353370
+27,Minnesota,US,2022-02-21,45.6945,-93.9002,"Minnesota, US",3830382,353370
 28,Mississippi,US,2020-12-10,32.7416,-89.6787,"Mississippi, US",,
 28,Mississippi,US,2020-12-11,32.7416,-89.6787,"Mississippi, US",,
 28,Mississippi,US,2020-12-12,32.7416,-89.6787,"Mississippi, US",,
@@ -12611,6 +13452,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 28,Mississippi,US,2022-01-21,32.7416,-89.6787,"Mississippi, US",1479889,238349
 28,Mississippi,US,2022-01-22,32.7416,-89.6787,"Mississippi, US",1481130,238504
 28,Mississippi,US,2022-01-23,32.7416,-89.6787,"Mississippi, US",1481240,238582
+28,Mississippi,US,2022-01-24,32.7416,-89.6787,"Mississippi, US",1481287,238641
+28,Mississippi,US,2022-01-25,32.7416,-89.6787,"Mississippi, US",1483766,239076
+28,Mississippi,US,2022-01-26,32.7416,-89.6787,"Mississippi, US",1484838,239115
+28,Mississippi,US,2022-01-27,32.7416,-89.6787,"Mississippi, US",1486295,238975
+28,Mississippi,US,2022-01-28,32.7416,-89.6787,"Mississippi, US",1487873,238756
+28,Mississippi,US,2022-01-29,32.7416,-89.6787,"Mississippi, US",1487956,238809
+28,Mississippi,US,2022-01-30,32.7416,-89.6787,"Mississippi, US",1488046,238863
+28,Mississippi,US,2022-01-31,32.7416,-89.6787,"Mississippi, US",1488070,238914
+28,Mississippi,US,2022-02-01,32.7416,-89.6787,"Mississippi, US",1492435,238131
+28,Mississippi,US,2022-02-02,32.7416,-89.6787,"Mississippi, US",1493616,237964
+28,Mississippi,US,2022-02-03,32.7416,-89.6787,"Mississippi, US",1494974,237688
+28,Mississippi,US,2022-02-04,32.7416,-89.6787,"Mississippi, US",1496355,237472
+28,Mississippi,US,2022-02-05,32.7416,-89.6787,"Mississippi, US",1497532,237228
+28,Mississippi,US,2022-02-06,32.7416,-89.6787,"Mississippi, US",1497626,237334
+28,Mississippi,US,2022-02-07,32.7416,-89.6787,"Mississippi, US",1497660,237353
+28,Mississippi,US,2022-02-08,32.7416,-89.6787,"Mississippi, US",1499781,236816
+28,Mississippi,US,2022-02-09,32.7416,-89.6787,"Mississippi, US",1500661,236645
+28,Mississippi,US,2022-02-10,32.7416,-89.6787,"Mississippi, US",1501718,236484
+28,Mississippi,US,2022-02-11,32.7416,-89.6787,"Mississippi, US",1502866,236275
+28,Mississippi,US,2022-02-12,32.7416,-89.6787,"Mississippi, US",1503904,236264
+28,Mississippi,US,2022-02-13,32.7416,-89.6787,"Mississippi, US",1503951,236287
+28,Mississippi,US,2022-02-14,32.7416,-89.6787,"Mississippi, US",1503962,236334
+28,Mississippi,US,2022-02-15,32.7416,-89.6787,"Mississippi, US",1503962,236334
+28,Mississippi,US,2022-02-16,32.7416,-89.6787,"Mississippi, US",1503962,236334
+28,Mississippi,US,2022-02-17,32.7416,-89.6787,"Mississippi, US",1506969,236127
+28,Mississippi,US,2022-02-18,32.7416,-89.6787,"Mississippi, US",1509327,235405
+28,Mississippi,US,2022-02-19,32.7416,-89.6787,"Mississippi, US",1510183,235251
+28,Mississippi,US,2022-02-20,32.7416,-89.6787,"Mississippi, US",1510183,235251
+28,Mississippi,US,2022-02-21,32.7416,-89.6787,"Mississippi, US",1510183,235251
 29,Missouri,US,2020-12-10,38.4561,-92.2884,"Missouri, US",,
 29,Missouri,US,2020-12-11,38.4561,-92.2884,"Missouri, US",,
 29,Missouri,US,2020-12-12,38.4561,-92.2884,"Missouri, US",,
@@ -13021,6 +13891,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 29,Missouri,US,2022-01-21,38.4561,-92.2884,"Missouri, US",3366901,619113
 29,Missouri,US,2022-01-22,38.4561,-92.2884,"Missouri, US",3370249,621767
 29,Missouri,US,2022-01-23,38.4561,-92.2884,"Missouri, US",3370249,622016
+29,Missouri,US,2022-01-24,38.4561,-92.2884,"Missouri, US",3373172,622262
+29,Missouri,US,2022-01-25,38.4561,-92.2884,"Missouri, US",3375736,627551
+29,Missouri,US,2022-01-26,38.4561,-92.2884,"Missouri, US",3379143,628486
+29,Missouri,US,2022-01-27,38.4561,-92.2884,"Missouri, US",3382107,629114
+29,Missouri,US,2022-01-28,38.4561,-92.2884,"Missouri, US",3385594,629357
+29,Missouri,US,2022-01-29,38.4561,-92.2884,"Missouri, US",3389238,629841
+29,Missouri,US,2022-01-30,38.4561,-92.2884,"Missouri, US",3389238,629999
+29,Missouri,US,2022-01-31,38.4561,-92.2884,"Missouri, US",3392297,630845
+29,Missouri,US,2022-02-01,38.4561,-92.2884,"Missouri, US",3394566,631007
+29,Missouri,US,2022-02-02,38.4561,-92.2884,"Missouri, US",3397692,630927
+29,Missouri,US,2022-02-03,38.4561,-92.2884,"Missouri, US",3399382,630851
+29,Missouri,US,2022-02-04,38.4561,-92.2884,"Missouri, US",3400824,630711
+29,Missouri,US,2022-02-05,38.4561,-92.2884,"Missouri, US",3402807,631136
+29,Missouri,US,2022-02-06,38.4561,-92.2884,"Missouri, US",3402807,631391
+29,Missouri,US,2022-02-07,38.4561,-92.2884,"Missouri, US",3406021,631417
+29,Missouri,US,2022-02-08,38.4561,-92.2884,"Missouri, US",3408166,630032
+29,Missouri,US,2022-02-09,38.4561,-92.2884,"Missouri, US",3410680,630126
+29,Missouri,US,2022-02-10,38.4561,-92.2884,"Missouri, US",3413383,629623
+29,Missouri,US,2022-02-11,38.4561,-92.2884,"Missouri, US",3413383,629125
+29,Missouri,US,2022-02-12,38.4561,-92.2884,"Missouri, US",3413383,629217
+29,Missouri,US,2022-02-13,38.4561,-92.2884,"Missouri, US",3413383,629318
+29,Missouri,US,2022-02-14,38.4561,-92.2884,"Missouri, US",3421464,629378
+29,Missouri,US,2022-02-15,38.4561,-92.2884,"Missouri, US",3423173,629378
+29,Missouri,US,2022-02-16,38.4561,-92.2884,"Missouri, US",3423173,629378
+29,Missouri,US,2022-02-17,38.4561,-92.2884,"Missouri, US",3425230,628881
+29,Missouri,US,2022-02-18,38.4561,-92.2884,"Missouri, US",3425230,628819
+29,Missouri,US,2022-02-19,38.4561,-92.2884,"Missouri, US",3425230,628870
+29,Missouri,US,2022-02-20,38.4561,-92.2884,"Missouri, US",3425230,628870
+29,Missouri,US,2022-02-21,38.4561,-92.2884,"Missouri, US",3425230,628870
 30,Montana,US,2020-12-10,46.9219,-110.4544,"Montana, US",,
 30,Montana,US,2020-12-11,46.9219,-110.4544,"Montana, US",,
 30,Montana,US,2020-12-12,46.9219,-110.4544,"Montana, US",,
@@ -13431,6 +14330,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 30,Montana,US,2022-01-21,46.9219,-110.4544,"Montana, US",587587,90068
 30,Montana,US,2022-01-22,46.9219,-110.4544,"Montana, US",587637,90151
 30,Montana,US,2022-01-23,46.9219,-110.4544,"Montana, US",587700,90164
+30,Montana,US,2022-01-24,46.9219,-110.4544,"Montana, US",587713,90204
+30,Montana,US,2022-01-25,46.9219,-110.4544,"Montana, US",589060,90598
+30,Montana,US,2022-01-26,46.9219,-110.4544,"Montana, US",589321,90704
+30,Montana,US,2022-01-27,46.9219,-110.4544,"Montana, US",589632,90748
+30,Montana,US,2022-01-28,46.9219,-110.4544,"Montana, US",590070,90837
+30,Montana,US,2022-01-29,46.9219,-110.4544,"Montana, US",590396,90970
+30,Montana,US,2022-01-30,46.9219,-110.4544,"Montana, US",590450,90992
+30,Montana,US,2022-01-31,46.9219,-110.4544,"Montana, US",590461,91008
+30,Montana,US,2022-02-01,46.9219,-110.4544,"Montana, US",590470,91021
+30,Montana,US,2022-02-02,46.9219,-110.4544,"Montana, US",591251,91198
+30,Montana,US,2022-02-03,46.9219,-110.4544,"Montana, US",591611,91223
+30,Montana,US,2022-02-04,46.9219,-110.4544,"Montana, US",591906,91260
+30,Montana,US,2022-02-05,46.9219,-110.4544,"Montana, US",592328,91340
+30,Montana,US,2022-02-06,46.9219,-110.4544,"Montana, US",592399,91339
+30,Montana,US,2022-02-07,46.9219,-110.4544,"Montana, US",592407,91350
+30,Montana,US,2022-02-08,46.9219,-110.4544,"Montana, US",592931,91351
+30,Montana,US,2022-02-09,46.9219,-110.4544,"Montana, US",593155,91411
+30,Montana,US,2022-02-10,46.9219,-110.4544,"Montana, US",593476,91420
+30,Montana,US,2022-02-11,46.9219,-110.4544,"Montana, US",593846,91385
+30,Montana,US,2022-02-12,46.9219,-110.4544,"Montana, US",594175,91397
+30,Montana,US,2022-02-13,46.9219,-110.4544,"Montana, US",594208,91409
+30,Montana,US,2022-02-14,46.9219,-110.4544,"Montana, US",594211,91415
+30,Montana,US,2022-02-15,46.9219,-110.4544,"Montana, US",594211,91415
+30,Montana,US,2022-02-16,46.9219,-110.4544,"Montana, US",594211,91415
+30,Montana,US,2022-02-17,46.9219,-110.4544,"Montana, US",595153,91641
+30,Montana,US,2022-02-18,46.9219,-110.4544,"Montana, US",595965,91650
+30,Montana,US,2022-02-19,46.9219,-110.4544,"Montana, US",596255,91669
+30,Montana,US,2022-02-20,46.9219,-110.4544,"Montana, US",596255,91669
+30,Montana,US,2022-02-21,46.9219,-110.4544,"Montana, US",596255,91669
 31,Nebraska,US,2020-12-10,41.1254,-98.2681,"Nebraska, US",,
 31,Nebraska,US,2020-12-11,41.1254,-98.2681,"Nebraska, US",,
 31,Nebraska,US,2020-12-12,41.1254,-98.2681,"Nebraska, US",,
@@ -13841,6 +14769,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2022-01-21,41.1254,-98.2681,"Nebraska, US",1183666,136701
 31,Nebraska,US,2022-01-22,41.1254,-98.2681,"Nebraska, US",1184577,136831
 31,Nebraska,US,2022-01-23,41.1254,-98.2681,"Nebraska, US",1184601,136887
+31,Nebraska,US,2022-01-24,41.1254,-98.2681,"Nebraska, US",1184617,136946
+31,Nebraska,US,2022-01-25,41.1254,-98.2681,"Nebraska, US",1186523,137533
+31,Nebraska,US,2022-01-26,41.1254,-98.2681,"Nebraska, US",1186561,137589
+31,Nebraska,US,2022-01-27,41.1254,-98.2681,"Nebraska, US",1188065,137603
+31,Nebraska,US,2022-01-28,41.1254,-98.2681,"Nebraska, US",1188960,137562
+31,Nebraska,US,2022-01-29,41.1254,-98.2681,"Nebraska, US",1189004,137599
+31,Nebraska,US,2022-01-30,41.1254,-98.2681,"Nebraska, US",1189059,137632
+31,Nebraska,US,2022-01-31,41.1254,-98.2681,"Nebraska, US",1189070,137676
+31,Nebraska,US,2022-02-01,41.1254,-98.2681,"Nebraska, US",1191647,137406
+31,Nebraska,US,2022-02-02,41.1254,-98.2681,"Nebraska, US",1192481,137224
+31,Nebraska,US,2022-02-03,41.1254,-98.2681,"Nebraska, US",1192532,137258
+31,Nebraska,US,2022-02-04,41.1254,-98.2681,"Nebraska, US",1194784,136724
+31,Nebraska,US,2022-02-05,41.1254,-98.2681,"Nebraska, US",1195755,136461
+31,Nebraska,US,2022-02-06,41.1254,-98.2681,"Nebraska, US",1195821,136584
+31,Nebraska,US,2022-02-07,41.1254,-98.2681,"Nebraska, US",1195831,136615
+31,Nebraska,US,2022-02-08,41.1254,-98.2681,"Nebraska, US",1197642,136115
+31,Nebraska,US,2022-02-09,41.1254,-98.2681,"Nebraska, US",1198253,135958
+31,Nebraska,US,2022-02-10,41.1254,-98.2681,"Nebraska, US",1198937,135808
+31,Nebraska,US,2022-02-11,41.1254,-98.2681,"Nebraska, US",1198991,135839
+31,Nebraska,US,2022-02-12,41.1254,-98.2681,"Nebraska, US",1200724,135368
+31,Nebraska,US,2022-02-13,41.1254,-98.2681,"Nebraska, US",1200766,135379
+31,Nebraska,US,2022-02-14,41.1254,-98.2681,"Nebraska, US",1200777,135394
+31,Nebraska,US,2022-02-15,41.1254,-98.2681,"Nebraska, US",1200777,135394
+31,Nebraska,US,2022-02-16,41.1254,-98.2681,"Nebraska, US",1200777,135394
+31,Nebraska,US,2022-02-17,41.1254,-98.2681,"Nebraska, US",1203610,134754
+31,Nebraska,US,2022-02-18,41.1254,-98.2681,"Nebraska, US",1204295,134409
+31,Nebraska,US,2022-02-19,41.1254,-98.2681,"Nebraska, US",1205071,134150
+31,Nebraska,US,2022-02-20,41.1254,-98.2681,"Nebraska, US",1205071,134150
+31,Nebraska,US,2022-02-21,41.1254,-98.2681,"Nebraska, US",1205071,134150
 32,Nevada,US,2020-12-10,38.3135,-117.0554,"Nevada, US",,
 32,Nevada,US,2020-12-11,38.3135,-117.0554,"Nevada, US",,
 32,Nevada,US,2020-12-12,38.3135,-117.0554,"Nevada, US",,
@@ -14251,6 +15208,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 32,Nevada,US,2022-01-21,38.3135,-117.0554,"Nevada, US",1786288,440961
 32,Nevada,US,2022-01-22,38.3135,-117.0554,"Nevada, US",1787928,441548
 32,Nevada,US,2022-01-23,38.3135,-117.0554,"Nevada, US",1789516,442237
+32,Nevada,US,2022-01-24,38.3135,-117.0554,"Nevada, US",1790690,443616
+32,Nevada,US,2022-01-25,38.3135,-117.0554,"Nevada, US",1791552,444340
+32,Nevada,US,2022-01-26,38.3135,-117.0554,"Nevada, US",1793138,444652
+32,Nevada,US,2022-01-27,38.3135,-117.0554,"Nevada, US",1794964,444050
+32,Nevada,US,2022-01-28,38.3135,-117.0554,"Nevada, US",1796733,444241
+32,Nevada,US,2022-01-29,38.3135,-117.0554,"Nevada, US",1798321,444493
+32,Nevada,US,2022-01-30,38.3135,-117.0554,"Nevada, US",1800101,444745
+32,Nevada,US,2022-01-31,38.3135,-117.0554,"Nevada, US",1801860,444780
+32,Nevada,US,2022-02-01,38.3135,-117.0554,"Nevada, US",1803094,444818
+32,Nevada,US,2022-02-02,38.3135,-117.0554,"Nevada, US",1804516,444871
+32,Nevada,US,2022-02-03,38.3135,-117.0554,"Nevada, US",1806190,444721
+32,Nevada,US,2022-02-04,38.3135,-117.0554,"Nevada, US",1807495,444940
+32,Nevada,US,2022-02-05,38.3135,-117.0554,"Nevada, US",1809274,444895
+32,Nevada,US,2022-02-06,38.3135,-117.0554,"Nevada, US",1811209,444903
+32,Nevada,US,2022-02-07,38.3135,-117.0554,"Nevada, US",1812840,444759
+32,Nevada,US,2022-02-08,38.3135,-117.0554,"Nevada, US",1813970,444877
+32,Nevada,US,2022-02-09,38.3135,-117.0554,"Nevada, US",1815341,444789
+32,Nevada,US,2022-02-10,38.3135,-117.0554,"Nevada, US",1816722,444846
+32,Nevada,US,2022-02-11,38.3135,-117.0554,"Nevada, US",1818013,444927
+32,Nevada,US,2022-02-12,38.3135,-117.0554,"Nevada, US",1819134,444994
+32,Nevada,US,2022-02-13,38.3135,-117.0554,"Nevada, US",1820542,445147
+32,Nevada,US,2022-02-14,38.3135,-117.0554,"Nevada, US",1821978,445145
+32,Nevada,US,2022-02-15,38.3135,-117.0554,"Nevada, US",1821978,445145
+32,Nevada,US,2022-02-16,38.3135,-117.0554,"Nevada, US",1821978,445145
+32,Nevada,US,2022-02-17,38.3135,-117.0554,"Nevada, US",1829521,440985
+32,Nevada,US,2022-02-18,38.3135,-117.0554,"Nevada, US",1830651,441055
+32,Nevada,US,2022-02-19,38.3135,-117.0554,"Nevada, US",1831584,441232
+32,Nevada,US,2022-02-20,38.3135,-117.0554,"Nevada, US",1831584,441232
+32,Nevada,US,2022-02-21,38.3135,-117.0554,"Nevada, US",1831584,441232
 33,New Hampshire,US,2020-12-10,43.4525,-71.5639,"New Hampshire, US",,
 33,New Hampshire,US,2020-12-11,43.4525,-71.5639,"New Hampshire, US",,
 33,New Hampshire,US,2020-12-12,43.4525,-71.5639,"New Hampshire, US",,
@@ -14661,6 +15647,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2022-01-21,43.4525,-71.5639,"New Hampshire, US",930280,483884
 33,New Hampshire,US,2022-01-22,43.4525,-71.5639,"New Hampshire, US",930578,485756
 33,New Hampshire,US,2022-01-23,43.4525,-71.5639,"New Hampshire, US",930781,487460
+33,New Hampshire,US,2022-01-24,43.4525,-71.5639,"New Hampshire, US",931549,489404
+33,New Hampshire,US,2022-01-25,43.4525,-71.5639,"New Hampshire, US",931960,491177
+33,New Hampshire,US,2022-01-26,43.4525,-71.5639,"New Hampshire, US",932675,493463
+33,New Hampshire,US,2022-01-27,43.4525,-71.5639,"New Hampshire, US",933708,495641
+33,New Hampshire,US,2022-01-28,43.4525,-71.5639,"New Hampshire, US",934043,496820
+33,New Hampshire,US,2022-01-29,43.4525,-71.5639,"New Hampshire, US",934391,498113
+33,New Hampshire,US,2022-01-30,43.4525,-71.5639,"New Hampshire, US",934575,498664
+33,New Hampshire,US,2022-01-31,43.4525,-71.5639,"New Hampshire, US",935590,500280
+33,New Hampshire,US,2022-02-01,43.4525,-71.5639,"New Hampshire, US",936009,501216
+33,New Hampshire,US,2022-02-02,43.4525,-71.5639,"New Hampshire, US",936451,502319
+33,New Hampshire,US,2022-02-03,43.4525,-71.5639,"New Hampshire, US",936993,503864
+33,New Hampshire,US,2022-02-04,43.4525,-71.5639,"New Hampshire, US",938039,504928
+33,New Hampshire,US,2022-02-05,43.4525,-71.5639,"New Hampshire, US",938924,505958
+33,New Hampshire,US,2022-02-06,43.4525,-71.5639,"New Hampshire, US",939127,506319
+33,New Hampshire,US,2022-02-07,43.4525,-71.5639,"New Hampshire, US",939503,507128
+33,New Hampshire,US,2022-02-08,43.4525,-71.5639,"New Hampshire, US",940388,507849
+33,New Hampshire,US,2022-02-09,43.4525,-71.5639,"New Hampshire, US",941030,508572
+33,New Hampshire,US,2022-02-10,43.4525,-71.5639,"New Hampshire, US",941572,508839
+33,New Hampshire,US,2022-02-11,43.4525,-71.5639,"New Hampshire, US",942216,509686
+33,New Hampshire,US,2022-02-12,43.4525,-71.5639,"New Hampshire, US",942474,510088
+33,New Hampshire,US,2022-02-13,43.4525,-71.5639,"New Hampshire, US",942734,510407
+33,New Hampshire,US,2022-02-14,43.4525,-71.5639,"New Hampshire, US",943124,511039
+33,New Hampshire,US,2022-02-15,43.4525,-71.5639,"New Hampshire, US",943124,511039
+33,New Hampshire,US,2022-02-16,43.4525,-71.5639,"New Hampshire, US",943124,511039
+33,New Hampshire,US,2022-02-17,43.4525,-71.5639,"New Hampshire, US",945345,513345
+33,New Hampshire,US,2022-02-18,43.4525,-71.5639,"New Hampshire, US",946724,513955
+33,New Hampshire,US,2022-02-19,43.4525,-71.5639,"New Hampshire, US",946944,514164
+33,New Hampshire,US,2022-02-20,43.4525,-71.5639,"New Hampshire, US",946944,514164
+33,New Hampshire,US,2022-02-21,43.4525,-71.5639,"New Hampshire, US",946944,514164
 34,New Jersey,US,2020-12-10,40.2989,-74.521,"New Jersey, US",,
 34,New Jersey,US,2020-12-11,40.2989,-74.521,"New Jersey, US",,
 34,New Jersey,US,2020-12-12,40.2989,-74.521,"New Jersey, US",,
@@ -15071,6 +16086,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2022-01-21,40.2989,-74.521,"New Jersey, US",6548856,1290922
 34,New Jersey,US,2022-01-22,40.2989,-74.521,"New Jersey, US",6554846,1294458
 34,New Jersey,US,2022-01-23,40.2989,-74.521,"New Jersey, US",6554846,1299310
+34,New Jersey,US,2022-01-24,40.2989,-74.521,"New Jersey, US",6561547,1303428
+34,New Jersey,US,2022-01-25,40.2989,-74.521,"New Jersey, US",6566721,1306336
+34,New Jersey,US,2022-01-26,40.2989,-74.521,"New Jersey, US",6572721,1308776
+34,New Jersey,US,2022-01-27,40.2989,-74.521,"New Jersey, US",6580266,1312194
+34,New Jersey,US,2022-01-28,40.2989,-74.521,"New Jersey, US",6586299,1313769
+34,New Jersey,US,2022-01-29,40.2989,-74.521,"New Jersey, US",6586299,1312611
+34,New Jersey,US,2022-01-30,40.2989,-74.521,"New Jersey, US",6586299,1314175
+34,New Jersey,US,2022-01-31,40.2989,-74.521,"New Jersey, US",6602357,1314693
+34,New Jersey,US,2022-02-01,40.2989,-74.521,"New Jersey, US",6612450,1311996
+34,New Jersey,US,2022-02-02,40.2989,-74.521,"New Jersey, US",6622809,1309668
+34,New Jersey,US,2022-02-03,40.2989,-74.521,"New Jersey, US",6633464,1307018
+34,New Jersey,US,2022-02-04,40.2989,-74.521,"New Jersey, US",6644635,1303936
+34,New Jersey,US,2022-02-05,40.2989,-74.521,"New Jersey, US",6644635,1304041
+34,New Jersey,US,2022-02-06,40.2989,-74.521,"New Jersey, US",6652094,1304145
+34,New Jersey,US,2022-02-07,40.2989,-74.521,"New Jersey, US",6656841,1303590
+34,New Jersey,US,2022-02-08,40.2989,-74.521,"New Jersey, US",6660897,1303152
+34,New Jersey,US,2022-02-09,40.2989,-74.521,"New Jersey, US",6666086,1302918
+34,New Jersey,US,2022-02-10,40.2989,-74.521,"New Jersey, US",6670568,1302738
+34,New Jersey,US,2022-02-11,40.2989,-74.521,"New Jersey, US",6674622,1302573
+34,New Jersey,US,2022-02-12,40.2989,-74.521,"New Jersey, US",6674622,1303570
+34,New Jersey,US,2022-02-13,40.2989,-74.521,"New Jersey, US",6674622,1303724
+34,New Jersey,US,2022-02-14,40.2989,-74.521,"New Jersey, US",6684030,1303828
+34,New Jersey,US,2022-02-15,40.2989,-74.521,"New Jersey, US",6687009,1303828
+34,New Jersey,US,2022-02-16,40.2989,-74.521,"New Jersey, US",6687009,1303828
+34,New Jersey,US,2022-02-17,40.2989,-74.521,"New Jersey, US",6693645,1305116
+34,New Jersey,US,2022-02-18,40.2989,-74.521,"New Jersey, US",6696883,1305072
+34,New Jersey,US,2022-02-19,40.2989,-74.521,"New Jersey, US",6700214,1305361
+34,New Jersey,US,2022-02-20,40.2989,-74.521,"New Jersey, US",6702067,1305361
+34,New Jersey,US,2022-02-21,40.2989,-74.521,"New Jersey, US",6703221,1305361
 35,New Mexico,US,2020-12-10,34.8405,-106.2485,"New Mexico, US",,
 35,New Mexico,US,2020-12-11,34.8405,-106.2485,"New Mexico, US",,
 35,New Mexico,US,2020-12-12,34.8405,-106.2485,"New Mexico, US",,
@@ -15481,6 +16525,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 35,New Mexico,US,2022-01-21,34.8405,-106.2485,"New Mexico, US",1423553,329773
 35,New Mexico,US,2022-01-22,34.8405,-106.2485,"New Mexico, US",1424690,331421
 35,New Mexico,US,2022-01-23,34.8405,-106.2485,"New Mexico, US",1424977,331678
+35,New Mexico,US,2022-01-24,34.8405,-106.2485,"New Mexico, US",1426434,334339
+35,New Mexico,US,2022-01-25,34.8405,-106.2485,"New Mexico, US",1426831,335164
+35,New Mexico,US,2022-01-26,34.8405,-106.2485,"New Mexico, US",1427860,335881
+35,New Mexico,US,2022-01-27,34.8405,-106.2485,"New Mexico, US",1429035,336482
+35,New Mexico,US,2022-01-28,34.8405,-106.2485,"New Mexico, US",1430308,337233
+35,New Mexico,US,2022-01-29,34.8405,-106.2485,"New Mexico, US",1431405,338093
+35,New Mexico,US,2022-01-30,34.8405,-106.2485,"New Mexico, US",1432888,338784
+35,New Mexico,US,2022-01-31,34.8405,-106.2485,"New Mexico, US",1433509,339307
+35,New Mexico,US,2022-02-01,34.8405,-106.2485,"New Mexico, US",1434048,339631
+35,New Mexico,US,2022-02-02,34.8405,-106.2485,"New Mexico, US",1435181,339913
+35,New Mexico,US,2022-02-03,34.8405,-106.2485,"New Mexico, US",1436307,340168
+35,New Mexico,US,2022-02-04,34.8405,-106.2485,"New Mexico, US",1437582,340486
+35,New Mexico,US,2022-02-05,34.8405,-106.2485,"New Mexico, US",1438413,340681
+35,New Mexico,US,2022-02-06,34.8405,-106.2485,"New Mexico, US",1439830,340926
+35,New Mexico,US,2022-02-07,34.8405,-106.2485,"New Mexico, US",1440742,341081
+35,New Mexico,US,2022-02-08,34.8405,-106.2485,"New Mexico, US",1441409,341160
+35,New Mexico,US,2022-02-09,34.8405,-106.2485,"New Mexico, US",1442345,341286
+35,New Mexico,US,2022-02-10,34.8405,-106.2485,"New Mexico, US",1443450,341440
+35,New Mexico,US,2022-02-11,34.8405,-106.2485,"New Mexico, US",1444944,341323
+35,New Mexico,US,2022-02-12,34.8405,-106.2485,"New Mexico, US",1446154,341300
+35,New Mexico,US,2022-02-13,34.8405,-106.2485,"New Mexico, US",1447536,341381
+35,New Mexico,US,2022-02-14,34.8405,-106.2485,"New Mexico, US",1448371,341325
+35,New Mexico,US,2022-02-15,34.8405,-106.2485,"New Mexico, US",1448371,341325
+35,New Mexico,US,2022-02-16,34.8405,-106.2485,"New Mexico, US",1448371,341325
+35,New Mexico,US,2022-02-17,34.8405,-106.2485,"New Mexico, US",1451983,340724
+35,New Mexico,US,2022-02-18,34.8405,-106.2485,"New Mexico, US",1453245,340951
+35,New Mexico,US,2022-02-19,34.8405,-106.2485,"New Mexico, US",1454046,341101
+35,New Mexico,US,2022-02-20,34.8405,-106.2485,"New Mexico, US",1454046,341101
+35,New Mexico,US,2022-02-21,34.8405,-106.2485,"New Mexico, US",1454046,341101
 36,New York,US,2020-12-10,42.1657,-74.9481,"New York, US",,
 36,New York,US,2020-12-11,42.1657,-74.9481,"New York, US",,
 36,New York,US,2020-12-12,42.1657,-74.9481,"New York, US",,
@@ -15891,6 +16964,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2022-01-21,42.1657,-74.9481,"New York, US",14294956,2595604
 36,New York,US,2022-01-22,42.1657,-74.9481,"New York, US",14311499,2598492
 36,New York,US,2022-01-23,42.1657,-74.9481,"New York, US",14323819,2604373
+36,New York,US,2022-01-24,42.1657,-74.9481,"New York, US",14331005,2608945
+36,New York,US,2022-01-25,42.1657,-74.9481,"New York, US",14341340,2611223
+36,New York,US,2022-01-26,42.1657,-74.9481,"New York, US",14357890,2613788
+36,New York,US,2022-01-27,42.1657,-74.9481,"New York, US",14373799,2613129
+36,New York,US,2022-01-28,42.1657,-74.9481,"New York, US",14389193,2614013
+36,New York,US,2022-01-29,42.1657,-74.9481,"New York, US",14404989,2614746
+36,New York,US,2022-01-30,42.1657,-74.9481,"New York, US",14416516,2616587
+36,New York,US,2022-01-31,42.1657,-74.9481,"New York, US",14421767,2616645
+36,New York,US,2022-02-01,42.1657,-74.9481,"New York, US",14430732,2617322
+36,New York,US,2022-02-02,42.1657,-74.9481,"New York, US",14445767,2616166
+36,New York,US,2022-02-03,42.1657,-74.9481,"New York, US",14459490,2614555
+36,New York,US,2022-02-04,42.1657,-74.9481,"New York, US",14473548,2612662
+36,New York,US,2022-02-05,42.1657,-74.9481,"New York, US",14487308,2610781
+36,New York,US,2022-02-06,42.1657,-74.9481,"New York, US",14502812,2607280
+36,New York,US,2022-02-07,42.1657,-74.9481,"New York, US",14509916,2607165
+36,New York,US,2022-02-08,42.1657,-74.9481,"New York, US",14517315,2607700
+36,New York,US,2022-02-09,42.1657,-74.9481,"New York, US",14529142,2607178
+36,New York,US,2022-02-10,42.1657,-74.9481,"New York, US",14541882,2605207
+36,New York,US,2022-02-11,42.1657,-74.9481,"New York, US",14554221,2604470
+36,New York,US,2022-02-12,42.1657,-74.9481,"New York, US",14566609,2603459
+36,New York,US,2022-02-13,42.1657,-74.9481,"New York, US",14579541,2601796
+36,New York,US,2022-02-14,42.1657,-74.9481,"New York, US",14585013,2602409
+36,New York,US,2022-02-15,42.1657,-74.9481,"New York, US",14585013,2602409
+36,New York,US,2022-02-16,42.1657,-74.9481,"New York, US",14585013,2602409
+36,New York,US,2022-02-17,42.1657,-74.9481,"New York, US",14611622,2601777
+36,New York,US,2022-02-18,42.1657,-74.9481,"New York, US",14621230,2602080
+36,New York,US,2022-02-19,42.1657,-74.9481,"New York, US",14632320,2602911
+36,New York,US,2022-02-20,42.1657,-74.9481,"New York, US",14632320,2602911
+36,New York,US,2022-02-21,42.1657,-74.9481,"New York, US",14632320,2602911
 37,North Carolina,US,2020-12-10,35.6301,-79.8064,"North Carolina, US",,
 37,North Carolina,US,2020-12-11,35.6301,-79.8064,"North Carolina, US",,
 37,North Carolina,US,2020-12-12,35.6301,-79.8064,"North Carolina, US",,
@@ -16301,6 +17403,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 37,North Carolina,US,2022-01-21,35.6301,-79.8064,"North Carolina, US",6243225,2320156
 37,North Carolina,US,2022-01-22,35.6301,-79.8064,"North Carolina, US",6243225,2325535
 37,North Carolina,US,2022-01-23,35.6301,-79.8064,"North Carolina, US",6243225,2328655
+37,North Carolina,US,2022-01-24,35.6301,-79.8064,"North Carolina, US",6254617,2330392
+37,North Carolina,US,2022-01-25,35.6301,-79.8064,"North Carolina, US",6257727,2332431
+37,North Carolina,US,2022-01-26,35.6301,-79.8064,"North Carolina, US",6262293,2337282
+37,North Carolina,US,2022-01-27,35.6301,-79.8064,"North Carolina, US",6305035,2340525
+37,North Carolina,US,2022-01-28,35.6301,-79.8064,"North Carolina, US",6309480,2343443
+37,North Carolina,US,2022-01-29,35.6301,-79.8064,"North Carolina, US",6309480,2347355
+37,North Carolina,US,2022-01-30,35.6301,-79.8064,"North Carolina, US",6309480,2350545
+37,North Carolina,US,2022-01-31,35.6301,-79.8064,"North Carolina, US",6317810,2352325
+37,North Carolina,US,2022-02-01,35.6301,-79.8064,"North Carolina, US",6321305,2354337
+37,North Carolina,US,2022-02-02,35.6301,-79.8064,"North Carolina, US",6324814,2357433
+37,North Carolina,US,2022-02-03,35.6301,-79.8064,"North Carolina, US",6329376,2369519
+37,North Carolina,US,2022-02-04,35.6301,-79.8064,"North Carolina, US",6332692,2371883
+37,North Carolina,US,2022-02-05,35.6301,-79.8064,"North Carolina, US",6332692,2374874
+37,North Carolina,US,2022-02-06,35.6301,-79.8064,"North Carolina, US",6332692,2376291
+37,North Carolina,US,2022-02-07,35.6301,-79.8064,"North Carolina, US",6340158,2377683
+37,North Carolina,US,2022-02-08,35.6301,-79.8064,"North Carolina, US",6343303,2380890
+37,North Carolina,US,2022-02-09,35.6301,-79.8064,"North Carolina, US",6345826,2382581
+37,North Carolina,US,2022-02-10,35.6301,-79.8064,"North Carolina, US",6348543,2385239
+37,North Carolina,US,2022-02-11,35.6301,-79.8064,"North Carolina, US",6351123,2386547
+37,North Carolina,US,2022-02-12,35.6301,-79.8064,"North Carolina, US",6351123,2387507
+37,North Carolina,US,2022-02-13,35.6301,-79.8064,"North Carolina, US",6351123,2389615
+37,North Carolina,US,2022-02-14,35.6301,-79.8064,"North Carolina, US",6356918,2391112
+37,North Carolina,US,2022-02-15,35.6301,-79.8064,"North Carolina, US",6356918,2391112
+37,North Carolina,US,2022-02-16,35.6301,-79.8064,"North Carolina, US",6356918,2391112
+37,North Carolina,US,2022-02-17,35.6301,-79.8064,"North Carolina, US",6362577,2393590
+37,North Carolina,US,2022-02-18,35.6301,-79.8064,"North Carolina, US",6365235,2394383
+37,North Carolina,US,2022-02-19,35.6301,-79.8064,"North Carolina, US",6365235,2395404
+37,North Carolina,US,2022-02-20,35.6301,-79.8064,"North Carolina, US",6365235,2395404
+37,North Carolina,US,2022-02-21,35.6301,-79.8064,"North Carolina, US",6374094,2395404
 38,North Dakota,US,2020-12-10,47.5289,-99.78399999999999,"North Dakota, US",,
 38,North Dakota,US,2020-12-11,47.5289,-99.78399999999999,"North Dakota, US",,
 38,North Dakota,US,2020-12-12,47.5289,-99.78399999999999,"North Dakota, US",,
@@ -16711,6 +17842,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 38,North Dakota,US,2022-01-21,47.5289,-99.78399999999999,"North Dakota, US",409600,75747
 38,North Dakota,US,2022-01-22,47.5289,-99.78399999999999,"North Dakota, US",409899,75829
 38,North Dakota,US,2022-01-23,47.5289,-99.78399999999999,"North Dakota, US",409949,75879
+38,North Dakota,US,2022-01-24,47.5289,-99.78399999999999,"North Dakota, US",409960,75886
+38,North Dakota,US,2022-01-25,47.5289,-99.78399999999999,"North Dakota, US",409974,75918
+38,North Dakota,US,2022-01-26,47.5289,-99.78399999999999,"North Dakota, US",410407,76095
+38,North Dakota,US,2022-01-27,47.5289,-99.78399999999999,"North Dakota, US",410645,76186
+38,North Dakota,US,2022-01-28,47.5289,-99.78399999999999,"North Dakota, US",410919,76274
+38,North Dakota,US,2022-01-29,47.5289,-99.78399999999999,"North Dakota, US",411127,76362
+38,North Dakota,US,2022-01-30,47.5289,-99.78399999999999,"North Dakota, US",411158,76394
+38,North Dakota,US,2022-01-31,47.5289,-99.78399999999999,"North Dakota, US",411160,76401
+38,North Dakota,US,2022-02-01,47.5289,-99.78399999999999,"North Dakota, US",411450,76427
+38,North Dakota,US,2022-02-02,47.5289,-99.78399999999999,"North Dakota, US",411563,76474
+38,North Dakota,US,2022-02-03,47.5289,-99.78399999999999,"North Dakota, US",411708,76520
+38,North Dakota,US,2022-02-04,47.5289,-99.78399999999999,"North Dakota, US",411911,76518
+38,North Dakota,US,2022-02-05,47.5289,-99.78399999999999,"North Dakota, US",412136,76546
+38,North Dakota,US,2022-02-06,47.5289,-99.78399999999999,"North Dakota, US",412163,76564
+38,North Dakota,US,2022-02-07,47.5289,-99.78399999999999,"North Dakota, US",412182,76583
+38,North Dakota,US,2022-02-08,47.5289,-99.78399999999999,"North Dakota, US",412414,76565
+38,North Dakota,US,2022-02-09,47.5289,-99.78399999999999,"North Dakota, US",412553,76551
+38,North Dakota,US,2022-02-10,47.5289,-99.78399999999999,"North Dakota, US",412737,76542
+38,North Dakota,US,2022-02-11,47.5289,-99.78399999999999,"North Dakota, US",412966,76510
+38,North Dakota,US,2022-02-12,47.5289,-99.78399999999999,"North Dakota, US",413189,76457
+38,North Dakota,US,2022-02-13,47.5289,-99.78399999999999,"North Dakota, US",413219,76469
+38,North Dakota,US,2022-02-14,47.5289,-99.78399999999999,"North Dakota, US",413221,76480
+38,North Dakota,US,2022-02-15,47.5289,-99.78399999999999,"North Dakota, US",413221,76480
+38,North Dakota,US,2022-02-16,47.5289,-99.78399999999999,"North Dakota, US",413221,76480
+38,North Dakota,US,2022-02-17,47.5289,-99.78399999999999,"North Dakota, US",413827,76466
+38,North Dakota,US,2022-02-18,47.5289,-99.78399999999999,"North Dakota, US",413960,76457
+38,North Dakota,US,2022-02-19,47.5289,-99.78399999999999,"North Dakota, US",414179,76428
+38,North Dakota,US,2022-02-20,47.5289,-99.78399999999999,"North Dakota, US",414179,76428
+38,North Dakota,US,2022-02-21,47.5289,-99.78399999999999,"North Dakota, US",414179,76428
 69,Northern Mariana Islands,US,2020-12-10,15.0979,145.6739,"Northern Mariana Islands, US",,
 69,Northern Mariana Islands,US,2020-12-11,15.0979,145.6739,"Northern Mariana Islands, US",,
 69,Northern Mariana Islands,US,2020-12-12,15.0979,145.6739,"Northern Mariana Islands, US",,
@@ -17121,6 +18281,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 69,Northern Mariana Islands,US,2022-01-21,15.0979,145.6739,"Northern Mariana Islands, US",42436,2536
 69,Northern Mariana Islands,US,2022-01-22,15.0979,145.6739,"Northern Mariana Islands, US",42436,2538
 69,Northern Mariana Islands,US,2022-01-23,15.0979,145.6739,"Northern Mariana Islands, US",42514,2538
+69,Northern Mariana Islands,US,2022-01-24,15.0979,145.6739,"Northern Mariana Islands, US",42547,2521
+69,Northern Mariana Islands,US,2022-01-25,15.0979,145.6739,"Northern Mariana Islands, US",42575,2541
+69,Northern Mariana Islands,US,2022-01-26,15.0979,145.6739,"Northern Mariana Islands, US",42608,2541
+69,Northern Mariana Islands,US,2022-01-27,15.0979,145.6739,"Northern Mariana Islands, US",42627,2528
+69,Northern Mariana Islands,US,2022-01-28,15.0979,145.6739,"Northern Mariana Islands, US",42736,2529
+69,Northern Mariana Islands,US,2022-01-29,15.0979,145.6739,"Northern Mariana Islands, US",42736,2529
+69,Northern Mariana Islands,US,2022-01-30,15.0979,145.6739,"Northern Mariana Islands, US",42779,2530
+69,Northern Mariana Islands,US,2022-01-31,15.0979,145.6739,"Northern Mariana Islands, US",42802,2497
+69,Northern Mariana Islands,US,2022-02-01,15.0979,145.6739,"Northern Mariana Islands, US",42807,2497
+69,Northern Mariana Islands,US,2022-02-02,15.0979,145.6739,"Northern Mariana Islands, US",42852,2495
+69,Northern Mariana Islands,US,2022-02-03,15.0979,145.6739,"Northern Mariana Islands, US",42880,2502
+69,Northern Mariana Islands,US,2022-02-04,15.0979,145.6739,"Northern Mariana Islands, US",42958,2474
+69,Northern Mariana Islands,US,2022-02-05,15.0979,145.6739,"Northern Mariana Islands, US",42960,2474
+69,Northern Mariana Islands,US,2022-02-06,15.0979,145.6739,"Northern Mariana Islands, US",42982,2475
+69,Northern Mariana Islands,US,2022-02-07,15.0979,145.6739,"Northern Mariana Islands, US",43000,2462
+69,Northern Mariana Islands,US,2022-02-08,15.0979,145.6739,"Northern Mariana Islands, US",43026,2447
+69,Northern Mariana Islands,US,2022-02-09,15.0979,145.6739,"Northern Mariana Islands, US",43047,2445
+69,Northern Mariana Islands,US,2022-02-10,15.0979,145.6739,"Northern Mariana Islands, US",43062,2437
+69,Northern Mariana Islands,US,2022-02-11,15.0979,145.6739,"Northern Mariana Islands, US",43119,2439
+69,Northern Mariana Islands,US,2022-02-12,15.0979,145.6739,"Northern Mariana Islands, US",43119,2439
+69,Northern Mariana Islands,US,2022-02-13,15.0979,145.6739,"Northern Mariana Islands, US",43149,2439
+69,Northern Mariana Islands,US,2022-02-14,15.0979,145.6739,"Northern Mariana Islands, US",43149,2439
+69,Northern Mariana Islands,US,2022-02-15,15.0979,145.6739,"Northern Mariana Islands, US",43149,2439
+69,Northern Mariana Islands,US,2022-02-16,15.0979,145.6739,"Northern Mariana Islands, US",43149,2439
+69,Northern Mariana Islands,US,2022-02-17,15.0979,145.6739,"Northern Mariana Islands, US",43283,2336
+69,Northern Mariana Islands,US,2022-02-18,15.0979,145.6739,"Northern Mariana Islands, US",43328,2358
+69,Northern Mariana Islands,US,2022-02-19,15.0979,145.6739,"Northern Mariana Islands, US",43328,2358
+69,Northern Mariana Islands,US,2022-02-20,15.0979,145.6739,"Northern Mariana Islands, US",43343,2358
+69,Northern Mariana Islands,US,2022-02-21,15.0979,145.6739,"Northern Mariana Islands, US",43376,2358
 39,Ohio,US,2020-12-10,40.3888,-82.7649,"Ohio, US",,
 39,Ohio,US,2020-12-11,40.3888,-82.7649,"Ohio, US",,
 39,Ohio,US,2020-12-12,40.3888,-82.7649,"Ohio, US",,
@@ -17531,6 +18720,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 39,Ohio,US,2022-01-21,40.3888,-82.7649,"Ohio, US",6589704,655081
 39,Ohio,US,2022-01-22,40.3888,-82.7649,"Ohio, US",6595539,654975
 39,Ohio,US,2022-01-23,40.3888,-82.7649,"Ohio, US",6601130,655206
+39,Ohio,US,2022-01-24,40.3888,-82.7649,"Ohio, US",6603806,655885
+39,Ohio,US,2022-01-25,40.3888,-82.7649,"Ohio, US",6605725,656150
+39,Ohio,US,2022-01-26,40.3888,-82.7649,"Ohio, US",6610232,655931
+39,Ohio,US,2022-01-27,40.3888,-82.7649,"Ohio, US",6618742,653032
+39,Ohio,US,2022-01-28,40.3888,-82.7649,"Ohio, US",6625273,651214
+39,Ohio,US,2022-01-29,40.3888,-82.7649,"Ohio, US",6630677,649964
+39,Ohio,US,2022-01-30,40.3888,-82.7649,"Ohio, US",6636584,648246
+39,Ohio,US,2022-01-31,40.3888,-82.7649,"Ohio, US",6640780,646554
+39,Ohio,US,2022-02-01,40.3888,-82.7649,"Ohio, US",6643357,645524
+39,Ohio,US,2022-02-02,40.3888,-82.7649,"Ohio, US",6647879,644260
+39,Ohio,US,2022-02-03,40.3888,-82.7649,"Ohio, US",6653301,642524
+39,Ohio,US,2022-02-04,40.3888,-82.7649,"Ohio, US",6659155,640163
+39,Ohio,US,2022-02-05,40.3888,-82.7649,"Ohio, US",6661805,639240
+39,Ohio,US,2022-02-06,40.3888,-82.7649,"Ohio, US",6664557,637984
+39,Ohio,US,2022-02-07,40.3888,-82.7649,"Ohio, US",6667915,635962
+39,Ohio,US,2022-02-08,40.3888,-82.7649,"Ohio, US",6670341,634556
+39,Ohio,US,2022-02-09,40.3888,-82.7649,"Ohio, US",6673867,633074
+39,Ohio,US,2022-02-10,40.3888,-82.7649,"Ohio, US",6678306,632023
+39,Ohio,US,2022-02-11,40.3888,-82.7649,"Ohio, US",6683303,630080
+39,Ohio,US,2022-02-12,40.3888,-82.7649,"Ohio, US",6687707,628812
+39,Ohio,US,2022-02-13,40.3888,-82.7649,"Ohio, US",6692123,627653
+39,Ohio,US,2022-02-14,40.3888,-82.7649,"Ohio, US",6695713,625920
+39,Ohio,US,2022-02-15,40.3888,-82.7649,"Ohio, US",6695713,625920
+39,Ohio,US,2022-02-16,40.3888,-82.7649,"Ohio, US",6695713,625920
+39,Ohio,US,2022-02-17,40.3888,-82.7649,"Ohio, US",6704695,624303
+39,Ohio,US,2022-02-18,40.3888,-82.7649,"Ohio, US",6708654,623358
+39,Ohio,US,2022-02-19,40.3888,-82.7649,"Ohio, US",6712161,622509
+39,Ohio,US,2022-02-20,40.3888,-82.7649,"Ohio, US",6712161,622509
+39,Ohio,US,2022-02-21,40.3888,-82.7649,"Ohio, US",6712161,622509
 40,Oklahoma,US,2020-12-10,35.5653,-96.9289,"Oklahoma, US",,
 40,Oklahoma,US,2020-12-11,35.5653,-96.9289,"Oklahoma, US",,
 40,Oklahoma,US,2020-12-12,35.5653,-96.9289,"Oklahoma, US",,
@@ -17941,6 +19159,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-01-21,35.5653,-96.9289,"Oklahoma, US",2165830,548997
 40,Oklahoma,US,2022-01-22,35.5653,-96.9289,"Oklahoma, US",2167677,550486
 40,Oklahoma,US,2022-01-23,35.5653,-96.9289,"Oklahoma, US",2169358,551950
+40,Oklahoma,US,2022-01-24,35.5653,-96.9289,"Oklahoma, US",2170316,552867
+40,Oklahoma,US,2022-01-25,35.5653,-96.9289,"Oklahoma, US",2171002,553540
+40,Oklahoma,US,2022-01-26,35.5653,-96.9289,"Oklahoma, US",2174214,553811
+40,Oklahoma,US,2022-01-27,35.5653,-96.9289,"Oklahoma, US",2176078,554217
+40,Oklahoma,US,2022-01-28,35.5653,-96.9289,"Oklahoma, US",2177890,554661
+40,Oklahoma,US,2022-01-29,35.5653,-96.9289,"Oklahoma, US",2179762,555253
+40,Oklahoma,US,2022-01-30,35.5653,-96.9289,"Oklahoma, US",2181834,555654
+40,Oklahoma,US,2022-01-31,35.5653,-96.9289,"Oklahoma, US",2183083,555808
+40,Oklahoma,US,2022-02-01,35.5653,-96.9289,"Oklahoma, US",2183804,555970
+40,Oklahoma,US,2022-02-02,35.5653,-96.9289,"Oklahoma, US",2185445,556173
+40,Oklahoma,US,2022-02-03,35.5653,-96.9289,"Oklahoma, US",2187212,555995
+40,Oklahoma,US,2022-02-04,35.5653,-96.9289,"Oklahoma, US",2188502,555971
+40,Oklahoma,US,2022-02-05,35.5653,-96.9289,"Oklahoma, US",2189166,556014
+40,Oklahoma,US,2022-02-06,35.5653,-96.9289,"Oklahoma, US",2190096,556021
+40,Oklahoma,US,2022-02-07,35.5653,-96.9289,"Oklahoma, US",2191088,555738
+40,Oklahoma,US,2022-02-08,35.5653,-96.9289,"Oklahoma, US",2191981,555482
+40,Oklahoma,US,2022-02-09,35.5653,-96.9289,"Oklahoma, US",2193702,555295
+40,Oklahoma,US,2022-02-10,35.5653,-96.9289,"Oklahoma, US",2195436,555075
+40,Oklahoma,US,2022-02-11,35.5653,-96.9289,"Oklahoma, US",2197257,554776
+40,Oklahoma,US,2022-02-12,35.5653,-96.9289,"Oklahoma, US",2198948,554448
+40,Oklahoma,US,2022-02-13,35.5653,-96.9289,"Oklahoma, US",2201180,554093
+40,Oklahoma,US,2022-02-14,35.5653,-96.9289,"Oklahoma, US",2202347,553933
+40,Oklahoma,US,2022-02-15,35.5653,-96.9289,"Oklahoma, US",2202347,553933
+40,Oklahoma,US,2022-02-16,35.5653,-96.9289,"Oklahoma, US",2202347,553933
+40,Oklahoma,US,2022-02-17,35.5653,-96.9289,"Oklahoma, US",2206921,553198
+40,Oklahoma,US,2022-02-18,35.5653,-96.9289,"Oklahoma, US",2208276,553147
+40,Oklahoma,US,2022-02-19,35.5653,-96.9289,"Oklahoma, US",2209577,553105
+40,Oklahoma,US,2022-02-20,35.5653,-96.9289,"Oklahoma, US",2209577,553105
+40,Oklahoma,US,2022-02-21,35.5653,-96.9289,"Oklahoma, US",2209577,553105
 41,Oregon,US,2020-12-10,44.571999999999996,-122.0709,"Oregon, US",,
 41,Oregon,US,2020-12-11,44.571999999999996,-122.0709,"Oregon, US",,
 41,Oregon,US,2020-12-12,44.571999999999996,-122.0709,"Oregon, US",,
@@ -18351,6 +19598,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2022-01-21,44.571999999999996,-122.0709,"Oregon, US",2846929,340648
 41,Oregon,US,2022-01-22,44.571999999999996,-122.0709,"Oregon, US",2848703,342659
 41,Oregon,US,2022-01-23,44.571999999999996,-122.0709,"Oregon, US",2850230,344335
+41,Oregon,US,2022-01-24,44.571999999999996,-122.0709,"Oregon, US",2851260,345530
+41,Oregon,US,2022-01-25,44.571999999999996,-122.0709,"Oregon, US",2851847,346270
+41,Oregon,US,2022-01-26,44.571999999999996,-122.0709,"Oregon, US",2853558,347305
+41,Oregon,US,2022-01-27,44.571999999999996,-122.0709,"Oregon, US",2855272,347747
+41,Oregon,US,2022-01-28,44.571999999999996,-122.0709,"Oregon, US",2857264,348392
+41,Oregon,US,2022-01-29,44.571999999999996,-122.0709,"Oregon, US",2859026,348903
+41,Oregon,US,2022-01-30,44.571999999999996,-122.0709,"Oregon, US",2861078,349273
+41,Oregon,US,2022-01-31,44.571999999999996,-122.0709,"Oregon, US",2862339,349504
+41,Oregon,US,2022-02-01,44.571999999999996,-122.0709,"Oregon, US",2862932,350109
+41,Oregon,US,2022-02-02,44.571999999999996,-122.0709,"Oregon, US",2864444,350358
+41,Oregon,US,2022-02-03,44.571999999999996,-122.0709,"Oregon, US",2866271,350697
+41,Oregon,US,2022-02-04,44.571999999999996,-122.0709,"Oregon, US",2867972,350831
+41,Oregon,US,2022-02-05,44.571999999999996,-122.0709,"Oregon, US",2869924,350846
+41,Oregon,US,2022-02-06,44.571999999999996,-122.0709,"Oregon, US",2872165,350747
+41,Oregon,US,2022-02-07,44.571999999999996,-122.0709,"Oregon, US",2873280,350768
+41,Oregon,US,2022-02-08,44.571999999999996,-122.0709,"Oregon, US",2873792,350858
+41,Oregon,US,2022-02-09,44.571999999999996,-122.0709,"Oregon, US",2873865,350939
+41,Oregon,US,2022-02-10,44.571999999999996,-122.0709,"Oregon, US",2875544,350967
+41,Oregon,US,2022-02-11,44.571999999999996,-122.0709,"Oregon, US",2877323,350817
+41,Oregon,US,2022-02-12,44.571999999999996,-122.0709,"Oregon, US",2879087,350665
+41,Oregon,US,2022-02-13,44.571999999999996,-122.0709,"Oregon, US",2880988,350335
+41,Oregon,US,2022-02-14,44.571999999999996,-122.0709,"Oregon, US",2882205,350189
+41,Oregon,US,2022-02-15,44.571999999999996,-122.0709,"Oregon, US",2882205,350189
+41,Oregon,US,2022-02-16,44.571999999999996,-122.0709,"Oregon, US",2882205,350189
+41,Oregon,US,2022-02-17,44.571999999999996,-122.0709,"Oregon, US",2885515,350076
+41,Oregon,US,2022-02-18,44.571999999999996,-122.0709,"Oregon, US",2887181,349897
+41,Oregon,US,2022-02-19,44.571999999999996,-122.0709,"Oregon, US",2888724,349735
+41,Oregon,US,2022-02-20,44.571999999999996,-122.0709,"Oregon, US",2888724,349735
+41,Oregon,US,2022-02-21,44.571999999999996,-122.0709,"Oregon, US",2888724,349735
 42,Pennsylvania,US,2020-12-10,40.5908,-77.2098,"Pennsylvania, US",,
 42,Pennsylvania,US,2020-12-11,40.5908,-77.2098,"Pennsylvania, US",,
 42,Pennsylvania,US,2020-12-12,40.5908,-77.2098,"Pennsylvania, US",,
@@ -18761,6 +20037,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 42,Pennsylvania,US,2022-01-21,40.5908,-77.2098,"Pennsylvania, US",8352090,2043164
 42,Pennsylvania,US,2022-01-22,40.5908,-77.2098,"Pennsylvania, US",8362828,2049166
 42,Pennsylvania,US,2022-01-23,40.5908,-77.2098,"Pennsylvania, US",8369481,2054018
+42,Pennsylvania,US,2022-01-24,40.5908,-77.2098,"Pennsylvania, US",8373418,2060701
+42,Pennsylvania,US,2022-01-25,40.5908,-77.2098,"Pennsylvania, US",8376030,2065304
+42,Pennsylvania,US,2022-01-26,40.5908,-77.2098,"Pennsylvania, US",8381486,2068695
+42,Pennsylvania,US,2022-01-27,40.5908,-77.2098,"Pennsylvania, US",8394026,2075712
+42,Pennsylvania,US,2022-01-28,40.5908,-77.2098,"Pennsylvania, US",8401030,2078215
+42,Pennsylvania,US,2022-01-29,40.5908,-77.2098,"Pennsylvania, US",8407908,2080451
+42,Pennsylvania,US,2022-01-30,40.5908,-77.2098,"Pennsylvania, US",8414473,2083218
+42,Pennsylvania,US,2022-01-31,40.5908,-77.2098,"Pennsylvania, US",8419217,2084721
+42,Pennsylvania,US,2022-02-01,40.5908,-77.2098,"Pennsylvania, US",8423121,2084801
+42,Pennsylvania,US,2022-02-02,40.5908,-77.2098,"Pennsylvania, US",8434737,2087609
+42,Pennsylvania,US,2022-02-03,40.5908,-77.2098,"Pennsylvania, US",8443447,2087814
+42,Pennsylvania,US,2022-02-04,40.5908,-77.2098,"Pennsylvania, US",8449787,2088162
+42,Pennsylvania,US,2022-02-05,40.5908,-77.2098,"Pennsylvania, US",8459651,2088986
+42,Pennsylvania,US,2022-02-06,40.5908,-77.2098,"Pennsylvania, US",8465567,2089012
+42,Pennsylvania,US,2022-02-07,40.5908,-77.2098,"Pennsylvania, US",8470554,2088536
+42,Pennsylvania,US,2022-02-08,40.5908,-77.2098,"Pennsylvania, US",8474463,2087688
+42,Pennsylvania,US,2022-02-09,40.5908,-77.2098,"Pennsylvania, US",8479166,2088300
+42,Pennsylvania,US,2022-02-10,40.5908,-77.2098,"Pennsylvania, US",8484950,2088505
+42,Pennsylvania,US,2022-02-11,40.5908,-77.2098,"Pennsylvania, US",8493283,2090114
+42,Pennsylvania,US,2022-02-12,40.5908,-77.2098,"Pennsylvania, US",8507069,2091475
+42,Pennsylvania,US,2022-02-13,40.5908,-77.2098,"Pennsylvania, US",8512784,2091262
+42,Pennsylvania,US,2022-02-14,40.5908,-77.2098,"Pennsylvania, US",8512926,2091456
+42,Pennsylvania,US,2022-02-15,40.5908,-77.2098,"Pennsylvania, US",8512926,2091456
+42,Pennsylvania,US,2022-02-16,40.5908,-77.2098,"Pennsylvania, US",8512926,2091456
+42,Pennsylvania,US,2022-02-17,40.5908,-77.2098,"Pennsylvania, US",8525362,2091745
+42,Pennsylvania,US,2022-02-18,40.5908,-77.2098,"Pennsylvania, US",8530641,2091482
+42,Pennsylvania,US,2022-02-19,40.5908,-77.2098,"Pennsylvania, US",8535603,2091339
+42,Pennsylvania,US,2022-02-20,40.5908,-77.2098,"Pennsylvania, US",8535603,2091339
+42,Pennsylvania,US,2022-02-21,40.5908,-77.2098,"Pennsylvania, US",8535603,2091339
 72,Puerto Rico,US,2020-12-10,18.2208,-66.5901,"Puerto Rico, US",,
 72,Puerto Rico,US,2020-12-11,18.2208,-66.5901,"Puerto Rico, US",,
 72,Puerto Rico,US,2020-12-12,18.2208,-66.5901,"Puerto Rico, US",,
@@ -19171,6 +20476,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 72,Puerto Rico,US,2022-01-21,18.2208,-66.5901,"Puerto Rico, US",2516882,413091
 72,Puerto Rico,US,2022-01-22,18.2208,-66.5901,"Puerto Rico, US",2516882,414118
 72,Puerto Rico,US,2022-01-23,18.2208,-66.5901,"Puerto Rico, US",2526475,414314
+72,Puerto Rico,US,2022-01-24,18.2208,-66.5901,"Puerto Rico, US",2527066,414454
+72,Puerto Rico,US,2022-01-25,18.2208,-66.5901,"Puerto Rico, US",2530192,417781
+72,Puerto Rico,US,2022-01-26,18.2208,-66.5901,"Puerto Rico, US",2533878,419081
+72,Puerto Rico,US,2022-01-27,18.2208,-66.5901,"Puerto Rico, US",2547824,419245
+72,Puerto Rico,US,2022-01-28,18.2208,-66.5901,"Puerto Rico, US",2547802,432279
+72,Puerto Rico,US,2022-01-29,18.2208,-66.5901,"Puerto Rico, US",2551813,433985
+72,Puerto Rico,US,2022-01-30,18.2208,-66.5901,"Puerto Rico, US",2553708,435820
+72,Puerto Rico,US,2022-01-31,18.2208,-66.5901,"Puerto Rico, US",2554381,435975
+72,Puerto Rico,US,2022-02-01,18.2208,-66.5901,"Puerto Rico, US",2558425,437875
+72,Puerto Rico,US,2022-02-02,18.2208,-66.5901,"Puerto Rico, US",2562862,439026
+72,Puerto Rico,US,2022-02-03,18.2208,-66.5901,"Puerto Rico, US",2567346,440364
+72,Puerto Rico,US,2022-02-04,18.2208,-66.5901,"Puerto Rico, US",2571966,441413
+72,Puerto Rico,US,2022-02-05,18.2208,-66.5901,"Puerto Rico, US",2575735,442144
+72,Puerto Rico,US,2022-02-06,18.2208,-66.5901,"Puerto Rico, US",2577556,442243
+72,Puerto Rico,US,2022-02-07,18.2208,-66.5901,"Puerto Rico, US",2578167,442325
+72,Puerto Rico,US,2022-02-08,18.2208,-66.5901,"Puerto Rico, US",2581122,443807
+72,Puerto Rico,US,2022-02-09,18.2208,-66.5901,"Puerto Rico, US",2585154,444055
+72,Puerto Rico,US,2022-02-10,18.2208,-66.5901,"Puerto Rico, US",2587870,444214
+72,Puerto Rico,US,2022-02-11,18.2208,-66.5901,"Puerto Rico, US",2591938,444295
+72,Puerto Rico,US,2022-02-12,18.2208,-66.5901,"Puerto Rico, US",2595206,444005
+72,Puerto Rico,US,2022-02-13,18.2208,-66.5901,"Puerto Rico, US",2596575,443528
+72,Puerto Rico,US,2022-02-14,18.2208,-66.5901,"Puerto Rico, US",2596975,443465
+72,Puerto Rico,US,2022-02-15,18.2208,-66.5901,"Puerto Rico, US",2599663,443465
+72,Puerto Rico,US,2022-02-16,18.2208,-66.5901,"Puerto Rico, US",2599663,443465
+72,Puerto Rico,US,2022-02-17,18.2208,-66.5901,"Puerto Rico, US",2606100,446314
+72,Puerto Rico,US,2022-02-18,18.2208,-66.5901,"Puerto Rico, US",2609630,446383
+72,Puerto Rico,US,2022-02-19,18.2208,-66.5901,"Puerto Rico, US",2612221,446451
+72,Puerto Rico,US,2022-02-20,18.2208,-66.5901,"Puerto Rico, US",2612926,446451
+72,Puerto Rico,US,2022-02-21,18.2208,-66.5901,"Puerto Rico, US",2613094,446451
 44,Rhode Island,US,2020-12-10,41.6809,-71.5118,"Rhode Island, US",,
 44,Rhode Island,US,2020-12-11,41.6809,-71.5118,"Rhode Island, US",,
 44,Rhode Island,US,2020-12-12,41.6809,-71.5118,"Rhode Island, US",,
@@ -19581,6 +20915,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2022-01-21,41.6809,-71.5118,"Rhode Island, US",828788,162826
 44,Rhode Island,US,2022-01-22,41.6809,-71.5118,"Rhode Island, US",829521,163111
 44,Rhode Island,US,2022-01-23,41.6809,-71.5118,"Rhode Island, US",830180,163224
+44,Rhode Island,US,2022-01-24,41.6809,-71.5118,"Rhode Island, US",830569,163530
+44,Rhode Island,US,2022-01-25,41.6809,-71.5118,"Rhode Island, US",831755,164573
+44,Rhode Island,US,2022-01-26,41.6809,-71.5118,"Rhode Island, US",832578,165052
+44,Rhode Island,US,2022-01-27,41.6809,-71.5118,"Rhode Island, US",833488,165172
+44,Rhode Island,US,2022-01-28,41.6809,-71.5118,"Rhode Island, US",834592,165273
+44,Rhode Island,US,2022-01-29,41.6809,-71.5118,"Rhode Island, US",835772,165109
+44,Rhode Island,US,2022-01-30,41.6809,-71.5118,"Rhode Island, US",836362,165194
+44,Rhode Island,US,2022-01-31,41.6809,-71.5118,"Rhode Island, US",836614,165254
+44,Rhode Island,US,2022-02-01,41.6809,-71.5118,"Rhode Island, US",837505,165230
+44,Rhode Island,US,2022-02-02,41.6809,-71.5118,"Rhode Island, US",838402,165182
+44,Rhode Island,US,2022-02-03,41.6809,-71.5118,"Rhode Island, US",839373,165253
+44,Rhode Island,US,2022-02-04,41.6809,-71.5118,"Rhode Island, US",840314,165163
+44,Rhode Island,US,2022-02-05,41.6809,-71.5118,"Rhode Island, US",841428,164957
+44,Rhode Island,US,2022-02-06,41.6809,-71.5118,"Rhode Island, US",841606,164952
+44,Rhode Island,US,2022-02-07,41.6809,-71.5118,"Rhode Island, US",841624,164975
+44,Rhode Island,US,2022-02-08,41.6809,-71.5118,"Rhode Island, US",842993,164953
+44,Rhode Island,US,2022-02-09,41.6809,-71.5118,"Rhode Island, US",843875,164919
+44,Rhode Island,US,2022-02-10,41.6809,-71.5118,"Rhode Island, US",844435,164858
+44,Rhode Island,US,2022-02-11,41.6809,-71.5118,"Rhode Island, US",845053,164700
+44,Rhode Island,US,2022-02-12,41.6809,-71.5118,"Rhode Island, US",845615,164572
+44,Rhode Island,US,2022-02-13,41.6809,-71.5118,"Rhode Island, US",846119,164448
+44,Rhode Island,US,2022-02-14,41.6809,-71.5118,"Rhode Island, US",846587,164313
+44,Rhode Island,US,2022-02-15,41.6809,-71.5118,"Rhode Island, US",846587,164313
+44,Rhode Island,US,2022-02-16,41.6809,-71.5118,"Rhode Island, US",846587,164313
+44,Rhode Island,US,2022-02-17,41.6809,-71.5118,"Rhode Island, US",849574,165137
+44,Rhode Island,US,2022-02-18,41.6809,-71.5118,"Rhode Island, US",850332,165119
+44,Rhode Island,US,2022-02-19,41.6809,-71.5118,"Rhode Island, US",850948,165142
+44,Rhode Island,US,2022-02-20,41.6809,-71.5118,"Rhode Island, US",850948,165142
+44,Rhode Island,US,2022-02-21,41.6809,-71.5118,"Rhode Island, US",850948,165142
 45,South Carolina,US,2020-12-10,33.8569,-80.945,"South Carolina, US",,
 45,South Carolina,US,2020-12-11,33.8569,-80.945,"South Carolina, US",,
 45,South Carolina,US,2020-12-12,33.8569,-80.945,"South Carolina, US",,
@@ -19991,6 +21354,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2022-01-21,33.8569,-80.945,"South Carolina, US",2808587,551940
 45,South Carolina,US,2022-01-22,33.8569,-80.945,"South Carolina, US",2811005,552296
 45,South Carolina,US,2022-01-23,33.8569,-80.945,"South Carolina, US",2813270,552985
+45,South Carolina,US,2022-01-24,33.8569,-80.945,"South Carolina, US",2813368,553231
+45,South Carolina,US,2022-01-25,33.8569,-80.945,"South Carolina, US",2815326,554317
+45,South Carolina,US,2022-01-26,33.8569,-80.945,"South Carolina, US",2817081,554797
+45,South Carolina,US,2022-01-27,33.8569,-80.945,"South Carolina, US",2819390,554964
+45,South Carolina,US,2022-01-28,33.8569,-80.945,"South Carolina, US",2821686,554980
+45,South Carolina,US,2022-01-29,33.8569,-80.945,"South Carolina, US",2823701,555177
+45,South Carolina,US,2022-01-30,33.8569,-80.945,"South Carolina, US",2826535,555008
+45,South Carolina,US,2022-01-31,33.8569,-80.945,"South Carolina, US",2828685,554775
+45,South Carolina,US,2022-02-01,33.8569,-80.945,"South Carolina, US",2829748,554816
+45,South Carolina,US,2022-02-02,33.8569,-80.945,"South Carolina, US",2831396,554900
+45,South Carolina,US,2022-02-03,33.8569,-80.945,"South Carolina, US",2833644,554718
+45,South Carolina,US,2022-02-04,33.8569,-80.945,"South Carolina, US",2835741,554673
+45,South Carolina,US,2022-02-05,33.8569,-80.945,"South Carolina, US",2837731,554711
+45,South Carolina,US,2022-02-06,33.8569,-80.945,"South Carolina, US",2840446,554293
+45,South Carolina,US,2022-02-07,33.8569,-80.945,"South Carolina, US",2842711,553780
+45,South Carolina,US,2022-02-08,33.8569,-80.945,"South Carolina, US",2843863,553517
+45,South Carolina,US,2022-02-09,33.8569,-80.945,"South Carolina, US",2842495,552270
+45,South Carolina,US,2022-02-10,33.8569,-80.945,"South Carolina, US",2844523,552421
+45,South Carolina,US,2022-02-11,33.8569,-80.945,"South Carolina, US",2846308,552463
+45,South Carolina,US,2022-02-12,33.8569,-80.945,"South Carolina, US",2848122,552397
+45,South Carolina,US,2022-02-13,33.8569,-80.945,"South Carolina, US",2850069,552184
+45,South Carolina,US,2022-02-14,33.8569,-80.945,"South Carolina, US",2851645,552180
+45,South Carolina,US,2022-02-15,33.8569,-80.945,"South Carolina, US",2851645,552180
+45,South Carolina,US,2022-02-16,33.8569,-80.945,"South Carolina, US",2851645,552180
+45,South Carolina,US,2022-02-17,33.8569,-80.945,"South Carolina, US",2856561,551182
+45,South Carolina,US,2022-02-18,33.8569,-80.945,"South Carolina, US",2858148,550868
+45,South Carolina,US,2022-02-19,33.8569,-80.945,"South Carolina, US",2859563,550841
+45,South Carolina,US,2022-02-20,33.8569,-80.945,"South Carolina, US",2859563,550841
+45,South Carolina,US,2022-02-21,33.8569,-80.945,"South Carolina, US",2859563,550841
 46,South Dakota,US,2020-12-10,44.2998,-99.4388,"South Dakota, US",,
 46,South Dakota,US,2020-12-11,44.2998,-99.4388,"South Dakota, US",,
 46,South Dakota,US,2020-12-12,44.2998,-99.4388,"South Dakota, US",,
@@ -20401,6 +21793,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2022-01-21,44.2998,-99.4388,"South Dakota, US",517427,131029
 46,South Dakota,US,2022-01-22,44.2998,-99.4388,"South Dakota, US",517964,131320
 46,South Dakota,US,2022-01-23,44.2998,-99.4388,"South Dakota, US",518058,131454
+46,South Dakota,US,2022-01-24,44.2998,-99.4388,"South Dakota, US",518083,131546
+46,South Dakota,US,2022-01-25,44.2998,-99.4388,"South Dakota, US",518744,131904
+46,South Dakota,US,2022-01-26,44.2998,-99.4388,"South Dakota, US",519152,132063
+46,South Dakota,US,2022-01-27,44.2998,-99.4388,"South Dakota, US",519580,132119
+46,South Dakota,US,2022-01-28,44.2998,-99.4388,"South Dakota, US",520038,132351
+46,South Dakota,US,2022-01-29,44.2998,-99.4388,"South Dakota, US",520485,132549
+46,South Dakota,US,2022-01-30,44.2998,-99.4388,"South Dakota, US",520608,132638
+46,South Dakota,US,2022-01-31,44.2998,-99.4388,"South Dakota, US",520632,132725
+46,South Dakota,US,2022-02-01,44.2998,-99.4388,"South Dakota, US",521332,132797
+46,South Dakota,US,2022-02-02,44.2998,-99.4388,"South Dakota, US",521806,132791
+46,South Dakota,US,2022-02-03,44.2998,-99.4388,"South Dakota, US",522291,132872
+46,South Dakota,US,2022-02-04,44.2998,-99.4388,"South Dakota, US",522776,132867
+46,South Dakota,US,2022-02-05,44.2998,-99.4388,"South Dakota, US",523292,132916
+46,South Dakota,US,2022-02-06,44.2998,-99.4388,"South Dakota, US",523395,133004
+46,South Dakota,US,2022-02-07,44.2998,-99.4388,"South Dakota, US",523439,133056
+46,South Dakota,US,2022-02-08,44.2998,-99.4388,"South Dakota, US",524181,132910
+46,South Dakota,US,2022-02-09,44.2998,-99.4388,"South Dakota, US",524545,132931
+46,South Dakota,US,2022-02-10,44.2998,-99.4388,"South Dakota, US",524860,132984
+46,South Dakota,US,2022-02-11,44.2998,-99.4388,"South Dakota, US",525313,133021
+46,South Dakota,US,2022-02-12,44.2998,-99.4388,"South Dakota, US",525669,133073
+46,South Dakota,US,2022-02-13,44.2998,-99.4388,"South Dakota, US",525786,133084
+46,South Dakota,US,2022-02-14,44.2998,-99.4388,"South Dakota, US",525850,133070
+46,South Dakota,US,2022-02-15,44.2998,-99.4388,"South Dakota, US",525850,133070
+46,South Dakota,US,2022-02-16,44.2998,-99.4388,"South Dakota, US",525850,133070
+46,South Dakota,US,2022-02-17,44.2998,-99.4388,"South Dakota, US",527134,133242
+46,South Dakota,US,2022-02-18,44.2998,-99.4388,"South Dakota, US",527529,133178
+46,South Dakota,US,2022-02-19,44.2998,-99.4388,"South Dakota, US",527824,133182
+46,South Dakota,US,2022-02-20,44.2998,-99.4388,"South Dakota, US",527824,133182
+46,South Dakota,US,2022-02-21,44.2998,-99.4388,"South Dakota, US",527824,133182
 47,Tennessee,US,2020-12-10,35.7478,-86.6923,"Tennessee, US",,
 47,Tennessee,US,2020-12-11,35.7478,-86.6923,"Tennessee, US",,
 47,Tennessee,US,2020-12-12,35.7478,-86.6923,"Tennessee, US",,
@@ -20811,6 +22232,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 47,Tennessee,US,2022-01-21,35.7478,-86.6923,"Tennessee, US",3613226,537585
 47,Tennessee,US,2022-01-22,35.7478,-86.6923,"Tennessee, US",3613226,537531
 47,Tennessee,US,2022-01-23,35.7478,-86.6923,"Tennessee, US",3613226,537796
+47,Tennessee,US,2022-01-24,35.7478,-86.6923,"Tennessee, US",3613226,538045
+47,Tennessee,US,2022-01-25,35.7478,-86.6923,"Tennessee, US",3613226,538291
+47,Tennessee,US,2022-01-26,35.7478,-86.6923,"Tennessee, US",3631869,538389
+47,Tennessee,US,2022-01-27,35.7478,-86.6923,"Tennessee, US",3631869,538754
+47,Tennessee,US,2022-01-28,35.7478,-86.6923,"Tennessee, US",3631869,538632
+47,Tennessee,US,2022-01-29,35.7478,-86.6923,"Tennessee, US",3631869,538864
+47,Tennessee,US,2022-01-30,35.7478,-86.6923,"Tennessee, US",3631869,539035
+47,Tennessee,US,2022-01-31,35.7478,-86.6923,"Tennessee, US",3631869,539138
+47,Tennessee,US,2022-02-01,35.7478,-86.6923,"Tennessee, US",3631869,538803
+47,Tennessee,US,2022-02-02,35.7478,-86.6923,"Tennessee, US",3644186,538888
+47,Tennessee,US,2022-02-03,35.7478,-86.6923,"Tennessee, US",3644186,538849
+47,Tennessee,US,2022-02-04,35.7478,-86.6923,"Tennessee, US",3644186,538702
+47,Tennessee,US,2022-02-05,35.7478,-86.6923,"Tennessee, US",3644186,538704
+47,Tennessee,US,2022-02-06,35.7478,-86.6923,"Tennessee, US",3644186,538947
+47,Tennessee,US,2022-02-07,35.7478,-86.6923,"Tennessee, US",3644186,539036
+47,Tennessee,US,2022-02-08,35.7478,-86.6923,"Tennessee, US",3644186,538049
+47,Tennessee,US,2022-02-09,35.7478,-86.6923,"Tennessee, US",3657266,537802
+47,Tennessee,US,2022-02-10,35.7478,-86.6923,"Tennessee, US",3657266,537396
+47,Tennessee,US,2022-02-11,35.7478,-86.6923,"Tennessee, US",3657266,537140
+47,Tennessee,US,2022-02-12,35.7478,-86.6923,"Tennessee, US",3657266,536917
+47,Tennessee,US,2022-02-13,35.7478,-86.6923,"Tennessee, US",3657266,537005
+47,Tennessee,US,2022-02-14,35.7478,-86.6923,"Tennessee, US",3657266,537073
+47,Tennessee,US,2022-02-15,35.7478,-86.6923,"Tennessee, US",3657266,537073
+47,Tennessee,US,2022-02-16,35.7478,-86.6923,"Tennessee, US",3657266,537073
+47,Tennessee,US,2022-02-17,35.7478,-86.6923,"Tennessee, US",3666409,535106
+47,Tennessee,US,2022-02-18,35.7478,-86.6923,"Tennessee, US",3666409,534095
+47,Tennessee,US,2022-02-19,35.7478,-86.6923,"Tennessee, US",3666409,533691
+47,Tennessee,US,2022-02-20,35.7478,-86.6923,"Tennessee, US",3666409,533691
+47,Tennessee,US,2022-02-21,35.7478,-86.6923,"Tennessee, US",3666409,533691
 48,Texas,US,2020-12-10,31.0545,-97.5635,"Texas, US",,
 48,Texas,US,2020-12-11,31.0545,-97.5635,"Texas, US",,
 48,Texas,US,2020-12-12,31.0545,-97.5635,"Texas, US",,
@@ -21221,6 +22671,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 48,Texas,US,2022-01-21,31.0545,-97.5635,"Texas, US",16893151,3116127
 48,Texas,US,2022-01-22,31.0545,-97.5635,"Texas, US",16927021,3124137
 48,Texas,US,2022-01-23,31.0545,-97.5635,"Texas, US",16939398,3130128
+48,Texas,US,2022-01-24,31.0545,-97.5635,"Texas, US",16946013,3136694
+48,Texas,US,2022-01-25,31.0545,-97.5635,"Texas, US",16958567,3139770
+48,Texas,US,2022-01-26,31.0545,-97.5635,"Texas, US",16974949,3140478
+48,Texas,US,2022-01-27,31.0545,-97.5635,"Texas, US",17012733,3141279
+48,Texas,US,2022-01-28,31.0545,-97.5635,"Texas, US",17029057,3142807
+48,Texas,US,2022-01-29,31.0545,-97.5635,"Texas, US",17046700,3142911
+48,Texas,US,2022-01-30,31.0545,-97.5635,"Texas, US",17057356,3144023
+48,Texas,US,2022-01-31,31.0545,-97.5635,"Texas, US",17072171,3147557
+48,Texas,US,2022-02-01,31.0545,-97.5635,"Texas, US",17084876,3149074
+48,Texas,US,2022-02-02,31.0545,-97.5635,"Texas, US",17100467,3148711
+48,Texas,US,2022-02-03,31.0545,-97.5635,"Texas, US",17117132,3147880
+48,Texas,US,2022-02-04,31.0545,-97.5635,"Texas, US",17131067,3148584
+48,Texas,US,2022-02-05,31.0545,-97.5635,"Texas, US",17142392,3149113
+48,Texas,US,2022-02-06,31.0545,-97.5635,"Texas, US",17154584,3148020
+48,Texas,US,2022-02-07,31.0545,-97.5635,"Texas, US",17163243,3146928
+48,Texas,US,2022-02-08,31.0545,-97.5635,"Texas, US",17176046,3147947
+48,Texas,US,2022-02-09,31.0545,-97.5635,"Texas, US",17191218,3147696
+48,Texas,US,2022-02-10,31.0545,-97.5635,"Texas, US",17205238,3147528
+48,Texas,US,2022-02-11,31.0545,-97.5635,"Texas, US",17221045,3146903
+48,Texas,US,2022-02-12,31.0545,-97.5635,"Texas, US",17236003,3147182
+48,Texas,US,2022-02-13,31.0545,-97.5635,"Texas, US",17249077,3145822
+48,Texas,US,2022-02-14,31.0545,-97.5635,"Texas, US",17257949,3145848
+48,Texas,US,2022-02-15,31.0545,-97.5635,"Texas, US",17257949,3145848
+48,Texas,US,2022-02-16,31.0545,-97.5635,"Texas, US",17257949,3145848
+48,Texas,US,2022-02-17,31.0545,-97.5635,"Texas, US",17298720,3145067
+48,Texas,US,2022-02-18,31.0545,-97.5635,"Texas, US",17311145,3147031
+48,Texas,US,2022-02-19,31.0545,-97.5635,"Texas, US",17323697,3150284
+48,Texas,US,2022-02-20,31.0545,-97.5635,"Texas, US",17323697,3150284
+48,Texas,US,2022-02-21,31.0545,-97.5635,"Texas, US",17323697,3150284
 49,Utah,US,2020-12-10,40.15,-111.8624,"Utah, US",,
 49,Utah,US,2020-12-11,40.15,-111.8624,"Utah, US",,
 49,Utah,US,2020-12-12,40.15,-111.8624,"Utah, US",,
@@ -21631,6 +23110,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 49,Utah,US,2022-01-21,40.15,-111.8624,"Utah, US",1935074,284593
 49,Utah,US,2022-01-22,40.15,-111.8624,"Utah, US",1935074,284717
 49,Utah,US,2022-01-23,40.15,-111.8624,"Utah, US",1935074,284789
+49,Utah,US,2022-01-24,40.15,-111.8624,"Utah, US",1937872,284872
+49,Utah,US,2022-01-25,40.15,-111.8624,"Utah, US",1938988,287146
+49,Utah,US,2022-01-26,40.15,-111.8624,"Utah, US",1941349,288005
+49,Utah,US,2022-01-27,40.15,-111.8624,"Utah, US",1942277,287927
+49,Utah,US,2022-01-28,40.15,-111.8624,"Utah, US",1943688,289127
+49,Utah,US,2022-01-29,40.15,-111.8624,"Utah, US",1944313,289608
+49,Utah,US,2022-01-30,40.15,-111.8624,"Utah, US",1944360,289683
+49,Utah,US,2022-01-31,40.15,-111.8624,"Utah, US",1946731,289745
+49,Utah,US,2022-02-01,40.15,-111.8624,"Utah, US",1947712,290120
+49,Utah,US,2022-02-02,40.15,-111.8624,"Utah, US",1949005,290210
+49,Utah,US,2022-02-03,40.15,-111.8624,"Utah, US",1953194,292223
+49,Utah,US,2022-02-04,40.15,-111.8624,"Utah, US",1953756,292662
+49,Utah,US,2022-02-05,40.15,-111.8624,"Utah, US",1959461,292725
+49,Utah,US,2022-02-06,40.15,-111.8624,"Utah, US",1959537,292885
+49,Utah,US,2022-02-07,40.15,-111.8624,"Utah, US",1959724,292898
+49,Utah,US,2022-02-08,40.15,-111.8624,"Utah, US",1963594,292280
+49,Utah,US,2022-02-09,40.15,-111.8624,"Utah, US",2001016,259883
+49,Utah,US,2022-02-10,40.15,-111.8624,"Utah, US",2004257,259713
+49,Utah,US,2022-02-11,40.15,-111.8624,"Utah, US",2004286,259793
+49,Utah,US,2022-02-12,40.15,-111.8624,"Utah, US",2007343,259517
+49,Utah,US,2022-02-13,40.15,-111.8624,"Utah, US",2007378,259565
+49,Utah,US,2022-02-14,40.15,-111.8624,"Utah, US",2007392,259602
+49,Utah,US,2022-02-15,40.15,-111.8624,"Utah, US",2007392,259602
+49,Utah,US,2022-02-16,40.15,-111.8624,"Utah, US",2007392,259602
+49,Utah,US,2022-02-17,40.15,-111.8624,"Utah, US",2021420,256171
+49,Utah,US,2022-02-18,40.15,-111.8624,"Utah, US",2021444,256218
+49,Utah,US,2022-02-19,40.15,-111.8624,"Utah, US",2022786,255807
+49,Utah,US,2022-02-20,40.15,-111.8624,"Utah, US",2022786,255807
+49,Utah,US,2022-02-21,40.15,-111.8624,"Utah, US",2022786,255807
 50,Vermont,US,2020-12-10,44.0459,-72.7107,"Vermont, US",,
 50,Vermont,US,2020-12-11,44.0459,-72.7107,"Vermont, US",,
 50,Vermont,US,2020-12-12,44.0459,-72.7107,"Vermont, US",,
@@ -22041,6 +23549,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 50,Vermont,US,2022-01-21,44.0459,-72.7107,"Vermont, US",492857,78479
 50,Vermont,US,2022-01-22,44.0459,-72.7107,"Vermont, US",493185,78604
 50,Vermont,US,2022-01-23,44.0459,-72.7107,"Vermont, US",493552,78630
+50,Vermont,US,2022-01-24,44.0459,-72.7107,"Vermont, US",493840,78860
+50,Vermont,US,2022-01-25,44.0459,-72.7107,"Vermont, US",494049,78964
+50,Vermont,US,2022-01-26,44.0459,-72.7107,"Vermont, US",494175,79031
+50,Vermont,US,2022-01-27,44.0459,-72.7107,"Vermont, US",494414,79122
+50,Vermont,US,2022-01-28,44.0459,-72.7107,"Vermont, US",494648,79150
+50,Vermont,US,2022-01-29,44.0459,-72.7107,"Vermont, US",494861,79198
+50,Vermont,US,2022-01-30,44.0459,-72.7107,"Vermont, US",495233,79173
+50,Vermont,US,2022-01-31,44.0459,-72.7107,"Vermont, US",495441,79319
+50,Vermont,US,2022-02-01,44.0459,-72.7107,"Vermont, US",495648,79448
+50,Vermont,US,2022-02-02,44.0459,-72.7107,"Vermont, US",495818,79396
+50,Vermont,US,2022-02-03,44.0459,-72.7107,"Vermont, US",496026,79426
+50,Vermont,US,2022-02-04,44.0459,-72.7107,"Vermont, US",496295,79528
+50,Vermont,US,2022-02-05,44.0459,-72.7107,"Vermont, US",496355,79599
+50,Vermont,US,2022-02-06,44.0459,-72.7107,"Vermont, US",496773,79512
+50,Vermont,US,2022-02-07,44.0459,-72.7107,"Vermont, US",496943,79491
+50,Vermont,US,2022-02-08,44.0459,-72.7107,"Vermont, US",497047,79525
+50,Vermont,US,2022-02-09,44.0459,-72.7107,"Vermont, US",497216,79541
+50,Vermont,US,2022-02-10,44.0459,-72.7107,"Vermont, US",497411,79568
+50,Vermont,US,2022-02-11,44.0459,-72.7107,"Vermont, US",497669,79503
+50,Vermont,US,2022-02-12,44.0459,-72.7107,"Vermont, US",497904,79432
+50,Vermont,US,2022-02-13,44.0459,-72.7107,"Vermont, US",498140,79380
+50,Vermont,US,2022-02-14,44.0459,-72.7107,"Vermont, US",498350,79333
+50,Vermont,US,2022-02-15,44.0459,-72.7107,"Vermont, US",498350,79333
+50,Vermont,US,2022-02-16,44.0459,-72.7107,"Vermont, US",498350,79333
+50,Vermont,US,2022-02-17,44.0459,-72.7107,"Vermont, US",498844,79506
+50,Vermont,US,2022-02-18,44.0459,-72.7107,"Vermont, US",499033,79516
+50,Vermont,US,2022-02-19,44.0459,-72.7107,"Vermont, US",499195,79530
+50,Vermont,US,2022-02-20,44.0459,-72.7107,"Vermont, US",499195,79530
+50,Vermont,US,2022-02-21,44.0459,-72.7107,"Vermont, US",499195,79530
 ,Veterans Health Administration,US,2020-12-10,,,"Veterans Health Administration, US",,
 ,Veterans Health Administration,US,2020-12-11,,,"Veterans Health Administration, US",,
 ,Veterans Health Administration,US,2020-12-12,,,"Veterans Health Administration, US",,
@@ -22451,6 +23988,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Veterans Health Administration,US,2022-01-21,,,"Veterans Health Administration, US",2919922,453597
 ,Veterans Health Administration,US,2022-01-22,,,"Veterans Health Administration, US",2920465,455183
 ,Veterans Health Administration,US,2022-01-23,,,"Veterans Health Administration, US",2920835,456821
+,Veterans Health Administration,US,2022-01-24,,,"Veterans Health Administration, US",2920839,456866
+,Veterans Health Administration,US,2022-01-25,,,"Veterans Health Administration, US",2920844,456874
+,Veterans Health Administration,US,2022-01-26,,,"Veterans Health Administration, US",2921326,457958
+,Veterans Health Administration,US,2022-01-27,,,"Veterans Health Administration, US",2921823,459165
+,Veterans Health Administration,US,2022-01-28,,,"Veterans Health Administration, US",2922376,460409
+,Veterans Health Administration,US,2022-01-29,,,"Veterans Health Administration, US",2922935,461534
+,Veterans Health Administration,US,2022-01-30,,,"Veterans Health Administration, US",2923391,462787
+,Veterans Health Administration,US,2022-01-31,,,"Veterans Health Administration, US",2923402,462800
+,Veterans Health Administration,US,2022-02-01,,,"Veterans Health Administration, US",2923404,462800
+,Veterans Health Administration,US,2022-02-02,,,"Veterans Health Administration, US",2923836,463576
+,Veterans Health Administration,US,2022-02-03,,,"Veterans Health Administration, US",2924356,464531
+,Veterans Health Administration,US,2022-02-04,,,"Veterans Health Administration, US",2924778,465370
+,Veterans Health Administration,US,2022-02-05,,,"Veterans Health Administration, US",2925183,466055
+,Veterans Health Administration,US,2022-02-06,,,"Veterans Health Administration, US",2925592,466697
+,Veterans Health Administration,US,2022-02-07,,,"Veterans Health Administration, US",2925597,466706
+,Veterans Health Administration,US,2022-02-08,,,"Veterans Health Administration, US",2925599,466711
+,Veterans Health Administration,US,2022-02-09,,,"Veterans Health Administration, US",2925935,467403
+,Veterans Health Administration,US,2022-02-10,,,"Veterans Health Administration, US",2926390,468133
+,Veterans Health Administration,US,2022-02-11,,,"Veterans Health Administration, US",2926877,468893
+,Veterans Health Administration,US,2022-02-12,,,"Veterans Health Administration, US",2927341,469627
+,Veterans Health Administration,US,2022-02-13,,,"Veterans Health Administration, US",2927769,470298
+,Veterans Health Administration,US,2022-02-14,,,"Veterans Health Administration, US",2927770,470306
+,Veterans Health Administration,US,2022-02-15,,,"Veterans Health Administration, US",2927770,470306
+,Veterans Health Administration,US,2022-02-16,,,"Veterans Health Administration, US",2927770,470306
+,Veterans Health Administration,US,2022-02-17,,,"Veterans Health Administration, US",2928462,471420
+,Veterans Health Administration,US,2022-02-18,,,"Veterans Health Administration, US",2928811,472182
+,Veterans Health Administration,US,2022-02-19,,,"Veterans Health Administration, US",2929196,472785
+,Veterans Health Administration,US,2022-02-20,,,"Veterans Health Administration, US",2929196,472785
+,Veterans Health Administration,US,2022-02-21,,,"Veterans Health Administration, US",2929196,472785
 78,Virgin Islands,US,2020-12-10,18.3358,-64.8963,"Virgin Islands, US",,
 78,Virgin Islands,US,2020-12-11,18.3358,-64.8963,"Virgin Islands, US",,
 78,Virgin Islands,US,2020-12-12,18.3358,-64.8963,"Virgin Islands, US",,
@@ -22861,6 +24427,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2022-01-21,18.3358,-64.8963,"Virgin Islands, US",54837,10728
 78,Virgin Islands,US,2022-01-22,18.3358,-64.8963,"Virgin Islands, US",54888,10750
 78,Virgin Islands,US,2022-01-23,18.3358,-64.8963,"Virgin Islands, US",54889,10755
+78,Virgin Islands,US,2022-01-24,18.3358,-64.8963,"Virgin Islands, US",54889,10756
+78,Virgin Islands,US,2022-01-25,18.3358,-64.8963,"Virgin Islands, US",54958,10851
+78,Virgin Islands,US,2022-01-26,18.3358,-64.8963,"Virgin Islands, US",55029,10807
+78,Virgin Islands,US,2022-01-27,18.3358,-64.8963,"Virgin Islands, US",55077,10802
+78,Virgin Islands,US,2022-01-28,18.3358,-64.8963,"Virgin Islands, US",55126,10797
+78,Virgin Islands,US,2022-01-29,18.3358,-64.8963,"Virgin Islands, US",55226,10749
+78,Virgin Islands,US,2022-01-30,18.3358,-64.8963,"Virgin Islands, US",55230,10749
+78,Virgin Islands,US,2022-01-31,18.3358,-64.8963,"Virgin Islands, US",55234,10745
+78,Virgin Islands,US,2022-02-01,18.3358,-64.8963,"Virgin Islands, US",55268,10728
+78,Virgin Islands,US,2022-02-02,18.3358,-64.8963,"Virgin Islands, US",55331,10954
+78,Virgin Islands,US,2022-02-03,18.3358,-64.8963,"Virgin Islands, US",55354,10954
+78,Virgin Islands,US,2022-02-04,18.3358,-64.8963,"Virgin Islands, US",55375,10960
+78,Virgin Islands,US,2022-02-05,18.3358,-64.8963,"Virgin Islands, US",55432,10961
+78,Virgin Islands,US,2022-02-06,18.3358,-64.8963,"Virgin Islands, US",55433,10962
+78,Virgin Islands,US,2022-02-07,18.3358,-64.8963,"Virgin Islands, US",55437,10961
+78,Virgin Islands,US,2022-02-08,18.3358,-64.8963,"Virgin Islands, US",55467,10970
+78,Virgin Islands,US,2022-02-09,18.3358,-64.8963,"Virgin Islands, US",55530,11128
+78,Virgin Islands,US,2022-02-10,18.3358,-64.8963,"Virgin Islands, US",55585,11125
+78,Virgin Islands,US,2022-02-11,18.3358,-64.8963,"Virgin Islands, US",55609,11127
+78,Virgin Islands,US,2022-02-12,18.3358,-64.8963,"Virgin Islands, US",55640,11123
+78,Virgin Islands,US,2022-02-13,18.3358,-64.8963,"Virgin Islands, US",55642,11126
+78,Virgin Islands,US,2022-02-14,18.3358,-64.8963,"Virgin Islands, US",55642,11128
+78,Virgin Islands,US,2022-02-15,18.3358,-64.8963,"Virgin Islands, US",55642,11128
+78,Virgin Islands,US,2022-02-16,18.3358,-64.8963,"Virgin Islands, US",55642,11128
+78,Virgin Islands,US,2022-02-17,18.3358,-64.8963,"Virgin Islands, US",55784,11415
+78,Virgin Islands,US,2022-02-18,18.3358,-64.8963,"Virgin Islands, US",55802,11425
+78,Virgin Islands,US,2022-02-19,18.3358,-64.8963,"Virgin Islands, US",55825,11438
+78,Virgin Islands,US,2022-02-20,18.3358,-64.8963,"Virgin Islands, US",55825,11438
+78,Virgin Islands,US,2022-02-21,18.3358,-64.8963,"Virgin Islands, US",55825,11438
 51,Virginia,US,2020-12-10,37.7693,-78.17,"Virginia, US",,
 51,Virginia,US,2020-12-11,37.7693,-78.17,"Virginia, US",,
 51,Virginia,US,2020-12-12,37.7693,-78.17,"Virginia, US",,
@@ -23271,6 +24866,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 51,Virginia,US,2022-01-21,37.7693,-78.17,"Virginia, US",5993358,1061611
 51,Virginia,US,2022-01-22,37.7693,-78.17,"Virginia, US",5997325,1064088
 51,Virginia,US,2022-01-23,37.7693,-78.17,"Virginia, US",6001869,1065210
+51,Virginia,US,2022-01-24,37.7693,-78.17,"Virginia, US",6004456,1066542
+51,Virginia,US,2022-01-25,37.7693,-78.17,"Virginia, US",6006596,1068195
+51,Virginia,US,2022-01-26,37.7693,-78.17,"Virginia, US",6009038,1069753
+51,Virginia,US,2022-01-27,37.7693,-78.17,"Virginia, US",6012324,1070433
+51,Virginia,US,2022-01-28,37.7693,-78.17,"Virginia, US",6016304,1071538
+51,Virginia,US,2022-01-29,37.7693,-78.17,"Virginia, US",6016597,1072080
+51,Virginia,US,2022-01-30,37.7693,-78.17,"Virginia, US",6023496,1072999
+51,Virginia,US,2022-01-31,37.7693,-78.17,"Virginia, US",6026645,1073239
+51,Virginia,US,2022-02-01,37.7693,-78.17,"Virginia, US",6028516,1073794
+51,Virginia,US,2022-02-02,37.7693,-78.17,"Virginia, US",6031861,1074975
+51,Virginia,US,2022-02-03,37.7693,-78.17,"Virginia, US",6034960,1075669
+51,Virginia,US,2022-02-04,37.7693,-78.17,"Virginia, US",6038884,1076624
+51,Virginia,US,2022-02-05,37.7693,-78.17,"Virginia, US",6043352,1077887
+51,Virginia,US,2022-02-06,37.7693,-78.17,"Virginia, US",6047522,1078526
+51,Virginia,US,2022-02-07,37.7693,-78.17,"Virginia, US",6049608,1078247
+51,Virginia,US,2022-02-08,37.7693,-78.17,"Virginia, US",6051074,1078050
+51,Virginia,US,2022-02-09,37.7693,-78.17,"Virginia, US",6071606,1076921
+51,Virginia,US,2022-02-10,37.7693,-78.17,"Virginia, US",6083844,1077854
+51,Virginia,US,2022-02-11,37.7693,-78.17,"Virginia, US",6087512,1077456
+51,Virginia,US,2022-02-12,37.7693,-78.17,"Virginia, US",6091818,1077389
+51,Virginia,US,2022-02-13,37.7693,-78.17,"Virginia, US",6099513,1075594
+51,Virginia,US,2022-02-14,37.7693,-78.17,"Virginia, US",6103087,1074749
+51,Virginia,US,2022-02-15,37.7693,-78.17,"Virginia, US",6103087,1074749
+51,Virginia,US,2022-02-16,37.7693,-78.17,"Virginia, US",6103087,1074749
+51,Virginia,US,2022-02-17,37.7693,-78.17,"Virginia, US",6116063,1070089
+51,Virginia,US,2022-02-18,37.7693,-78.17,"Virginia, US",6119149,1069663
+51,Virginia,US,2022-02-19,37.7693,-78.17,"Virginia, US",6122124,1069414
+51,Virginia,US,2022-02-20,37.7693,-78.17,"Virginia, US",6122124,1069414
+51,Virginia,US,2022-02-21,37.7693,-78.17,"Virginia, US",6122124,1069414
 53,Washington,US,2020-12-10,47.4009,-121.4905,"Washington, US",,
 53,Washington,US,2020-12-11,47.4009,-121.4905,"Washington, US",,
 53,Washington,US,2020-12-12,47.4009,-121.4905,"Washington, US",,
@@ -23681,6 +25305,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 53,Washington,US,2022-01-21,47.4009,-121.4905,"Washington, US",5299102,650781
 53,Washington,US,2022-01-22,47.4009,-121.4905,"Washington, US",5299260,651176
 53,Washington,US,2022-01-23,47.4009,-121.4905,"Washington, US",5299434,651611
+53,Washington,US,2022-01-24,47.4009,-121.4905,"Washington, US",5299557,651988
+53,Washington,US,2022-01-25,47.4009,-121.4905,"Washington, US",5310090,657448
+53,Washington,US,2022-01-26,47.4009,-121.4905,"Washington, US",5313334,659357
+53,Washington,US,2022-01-27,47.4009,-121.4905,"Washington, US",5316790,659729
+53,Washington,US,2022-01-28,47.4009,-121.4905,"Washington, US",5320354,660987
+53,Washington,US,2022-01-29,47.4009,-121.4905,"Washington, US",5324687,661564
+53,Washington,US,2022-01-30,47.4009,-121.4905,"Washington, US",5324878,661904
+53,Washington,US,2022-01-31,47.4009,-121.4905,"Washington, US",5324945,662115
+53,Washington,US,2022-02-01,47.4009,-121.4905,"Washington, US",5334250,663649
+53,Washington,US,2022-02-02,47.4009,-121.4905,"Washington, US",5338226,664035
+53,Washington,US,2022-02-03,47.4009,-121.4905,"Washington, US",5341909,664335
+53,Washington,US,2022-02-04,47.4009,-121.4905,"Washington, US",5345423,664301
+53,Washington,US,2022-02-05,47.4009,-121.4905,"Washington, US",5349430,664483
+53,Washington,US,2022-02-06,47.4009,-121.4905,"Washington, US",5349653,665091
+53,Washington,US,2022-02-07,47.4009,-121.4905,"Washington, US",5349723,5593527
+53,Washington,US,2022-02-08,47.4009,-121.4905,"Washington, US",5356916,5593527
+53,Washington,US,2022-02-09,47.4009,-121.4905,"Washington, US",5360899,5597512
+53,Washington,US,2022-02-10,47.4009,-121.4905,"Washington, US",5364543,5597512
+53,Washington,US,2022-02-11,47.4009,-121.4905,"Washington, US",5367993,5603337
+53,Washington,US,2022-02-12,47.4009,-121.4905,"Washington, US",5371949,5603337
+53,Washington,US,2022-02-13,47.4009,-121.4905,"Washington, US",5372091,5603337
+53,Washington,US,2022-02-14,47.4009,-121.4905,"Washington, US",5372158,5612401
+53,Washington,US,2022-02-15,47.4009,-121.4905,"Washington, US",5372158,5612401
+53,Washington,US,2022-02-16,47.4009,-121.4905,"Washington, US",5372158,5612401
+53,Washington,US,2022-02-17,47.4009,-121.4905,"Washington, US",5412079,5615541
+53,Washington,US,2022-02-18,47.4009,-121.4905,"Washington, US",5416734,5621491
+53,Washington,US,2022-02-19,47.4009,-121.4905,"Washington, US",5419707,5621491
+53,Washington,US,2022-02-20,47.4009,-121.4905,"Washington, US",5419707,5621491
+53,Washington,US,2022-02-21,47.4009,-121.4905,"Washington, US",5419707,5621491
 54,West Virginia,US,2020-12-10,38.4912,-80.9545,"West Virginia, US",,
 54,West Virginia,US,2020-12-11,38.4912,-80.9545,"West Virginia, US",,
 54,West Virginia,US,2020-12-12,38.4912,-80.9545,"West Virginia, US",,
@@ -24091,6 +25744,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 54,West Virginia,US,2022-01-21,38.4912,-80.9545,"West Virginia, US",1001978,131975
 54,West Virginia,US,2022-01-22,38.4912,-80.9545,"West Virginia, US",1002548,132153
 54,West Virginia,US,2022-01-23,38.4912,-80.9545,"West Virginia, US",1002599,132227
+54,West Virginia,US,2022-01-24,38.4912,-80.9545,"West Virginia, US",1002627,132298
+54,West Virginia,US,2022-01-25,38.4912,-80.9545,"West Virginia, US",1003779,132480
+54,West Virginia,US,2022-01-26,38.4912,-80.9545,"West Virginia, US",1004286,132451
+54,West Virginia,US,2022-01-27,38.4912,-80.9545,"West Virginia, US",1004874,132500
+54,West Virginia,US,2022-01-28,38.4912,-80.9545,"West Virginia, US",1005525,132568
+54,West Virginia,US,2022-01-29,38.4912,-80.9545,"West Virginia, US",1006133,132581
+54,West Virginia,US,2022-01-30,38.4912,-80.9545,"West Virginia, US",1006201,132655
+54,West Virginia,US,2022-01-31,38.4912,-80.9545,"West Virginia, US",1006239,132691
+54,West Virginia,US,2022-02-01,38.4912,-80.9545,"West Virginia, US",1007172,132752
+54,West Virginia,US,2022-02-02,38.4912,-80.9545,"West Virginia, US",1007597,132805
+54,West Virginia,US,2022-02-03,38.4912,-80.9545,"West Virginia, US",1008163,132806
+54,West Virginia,US,2022-02-04,38.4912,-80.9545,"West Virginia, US",1008784,132837
+54,West Virginia,US,2022-02-05,38.4912,-80.9545,"West Virginia, US",1009400,132872
+54,West Virginia,US,2022-02-06,38.4912,-80.9545,"West Virginia, US",1009456,132907
+54,West Virginia,US,2022-02-07,38.4912,-80.9545,"West Virginia, US",1009473,132909
+54,West Virginia,US,2022-02-08,38.4912,-80.9545,"West Virginia, US",1010473,132734
+54,West Virginia,US,2022-02-09,38.4912,-80.9545,"West Virginia, US",1010906,132700
+54,West Virginia,US,2022-02-10,38.4912,-80.9545,"West Virginia, US",1011450,132721
+54,West Virginia,US,2022-02-11,38.4912,-80.9545,"West Virginia, US",1011866,132758
+54,West Virginia,US,2022-02-12,38.4912,-80.9545,"West Virginia, US",1012408,132797
+54,West Virginia,US,2022-02-13,38.4912,-80.9545,"West Virginia, US",1012504,132815
+54,West Virginia,US,2022-02-14,38.4912,-80.9545,"West Virginia, US",1012532,132823
+54,West Virginia,US,2022-02-15,38.4912,-80.9545,"West Virginia, US",1012532,132823
+54,West Virginia,US,2022-02-16,38.4912,-80.9545,"West Virginia, US",1012532,132823
+54,West Virginia,US,2022-02-17,38.4912,-80.9545,"West Virginia, US",1014276,132837
+54,West Virginia,US,2022-02-18,38.4912,-80.9545,"West Virginia, US",1014631,132882
+54,West Virginia,US,2022-02-19,38.4912,-80.9545,"West Virginia, US",1015030,132893
+54,West Virginia,US,2022-02-20,38.4912,-80.9545,"West Virginia, US",1015030,132893
+54,West Virginia,US,2022-02-21,38.4912,-80.9545,"West Virginia, US",1015030,132893
 55,Wisconsin,US,2020-12-10,44.2685,-89.6165,"Wisconsin, US",,
 55,Wisconsin,US,2020-12-11,44.2685,-89.6165,"Wisconsin, US",,
 55,Wisconsin,US,2020-12-12,44.2685,-89.6165,"Wisconsin, US",,
@@ -24501,6 +26183,35 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 55,Wisconsin,US,2022-01-21,44.2685,-89.6165,"Wisconsin, US",3676151,393163
 55,Wisconsin,US,2022-01-22,44.2685,-89.6165,"Wisconsin, US",3679616,393384
 55,Wisconsin,US,2022-01-23,44.2685,-89.6165,"Wisconsin, US",3682975,393920
+55,Wisconsin,US,2022-01-24,44.2685,-89.6165,"Wisconsin, US",3684342,394562
+55,Wisconsin,US,2022-01-25,44.2685,-89.6165,"Wisconsin, US",3685067,395097
+55,Wisconsin,US,2022-01-26,44.2685,-89.6165,"Wisconsin, US",3687544,395249
+55,Wisconsin,US,2022-01-27,44.2685,-89.6165,"Wisconsin, US",3690547,395279
+55,Wisconsin,US,2022-01-28,44.2685,-89.6165,"Wisconsin, US",3693665,395068
+55,Wisconsin,US,2022-01-29,44.2685,-89.6165,"Wisconsin, US",3696820,394838
+55,Wisconsin,US,2022-01-30,44.2685,-89.6165,"Wisconsin, US",3700443,394274
+55,Wisconsin,US,2022-01-31,44.2685,-89.6165,"Wisconsin, US",3703247,393731
+55,Wisconsin,US,2022-02-01,44.2685,-89.6165,"Wisconsin, US",3704241,393732
+55,Wisconsin,US,2022-02-02,44.2685,-89.6165,"Wisconsin, US",3706816,393434
+55,Wisconsin,US,2022-02-03,44.2685,-89.6165,"Wisconsin, US",3709883,392756
+55,Wisconsin,US,2022-02-04,44.2685,-89.6165,"Wisconsin, US",3713050,391849
+55,Wisconsin,US,2022-02-05,44.2685,-89.6165,"Wisconsin, US",3716457,391295
+55,Wisconsin,US,2022-02-06,44.2685,-89.6165,"Wisconsin, US",3719776,390440
+55,Wisconsin,US,2022-02-07,44.2685,-89.6165,"Wisconsin, US",3721864,389707
+55,Wisconsin,US,2022-02-08,44.2685,-89.6165,"Wisconsin, US",3722906,389423
+55,Wisconsin,US,2022-02-09,44.2685,-89.6165,"Wisconsin, US",3725291,389023
+55,Wisconsin,US,2022-02-10,44.2685,-89.6165,"Wisconsin, US",3728134,388163
+55,Wisconsin,US,2022-02-11,44.2685,-89.6165,"Wisconsin, US",3731103,386926
+55,Wisconsin,US,2022-02-12,44.2685,-89.6165,"Wisconsin, US",3733697,386154
+55,Wisconsin,US,2022-02-13,44.2685,-89.6165,"Wisconsin, US",3736571,385011
+55,Wisconsin,US,2022-02-14,44.2685,-89.6165,"Wisconsin, US",3738069,384361
+55,Wisconsin,US,2022-02-15,44.2685,-89.6165,"Wisconsin, US",3738069,384361
+55,Wisconsin,US,2022-02-16,44.2685,-89.6165,"Wisconsin, US",3738069,384361
+55,Wisconsin,US,2022-02-17,44.2685,-89.6165,"Wisconsin, US",3743051,383243
+55,Wisconsin,US,2022-02-18,44.2685,-89.6165,"Wisconsin, US",3745359,382287
+55,Wisconsin,US,2022-02-19,44.2685,-89.6165,"Wisconsin, US",3747663,381591
+55,Wisconsin,US,2022-02-20,44.2685,-89.6165,"Wisconsin, US",3747663,381591
+55,Wisconsin,US,2022-02-21,44.2685,-89.6165,"Wisconsin, US",3747663,381591
 56,Wyoming,US,2020-12-10,42.756,-107.3025,"Wyoming, US",,
 56,Wyoming,US,2020-12-11,42.756,-107.3025,"Wyoming, US",,
 56,Wyoming,US,2020-12-12,42.756,-107.3025,"Wyoming, US",,
@@ -24911,3 +26622,32 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 56,Wyoming,US,2022-01-21,42.756,-107.3025,"Wyoming, US",286846,42125
 56,Wyoming,US,2022-01-22,42.756,-107.3025,"Wyoming, US",287026,42279
 56,Wyoming,US,2022-01-23,42.756,-107.3025,"Wyoming, US",287066,42310
+56,Wyoming,US,2022-01-24,42.756,-107.3025,"Wyoming, US",287072,42337
+56,Wyoming,US,2022-01-25,42.756,-107.3025,"Wyoming, US",287131,42402
+56,Wyoming,US,2022-01-26,42.756,-107.3025,"Wyoming, US",287660,42619
+56,Wyoming,US,2022-01-27,42.756,-107.3025,"Wyoming, US",287854,42732
+56,Wyoming,US,2022-01-28,42.756,-107.3025,"Wyoming, US",288042,42841
+56,Wyoming,US,2022-01-29,42.756,-107.3025,"Wyoming, US",288279,42881
+56,Wyoming,US,2022-01-30,42.756,-107.3025,"Wyoming, US",288323,42885
+56,Wyoming,US,2022-01-31,42.756,-107.3025,"Wyoming, US",288335,42909
+56,Wyoming,US,2022-02-01,42.756,-107.3025,"Wyoming, US",288654,42951
+56,Wyoming,US,2022-02-02,42.756,-107.3025,"Wyoming, US",288798,42961
+56,Wyoming,US,2022-02-03,42.756,-107.3025,"Wyoming, US",289000,42991
+56,Wyoming,US,2022-02-04,42.756,-107.3025,"Wyoming, US",289157,43011
+56,Wyoming,US,2022-02-05,42.756,-107.3025,"Wyoming, US",289414,43040
+56,Wyoming,US,2022-02-06,42.756,-107.3025,"Wyoming, US",289454,43076
+56,Wyoming,US,2022-02-07,42.756,-107.3025,"Wyoming, US",289461,43082
+56,Wyoming,US,2022-02-08,42.756,-107.3025,"Wyoming, US",289500,43102
+56,Wyoming,US,2022-02-09,42.756,-107.3025,"Wyoming, US",289594,43072
+56,Wyoming,US,2022-02-10,42.756,-107.3025,"Wyoming, US",290248,42977
+56,Wyoming,US,2022-02-11,42.756,-107.3025,"Wyoming, US",290595,43039
+56,Wyoming,US,2022-02-12,42.756,-107.3025,"Wyoming, US",290847,42977
+56,Wyoming,US,2022-02-13,42.756,-107.3025,"Wyoming, US",290880,42987
+56,Wyoming,US,2022-02-14,42.756,-107.3025,"Wyoming, US",290886,42997
+56,Wyoming,US,2022-02-15,42.756,-107.3025,"Wyoming, US",290886,42997
+56,Wyoming,US,2022-02-16,42.756,-107.3025,"Wyoming, US",290886,42997
+56,Wyoming,US,2022-02-17,42.756,-107.3025,"Wyoming, US",291651,42951
+56,Wyoming,US,2022-02-18,42.756,-107.3025,"Wyoming, US",291827,42921
+56,Wyoming,US,2022-02-19,42.756,-107.3025,"Wyoming, US",292007,42871
+56,Wyoming,US,2022-02-20,42.756,-107.3025,"Wyoming, US",292007,42871
+56,Wyoming,US,2022-02-21,42.756,-107.3025,"Wyoming, US",292007,42871
