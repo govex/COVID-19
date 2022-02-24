@@ -36,7 +36,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 ### FL
 - Cases and deaths: http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/cases-monitoring-and-pui-information/state-report/state_reports_latest.pdf
 - Vaccines: http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/vaccine/vaccine_report_latest.pdf
-- Weekly report for Cases, Deaths, and Vaccines after 7/2: http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/covid19-data/covid19_data_latest.pdf
+- Weekly report for Cases, Deaths, and Vaccines after 7/2/2021: http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/covid19-data/covid19_data_latest.pdf
 ### GA
 - Cases and deaths: https://dph.georgia.gov/covid-19-daily-status-report
 - Vaccines: https://experience.arcgis.com/experience/3d8eea39f5c1443db1743a4cb8948a9c 
@@ -48,6 +48,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 - Cases: https://coronavirus.iowa.gov/pages/case-counts 
 - Deaths: https://coronavirus.iowa.gov/pages/outcome-analysis-deaths
 - Vaccines: https://coronavirus.iowa.gov/pages/vaccineinformation#VaccineInformation
+- Cases, Deaths, and Vaccines after 2/15/2022: https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Reporting?utm_medium=email&utm_source=govdelivery
 ### IN
 - Cases, deaths, and tests: https://hub.mph.in.gov/dataset/covid-19-case-demographics
 - Vaccines: https://hub.mph.in.gov/dataset/covid-19-vaccinations-demographics-by-county-and-district
