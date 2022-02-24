@@ -28,7 +28,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2022-02-24,42.2302,-71.5301,"Massachusetts, US",5343390,1295731
 26,Michigan,US,2022-02-24,43.3266,-84.5361,"Michigan, US",5898922,685501
 27,Minnesota,US,2022-02-24,45.6945,-93.9002,"Minnesota, US",3837559,349888
-28,Mississippi,US,2022-02-24,32.7416,-89.6787,"Mississippi, US",1514537,234814
+28,Mississippi,US,2022-02-24,32.7416,-89.6787,"Mississippi, US",1515299,234814
 29,Missouri,US,2022-02-24,38.4561,-92.2884,"Missouri, US",3376850,628814
 30,Montana,US,2022-02-24,46.9219,-110.4544,"Montana, US",596834,91586
 31,Nebraska,US,2022-02-24,41.1254,-98.2681,"Nebraska, US",1206878,133568
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2022-02-24,40.2989,-74.521,"New Jersey, US",6709259,1307393
 35,New Mexico,US,2022-02-24,34.8405,-106.2485,"New Mexico, US",1456275,341219
 36,New York,US,2022-02-24,42.1657,-74.9481,"New York, US",14658831,2608409
-37,North Carolina,US,2022-02-24,35.6301,-79.8064,"North Carolina, US",6377316,2400400
+37,North Carolina,US,2022-02-24,35.6301,-79.8064,"North Carolina, US",6379443,2400400
 38,North Dakota,US,2022-02-24,47.5289,-99.784,"North Dakota, US",414429,76400
 69,Northern Mariana Islands,US,2022-02-24,15.0979,145.6739,"Northern Mariana Islands, US",43410,2297
 39,Ohio,US,2022-02-24,40.3888,-82.7649,"Ohio, US",6722087,619306
