@@ -438,6 +438,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2022-02-19,32.3182,-86.9023,"Alabama, US",2453426,572855
 1,Alabama,US,2022-02-20,32.3182,-86.9023,"Alabama, US",2453426,572855
 1,Alabama,US,2022-02-21,32.3182,-86.9023,"Alabama, US",2453426,572855
+1,Alabama,US,2022-02-22,32.3182,-86.9023,"Alabama, US",2457846,572340
+1,Alabama,US,2022-02-23,32.3182,-86.9023,"Alabama, US",2458072,572340
 2,Alaska,US,2020-12-10,61.3707,-152.4044,"Alaska, US",,
 2,Alaska,US,2020-12-11,61.3707,-152.4044,"Alaska, US",,
 2,Alaska,US,2020-12-12,61.3707,-152.4044,"Alaska, US",,
@@ -877,6 +879,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-02-19,61.3707,-152.4044,"Alaska, US",444763,55393
 2,Alaska,US,2022-02-20,61.3707,-152.4044,"Alaska, US",444763,55393
 2,Alaska,US,2022-02-21,61.3707,-152.4044,"Alaska, US",444763,55393
+2,Alaska,US,2022-02-22,61.3707,-152.4044,"Alaska, US",445185,55375
+2,Alaska,US,2022-02-23,61.3707,-152.4044,"Alaska, US",445199,55390
 60,American Samoa,US,2020-12-10,-14.270999999999999,-170.132,"American Samoa, US",,
 60,American Samoa,US,2020-12-11,-14.270999999999999,-170.132,"American Samoa, US",,
 60,American Samoa,US,2020-12-12,-14.270999999999999,-170.132,"American Samoa, US",,
@@ -1316,6 +1320,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 60,American Samoa,US,2022-02-19,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
 60,American Samoa,US,2022-02-20,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
 60,American Samoa,US,2022-02-21,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
+60,American Samoa,US,2022-02-22,-14.270999999999999,-170.132,"American Samoa, US",38066,4509
+60,American Samoa,US,2022-02-23,-14.270999999999999,-170.132,"American Samoa, US",38167,4492
 4,Arizona,US,2020-12-10,33.7298,-111.4312,"Arizona, US",,
 4,Arizona,US,2020-12-11,33.7298,-111.4312,"Arizona, US",,
 4,Arizona,US,2020-12-12,33.7298,-111.4312,"Arizona, US",,
@@ -1755,6 +1761,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 4,Arizona,US,2022-02-19,33.7298,-111.4312,"Arizona, US",4352169,828721
 4,Arizona,US,2022-02-20,33.7298,-111.4312,"Arizona, US",4352169,828721
 4,Arizona,US,2022-02-21,33.7298,-111.4312,"Arizona, US",4352169,828721
+4,Arizona,US,2022-02-22,33.7298,-111.4312,"Arizona, US",4359263,827882
+4,Arizona,US,2022-02-23,33.7298,-111.4312,"Arizona, US",4830487,827563
 5,Arkansas,US,2020-12-10,34.9697,-92.3731,"Arkansas, US",,
 5,Arkansas,US,2020-12-11,34.9697,-92.3731,"Arkansas, US",,
 5,Arkansas,US,2020-12-12,34.9697,-92.3731,"Arkansas, US",,
@@ -2194,6 +2202,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 5,Arkansas,US,2022-02-19,34.9697,-92.3731,"Arkansas, US",1609584,370846
 5,Arkansas,US,2022-02-20,34.9697,-92.3731,"Arkansas, US",1609584,370789
 5,Arkansas,US,2022-02-21,34.9697,-92.3731,"Arkansas, US",1609584,370825
+5,Arkansas,US,2022-02-22,34.9697,-92.3731,"Arkansas, US",1611414,370746
+5,Arkansas,US,2022-02-23,34.9697,-92.3731,"Arkansas, US",1612003,370717
 6,California,US,2020-12-10,36.1162,-119.6816,"California, US",,
 6,California,US,2020-12-11,36.1162,-119.6816,"California, US",,
 6,California,US,2020-12-12,36.1162,-119.6816,"California, US",,
@@ -2633,6 +2643,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 6,California,US,2022-02-19,36.1162,-119.6816,"California, US",27941393,4504619
 6,California,US,2022-02-20,36.1162,-119.6816,"California, US",27955110,4504619
 6,California,US,2022-02-21,36.1162,-119.6816,"California, US",27963990,4504619
+6,California,US,2022-02-22,36.1162,-119.6816,"California, US",27971916,4506861
+6,California,US,2022-02-23,36.1162,-119.6816,"California, US",27758850,4508333
 8,Colorado,US,2020-12-10,39.0598,-105.3111,"Colorado, US",,
 8,Colorado,US,2020-12-11,39.0598,-105.3111,"Colorado, US",,
 8,Colorado,US,2020-12-12,39.0598,-105.3111,"Colorado, US",,
@@ -3072,6 +3084,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 8,Colorado,US,2022-02-19,39.0598,-105.3111,"Colorado, US",3974464,526696
 8,Colorado,US,2022-02-20,39.0598,-105.3111,"Colorado, US",3974464,526696
 8,Colorado,US,2022-02-21,39.0598,-105.3111,"Colorado, US",3974464,526696
+8,Colorado,US,2022-02-22,39.0598,-105.3111,"Colorado, US",3977803,526637
+8,Colorado,US,2022-02-23,39.0598,-105.3111,"Colorado, US",3979483,526599
 9,Connecticut,US,2020-12-10,41.5978,-72.7554,"Connecticut, US",,
 9,Connecticut,US,2020-12-11,41.5978,-72.7554,"Connecticut, US",,
 9,Connecticut,US,2020-12-12,41.5978,-72.7554,"Connecticut, US",,
@@ -3511,6 +3525,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 9,Connecticut,US,2022-02-19,41.5978,-72.7554,"Connecticut, US",2764670,573208
 9,Connecticut,US,2022-02-20,41.5978,-72.7554,"Connecticut, US",2764670,573208
 9,Connecticut,US,2022-02-21,41.5978,-72.7554,"Connecticut, US",2764670,573208
+9,Connecticut,US,2022-02-22,41.5978,-72.7554,"Connecticut, US",2767876,573843
+9,Connecticut,US,2022-02-23,41.5978,-72.7554,"Connecticut, US",2768842,574005
 10,Delaware,US,2020-12-10,39.3185,-75.5071,"Delaware, US",,
 10,Delaware,US,2020-12-11,39.3185,-75.5071,"Delaware, US",,
 10,Delaware,US,2020-12-12,39.3185,-75.5071,"Delaware, US",,
@@ -3950,6 +3966,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 10,Delaware,US,2022-02-19,39.3185,-75.5071,"Delaware, US",655127,138219
 10,Delaware,US,2022-02-20,39.3185,-75.5071,"Delaware, US",655127,138219
 10,Delaware,US,2022-02-21,39.3185,-75.5071,"Delaware, US",655127,138219
+10,Delaware,US,2022-02-22,39.3185,-75.5071,"Delaware, US",656177,138088
+10,Delaware,US,2022-02-23,39.3185,-75.5071,"Delaware, US",656484,138075
 ,Department of Defense,US,2020-12-10,,,"Department of Defense, US",,
 ,Department of Defense,US,2020-12-11,,,"Department of Defense, US",,
 ,Department of Defense,US,2020-12-12,,,"Department of Defense, US",,
@@ -4389,6 +4407,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Department of Defense,US,2022-02-19,,,"Department of Defense, US",3088279,987099
 ,Department of Defense,US,2022-02-20,,,"Department of Defense, US",3088279,987099
 ,Department of Defense,US,2022-02-21,,,"Department of Defense, US",3088279,987099
+,Department of Defense,US,2022-02-22,,,"Department of Defense, US",3090813,989864
+,Department of Defense,US,2022-02-23,,,"Department of Defense, US",3091373,990636
 11,District of Columbia,US,2020-12-10,38.8974,-77.0268,"District of Columbia, US",,
 11,District of Columbia,US,2020-12-11,38.8974,-77.0268,"District of Columbia, US",,
 11,District of Columbia,US,2020-12-12,38.8974,-77.0268,"District of Columbia, US",,
@@ -4828,6 +4848,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 11,District of Columbia,US,2022-02-19,38.8974,-77.0268,"District of Columbia, US",630021,166747
 11,District of Columbia,US,2022-02-20,38.8974,-77.0268,"District of Columbia, US",630021,166747
 11,District of Columbia,US,2022-02-21,38.8974,-77.0268,"District of Columbia, US",630021,166747
+11,District of Columbia,US,2022-02-22,38.8974,-77.0268,"District of Columbia, US",630021,166884
+11,District of Columbia,US,2022-02-23,38.8974,-77.0268,"District of Columbia, US",630021,166851
 ,Federal Bureau of Prisons,US,2020-12-10,,,"Federal Bureau of Prisons, US",,
 ,Federal Bureau of Prisons,US,2020-12-11,,,"Federal Bureau of Prisons, US",,
 ,Federal Bureau of Prisons,US,2020-12-12,,,"Federal Bureau of Prisons, US",,
@@ -5267,6 +5289,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Federal Bureau of Prisons,US,2022-02-19,,,"Federal Bureau of Prisons, US",130703,9519
 ,Federal Bureau of Prisons,US,2022-02-20,,,"Federal Bureau of Prisons, US",130703,9519
 ,Federal Bureau of Prisons,US,2022-02-21,,,"Federal Bureau of Prisons, US",130703,9519
+,Federal Bureau of Prisons,US,2022-02-22,,,"Federal Bureau of Prisons, US",130703,9519
+,Federal Bureau of Prisons,US,2022-02-23,,,"Federal Bureau of Prisons, US",130703,9519
 12,Florida,US,2020-12-10,27.7663,-81.6868,"Florida, US",,
 12,Florida,US,2020-12-11,27.7663,-81.6868,"Florida, US",,
 12,Florida,US,2020-12-12,27.7663,-81.6868,"Florida, US",,
@@ -5706,6 +5730,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2022-02-19,27.7663,-81.6868,"Florida, US",14118218,2598866
 12,Florida,US,2022-02-20,27.7663,-81.6868,"Florida, US",14118218,2598866
 12,Florida,US,2022-02-21,27.7663,-81.6868,"Florida, US",14118218,2598866
+12,Florida,US,2022-02-22,27.7663,-81.6868,"Florida, US",14133708,2598051
+12,Florida,US,2022-02-23,27.7663,-81.6868,"Florida, US",14140275,2601992
 13,Georgia,US,2020-12-10,33.0406,-83.6431,"Georgia, US",,
 13,Georgia,US,2020-12-11,33.0406,-83.6431,"Georgia, US",,
 13,Georgia,US,2020-12-12,33.0406,-83.6431,"Georgia, US",,
@@ -6145,6 +6171,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 13,Georgia,US,2022-02-19,33.0406,-83.6431,"Georgia, US",5671974,1140273
 13,Georgia,US,2022-02-20,33.0406,-83.6431,"Georgia, US",5671974,1140273
 13,Georgia,US,2022-02-21,33.0406,-83.6431,"Georgia, US",5671974,1140273
+13,Georgia,US,2022-02-22,33.0406,-83.6431,"Georgia, US",5680810,1139258
+13,Georgia,US,2022-02-23,33.0406,-83.6431,"Georgia, US",5682440,1139040
 66,Guam,US,2020-12-10,13.4443,144.7937,"Guam, US",,
 66,Guam,US,2020-12-11,13.4443,144.7937,"Guam, US",,
 66,Guam,US,2020-12-12,13.4443,144.7937,"Guam, US",,
@@ -6584,6 +6612,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 66,Guam,US,2022-02-19,13.4443,144.7937,"Guam, US",134269,14732
 66,Guam,US,2022-02-20,13.4443,144.7937,"Guam, US",134269,14732
 66,Guam,US,2022-02-21,13.4443,144.7937,"Guam, US",134269,14732
+66,Guam,US,2022-02-22,13.4443,144.7937,"Guam, US",134365,14730
+66,Guam,US,2022-02-23,13.4443,144.7937,"Guam, US",134682,14721
 15,Hawaii,US,2020-12-10,21.0943,-157.4983,"Hawaii, US",,
 15,Hawaii,US,2020-12-11,21.0943,-157.4983,"Hawaii, US",,
 15,Hawaii,US,2020-12-12,21.0943,-157.4983,"Hawaii, US",,
@@ -7023,6 +7053,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 15,Hawaii,US,2022-02-19,21.0943,-157.4983,"Hawaii, US",1075895,101225
 15,Hawaii,US,2022-02-20,21.0943,-157.4983,"Hawaii, US",1075895,101225
 15,Hawaii,US,2022-02-21,21.0943,-157.4983,"Hawaii, US",1083795,103702
+15,Hawaii,US,2022-02-22,21.0943,-157.4983,"Hawaii, US",1084412,103700
+15,Hawaii,US,2022-02-23,21.0943,-157.4983,"Hawaii, US",1084786,103512
 16,Idaho,US,2020-12-10,44.2405,-114.4788,"Idaho, US",,
 16,Idaho,US,2020-12-11,44.2405,-114.4788,"Idaho, US",,
 16,Idaho,US,2020-12-12,44.2405,-114.4788,"Idaho, US",,
@@ -7462,6 +7494,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-02-19,44.2405,-114.4788,"Idaho, US",945244,129370
 16,Idaho,US,2022-02-20,44.2405,-114.4788,"Idaho, US",945244,129370
 16,Idaho,US,2022-02-21,44.2405,-114.4788,"Idaho, US",945244,129370
+16,Idaho,US,2022-02-22,44.2405,-114.4788,"Idaho, US",945911,129230
+16,Idaho,US,2022-02-23,44.2405,-114.4788,"Idaho, US",946732,129090
 17,Illinois,US,2020-12-10,40.3495,-88.9861,"Illinois, US",,
 17,Illinois,US,2020-12-11,40.3495,-88.9861,"Illinois, US",,
 17,Illinois,US,2020-12-12,40.3495,-88.9861,"Illinois, US",,
@@ -7901,6 +7935,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 17,Illinois,US,2022-02-19,40.3495,-88.9861,"Illinois, US",8503109,1097138
 17,Illinois,US,2022-02-20,40.3495,-88.9861,"Illinois, US",8503109,1097138
 17,Illinois,US,2022-02-21,40.3495,-88.9861,"Illinois, US",8503109,1097138
+17,Illinois,US,2022-02-22,40.3495,-88.9861,"Illinois, US",8521005,1093309
+17,Illinois,US,2022-02-23,40.3495,-88.9861,"Illinois, US",8526505,1092070
 ,Indian Health Services,US,2020-12-10,,,"Indian Health Services, US",,
 ,Indian Health Services,US,2020-12-11,,,"Indian Health Services, US",,
 ,Indian Health Services,US,2020-12-12,,,"Indian Health Services, US",,
@@ -8340,6 +8376,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Indian Health Services,US,2022-02-19,,,"Indian Health Services, US",851384,223232
 ,Indian Health Services,US,2022-02-20,,,"Indian Health Services, US",851384,223232
 ,Indian Health Services,US,2022-02-21,,,"Indian Health Services, US",851384,223232
+,Indian Health Services,US,2022-02-22,,,"Indian Health Services, US",852160,223152
+,Indian Health Services,US,2022-02-23,,,"Indian Health Services, US",852322,223172
 18,Indiana,US,2020-12-10,39.8494,-86.2583,"Indiana, US",,
 18,Indiana,US,2020-12-11,39.8494,-86.2583,"Indiana, US",,
 18,Indiana,US,2020-12-12,39.8494,-86.2583,"Indiana, US",,
@@ -8779,6 +8817,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 18,Indiana,US,2022-02-19,39.8494,-86.2583,"Indiana, US",3674836,446596
 18,Indiana,US,2022-02-20,39.8494,-86.2583,"Indiana, US",3674836,446596
 18,Indiana,US,2022-02-21,39.8494,-86.2583,"Indiana, US",3678097,446596
+18,Indiana,US,2022-02-22,39.8494,-86.2583,"Indiana, US",3679079,446044
+18,Indiana,US,2022-02-23,39.8494,-86.2583,"Indiana, US",3680272,445959
 19,Iowa,US,2020-12-10,42.0115,-93.2105,"Iowa, US",,
 19,Iowa,US,2020-12-11,42.0115,-93.2105,"Iowa, US",,
 19,Iowa,US,2020-12-12,42.0115,-93.2105,"Iowa, US",,
@@ -9218,6 +9258,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 19,Iowa,US,2022-02-19,42.0115,-93.2105,"Iowa, US",1922643,195903
 19,Iowa,US,2022-02-20,42.0115,-93.2105,"Iowa, US",1922643,195903
 19,Iowa,US,2022-02-21,42.0115,-93.2105,"Iowa, US",1922643,195903
+19,Iowa,US,2022-02-22,42.0115,-93.2105,"Iowa, US",1924503,195287
+19,Iowa,US,2022-02-23,42.0115,-93.2105,"Iowa, US",1925147,195202
 20,Kansas,US,2020-12-10,38.5266,-96.7265,"Kansas, US",,
 20,Kansas,US,2020-12-11,38.5266,-96.7265,"Kansas, US",,
 20,Kansas,US,2020-12-12,38.5266,-96.7265,"Kansas, US",,
@@ -9657,6 +9699,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 20,Kansas,US,2022-02-19,38.5266,-96.7265,"Kansas, US",1745263,388106
 20,Kansas,US,2022-02-20,38.5266,-96.7265,"Kansas, US",1745263,388106
 20,Kansas,US,2022-02-21,38.5266,-96.7265,"Kansas, US",1745263,388106
+20,Kansas,US,2022-02-22,38.5266,-96.7265,"Kansas, US",1747165,387658
+20,Kansas,US,2022-02-23,38.5266,-96.7265,"Kansas, US",1747838,387632
 21,Kentucky,US,2020-12-10,37.6681,-84.6701,"Kentucky, US",,
 21,Kentucky,US,2020-12-11,37.6681,-84.6701,"Kentucky, US",,
 21,Kentucky,US,2020-12-12,37.6681,-84.6701,"Kentucky, US",,
@@ -10096,6 +10140,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 21,Kentucky,US,2022-02-19,37.6681,-84.6701,"Kentucky, US",2515316,396219
 21,Kentucky,US,2022-02-20,37.6681,-84.6701,"Kentucky, US",2515316,396219
 21,Kentucky,US,2022-02-21,37.6681,-84.6701,"Kentucky, US",2515316,396219
+21,Kentucky,US,2022-02-22,37.6681,-84.6701,"Kentucky, US",2516580,396070
+21,Kentucky,US,2022-02-23,37.6681,-84.6701,"Kentucky, US",2517688,395987
 ,Long Term Care (LTC) Program,US,2020-12-10,,,"Long Term Care (LTC) Program, US",,
 ,Long Term Care (LTC) Program,US,2020-12-11,,,"Long Term Care (LTC) Program, US",,
 ,Long Term Care (LTC) Program,US,2020-12-12,,,"Long Term Care (LTC) Program, US",,
@@ -10847,6 +10893,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 22,Louisiana,US,2022-02-19,31.1695,-91.8678,"Louisiana, US",2436341,353822
 22,Louisiana,US,2022-02-20,31.1695,-91.8678,"Louisiana, US",2436341,353822
 22,Louisiana,US,2022-02-21,31.1695,-91.8678,"Louisiana, US",2436341,353822
+22,Louisiana,US,2022-02-22,31.1695,-91.8678,"Louisiana, US",2437477,353697
+22,Louisiana,US,2022-02-23,31.1695,-91.8678,"Louisiana, US",2437523,353745
 23,Maine,US,2020-12-10,44.6939,-69.3819,"Maine, US",,
 23,Maine,US,2020-12-11,44.6939,-69.3819,"Maine, US",,
 23,Maine,US,2020-12-12,44.6939,-69.3819,"Maine, US",,
@@ -11286,6 +11334,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 23,Maine,US,2022-02-19,44.6939,-69.3819,"Maine, US",1051490,146757
 23,Maine,US,2022-02-20,44.6939,-69.3819,"Maine, US",1051490,146757
 23,Maine,US,2022-02-21,44.6939,-69.3819,"Maine, US",1051490,146757
+23,Maine,US,2022-02-22,44.6939,-69.3819,"Maine, US",1051595,146884
+23,Maine,US,2022-02-23,44.6939,-69.3819,"Maine, US",1052489,146853
 24,Maryland,US,2020-12-10,39.0639,-76.8021,"Maryland, US",,
 24,Maryland,US,2020-12-11,39.0639,-76.8021,"Maryland, US",,
 24,Maryland,US,2020-12-12,39.0639,-76.8021,"Maryland, US",,
@@ -11725,6 +11775,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 24,Maryland,US,2022-02-19,39.0639,-76.8021,"Maryland, US",4463709,657337
 24,Maryland,US,2022-02-20,39.0639,-76.8021,"Maryland, US",4463709,657337
 24,Maryland,US,2022-02-21,39.0639,-76.8021,"Maryland, US",4463709,657337
+24,Maryland,US,2022-02-22,39.0639,-76.8021,"Maryland, US",4469048,656237
+24,Maryland,US,2022-02-23,39.0639,-76.8021,"Maryland, US",4471539,655688
 25,Massachusetts,US,2020-12-10,42.2302,-71.5301,"Massachusetts, US",,
 25,Massachusetts,US,2020-12-11,42.2302,-71.5301,"Massachusetts, US",,
 25,Massachusetts,US,2020-12-12,42.2302,-71.5301,"Massachusetts, US",,
@@ -12164,6 +12216,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 25,Massachusetts,US,2022-02-19,42.2302,-71.5301,"Massachusetts, US",5336437,1293302
 25,Massachusetts,US,2022-02-20,42.2302,-71.5301,"Massachusetts, US",5336437,1293302
 25,Massachusetts,US,2022-02-21,42.2302,-71.5301,"Massachusetts, US",5336437,1293302
+25,Massachusetts,US,2022-02-22,42.2302,-71.5301,"Massachusetts, US",5343238,1295465
+25,Massachusetts,US,2022-02-23,42.2302,-71.5301,"Massachusetts, US",5343390,1295731
 26,Michigan,US,2020-12-10,43.3266,-84.5361,"Michigan, US",,
 26,Michigan,US,2020-12-11,43.3266,-84.5361,"Michigan, US",,
 26,Michigan,US,2020-12-12,43.3266,-84.5361,"Michigan, US",,
@@ -12603,6 +12657,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2022-02-19,43.3266,-84.5361,"Michigan, US",5889772,687031
 26,Michigan,US,2022-02-20,43.3266,-84.5361,"Michigan, US",5889772,687031
 26,Michigan,US,2022-02-21,43.3266,-84.5361,"Michigan, US",5889772,687031
+26,Michigan,US,2022-02-22,43.3266,-84.5361,"Michigan, US",5896569,685951
+26,Michigan,US,2022-02-23,43.3266,-84.5361,"Michigan, US",5898922,685501
 27,Minnesota,US,2020-12-10,45.6945,-93.9002,"Minnesota, US",,
 27,Minnesota,US,2020-12-11,45.6945,-93.9002,"Minnesota, US",,
 27,Minnesota,US,2020-12-12,45.6945,-93.9002,"Minnesota, US",,
@@ -13042,6 +13098,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 27,Minnesota,US,2022-02-19,45.6945,-93.9002,"Minnesota, US",3830382,353370
 27,Minnesota,US,2022-02-20,45.6945,-93.9002,"Minnesota, US",3830382,353370
 27,Minnesota,US,2022-02-21,45.6945,-93.9002,"Minnesota, US",3830382,353370
+27,Minnesota,US,2022-02-22,45.6945,-93.9002,"Minnesota, US",3830464,353468
+27,Minnesota,US,2022-02-23,45.6945,-93.9002,"Minnesota, US",3837559,349888
 28,Mississippi,US,2020-12-10,32.7416,-89.6787,"Mississippi, US",,
 28,Mississippi,US,2020-12-11,32.7416,-89.6787,"Mississippi, US",,
 28,Mississippi,US,2020-12-12,32.7416,-89.6787,"Mississippi, US",,
@@ -13481,6 +13539,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 28,Mississippi,US,2022-02-19,32.7416,-89.6787,"Mississippi, US",1510183,235251
 28,Mississippi,US,2022-02-20,32.7416,-89.6787,"Mississippi, US",1510183,235251
 28,Mississippi,US,2022-02-21,32.7416,-89.6787,"Mississippi, US",1510183,235251
+28,Mississippi,US,2022-02-22,32.7416,-89.6787,"Mississippi, US",1513793,235316
+28,Mississippi,US,2022-02-23,32.7416,-89.6787,"Mississippi, US",1514537,234814
 29,Missouri,US,2020-12-10,38.4561,-92.2884,"Missouri, US",,
 29,Missouri,US,2020-12-11,38.4561,-92.2884,"Missouri, US",,
 29,Missouri,US,2020-12-12,38.4561,-92.2884,"Missouri, US",,
@@ -13920,6 +13980,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 29,Missouri,US,2022-02-19,38.4561,-92.2884,"Missouri, US",3425230,628870
 29,Missouri,US,2022-02-20,38.4561,-92.2884,"Missouri, US",3425230,628870
 29,Missouri,US,2022-02-21,38.4561,-92.2884,"Missouri, US",3425230,628870
+29,Missouri,US,2022-02-22,38.4561,-92.2884,"Missouri, US",3425230,629060
+29,Missouri,US,2022-02-23,38.4561,-92.2884,"Missouri, US",3425230,628814
 30,Montana,US,2020-12-10,46.9219,-110.4544,"Montana, US",,
 30,Montana,US,2020-12-11,46.9219,-110.4544,"Montana, US",,
 30,Montana,US,2020-12-12,46.9219,-110.4544,"Montana, US",,
@@ -14359,6 +14421,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 30,Montana,US,2022-02-19,46.9219,-110.4544,"Montana, US",596255,91669
 30,Montana,US,2022-02-20,46.9219,-110.4544,"Montana, US",596255,91669
 30,Montana,US,2022-02-21,46.9219,-110.4544,"Montana, US",596255,91669
+30,Montana,US,2022-02-22,46.9219,-110.4544,"Montana, US",596291,91710
+30,Montana,US,2022-02-23,46.9219,-110.4544,"Montana, US",596834,91586
 31,Nebraska,US,2020-12-10,41.1254,-98.2681,"Nebraska, US",,
 31,Nebraska,US,2020-12-11,41.1254,-98.2681,"Nebraska, US",,
 31,Nebraska,US,2020-12-12,41.1254,-98.2681,"Nebraska, US",,
@@ -14798,6 +14862,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 31,Nebraska,US,2022-02-19,41.1254,-98.2681,"Nebraska, US",1205071,134150
 31,Nebraska,US,2022-02-20,41.1254,-98.2681,"Nebraska, US",1205071,134150
 31,Nebraska,US,2022-02-21,41.1254,-98.2681,"Nebraska, US",1205071,134150
+31,Nebraska,US,2022-02-22,41.1254,-98.2681,"Nebraska, US",1205146,134177
+31,Nebraska,US,2022-02-23,41.1254,-98.2681,"Nebraska, US",1206878,133568
 32,Nevada,US,2020-12-10,38.3135,-117.0554,"Nevada, US",,
 32,Nevada,US,2020-12-11,38.3135,-117.0554,"Nevada, US",,
 32,Nevada,US,2020-12-12,38.3135,-117.0554,"Nevada, US",,
@@ -15237,6 +15303,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 32,Nevada,US,2022-02-19,38.3135,-117.0554,"Nevada, US",1831584,441232
 32,Nevada,US,2022-02-20,38.3135,-117.0554,"Nevada, US",1831584,441232
 32,Nevada,US,2022-02-21,38.3135,-117.0554,"Nevada, US",1831584,441232
+32,Nevada,US,2022-02-22,38.3135,-117.0554,"Nevada, US",1833545,441315
+32,Nevada,US,2022-02-23,38.3135,-117.0554,"Nevada, US",1835062,441268
 33,New Hampshire,US,2020-12-10,43.4525,-71.5639,"New Hampshire, US",,
 33,New Hampshire,US,2020-12-11,43.4525,-71.5639,"New Hampshire, US",,
 33,New Hampshire,US,2020-12-12,43.4525,-71.5639,"New Hampshire, US",,
@@ -15676,6 +15744,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 33,New Hampshire,US,2022-02-19,43.4525,-71.5639,"New Hampshire, US",946944,514164
 33,New Hampshire,US,2022-02-20,43.4525,-71.5639,"New Hampshire, US",946944,514164
 33,New Hampshire,US,2022-02-21,43.4525,-71.5639,"New Hampshire, US",946944,514164
+33,New Hampshire,US,2022-02-22,43.4525,-71.5639,"New Hampshire, US",948140,515274
+33,New Hampshire,US,2022-02-23,43.4525,-71.5639,"New Hampshire, US",948693,515726
 34,New Jersey,US,2020-12-10,40.2989,-74.521,"New Jersey, US",,
 34,New Jersey,US,2020-12-11,40.2989,-74.521,"New Jersey, US",,
 34,New Jersey,US,2020-12-12,40.2989,-74.521,"New Jersey, US",,
@@ -16115,6 +16185,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2022-02-19,40.2989,-74.521,"New Jersey, US",6700214,1305361
 34,New Jersey,US,2022-02-20,40.2989,-74.521,"New Jersey, US",6702067,1305361
 34,New Jersey,US,2022-02-21,40.2989,-74.521,"New Jersey, US",6703221,1305361
+34,New Jersey,US,2022-02-22,40.2989,-74.521,"New Jersey, US",6705330,1306925
+34,New Jersey,US,2022-02-23,40.2989,-74.521,"New Jersey, US",6709259,1307393
 35,New Mexico,US,2020-12-10,34.8405,-106.2485,"New Mexico, US",,
 35,New Mexico,US,2020-12-11,34.8405,-106.2485,"New Mexico, US",,
 35,New Mexico,US,2020-12-12,34.8405,-106.2485,"New Mexico, US",,
@@ -16554,6 +16626,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 35,New Mexico,US,2022-02-19,34.8405,-106.2485,"New Mexico, US",1454046,341101
 35,New Mexico,US,2022-02-20,34.8405,-106.2485,"New Mexico, US",1454046,341101
 35,New Mexico,US,2022-02-21,34.8405,-106.2485,"New Mexico, US",1454046,341101
+35,New Mexico,US,2022-02-22,34.8405,-106.2485,"New Mexico, US",1455661,341207
+35,New Mexico,US,2022-02-23,34.8405,-106.2485,"New Mexico, US",1456275,341219
 36,New York,US,2020-12-10,42.1657,-74.9481,"New York, US",,
 36,New York,US,2020-12-11,42.1657,-74.9481,"New York, US",,
 36,New York,US,2020-12-12,42.1657,-74.9481,"New York, US",,
@@ -16993,6 +17067,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 36,New York,US,2022-02-19,42.1657,-74.9481,"New York, US",14632320,2602911
 36,New York,US,2022-02-20,42.1657,-74.9481,"New York, US",14632320,2602911
 36,New York,US,2022-02-21,42.1657,-74.9481,"New York, US",14632320,2602911
+36,New York,US,2022-02-22,42.1657,-74.9481,"New York, US",14651082,2606938
+36,New York,US,2022-02-23,42.1657,-74.9481,"New York, US",14658831,2608409
 37,North Carolina,US,2020-12-10,35.6301,-79.8064,"North Carolina, US",,
 37,North Carolina,US,2020-12-11,35.6301,-79.8064,"North Carolina, US",,
 37,North Carolina,US,2020-12-12,35.6301,-79.8064,"North Carolina, US",,
@@ -17432,6 +17508,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 37,North Carolina,US,2022-02-19,35.6301,-79.8064,"North Carolina, US",6365235,2395404
 37,North Carolina,US,2022-02-20,35.6301,-79.8064,"North Carolina, US",6365235,2395404
 37,North Carolina,US,2022-02-21,35.6301,-79.8064,"North Carolina, US",6374094,2395404
+37,North Carolina,US,2022-02-22,35.6301,-79.8064,"North Carolina, US",6375777,2398898
+37,North Carolina,US,2022-02-23,35.6301,-79.8064,"North Carolina, US",6377316,2400400
 38,North Dakota,US,2020-12-10,47.5289,-99.78399999999999,"North Dakota, US",,
 38,North Dakota,US,2020-12-11,47.5289,-99.78399999999999,"North Dakota, US",,
 38,North Dakota,US,2020-12-12,47.5289,-99.78399999999999,"North Dakota, US",,
@@ -17871,6 +17949,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 38,North Dakota,US,2022-02-19,47.5289,-99.78399999999999,"North Dakota, US",414179,76428
 38,North Dakota,US,2022-02-20,47.5289,-99.78399999999999,"North Dakota, US",414179,76428
 38,North Dakota,US,2022-02-21,47.5289,-99.78399999999999,"North Dakota, US",414179,76428
+38,North Dakota,US,2022-02-22,47.5289,-99.78399999999999,"North Dakota, US",414206,76445
+38,North Dakota,US,2022-02-23,47.5289,-99.78399999999999,"North Dakota, US",414429,76400
 69,Northern Mariana Islands,US,2020-12-10,15.0979,145.6739,"Northern Mariana Islands, US",,
 69,Northern Mariana Islands,US,2020-12-11,15.0979,145.6739,"Northern Mariana Islands, US",,
 69,Northern Mariana Islands,US,2020-12-12,15.0979,145.6739,"Northern Mariana Islands, US",,
@@ -18310,6 +18390,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 69,Northern Mariana Islands,US,2022-02-19,15.0979,145.6739,"Northern Mariana Islands, US",43328,2358
 69,Northern Mariana Islands,US,2022-02-20,15.0979,145.6739,"Northern Mariana Islands, US",43343,2358
 69,Northern Mariana Islands,US,2022-02-21,15.0979,145.6739,"Northern Mariana Islands, US",43376,2358
+69,Northern Mariana Islands,US,2022-02-22,15.0979,145.6739,"Northern Mariana Islands, US",43394,2325
+69,Northern Mariana Islands,US,2022-02-23,15.0979,145.6739,"Northern Mariana Islands, US",43410,2297
 39,Ohio,US,2020-12-10,40.3888,-82.7649,"Ohio, US",,
 39,Ohio,US,2020-12-11,40.3888,-82.7649,"Ohio, US",,
 39,Ohio,US,2020-12-12,40.3888,-82.7649,"Ohio, US",,
@@ -18749,6 +18831,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 39,Ohio,US,2022-02-19,40.3888,-82.7649,"Ohio, US",6712161,622509
 39,Ohio,US,2022-02-20,40.3888,-82.7649,"Ohio, US",6712161,622509
 39,Ohio,US,2022-02-21,40.3888,-82.7649,"Ohio, US",6712161,622509
+39,Ohio,US,2022-02-22,40.3888,-82.7649,"Ohio, US",6719821,619857
+39,Ohio,US,2022-02-23,40.3888,-82.7649,"Ohio, US",6722087,619306
 40,Oklahoma,US,2020-12-10,35.5653,-96.9289,"Oklahoma, US",,
 40,Oklahoma,US,2020-12-11,35.5653,-96.9289,"Oklahoma, US",,
 40,Oklahoma,US,2020-12-12,35.5653,-96.9289,"Oklahoma, US",,
@@ -19188,6 +19272,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-02-19,35.5653,-96.9289,"Oklahoma, US",2209577,553105
 40,Oklahoma,US,2022-02-20,35.5653,-96.9289,"Oklahoma, US",2209577,553105
 40,Oklahoma,US,2022-02-21,35.5653,-96.9289,"Oklahoma, US",2209577,553105
+40,Oklahoma,US,2022-02-22,35.5653,-96.9289,"Oklahoma, US",2212609,552678
+40,Oklahoma,US,2022-02-23,35.5653,-96.9289,"Oklahoma, US",2213520,552605
 41,Oregon,US,2020-12-10,44.571999999999996,-122.0709,"Oregon, US",,
 41,Oregon,US,2020-12-11,44.571999999999996,-122.0709,"Oregon, US",,
 41,Oregon,US,2020-12-12,44.571999999999996,-122.0709,"Oregon, US",,
@@ -19627,6 +19713,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 41,Oregon,US,2022-02-19,44.571999999999996,-122.0709,"Oregon, US",2888724,349735
 41,Oregon,US,2022-02-20,44.571999999999996,-122.0709,"Oregon, US",2888724,349735
 41,Oregon,US,2022-02-21,44.571999999999996,-122.0709,"Oregon, US",2888724,349735
+41,Oregon,US,2022-02-22,44.571999999999996,-122.0709,"Oregon, US",2890363,349490
+41,Oregon,US,2022-02-23,44.571999999999996,-122.0709,"Oregon, US",2891435,349389
 42,Pennsylvania,US,2020-12-10,40.5908,-77.2098,"Pennsylvania, US",,
 42,Pennsylvania,US,2020-12-11,40.5908,-77.2098,"Pennsylvania, US",,
 42,Pennsylvania,US,2020-12-12,40.5908,-77.2098,"Pennsylvania, US",,
@@ -20066,6 +20154,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 42,Pennsylvania,US,2022-02-19,40.5908,-77.2098,"Pennsylvania, US",8535603,2091339
 42,Pennsylvania,US,2022-02-20,40.5908,-77.2098,"Pennsylvania, US",8535603,2091339
 42,Pennsylvania,US,2022-02-21,40.5908,-77.2098,"Pennsylvania, US",8535603,2091339
+42,Pennsylvania,US,2022-02-22,40.5908,-77.2098,"Pennsylvania, US",8545340,2091644
+42,Pennsylvania,US,2022-02-23,40.5908,-77.2098,"Pennsylvania, US",8554164,2094069
 72,Puerto Rico,US,2020-12-10,18.2208,-66.5901,"Puerto Rico, US",,
 72,Puerto Rico,US,2020-12-11,18.2208,-66.5901,"Puerto Rico, US",,
 72,Puerto Rico,US,2020-12-12,18.2208,-66.5901,"Puerto Rico, US",,
@@ -20505,6 +20595,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 72,Puerto Rico,US,2022-02-19,18.2208,-66.5901,"Puerto Rico, US",2612221,446451
 72,Puerto Rico,US,2022-02-20,18.2208,-66.5901,"Puerto Rico, US",2612926,446451
 72,Puerto Rico,US,2022-02-21,18.2208,-66.5901,"Puerto Rico, US",2613094,446451
+72,Puerto Rico,US,2022-02-22,18.2208,-66.5901,"Puerto Rico, US",2614762,444046
+72,Puerto Rico,US,2022-02-23,18.2208,-66.5901,"Puerto Rico, US",2617907,443710
 44,Rhode Island,US,2020-12-10,41.6809,-71.5118,"Rhode Island, US",,
 44,Rhode Island,US,2020-12-11,41.6809,-71.5118,"Rhode Island, US",,
 44,Rhode Island,US,2020-12-12,41.6809,-71.5118,"Rhode Island, US",,
@@ -20944,6 +21036,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2022-02-19,41.6809,-71.5118,"Rhode Island, US",850948,165142
 44,Rhode Island,US,2022-02-20,41.6809,-71.5118,"Rhode Island, US",850948,165142
 44,Rhode Island,US,2022-02-21,41.6809,-71.5118,"Rhode Island, US",850948,165142
+44,Rhode Island,US,2022-02-22,41.6809,-71.5118,"Rhode Island, US",852304,165289
+44,Rhode Island,US,2022-02-23,41.6809,-71.5118,"Rhode Island, US",852675,165326
 45,South Carolina,US,2020-12-10,33.8569,-80.945,"South Carolina, US",,
 45,South Carolina,US,2020-12-11,33.8569,-80.945,"South Carolina, US",,
 45,South Carolina,US,2020-12-12,33.8569,-80.945,"South Carolina, US",,
@@ -21383,6 +21477,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 45,South Carolina,US,2022-02-19,33.8569,-80.945,"South Carolina, US",2859563,550841
 45,South Carolina,US,2022-02-20,33.8569,-80.945,"South Carolina, US",2859563,550841
 45,South Carolina,US,2022-02-21,33.8569,-80.945,"South Carolina, US",2859563,550841
+45,South Carolina,US,2022-02-22,33.8569,-80.945,"South Carolina, US",2868522,549043
+45,South Carolina,US,2022-02-23,33.8569,-80.945,"South Carolina, US",2869598,549049
 46,South Dakota,US,2020-12-10,44.2998,-99.4388,"South Dakota, US",,
 46,South Dakota,US,2020-12-11,44.2998,-99.4388,"South Dakota, US",,
 46,South Dakota,US,2020-12-12,44.2998,-99.4388,"South Dakota, US",,
@@ -21822,6 +21918,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 46,South Dakota,US,2022-02-19,44.2998,-99.4388,"South Dakota, US",527824,133182
 46,South Dakota,US,2022-02-20,44.2998,-99.4388,"South Dakota, US",527824,133182
 46,South Dakota,US,2022-02-21,44.2998,-99.4388,"South Dakota, US",527824,133182
+46,South Dakota,US,2022-02-22,44.2998,-99.4388,"South Dakota, US",527974,133205
+46,South Dakota,US,2022-02-23,44.2998,-99.4388,"South Dakota, US",528672,133139
 47,Tennessee,US,2020-12-10,35.7478,-86.6923,"Tennessee, US",,
 47,Tennessee,US,2020-12-11,35.7478,-86.6923,"Tennessee, US",,
 47,Tennessee,US,2020-12-12,35.7478,-86.6923,"Tennessee, US",,
@@ -22261,6 +22359,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 47,Tennessee,US,2022-02-19,35.7478,-86.6923,"Tennessee, US",3666409,533691
 47,Tennessee,US,2022-02-20,35.7478,-86.6923,"Tennessee, US",3666409,533691
 47,Tennessee,US,2022-02-21,35.7478,-86.6923,"Tennessee, US",3666409,533691
+47,Tennessee,US,2022-02-22,35.7478,-86.6923,"Tennessee, US",3666409,532311
+47,Tennessee,US,2022-02-23,35.7478,-86.6923,"Tennessee, US",3671661,531991
 48,Texas,US,2020-12-10,31.0545,-97.5635,"Texas, US",,
 48,Texas,US,2020-12-11,31.0545,-97.5635,"Texas, US",,
 48,Texas,US,2020-12-12,31.0545,-97.5635,"Texas, US",,
@@ -22700,6 +22800,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 48,Texas,US,2022-02-19,31.0545,-97.5635,"Texas, US",17323697,3150284
 48,Texas,US,2022-02-20,31.0545,-97.5635,"Texas, US",17323697,3150284
 48,Texas,US,2022-02-21,31.0545,-97.5635,"Texas, US",17323697,3150284
+48,Texas,US,2022-02-22,31.0545,-97.5635,"Texas, US",17351436,3156797
+48,Texas,US,2022-02-23,31.0545,-97.5635,"Texas, US",17362377,3158831
 49,Utah,US,2020-12-10,40.15,-111.8624,"Utah, US",,
 49,Utah,US,2020-12-11,40.15,-111.8624,"Utah, US",,
 49,Utah,US,2020-12-12,40.15,-111.8624,"Utah, US",,
@@ -23139,6 +23241,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 49,Utah,US,2022-02-19,40.15,-111.8624,"Utah, US",2022786,255807
 49,Utah,US,2022-02-20,40.15,-111.8624,"Utah, US",2022786,255807
 49,Utah,US,2022-02-21,40.15,-111.8624,"Utah, US",2022786,255807
+49,Utah,US,2022-02-22,40.15,-111.8624,"Utah, US",2022840,255894
+49,Utah,US,2022-02-23,40.15,-111.8624,"Utah, US",2022859,255923
 50,Vermont,US,2020-12-10,44.0459,-72.7107,"Vermont, US",,
 50,Vermont,US,2020-12-11,44.0459,-72.7107,"Vermont, US",,
 50,Vermont,US,2020-12-12,44.0459,-72.7107,"Vermont, US",,
@@ -23578,6 +23682,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 50,Vermont,US,2022-02-19,44.0459,-72.7107,"Vermont, US",499195,79530
 50,Vermont,US,2022-02-20,44.0459,-72.7107,"Vermont, US",499195,79530
 50,Vermont,US,2022-02-21,44.0459,-72.7107,"Vermont, US",499195,79530
+50,Vermont,US,2022-02-22,44.0459,-72.7107,"Vermont, US",499674,79458
+50,Vermont,US,2022-02-23,44.0459,-72.7107,"Vermont, US",499759,79448
 ,Veterans Health Administration,US,2020-12-10,,,"Veterans Health Administration, US",,
 ,Veterans Health Administration,US,2020-12-11,,,"Veterans Health Administration, US",,
 ,Veterans Health Administration,US,2020-12-12,,,"Veterans Health Administration, US",,
@@ -24017,6 +24123,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 ,Veterans Health Administration,US,2022-02-19,,,"Veterans Health Administration, US",2929196,472785
 ,Veterans Health Administration,US,2022-02-20,,,"Veterans Health Administration, US",2929196,472785
 ,Veterans Health Administration,US,2022-02-21,,,"Veterans Health Administration, US",2929196,472785
+,Veterans Health Administration,US,2022-02-22,,,"Veterans Health Administration, US",2929609,473391
+,Veterans Health Administration,US,2022-02-23,,,"Veterans Health Administration, US",2929609,473396
 78,Virgin Islands,US,2020-12-10,18.3358,-64.8963,"Virgin Islands, US",,
 78,Virgin Islands,US,2020-12-11,18.3358,-64.8963,"Virgin Islands, US",,
 78,Virgin Islands,US,2020-12-12,18.3358,-64.8963,"Virgin Islands, US",,
@@ -24456,6 +24564,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 78,Virgin Islands,US,2022-02-19,18.3358,-64.8963,"Virgin Islands, US",55825,11438
 78,Virgin Islands,US,2022-02-20,18.3358,-64.8963,"Virgin Islands, US",55825,11438
 78,Virgin Islands,US,2022-02-21,18.3358,-64.8963,"Virgin Islands, US",55825,11438
+78,Virgin Islands,US,2022-02-22,18.3358,-64.8963,"Virgin Islands, US",55830,11443
+78,Virgin Islands,US,2022-02-23,18.3358,-64.8963,"Virgin Islands, US",55883,11519
 51,Virginia,US,2020-12-10,37.7693,-78.17,"Virginia, US",,
 51,Virginia,US,2020-12-11,37.7693,-78.17,"Virginia, US",,
 51,Virginia,US,2020-12-12,37.7693,-78.17,"Virginia, US",,
@@ -24895,6 +25005,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 51,Virginia,US,2022-02-19,37.7693,-78.17,"Virginia, US",6122124,1069414
 51,Virginia,US,2022-02-20,37.7693,-78.17,"Virginia, US",6122124,1069414
 51,Virginia,US,2022-02-21,37.7693,-78.17,"Virginia, US",6122124,1069414
+51,Virginia,US,2022-02-22,37.7693,-78.17,"Virginia, US",6130443,1067325
+51,Virginia,US,2022-02-23,37.7693,-78.17,"Virginia, US",6132761,1067065
 53,Washington,US,2020-12-10,47.4009,-121.4905,"Washington, US",,
 53,Washington,US,2020-12-11,47.4009,-121.4905,"Washington, US",,
 53,Washington,US,2020-12-12,47.4009,-121.4905,"Washington, US",,
@@ -25334,6 +25446,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 53,Washington,US,2022-02-19,47.4009,-121.4905,"Washington, US",5419707,5621491
 53,Washington,US,2022-02-20,47.4009,-121.4905,"Washington, US",5419707,5621491
 53,Washington,US,2022-02-21,47.4009,-121.4905,"Washington, US",5419707,5621491
+53,Washington,US,2022-02-22,47.4009,-121.4905,"Washington, US",5419934,5621491
+53,Washington,US,2022-02-23,47.4009,-121.4905,"Washington, US",5428712,5630820
 54,West Virginia,US,2020-12-10,38.4912,-80.9545,"West Virginia, US",,
 54,West Virginia,US,2020-12-11,38.4912,-80.9545,"West Virginia, US",,
 54,West Virginia,US,2020-12-12,38.4912,-80.9545,"West Virginia, US",,
@@ -25773,6 +25887,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 54,West Virginia,US,2022-02-19,38.4912,-80.9545,"West Virginia, US",1015030,132893
 54,West Virginia,US,2022-02-20,38.4912,-80.9545,"West Virginia, US",1015030,132893
 54,West Virginia,US,2022-02-21,38.4912,-80.9545,"West Virginia, US",1015030,132893
+54,West Virginia,US,2022-02-22,38.4912,-80.9545,"West Virginia, US",1015134,132931
+54,West Virginia,US,2022-02-23,38.4912,-80.9545,"West Virginia, US",1016115,132835
 55,Wisconsin,US,2020-12-10,44.2685,-89.6165,"Wisconsin, US",,
 55,Wisconsin,US,2020-12-11,44.2685,-89.6165,"Wisconsin, US",,
 55,Wisconsin,US,2020-12-12,44.2685,-89.6165,"Wisconsin, US",,
@@ -26212,6 +26328,8 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 55,Wisconsin,US,2022-02-19,44.2685,-89.6165,"Wisconsin, US",3747663,381591
 55,Wisconsin,US,2022-02-20,44.2685,-89.6165,"Wisconsin, US",3747663,381591
 55,Wisconsin,US,2022-02-21,44.2685,-89.6165,"Wisconsin, US",3747663,381591
+55,Wisconsin,US,2022-02-22,44.2685,-89.6165,"Wisconsin, US",3747815,381711
+55,Wisconsin,US,2022-02-23,44.2685,-89.6165,"Wisconsin, US",3753447,379476
 56,Wyoming,US,2020-12-10,42.756,-107.3025,"Wyoming, US",,
 56,Wyoming,US,2020-12-11,42.756,-107.3025,"Wyoming, US",,
 56,Wyoming,US,2020-12-12,42.756,-107.3025,"Wyoming, US",,
@@ -26651,3 +26769,5 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 56,Wyoming,US,2022-02-19,42.756,-107.3025,"Wyoming, US",292007,42871
 56,Wyoming,US,2022-02-20,42.756,-107.3025,"Wyoming, US",292007,42871
 56,Wyoming,US,2022-02-21,42.756,-107.3025,"Wyoming, US",292007,42871
+56,Wyoming,US,2022-02-22,42.756,-107.3025,"Wyoming, US",292056,42874
+56,Wyoming,US,2022-02-23,42.756,-107.3025,"Wyoming, US",292377,42807
