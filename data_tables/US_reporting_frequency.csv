@@ -3,14 +3,14 @@ Alabama,Cases,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9d
 Alabama,Deaths,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Alabama,Tests,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Alabama,Vaccines,https://www.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367,2/22/22,N,Y,N,Y,N,N,N,,2
-Alaska,Cases,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,2/22/22,Y,N,Y,N,Y,N,N,N,3
-Alaska,Deaths,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,2/22/22,Y,N,Y,N,Y,N,N,N,3
-Alaska,Tests,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,2/22/22,Y,N,Y,N,Y,N,N,N,3
-Alaska,Vaccines,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,2/22/22,Y,N,Y,N,Y,N,N,N,3
-Arizona,Cases,https://www.azdhs.gov/covid19/data/index.php,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Arizona,Deaths,https://www.azdhs.gov/covid19/data/index.php,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Arizona,Tests,https://www.azdhs.gov/covid19/data/index.php,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Arizona,Vaccines,https://www.azdhs.gov/covid19/data/index.php,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
+Alaska,Cases,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,Y,N,Y,N,Y,N,N,N,3
+Alaska,Deaths,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,N,Y,N,N,N,N,N,N,1
+Alaska,Tests,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,Y,N,Y,N,Y,N,N,N,3
+Alaska,Vaccines,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,Y,N,Y,N,Y,N,N,N,3
+Arizona,Cases,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
+Arizona,Deaths,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
+Arizona,Tests,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
+Arizona,Vaccines,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
 Arkansas,Cases,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Arkansas,Deaths,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Arkansas,Tests,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
@@ -171,10 +171,10 @@ Rhode Island,Cases,https://ri-department-of-health-covid-19-data-rihealth.hub.ar
 Rhode Island,Deaths,https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Rhode Island,Tests,https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Rhode Island,Vaccines,https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-South Carolina,Cases,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-South Carolina,Deaths,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-South Carolina,Tests,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-South Carolina,Vaccines,https://scdhec.gov/covid19/covid-19-vaccination-dashboard,2/22/22,Y,Y,Y,Y,Y,N,N,,5
+South Carolina,Cases,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,3/1/22,Y,Y,Y,Y,Y,N,N,,5
+South Carolina,Deaths,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,3/1/22,Y,Y,Y,Y,Y,N,N,,5
+South Carolina,Tests,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,3/1/22,Y,Y,Y,Y,Y,N,N,,5
+South Carolina,Vaccines,https://scdhec.gov/covid19/covid-19-vaccination-dashboard,3/1/22,Y,Y,Y,Y,Y,N,N,,5
 South Dakota,Cases,https://doh.sd.gov/COVID/Dashboard.aspx,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 South Dakota,Deaths,https://doh.sd.gov/COVID/Dashboard.aspx,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 South Dakota,Tests,https://doh.sd.gov/COVID/Dashboard.aspx,2/22/22,Y,Y,Y,Y,Y,N,N,,5
