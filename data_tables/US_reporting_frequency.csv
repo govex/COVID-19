@@ -151,10 +151,10 @@ Ohio,Cases,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,2/22/22,Y,Y
 Ohio,Deaths,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Ohio,Tests,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Ohio,Vaccines,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/covid-19-vaccination-dashboard,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Oklahoma,Cases,https://oklahoma.gov/covid19.html,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-Oklahoma,Deaths,https://oklahoma.gov/covid19.html,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-Oklahoma,Tests,https://oklahoma.gov/covid19.html,2/22/22,N,N,N,Y,N,N,N,,1
-Oklahoma,Vaccines,https://oklahoma.gov/covid19.html,2/22/22,N,Y,N,N,N,N,N,,1
+Oklahoma,Cases,https://oklahoma.gov/covid19.html,3/7/22,N,N,N,Y,N,N,N,,1
+Oklahoma,Deaths,https://oklahoma.gov/covid19.html,3/7/22,N,N,N,Y,N,N,N,,1
+Oklahoma,Tests,https://oklahoma.gov/covid19.html,3/7/22,N,N,N,Y,N,N,N,,1
+Oklahoma,Vaccines,https://oklahoma.gov/covid19.html,3/7/22,N,Y,N,N,N,N,N,,1
 Oregon,Cases,https://public.tableau.com/app/profile/oregon.health.authority.covid.19/viz/OregonCOVID-19Update/DailyDataUpdate,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Oregon,Deaths,https://public.tableau.com/app/profile/oregon.health.authority.covid.19/viz/OregonCOVID-19Update/DailyDataUpdate,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Oregon,Tests,https://public.tableau.com/app/profile/oregon.health.authority.covid.19/viz/OregonCOVID-19Update/DailyDataUpdate,2/22/22,Y,Y,Y,Y,Y,N,N,,5
