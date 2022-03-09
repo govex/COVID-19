@@ -1,16 +1,16 @@
 ﻿State,COVID19 Data Type,State Source,Last Checked,M,T,W,R,F,Sa,Sun,Holidays,# reports/week
-Alabama,Cases,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Alabama,Deaths,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Alabama,Tests,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Alabama,Vaccines,https://www.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367,2/22/22,N,Y,N,Y,N,N,N,,2
+Alabama,Cases,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,3/7/22,Y,Y,Y,Y,Y,N,N,,5
+Alabama,Deaths,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,3/7/22,Y,Y,Y,Y,Y,N,N,,5
+Alabama,Tests,https://alpublichealth.maps.arcgis.com/apps/dashboards/6d2771faa9da4a2786a509d82c8cf0f7,3/7/22,Y,Y,Y,Y,Y,N,N,,5
+Alabama,Vaccines,https://www.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367,3/7/22,N,Y,N,Y,N,N,N,,2
 Alaska,Cases,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,Y,N,Y,N,Y,N,N,N,3
 Alaska,Deaths,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,N,Y,N,N,N,N,N,N,1
 Alaska,Tests,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,Y,N,Y,N,Y,N,N,N,3
 Alaska,Vaccines,https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/,3/1/22,Y,N,Y,N,Y,N,N,N,3
-Arizona,Cases,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
-Arizona,Deaths,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
-Arizona,Tests,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
-Arizona,Vaccines,https://www.azdhs.gov/covid19/data/index.php,3/1/22,N,N,Y,N,N,N,N,,1
+Arizona,Cases,https://www.azdhs.gov/covid19/data/index.php,3/7/22,N,N,Y,N,N,N,N,,1
+Arizona,Deaths,https://www.azdhs.gov/covid19/data/index.php,3/7/22,N,N,Y,N,N,N,N,,1
+Arizona,Tests,https://www.azdhs.gov/covid19/data/index.php,3/7/22,N,N,Y,N,N,N,N,,1
+Arizona,Vaccines,https://www.azdhs.gov/covid19/data/index.php,3/7/22,N,N,Y,N,N,N,N,,1
 Arkansas,Cases,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Arkansas,Deaths,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Arkansas,Tests,https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
@@ -31,9 +31,9 @@ Delaware,Cases,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/22
 Delaware,Deaths,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Delaware,Tests,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
 Delaware,Vaccines,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-District of Columbia,Cases,https://coronavirus.dc.gov/data,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-District of Columbia,Deaths,https://coronavirus.dc.gov/data,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-District of Columbia,Tests,https://coronavirus.dc.gov/data,2/22/22,Y,Y,Y,Y,Y,N,N,,5
+District of Columbia,Cases,https://coronavirus.dc.gov/data,3/7/22,N,N,Y,N,N,N,N,,1
+District of Columbia,Deaths,https://coronavirus.dc.gov/data,3/7/22,N,N,Y,N,N,N,N,,1
+District of Columbia,Tests,https://coronavirus.dc.gov/data,3/7/22,N,N,Y,N,N,N,N,,1
 District of Columbia,Vaccines,https://coronavirus.dc.gov/data/vaccination,2/22/22,N,N,N,Y,N,N,N,,1
 Florida,Cases,http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/covid19-data/covid19_data_latest.pdf,2/22/22,N,N,N,N,Y,N,N,,1
 Florida,Deaths,http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/covid19-data/covid19_data_latest.pdf,2/22/22,N,N,N,N,Y,N,N,,1
@@ -47,10 +47,10 @@ Guam,Cases,http://dphss.guam.gov/covid-19/,2/22/22,N,N,N,N,Y,N,N,N,1
 Guam,Deaths,http://dphss.guam.gov/covid-19/,2/22/22,N,N,N,N,Y,N,N,N,1
 Guam,Tests,http://dphss.guam.gov/covid-19/,2/22/22,N,N,N,N,Y,N,N,N,1
 Guam,Vaccines,http://dphss.guam.gov/covid-19/,2/22/22,N,N,N,N,Y,N,N,N,1
-Hawaii,Cases,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Hawaii,Deaths,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Hawaii,Tests,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Hawaii,Vaccines,https://dohdocdeas.doh.hawaii.gov/t/DOCD/views/HawaiiCOVID-19-VaccinationDashboard/DOSETRACKING?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Atabs=no&%3Atoolbar=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_count=yes&%3Alanguage=en&publish=yes&%3AloadOrderID=0,2/22/22,Y,Y,Y,Y,Y,N,N,,5
+Hawaii,Cases,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/7/22,Y,Y,Y,Y,Y,N,N,N,5
+Hawaii,Deaths,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/7/22,Y,Y,Y,Y,Y,N,N,N,5
+Hawaii,Tests,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/7/22,Y,Y,Y,Y,Y,N,N,N,5
+Hawaii,Vaccines,https://dohdocdeas.doh.hawaii.gov/t/DOCD/views/HawaiiCOVID-19-VaccinationDashboard/DOSETRACKING?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Atabs=no&%3Atoolbar=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_count=yes&%3Alanguage=en&publish=yes&%3AloadOrderID=0,3/7/22,Y,Y,Y,Y,Y,N,N,,5
 Idaho,Cases,https://coronavirus.idaho.gov/,2/22/22,Y,Y,Y,Y,Y,Y,N,N,6
 Idaho,Deaths,https://coronavirus.idaho.gov/,2/22/22,Y,Y,Y,Y,Y,Y,N,N,6
 Idaho,Tests,https://coronavirus.idaho.gov/,2/22/22,Y,Y,Y,Y,Y,Y,N,N,6
@@ -71,10 +71,10 @@ Kansas,Cases,https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas,2/22/22,Y
 Kansas,Deaths,https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas,2/22/22,Y,N,Y,N,Y,N,N,,3
 Kansas,Tests,https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas,2/22/22,Y,N,Y,N,Y,N,N,,3
 Kansas,Vaccines,https://www.kansasvaccine.gov/158/Data,2/22/22,Y,N,Y,N,Y,N,N,,3
-Kentucky,Cases,https://kygeonet.maps.arcgis.com/apps/dashboards/543ac64bc40445918cf8bc34dc40e334,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-Kentucky,Deaths,https://kygeonet.maps.arcgis.com/apps/dashboards/543ac64bc40445918cf8bc34dc40e334,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-Kentucky,Tests,https://kygeonet.maps.arcgis.com/apps/dashboards/543ac64bc40445918cf8bc34dc40e334,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-Kentucky,Vaccines,https://dashboard.chfs.ky.gov/views/KYPublicFacingDashboard_16191000580170/KentuckyCOVID-19Vaccination?:iid=1&:isGuestRedirectFromVizportal=y&:embed=y,2/22/22,Y,Y,Y,Y,Y,N,N,N,5
+Kentucky,Cases,https://govstatus.egov.com/ky-covid-data-dashboard,3/7/22,Y,N,N,N,N,N,N,,1
+Kentucky,Deaths,https://govstatus.egov.com/ky-covid-data-dashboard,3/7/22,Y,N,N,N,N,N,N,,1
+Kentucky,Tests,https://govstatus.egov.com/ky-covid-data-dashboard,3/7/22,Y,N,N,N,N,N,N,,1
+Kentucky,Vaccines,https://dashboard.chfs.ky.gov/views/KYPublicFacingDashboard_16191000580170/KentuckyCOVID-19Vaccination?:iid=1&:isGuestRedirectFromVizportal=y&:embed=y,3/7/22,Y,Y,Y,Y,Y,N,N,N,5
 Louisiana,Cases,https://ldh.la.gov/coronavirus/,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Louisiana,Deaths,https://ldh.la.gov/coronavirus/,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Louisiana,Tests,https://ldh.la.gov/coronavirus/,2/22/22,Y,Y,Y,Y,Y,N,N,,5
@@ -103,10 +103,10 @@ Mississippi,Cases,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississipp
 Mississippi,Deaths,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi",2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Mississippi,Tests,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi",2/22/22,Y,N,N,N,N,N,N,,1
 Mississippi,Vaccines,https://msdh.ms.gov/msdhsite/_static/resources/12130.pdf,2/22/22,Y,Y,Y,Y,Y,N,N,,5
-Missouri,Cases,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Missouri,Deaths,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Missouri,Tests,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,2/22/22,Y,Y,Y,Y,Y,Y,Y,,7
-Missouri,Vaccines,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,2/22/22,Y,Y,Y,Y,Y,N,N,,5
+Missouri,Cases,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,3/7/22,Y,Y,Y,Y,Y,N,N,,5
+Missouri,Deaths,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,3/7/22,Y,Y,Y,Y,Y,N,N,,5
+Missouri,Tests,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,3/7/22,Y,Y,Y,Y,Y,N,N,,5
+Missouri,Vaccines,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,3/7/22,Y,Y,Y,Y,Y,N,N,,5
 Montana,Cases,https://montana.maps.arcgis.com/apps/MapSeries/index.html?appid=7c34f3412536439491adcc2103421d4b,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Montana,Deaths,https://montana.maps.arcgis.com/apps/MapSeries/index.html?appid=7c34f3412536439491adcc2103421d4b,2/22/22,Y,Y,Y,Y,Y,N,N,,5
 Montana,Tests,https://montana.maps.arcgis.com/apps/MapSeries/index.html?appid=7c34f3412536439491adcc2103421d4b,2/22/22,Y,Y,Y,Y,Y,N,N,,5
