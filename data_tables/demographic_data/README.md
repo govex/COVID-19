@@ -43,7 +43,11 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 ### GU
 - Cases and deaths: http://dphss.guam.gov/covid-19/
 ### HI
-- Cases, deaths, and vaccines: https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/
+- Cases, deaths, and vaccines before 3/11/2022: https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/
+- Cases by age and gender or sex: https://health.hawaii.gov/coronavirusdisease2019/tableau_dashboard/outcome-data/
+- Cases by race and ethnicity: https://health.hawaii.gov/coronavirusdisease2019/tableau_dashboard/race-ethnicity-data/
+- Deaths: https://health.hawaii.gov/coronavirusdisease2019/tableau_dashboard/mortality-data/
+- Vaccines: https://health.hawaii.gov/coronavirusdisease2019/tableau_dashboard/21778/
 ### IA
 - Cases: https://coronavirus.iowa.gov/pages/case-counts 
 - Deaths: https://coronavirus.iowa.gov/pages/outcome-analysis-deaths
