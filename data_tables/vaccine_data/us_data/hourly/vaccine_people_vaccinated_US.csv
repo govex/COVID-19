@@ -2,7 +2,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2022-03-16,32.3182,-86.9023,"Alabama, US",2475174,570011
 2,Alaska,US,2022-03-16,61.3707,-152.4044,"Alaska, US",449359,55174
 60,American Samoa,US,2022-03-16,-14.271,-170.132,"American Samoa, US",39520,4620
-4,Arizona,US,2022-03-16,33.7298,-111.4312,"Arizona, US",4894430,827179
+4,Arizona,US,2022-03-16,33.7298,-111.4312,"Arizona, US",4915937,827179
 5,Arkansas,US,2022-03-16,34.9697,-92.3731,"Arkansas, US",1622327,370788
 6,California,US,2022-03-16,36.1162,-119.6816,"California, US",27991453,4490711
 8,Colorado,US,2022-03-16,39.0598,-105.3111,"Colorado, US",4003599,524925
@@ -29,7 +29,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2022-03-16,43.3266,-84.5361,"Michigan, US",5948977,686914
 27,Minnesota,US,2022-03-16,45.6945,-93.9002,"Minnesota, US",3865209,338782
 28,Mississippi,US,2022-03-16,32.7416,-89.6787,"Mississippi, US",1524761,231993
-29,Missouri,US,2022-03-16,38.4561,-92.2884,"Missouri, US",3460145,625909
+29,Missouri,US,2022-03-16,38.4561,-92.2884,"Missouri, US",3461290,625909
 30,Montana,US,2022-03-16,46.9219,-110.4544,"Montana, US",600392,90816
 31,Nebraska,US,2022-03-16,41.1254,-98.2681,"Nebraska, US",1214307,131643
 32,Nevada,US,2022-03-16,38.3135,-117.0554,"Nevada, US",1848889,441523
@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-03-16,35.5653,-96.9289,"Oklahoma, US",2228738,551068
 41,Oregon,US,2022-03-16,44.572,-122.0709,"Oregon, US",2908448,348727
 42,Pennsylvania,US,2022-03-16,40.5908,-77.2098,"Pennsylvania, US",8619198,2095453
-72,Puerto Rico,US,2022-03-16,18.2208,-66.5901,"Puerto Rico, US",2644586,439639
+72,Puerto Rico,US,2022-03-16,18.2208,-66.5901,"Puerto Rico, US",2617156,439639
 44,Rhode Island,US,2022-03-16,41.6809,-71.5118,"Rhode Island, US",859991,167103
 45,South Carolina,US,2022-03-16,33.8569,-80.945,"South Carolina, US",2900971,545779
 46,South Dakota,US,2022-03-16,44.2998,-99.4388,"South Dakota, US",532896,132934
