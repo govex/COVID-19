@@ -47,10 +47,10 @@ Guam,Cases,http://dphss.guam.gov/covid-19/,3/14/22,N,N,N,N,Y,N,N,N,1
 Guam,Deaths,http://dphss.guam.gov/covid-19/,3/14/22,N,N,N,N,Y,N,N,N,1
 Guam,Tests,http://dphss.guam.gov/covid-19/,3/14/22,N,N,N,N,Y,N,N,N,1
 Guam,Vaccines,http://dphss.guam.gov/covid-19/,3/14/22,N,N,N,N,Y,N,N,N,1
-Hawaii,Cases,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/14/22,Y,Y,Y,Y,Y,N,N,N,5
-Hawaii,Deaths,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/14/22,Y,Y,Y,Y,Y,N,N,N,5
-Hawaii,Tests,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/14/22,Y,Y,Y,Y,Y,N,N,N,5
-Hawaii,Vaccines,https://dohdocdeas.doh.hawaii.gov/t/DOCD/views/HawaiiCOVID-19-VaccinationDashboard/DOSETRACKING?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Atabs=no&%3Atoolbar=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_count=yes&%3Alanguage=en&publish=yes&%3AloadOrderID=0,3/14/22,Y,Y,Y,Y,Y,N,N,,5
+Hawaii,Cases,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/14/22,N,N,Y,N,N,N,N,N,1
+Hawaii,Deaths,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/14/22,N,N,Y,N,N,N,N,N,1
+Hawaii,Tests,https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/,3/14/22,N,N,Y,N,N,N,N,N,1
+Hawaii,Vaccines,https://dohdocdeas.doh.hawaii.gov/t/DOCD/views/HawaiiCOVID-19-VaccinationDashboard/DOSETRACKING?%3Aembed=y&%3AshowVizHome=no&%3Ahost_url=https%3A%2F%2Fpublic.tableau.com%2F&%3Aembed_code_version=3&%3Atabs=no&%3Atoolbar=yes&%3Aanimate_transition=yes&%3Adisplay_static_image=no&%3Adisplay_spinner=no&%3Adisplay_overlay=yes&%3Adisplay_count=yes&%3Alanguage=en&publish=yes&%3AloadOrderID=0,3/14/22,N,N,Y,N,N,N,N,N,1
 Idaho,Cases,https://coronavirus.idaho.gov/,3/14/22,Y,Y,Y,Y,Y,Y,N,N,6
 Idaho,Deaths,https://coronavirus.idaho.gov/,3/14/22,Y,Y,Y,Y,Y,Y,N,N,6
 Idaho,Tests,https://coronavirus.idaho.gov/,3/14/22,Y,Y,Y,Y,Y,Y,N,N,6
@@ -147,10 +147,10 @@ Northern Mariana Islands,Cases,https://chcc.datadriven.health/ui/99/dashboard/cb
 Northern Mariana Islands,Deaths,https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a,3/14/22,,,,,,N,,,0
 Northern Mariana Islands,Tests,https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a,3/14/22,,,,,,N,,,0
 Northern Mariana Islands,Vaccines,https://www.vaccinatecnmi.com/vax-dashboard/,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-Ohio,Cases,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,3/14/22,Y,Y,Y,Y,Y,Y,Y,,7
-Ohio,Deaths,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,3/14/22,Y,Y,Y,Y,Y,Y,Y,,7
-Ohio,Tests,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,3/14/22,Y,Y,Y,Y,Y,Y,Y,,7
-Ohio,Vaccines,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/covid-19-vaccination-dashboard,3/14/22,Y,Y,Y,Y,Y,Y,Y,,7
+Ohio,Cases,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,3/14/22,N,N,N,Y,N,N,N,,1
+Ohio,Deaths,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,3/14/22,N,N,N,Y,N,N,N,,1
+Ohio,Tests,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home,3/14/22,N,N,N,Y,N,N,N,,1
+Ohio,Vaccines,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/covid-19-vaccination-dashboard,3/14/22,N,N,N,Y,N,N,N,,1
 Oklahoma,Cases,https://oklahoma.gov/covid19.html,3/14/22,N,N,N,Y,N,N,N,,1
 Oklahoma,Deaths,https://oklahoma.gov/covid19.html,3/14/22,N,N,N,Y,N,N,N,,1
 Oklahoma,Tests,https://oklahoma.gov/covid19.html,3/14/22,N,N,N,Y,N,N,N,,1
