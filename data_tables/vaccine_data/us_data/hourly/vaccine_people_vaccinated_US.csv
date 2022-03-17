@@ -3,7 +3,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-03-17,61.3707,-152.4044,"Alaska, US",449359,55180
 60,American Samoa,US,2022-03-17,-14.271,-170.132,"American Samoa, US",39521,4619
 4,Arizona,US,2022-03-17,33.7298,-111.4312,"Arizona, US",4915937,827226
-5,Arkansas,US,2022-03-17,34.9697,-92.3731,"Arkansas, US",1622985,370754
+5,Arkansas,US,2022-03-17,34.9697,-92.3731,"Arkansas, US",1622985,371067
 6,California,US,2022-03-17,36.1162,-119.6816,"California, US",28000511,4493669
 8,Colorado,US,2022-03-17,39.0598,-105.3111,"Colorado, US",4004711,524837
 9,Connecticut,US,2022-03-17,41.5978,-72.7554,"Connecticut, US",2786396,576621
@@ -24,7 +24,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 21,Kentucky,US,2022-03-17,37.6681,-84.6701,"Kentucky, US",2536474,393160
 22,Louisiana,US,2022-03-17,31.1695,-91.8678,"Louisiana, US",2461340,350882
 23,Maine,US,2022-03-17,44.6939,-69.3819,"Maine, US",1056524,143650
-24,Maryland,US,2022-03-17,39.0639,-76.8021,"Maryland, US",4505938,656653
+24,Maryland,US,2022-03-17,39.0639,-76.8021,"Maryland, US",4507304,656653
 25,Massachusetts,US,2022-03-17,42.2302,-71.5301,"Massachusetts, US",5374123,1305221
 26,Michigan,US,2022-03-17,43.3266,-84.5361,"Michigan, US",5950255,686663
 27,Minnesota,US,2022-03-17,45.6945,-93.9002,"Minnesota, US",3866020,338665
