@@ -173,11 +173,11 @@ Rhode Island,Tests,https://ri-department-of-health-covid-19-data-rihealth.hub.ar
 Rhode Island,Vaccines,https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/,3/14/22,Y,Y,Y,Y,Y,N,N,,5
 South Carolina,Cases,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,3/14/22,Y,Y,Y,Y,Y,N,N,,5
 South Carolina,Deaths,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-South Carolina,Tests,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-South Carolina,Vaccines,https://scdhec.gov/covid19/covid-19-vaccination-dashboard,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-South Dakota,Cases,https://doh.sd.gov/COVID/Dashboard.aspx,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-South Dakota,Deaths,https://doh.sd.gov/COVID/Dashboard.aspx,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-South Dakota,Tests,https://doh.sd.gov/COVID/Dashboard.aspx,3/14/22,Y,Y,Y,Y,Y,N,N,,5
+South Carolina,Tests,https://scdhec.gov/covid19/sc-testing-data-projections-covid-19,3/14/22,N,N,Y,N,N,N,N,,5
+South Carolina,Vaccines,https://scdhec.gov/covid19/covid-19-vaccination-dashboard,3/22/22,N,N,Y,N,N,N,N,,5
+South Dakota,Cases,https://doh.sd.gov/COVID/Dashboard.aspx,3/22/22,N,N,Y,N,N,N,N,,5
+South Dakota,Deaths,https://doh.sd.gov/COVID/Dashboard.aspx,3/22/22,Y,Y,Y,Y,Y,N,N,,5
+South Dakota,Tests,https://doh.sd.gov/COVID/Dashboard.aspx,3/22/22,Y,Y,Y,Y,Y,N,N,,5
 South Dakota,Vaccines,https://doh.sd.gov/COVID/Dashboard.aspx,3/14/22,Y,Y,Y,Y,Y,N,N,,5
 Tennessee,Cases,https://www.tn.gov/health/cedep/ncov.html,3/14/22,N,N,N,N,N,Y,N,,1
 Tennessee,Deaths,https://www.tn.gov/health/cedep/ncov.html,3/14/22,N,N,N,N,N,Y,N,,1
@@ -215,7 +215,7 @@ Wisconsin,Cases,https://www.dhs.wisconsin.gov/covid-19/data.htm,3/14/22,Y,Y,Y,Y,
 Wisconsin,Deaths,https://www.dhs.wisconsin.gov/covid-19/data.htm,3/14/22,Y,Y,Y,Y,Y,N,N,,5
 Wisconsin,Tests,https://www.dhs.wisconsin.gov/covid-19/data.htm,3/14/22,Y,Y,Y,Y,Y,N,N,,5
 Wisconsin,Vaccines,https://www.dhs.wisconsin.gov/covid-19/vaccine-data.htm,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-Wyoming,Cases,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-Wyoming,Deaths,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,3/14/22,N,Y,N,N,N,N,N,,1
-Wyoming,Tests,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,3/14/22,Y,Y,Y,Y,Y,N,N,,5
-Wyoming,Vaccines,https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/covid-19-vaccine-distribution-data/,3/14/22,Y,N,N,N,N,N,N,,1
+Wyoming,Cases,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,3/22/22,N,Y,N,N,Y,N,N,,2
+Wyoming,Deaths,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,3/22/22,N,Y,N,N,N,N,N,,1
+Wyoming,Tests,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,3/22/22,N,Y,N,N,Y,N,N,,2
+Wyoming,Vaccines,https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/covid-19-vaccine-distribution-data/,3/22/22,Y,N,N,N,N,N,N,,1
