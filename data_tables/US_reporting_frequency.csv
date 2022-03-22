@@ -140,7 +140,7 @@ North Carolina,Deaths,https://covid19.ncdhhs.gov/dashboard,3/14/22,Y,Y,Y,Y,Y,N,N
 North Carolina,Tests,https://covid19.ncdhhs.gov/dashboard,3/14/22,Y,Y,Y,Y,Y,N,N,,5
 North Carolina,Vaccines,https://covid19.ncdhhs.gov/dashboard/vaccinations,3/14/22,Y,Y,Y,Y,Y,N,N,,5
 North Dakota,Cases,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,3/22/22,N,N,N,N,Y,N,N,,1
-North Dakota,Deaths,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,3/22/22,N,N,N,N,Y,N,N,,1
+North Dakota,Deaths,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,3/22/22,N,N,N,N,N,N,N,,0
 North Dakota,Tests,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,3/22/22,N,N,N,N,Y,N,N,,1
 North Dakota,Vaccines,https://www.health.nd.gov/covid19vaccine/dashboard,3/22/22,N,N,N,N,Y,N,N,,1
 Northern Mariana Islands,Cases,https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a,3/14/22,,,,,,N,,,0
