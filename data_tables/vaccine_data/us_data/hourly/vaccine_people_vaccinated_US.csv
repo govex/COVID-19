@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-03-24,44.2405,-114.4788,"Idaho, US",956332,127190
 17,Illinois,US,2022-03-24,40.3495,-88.9861,"Illinois, US",8627058,1048916
 ,Indian Health Services,US,2022-03-24,,,"Indian Health Services, US",860795,223842
-18,Indiana,US,2022-03-24,39.8494,-86.2583,"Indiana, US",3697663,442826
+18,Indiana,US,2022-03-24,39.8494,-86.2583,"Indiana, US",3698138,442826
 19,Iowa,US,2022-03-24,42.0115,-93.2105,"Iowa, US",1938799,192077
 20,Kansas,US,2022-03-24,38.5266,-96.7265,"Kansas, US",1768690,384564
 21,Kentucky,US,2022-03-24,37.6681,-84.6701,"Kentucky, US",2540559,392648
@@ -29,7 +29,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2022-03-24,43.3266,-84.5361,"Michigan, US",5958102,685424
 27,Minnesota,US,2022-03-24,45.6945,-93.9002,"Minnesota, US",3871079,337457
 28,Mississippi,US,2022-03-24,32.7416,-89.6787,"Mississippi, US",1529005,231564
-29,Missouri,US,2022-03-24,38.4561,-92.2884,"Missouri, US",3467408,625735
+29,Missouri,US,2022-03-24,38.4561,-92.2884,"Missouri, US",3468277,625735
 30,Montana,US,2022-03-24,46.9219,-110.4544,"Montana, US",601473,90583
 31,Nebraska,US,2022-03-24,41.1254,-98.2681,"Nebraska, US",1216256,131355
 32,Nevada,US,2022-03-24,38.3135,-117.0554,"Nevada, US",1852396,442330
@@ -37,7 +37,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 34,New Jersey,US,2022-03-24,40.2989,-74.521,"New Jersey, US",6808425,1312200
 35,New Mexico,US,2022-03-24,34.8405,-106.2485,"New Mexico, US",1471836,343708
 36,New York,US,2022-03-24,42.1657,-74.9481,"New York, US",14792735,2607551
-37,North Carolina,US,2022-03-24,35.6301,-79.8064,"North Carolina, US",6454918,2427675
+37,North Carolina,US,2022-03-24,35.6301,-79.8064,"North Carolina, US",6456285,2427675
 38,North Dakota,US,2022-03-24,47.5289,-99.784,"North Dakota, US",416060,76235
 69,Northern Mariana Islands,US,2022-03-24,15.0979,145.6739,"Northern Mariana Islands, US",43716,2190
 39,Ohio,US,2022-03-24,40.3888,-82.7649,"Ohio, US",6774153,607969
