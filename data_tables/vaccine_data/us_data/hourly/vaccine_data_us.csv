@@ -1,10 +1,10 @@
 FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses_shipped,Doses_admin,Stage_One_Doses,Stage_Two_Doses,Combined_Key
+1,Alabama,US,2022-03-31,32.3182,-86.9023,Janssen,,396000,176410,164845,,"Alabama, US"
 1,Alabama,US,2022-03-31,32.3182,-86.9023,Pfizer,,4932480,3301957,,1294112,"Alabama, US"
 1,Alabama,US,2022-03-31,32.3182,-86.9023,Moderna,,4080460,2680364,,1023419,"Alabama, US"
+1,Alabama,US,2022-03-31,32.3182,-86.9023,Unknown,,0,510,,,"Alabama, US"
 1,Alabama,US,2022-03-31,32.3182,-86.9023,All,,9408940,6159241,3052890,2364203,"Alabama, US"
 1,Alabama,US,2022-03-31,32.3182,-86.9023,Unassigned,,0,0,2888045,46672,"Alabama, US"
-1,Alabama,US,2022-03-31,32.3182,-86.9023,Janssen,,396000,176410,164845,,"Alabama, US"
-1,Alabama,US,2022-03-31,32.3182,-86.9023,Unknown,,0,510,,,"Alabama, US"
 2,Alaska,US,2022-03-31,61.3707,-152.4044,All,508630,1484765,1114829,506399,417638,"Alaska, US"
 2,Alaska,US,2022-03-31,61.3707,-152.4044,Unassigned,508630,0,0,464889,8140,"Alaska, US"
 2,Alaska,US,2022-03-31,61.3707,-152.4044,Janssen,,84300,46392,41510,,"Alaska, US"
