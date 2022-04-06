@@ -3,7 +3,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 2,Alaska,US,2022-04-06,61.3707,-152.4044,"Alaska, US",452217,55274
 60,American Samoa,US,2022-04-06,-14.271,-170.132,"American Samoa, US",40756,4104
 4,Arizona,US,2022-04-06,33.7298,-111.4312,"Arizona, US",4949211,826068
-5,Arkansas,US,2022-04-06,34.9697,-92.3731,"Arkansas, US",1630638,372446
+5,Arkansas,US,2022-04-06,34.9697,-92.3731,"Arkansas, US",1630638,372538
 6,California,US,2022-04-06,36.1162,-119.6816,"California, US",28134229,4513626
 8,Colorado,US,2022-04-06,39.0598,-105.3111,"Colorado, US",4021195,523260
 9,Connecticut,US,2022-04-06,41.5978,-72.7554,"Connecticut, US",2799933,578677
@@ -14,7 +14,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 12,Florida,US,2022-04-06,27.7663,-81.6868,"Florida, US",14290114,2622325
 13,Georgia,US,2022-04-06,33.0406,-83.6431,"Georgia, US",5767929,1131709
 66,Guam,US,2022-04-06,13.4443,144.7937,"Guam, US",138439,14436
-15,Hawaii,US,2022-04-06,21.0943,-157.4983,"Hawaii, US",1093676,102750
+15,Hawaii,US,2022-04-06,21.0943,-157.4983,"Hawaii, US",1094605,102551
 16,Idaho,US,2022-04-06,44.2405,-114.4788,"Idaho, US",959413,126878
 17,Illinois,US,2022-04-06,40.3495,-88.9861,"Illinois, US",8652890,1029419
 ,Indian Health Services,US,2022-04-06,,,"Indian Health Services, US",863424,224536
