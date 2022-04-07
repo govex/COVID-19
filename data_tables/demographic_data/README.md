@@ -69,6 +69,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 ### KY
 - Cases and deaths: https://chfs.ky.gov/agencies/dph/covid19/COVID19DailyReport.pdf
 - Vaccines: https://chfs.ky.gov/agencies/dph/covid19/StatewideVaccineDemographics.pdf
+- Vaccines after 4/8/2022: https://dashboard.chfs.ky.gov/views/KYPublicFacingDashboard_16191000580170/KentuckyCOVID-19Vaccination?%3Aiid=1&%3AisGuestRedirectFromVizportal=y&%3Aembed=y
 ### LA
 - Cases and deaths: https://ladhh.maps.arcgis.com/apps/webappviewer/index.html?id=3b9b6f22d92f4d688f1c21e9d154cae2 
 - Vaccines: https://ldh.la.gov/Coronavirus/
