@@ -8,7 +8,7 @@ Long_,Longitude
 Vaccine_Type,"Common name of the vaccine provider. Can be either a combination of all vaccine types labeled as 'All', or a specific provider like Moderna or Pfizer"
 Doses_alloc,Cumulative number of doses allocated
 Doses_shipped,Cumulative number of doses that have arrived to the vaccination sites.
-Doses_admin,Cumulative number of doses administered, including booster doses for states where it is reported as part of the total.
+Doses_admin,"Cumulative number of doses administered, including booster doses for states where it is reported as part of the total."
 Stage_One_Doses,Cumulative number of first doses administered
 Stage_Two_Doses,Cumulative number of second doses administered
 Combined_Key,"Combination of Province_State, Country_Region"
