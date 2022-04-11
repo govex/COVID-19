@@ -294,7 +294,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 54,West Virginia,US,2022-04-11,38.4912,-80.9545,All,,3994945,2682013,1160136,983500,"West Virginia, US"
 54,West Virginia,US,2022-04-11,38.4912,-80.9545,Unassigned,,0,0,1099325,17546,"West Virginia, US"
 55,Wisconsin,US,2022-04-11,44.2685,-89.6165,Unknown,,0,2550,,,"Wisconsin, US"
-55,Wisconsin,US,2022-04-11,44.2685,-89.6165,Janssen,,451800,344727,299833,,"Wisconsin, US"
+55,Wisconsin,US,2022-04-11,44.2685,-89.6165,Janssen,,451800,344803,299833,,"Wisconsin, US"
 55,Wisconsin,US,2022-04-11,44.2685,-89.6165,Pfizer,,6649845,5888096,,2165790,"Wisconsin, US"
 55,Wisconsin,US,2022-04-11,44.2685,-89.6165,Moderna,,4253900,3836927,,1331477,"Wisconsin, US"
 55,Wisconsin,US,2022-04-11,44.2685,-89.6165,All,6809515,11355545,10061767,4167001,3634493,"Wisconsin, US"
