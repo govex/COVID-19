@@ -2,7 +2,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2022-04-13,32.3182,-86.9023,"Alabama, US",2491778,569489
 2,Alaska,US,2022-04-13,61.3707,-152.4044,"Alaska, US",452936,55401
 60,American Samoa,US,2022-04-13,-14.271,-170.132,"American Samoa, US",41174,3824
-4,Arizona,US,2022-04-13,33.7298,-111.4312,"Arizona, US",4949211,827733
+4,Arizona,US,2022-04-13,33.7298,-111.4312,"Arizona, US",4962742,827733
 5,Arkansas,US,2022-04-13,34.9697,-92.3731,"Arkansas, US",1633952,368810
 6,California,US,2022-04-13,36.1162,-119.6816,"California, US",28235932,4523984
 8,Colorado,US,2022-04-13,39.0598,-105.3111,"Colorado, US",4027023,524072
@@ -18,7 +18,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 16,Idaho,US,2022-04-13,44.2405,-114.4788,"Idaho, US",961258,126591
 17,Illinois,US,2022-04-13,40.3495,-88.9861,"Illinois, US",8669307,1020973
 ,Indian Health Services,US,2022-04-13,,,"Indian Health Services, US",865475,224645
-18,Indiana,US,2022-04-13,39.8494,-86.2583,"Indiana, US",3707041,443336
+18,Indiana,US,2022-04-13,39.8494,-86.2583,"Indiana, US",3707571,443336
 19,Iowa,US,2022-04-13,42.0115,-93.2105,"Iowa, US",1946658,190737
 20,Kansas,US,2022-04-13,38.5266,-96.7265,"Kansas, US",1777359,383444
 21,Kentucky,US,2022-04-13,37.6681,-84.6701,"Kentucky, US",2553617,392036
@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-04-13,35.5653,-96.9289,"Oklahoma, US",2250029,549464
 41,Oregon,US,2022-04-13,44.572,-122.0709,"Oregon, US",2924792,348179
 42,Pennsylvania,US,2022-04-13,40.5908,-77.2098,"Pennsylvania, US",8694354,2103439
-72,Puerto Rico,US,2022-04-13,18.2208,-66.5901,"Puerto Rico, US",2669546,380940
+72,Puerto Rico,US,2022-04-13,18.2208,-66.5901,"Puerto Rico, US",2670243,380940
 44,Rhode Island,US,2022-04-13,41.6809,-71.5118,"Rhode Island, US",868611,168553
 45,South Carolina,US,2022-04-13,33.8569,-80.945,"South Carolina, US",2914558,546984
 46,South Dakota,US,2022-04-13,44.2998,-99.4388,"South Dakota, US",538381,133698
