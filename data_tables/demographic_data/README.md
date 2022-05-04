@@ -82,8 +82,10 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 - Cases and deaths: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
 - Vaccines: https://www.maine.gov/covid19/vaccines/dashboard
 ### MI
-- Cases and deaths: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html
-- Vaccines: https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214_103272-547150--,00.html
+- Cases and deaths (before 5/6/22): https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html
+- Vaccines (before 5/6/22): https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214_103272-547150--,00.html
+- Cases and deaths: https://www.michigan.gov/coronavirus/stats
+- Vaccines: https://www.michigan.gov/coronavirus/resources/covid-19-vaccine/covid-19-dashboard  
 ### MN
 - Cases: https://www.health.state.mn.us/diseases/coronavirus/situation.html#agem1
 - Deaths: https://www.health.state.mn.us/diseases/coronavirus/stats/index.html#warchive1
