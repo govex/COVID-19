@@ -94,7 +94,8 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 - Cases, deaths, and tests: https://showmestrong.mo.gov/data-download/
 - Vaccines: https://showmestrong.mo.gov/data-download/vaccine/
 ### MP
-- Cases and deaths: https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
+- Cases and deaths (before 5/6/2022): https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
+- Cases and deaths: https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a
 - Vaccines: https://www.vaccinatecnmi.com/vax-dashboard/age-distribution/
 ### MS
 - Cases and deaths: https://msdh.ms.gov/msdhsite/_static/14,0,420.html#map
