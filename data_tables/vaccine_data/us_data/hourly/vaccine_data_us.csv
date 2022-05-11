@@ -272,7 +272,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 50,Vermont,US,2022-05-11,44.0459,-72.7107,Janssen,,72400,53516,47426,,"Vermont, US"
 50,Vermont,US,2022-05-11,44.0459,-72.7107,Pfizer,,1033470,807699,292110,280563,"Vermont, US"
 50,Vermont,US,2022-05-11,44.0459,-72.7107,Moderna,,710620,554977,185028,179101,"Vermont, US"
-50,Vermont,US,2022-05-11,44.0459,-72.7107,Unknown,,0,1018,427,379,"Vermont, US"
+50,Vermont,US,2022-05-11,44.0459,-72.7107,Unknown,,0,1021,427,379,"Vermont, US"
 50,Vermont,US,2022-05-11,44.0459,-72.7107,All,,1816490,1417074,584749,521521,"Vermont, US"
 50,Vermont,US,2022-05-11,44.0459,-72.7107,Unassigned,,0,,59758,61478,"Vermont, US"
 51,Virginia,US,2022-05-11,37.7693,-78.17,Unknown,,0,10368,,,"Virginia, US"
