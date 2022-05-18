@@ -2,12 +2,12 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 1,Alabama,US,2022-05-18,32.3182,-86.9023,"Alabama, US",2513048,569177
 2,Alaska,US,2022-05-18,61.3707,-152.4044,"Alaska, US",457621,53382
 60,American Samoa,US,2022-05-18,-14.271,-170.132,"American Samoa, US",41726,3607
-4,Arizona,US,2022-05-18,33.7298,-111.4312,"Arizona, US",5012731,838598
+4,Arizona,US,2022-05-18,33.7298,-111.4312,"Arizona, US",5020487,838598
 5,Arkansas,US,2022-05-18,34.9697,-92.3731,"Arkansas, US",1647918,376151
 6,California,US,2022-05-18,36.1162,-119.6816,"California, US",28616528,3923655
 8,Colorado,US,2022-05-18,39.0598,-105.3111,"Colorado, US",4055362,526421
 9,Connecticut,US,2022-05-18,41.5978,-72.7554,"Connecticut, US",2834779,585660
-10,Delaware,US,2022-05-18,39.3185,-75.5071,"Delaware, US",677868,136008
+10,Delaware,US,2022-05-18,39.3185,-75.5071,"Delaware, US",678068,136008
 ,Department of Defense,US,2022-05-18,,,"Department of Defense, US",3189237,1074342
 11,District of Columbia,US,2022-05-18,38.8974,-77.0268,"District of Columbia, US",676066,166678
 ,Federal Bureau of Prisons,US,2022-05-18,,,"Federal Bureau of Prisons, US",135267,11248
@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-05-18,35.5653,-96.9289,"Oklahoma, US",2274357,546886
 41,Oregon,US,2022-05-18,44.572,-122.0709,"Oregon, US",2944743,348273
 42,Pennsylvania,US,2022-05-18,40.5908,-77.2098,"Pennsylvania, US",8805406,2103685
-72,Puerto Rico,US,2022-05-18,18.2208,-66.5901,"Puerto Rico, US",2685396,380347
+72,Puerto Rico,US,2022-05-18,18.2208,-66.5901,"Puerto Rico, US",2685982,380347
 44,Rhode Island,US,2022-05-18,41.6809,-71.5118,"Rhode Island, US",878282,171009
 45,South Carolina,US,2022-05-18,33.8569,-80.945,"South Carolina, US",2946335,547113
 46,South Dakota,US,2022-05-18,44.2998,-99.4388,"South Dakota, US",546730,133388
