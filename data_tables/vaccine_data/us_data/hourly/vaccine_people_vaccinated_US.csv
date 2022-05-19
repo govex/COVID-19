@@ -7,7 +7,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 6,California,US,2022-05-19,36.1162,-119.6816,"California, US",28621605,3924943
 8,Colorado,US,2022-05-19,39.0598,-105.3111,"Colorado, US",4056176,526528
 9,Connecticut,US,2022-05-19,41.5978,-72.7554,"Connecticut, US",2835415,585731
-10,Delaware,US,2022-05-19,39.3185,-75.5071,"Delaware, US",678068,135968
+10,Delaware,US,2022-05-19,39.3185,-75.5071,"Delaware, US",678247,135968
 ,Department of Defense,US,2022-05-19,,,"Department of Defense, US",3190364,1075689
 11,District of Columbia,US,2022-05-19,38.8974,-77.0268,"District of Columbia, US",678376,166784
 ,Federal Bureau of Prisons,US,2022-05-19,,,"Federal Bureau of Prisons, US",135268,11247
@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-05-19,35.5653,-96.9289,"Oklahoma, US",2274467,546912
 41,Oregon,US,2022-05-19,44.572,-122.0709,"Oregon, US",2945430,348328
 42,Pennsylvania,US,2022-05-19,40.5908,-77.2098,"Pennsylvania, US",8808166,2103662
-72,Puerto Rico,US,2022-05-19,18.2208,-66.5901,"Puerto Rico, US",2685982,380356
+72,Puerto Rico,US,2022-05-19,18.2208,-66.5901,"Puerto Rico, US",2686486,380356
 44,Rhode Island,US,2022-05-19,41.6809,-71.5118,"Rhode Island, US",878640,171052
 45,South Carolina,US,2022-05-19,33.8569,-80.945,"South Carolina, US",2946478,547453
 46,South Dakota,US,2022-05-19,44.2998,-99.4388,"South Dakota, US",546945,133353
