@@ -250,7 +250,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 46,South Dakota,US,2022-06-06,44.2998,-99.4388,Pfizer,,1080565,841288,297339,310292,"South Dakota, US"
 46,South Dakota,US,2022-06-06,44.2998,-99.4388,Moderna,,776500,564356,202448,200338,"South Dakota, US"
 46,South Dakota,US,2022-06-06,44.2998,-99.4388,All,,1948565,1447559,683540,521641,"South Dakota, US"
-46,South Dakota,US,2022-06-06,44.2998,-99.4388,Unassigned,,0,0,144394,11011,"South Dakota, US"
+46,South Dakota,US,2022-06-06,44.2998,-99.4388,Unassigned,,0,0,644181,11011,"South Dakota, US"
 47,Tennessee,US,2022-06-06,35.7478,-86.6923,Janssen,,517700,267465,237189,,"Tennessee, US"
 47,Tennessee,US,2022-06-06,35.7478,-86.6923,Pfizer,,7723590,5924195,,2165315,"Tennessee, US"
 47,Tennessee,US,2022-06-06,35.7478,-86.6923,Moderna,,5108240,3887014,,1328710,"Tennessee, US"
