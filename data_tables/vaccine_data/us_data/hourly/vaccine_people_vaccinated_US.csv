@@ -29,7 +29,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 26,Michigan,US,2022-06-10,43.3266,-84.5361,"Michigan, US",6045512,678304
 27,Minnesota,US,2022-06-10,45.6945,-93.9002,"Minnesota, US",3923834,333102
 28,Mississippi,US,2022-06-10,32.7416,-89.6787,"Mississippi, US",1551904,232102
-29,Missouri,US,2022-06-10,38.4561,-92.2884,"Missouri, US",3527572,618776
+29,Missouri,US,2022-06-10,38.4561,-92.2884,"Missouri, US",3529171,618776
 30,Montana,US,2022-06-10,46.9219,-110.4544,"Montana, US",610531,90805
 31,Nebraska,US,2022-06-10,41.1254,-98.2681,"Nebraska, US",1236790,129779
 32,Nevada,US,2022-06-10,38.3135,-117.0554,"Nevada, US",1887705,448094
@@ -44,7 +44,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 40,Oklahoma,US,2022-06-10,35.5653,-96.9289,"Oklahoma, US",2285577,547378
 41,Oregon,US,2022-06-10,44.572,-122.0709,"Oregon, US",2955467,349158
 42,Pennsylvania,US,2022-06-10,40.5908,-77.2098,"Pennsylvania, US",8863888,2107557
-72,Puerto Rico,US,2022-06-10,18.2208,-66.5901,"Puerto Rico, US",2689705,381313
+72,Puerto Rico,US,2022-06-10,18.2208,-66.5901,"Puerto Rico, US",2690010,381313
 44,Rhode Island,US,2022-06-10,41.6809,-71.5118,"Rhode Island, US",884275,172477
 45,South Carolina,US,2022-06-10,33.8569,-80.945,"South Carolina, US",2959887,548665
 46,South Dakota,US,2022-06-10,44.2998,-99.4388,"South Dakota, US",550801,133583
