@@ -106,7 +106,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 21,Kentucky,US,2022-06-13,37.6681,-84.6701,Pfizer,,5048975,6651886,1596122,1380384,"Kentucky, US"
 21,Kentucky,US,2022-06-13,37.6681,-84.6701,Moderna,,3814000,6651886,1127418,985372,"Kentucky, US"
 21,Kentucky,US,2022-06-13,37.6681,-84.6701,All,,9254675,6660522,2973359,2437611,"Kentucky, US"
-21,Kentucky,US,2022-06-13,37.6681,-84.6701,Unassigned,,0,0,37882,70967,"Kentucky, US"
+21,Kentucky,US,2022-06-13,37.6681,-84.6701,Unassigned,,0,0,34821,70967,"Kentucky, US"
 22,Louisiana,US,2022-06-13,31.1695,-91.8678,Janssen,,325900,6361610,181712,,"Louisiana, US"
 22,Louisiana,US,2022-06-13,31.1695,-91.8678,Pfizer,,4720770,6361610,,1352353,"Louisiana, US"
 22,Louisiana,US,2022-06-13,31.1695,-91.8678,Moderna,,3490880,6361610,,965766,"Louisiana, US"
