@@ -22,8 +22,10 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 - Cases, deaths, tests, and vaccines: https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php
 ### CA
 - Cases and deaths: https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state/resource/4d93df07-7c4d-4583-af53-03f950fe4365
+- Cases and deaths (after 7/1/2022): https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state/resource/1bf24cac-ad64-496e-8e4c-7f7b326f9e4a
 - Tests: https://covid19.ca.gov/equity/
 - Vaccines: https://covid19.ca.gov/vaccines/#California-vaccines-dashboard
+- Vaccines (after 7/1/2022): https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data/resource/9a0b200c-5a62-4545-912a-ea3f9e5b7c76
 ### CO
 - Cases and deaths: https://drive.google.com/drive/folders/17MWRnHYUhlv19CnoFxbRj3OTGBqlPaar
 - Vaccines: https://drive.google.com/drive/folders/1r095ofG8YvNj_dMWEq4XKkfhDaF8-I0n
