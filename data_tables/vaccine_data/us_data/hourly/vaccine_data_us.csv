@@ -207,7 +207,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 38,North Dakota,US,2022-07-07,47.5289,-99.784,Moderna,493840,556620,418142,,146476,"North Dakota, US"
 38,North Dakota,US,2022-07-07,47.5289,-99.784,Unknown,,0,347,,,"North Dakota, US"
 38,North Dakota,US,2022-07-07,47.5289,-99.784,Janssen,55400,53300,39787,36710,,"North Dakota, US"
-38,North Dakota,US,2022-07-07,47.5289,-99.784,All,,1474100,1106801,504415,402520,"North Dakota, US"
+38,North Dakota,US,2022-07-07,47.5289,-99.784,All,,1474100,1130205,504415,402520,"North Dakota, US"
 38,North Dakota,US,2022-07-07,47.5289,-99.784,Unassigned,,0,0,467705,12087,"North Dakota, US"
 39,Ohio,US,2022-07-07,40.3888,-82.7649,Janssen,,993100,629435,554881,,"Ohio, US"
 39,Ohio,US,2022-07-07,40.3888,-82.7649,Pfizer,,14391415,10720652,,3910138,"Ohio, US"
