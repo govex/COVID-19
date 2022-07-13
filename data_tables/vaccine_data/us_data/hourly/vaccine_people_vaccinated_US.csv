@@ -7,7 +7,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 6,California,US,2022-07-13,36.1162,-119.6816,"California, US",28798440,4046574
 8,Colorado,US,2022-07-13,39.0598,-105.3111,"Colorado, US",4083063,547527
 9,Connecticut,US,2022-07-13,41.5978,-72.7554,"Connecticut, US",2857635,598592
-10,Delaware,US,2022-07-13,39.3185,-75.5071,"Delaware, US",683941,137816
+10,Delaware,US,2022-07-13,39.3185,-75.5071,"Delaware, US",684058,137816
 ,Department of Defense,US,2022-07-13,,,"Department of Defense, US",3141869,1300545
 11,District of Columbia,US,2022-07-13,38.8974,-77.0268,"District of Columbia, US",692726,180545
 ,Federal Bureau of Prisons,US,2022-07-13,,,"Federal Bureau of Prisons, US",136522,12127
@@ -27,7 +27,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 24,Maryland,US,2022-07-13,39.0639,-76.8021,"Maryland, US",4626010,680643
 25,Massachusetts,US,2022-07-13,42.2302,-71.5301,"Massachusetts, US",5519240,1373843
 26,Michigan,US,2022-07-13,43.3266,-84.5361,"Michigan, US",6061863,682859
-27,Minnesota,US,2022-07-13,45.6945,-93.9002,"Minnesota, US",3936077,341983
+27,Minnesota,US,2022-07-13,45.6945,-93.9002,"Minnesota, US",3936077,3944551
 28,Mississippi,US,2022-07-13,32.7416,-89.6787,"Mississippi, US",1557939,234494
 29,Missouri,US,2022-07-13,38.4561,-92.2884,"Missouri, US",3543468,623397
 30,Montana,US,2022-07-13,46.9219,-110.4544,"Montana, US",613018,91118
