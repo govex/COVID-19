@@ -7,7 +7,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 6,California,US,2022-07-25,36.1162,-119.6816,"California, US",28857182,4111428
 8,Colorado,US,2022-07-25,39.0598,-105.3111,"Colorado, US",4091347,555543
 9,Connecticut,US,2022-07-25,41.5978,-72.7554,"Connecticut, US",2863022,605221
-10,Delaware,US,2022-07-25,39.3185,-75.5071,"Delaware, US",685257,138986
+10,Delaware,US,2022-07-25,39.3185,-75.5071,"Delaware, US",685563,138986
 ,Department of Defense,US,2022-07-25,,,"Department of Defense, US",3177859,1288922
 11,District of Columbia,US,2022-07-25,38.8974,-77.0268,"District of Columbia, US",701133,183543
 ,Federal Bureau of Prisons,US,2022-07-25,,,"Federal Bureau of Prisons, US",136526,12124
