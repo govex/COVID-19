@@ -7,7 +7,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 6,California,US,2022-07-26,36.1162,-119.6816,"California, US",28857182,4111428
 8,Colorado,US,2022-07-26,39.0598,-105.3111,"Colorado, US",4091347,555543
 9,Connecticut,US,2022-07-26,41.5978,-72.7554,"Connecticut, US",2863022,605221
-10,Delaware,US,2022-07-26,39.3185,-75.5071,"Delaware, US",685563,138986
+10,Delaware,US,2022-07-26,39.3185,-75.5071,"Delaware, US",685659,138986
 ,Department of Defense,US,2022-07-26,,,"Department of Defense, US",3177859,1288922
 11,District of Columbia,US,2022-07-26,38.8974,-77.0268,"District of Columbia, US",701133,183543
 ,Federal Bureau of Prisons,US,2022-07-26,,,"Federal Bureau of Prisons, US",136526,12124
@@ -38,7 +38,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 35,New Mexico,US,2022-07-26,34.8405,-106.2485,"New Mexico, US",1515040,362956
 36,New York,US,2022-07-26,42.1657,-74.9481,"New York, US",15177519,2610567
 37,North Carolina,US,2022-07-26,35.6301,-79.8064,"North Carolina, US",6592043,2466912
-38,North Dakota,US,2022-07-26,47.5289,-99.784,"North Dakota, US",428558,78008
+38,North Dakota,US,2022-07-26,47.5289,-99.784,"North Dakota, US",428823,78008
 69,Northern Mariana Islands,US,2022-07-26,15.0979,145.6739,"Northern Mariana Islands, US",43962,2336
 39,Ohio,US,2022-07-26,40.3888,-82.7649,"Ohio, US",6892130,590042
 40,Oklahoma,US,2022-07-26,35.5653,-96.9289,"Oklahoma, US",2301672,553732
