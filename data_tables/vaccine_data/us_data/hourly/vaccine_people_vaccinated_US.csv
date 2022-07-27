@@ -9,7 +9,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 9,Connecticut,US,2022-07-27,41.5978,-72.7554,"Connecticut, US",2863022,605221
 10,Delaware,US,2022-07-27,39.3185,-75.5071,"Delaware, US",685820,138986
 ,Department of Defense,US,2022-07-27,,,"Department of Defense, US",3177859,1288922
-11,District of Columbia,US,2022-07-27,38.8974,-77.0268,"District of Columbia, US",701133,183543
+11,District of Columbia,US,2022-07-27,38.8974,-77.0268,"District of Columbia, US",705150,183543
 ,Federal Bureau of Prisons,US,2022-07-27,,,"Federal Bureau of Prisons, US",136526,12124
 12,Florida,US,2022-07-27,27.7663,-81.6868,"Florida, US",14565785,2707828
 13,Georgia,US,2022-07-27,33.0406,-83.6431,"Georgia, US",5899454,1141141
@@ -48,7 +48,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 44,Rhode Island,US,2022-07-27,41.6809,-71.5118,"Rhode Island, US",891014,177154
 45,South Carolina,US,2022-07-27,33.8569,-80.945,"South Carolina, US",2979372,560209
 46,South Dakota,US,2022-07-27,44.2998,-99.4388,"South Dakota, US",555725,134931
-47,Tennessee,US,2022-07-27,35.7478,-86.6923,"Tennessee, US",3806465,536667
+47,Tennessee,US,2022-07-27,35.7478,-86.6923,"Tennessee, US",3810960,536667
 48,Texas,US,2022-07-27,31.0545,-97.5635,"Texas, US",18131575,3553397
 49,Utah,US,2022-07-27,40.15,-111.8624,"Utah, US",2083255,261596
 50,Vermont,US,2022-07-27,44.0459,-72.7107,"Vermont, US",512793,81257
