@@ -9,7 +9,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Combined_Key,People_Fully_Vacc
 9,Connecticut,US,2022-08-03,41.5978,-72.7554,"Connecticut, US",2866703,607845
 10,Delaware,US,2022-08-03,39.3185,-75.5071,"Delaware, US",686746,139319
 ,Department of Defense,US,2022-08-03,,,"Department of Defense, US",3190063,1290756
-11,District of Columbia,US,2022-08-03,38.8974,-77.0268,"District of Columbia, US",705150,183601
+11,District of Columbia,US,2022-08-03,38.8974,-77.0268,"District of Columbia, US",708025,183601
 ,Federal Bureau of Prisons,US,2022-08-03,,,"Federal Bureau of Prisons, US",137142,12360
 12,Florida,US,2022-08-03,27.7663,-81.6868,"Florida, US",14581207,2714370
 13,Georgia,US,2022-08-03,33.0406,-83.6431,"Georgia, US",5905674,1146007
