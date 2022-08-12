@@ -6,7 +6,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 1,Alabama,US,2022-08-12,32.3182,-86.9023,Janssen,,400000,178383,167590,,"Alabama, US"
 1,Alabama,US,2022-08-12,32.3182,-86.9023,Unknown,,0,667,,,"Alabama, US"
 2,Alaska,US,2022-08-12,61.3707,-152.4044,All,508630,1732765,1197172,521311,430042,"Alaska, US"
-2,Alaska,US,2022-08-12,61.3707,-152.4044,Unassigned,508630,1400,14,479160,10226,"Alaska, US"
+2,Alaska,US,2022-08-12,61.3707,-152.4044,Unassigned,,1400,14,479160,10226,"Alaska, US"
 2,Alaska,US,2022-08-12,61.3707,-152.4044,Janssen,,85800,45988,42151,,"Alaska, US"
 2,Alaska,US,2022-08-12,61.3707,-152.4044,Pfizer,,975045,687608,,257189,"Alaska, US"
 2,Alaska,US,2022-08-12,61.3707,-152.4044,Moderna,,670520,462252,,162627,"Alaska, US"
