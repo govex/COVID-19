@@ -23,7 +23,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 5,Arkansas,US,2022-08-14,34.9697,-92.3731,Pfizer,,3703260,2408882,,880065,"Arkansas, US"
 5,Arkansas,US,2022-08-14,34.9697,-92.3731,Moderna,,2910920,1897202,,676315,"Arkansas, US"
 5,Arkansas,US,2022-08-14,34.9697,-92.3731,Unknown,,0,4268,,,"Arkansas, US"
-6,California,US,2022-08-14,36.1162,-119.6816,Janssen,,3756100,2330541,2097348,,"California, US"
+6,California,US,2022-08-14,36.1162,-119.6816,Janssen,,3756100,2330723,2097348,,"California, US"
 6,California,US,2022-08-14,36.1162,-119.6816,Pfizer,,59384805,47199182,,16932935,"California, US"
 6,California,US,2022-08-14,36.1162,-119.6816,Moderna,,35786180,29781937,,9927137,"California, US"
 6,California,US,2022-08-14,36.1162,-119.6816,All,,98985785,79319740,33113787,27882110,"California, US"
