@@ -58,7 +58,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 - Vaccines after 8/5/2022: https://tracking.idph.iowa.gov/Health/Immunization/covid-19-vaccine/data
 ### IN
 - Cases, deaths, and tests: https://hub.mph.in.gov/dataset/covid-19-case-demographics
-- Vaccines: https://hub.mph.in.gov/dataset/covid-19-vaccinations-demographics-by-county-and-district
+- Vaccines: https://hub.mph.in.gov/dataset/covid-19-vaccinations-demographics-by-county-and-district/resource/90281e55-a1bf-4bbb-86ba-2764a8572b0d?view_id=87545ada-dafc-4b4e-9e40-2197472b22a0
 ### ID
 - Cases and deaths: https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard/Home
 - Vaccines: https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/COVID-19VaccineDataDashboard/LandingPage
