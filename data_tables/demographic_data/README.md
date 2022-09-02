@@ -1,14 +1,17 @@
 # COVID-19 Demographic Data
-The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demographic data of COVID-19 cases, deaths, people tested, and people vaccinated from various state sources. The CRC updates this repository every two weeks for tests and vaccines and every month for cases and deaths. The CRC currently collects data on age, gender or sex, race only (not including Hispanic or Latino ethnicity), ethnicity only, and race and ethnicity combined depending on the availability from the state or territory. The availability of data for state/territory-specific demographic groups or estimates depends entirely on the state or territorial source, and it might change across time.   
+The Johns Hopkins Coronavirus Resource Center (CRC) collected demographic data of COVID-19 cases, deaths, people tested, and people vaccinated from various state sources from 4/2/2021 until 9/6/2022. The CRC collected data on age, gender or sex, race only (not including Hispanic or Latino ethnicity), ethnicity only, and race and ethnicity combined depending on the availability from the state or territory. The availability of data for state/territory-specific demographic groups or estimates depends entirely on the state or territorial source, and it changed across time.   
 
-[Demographics_by_state_raw.csv](demographics_by_state_raw.csv) contains data using state/territory-specific naming for each demographic group and different types of estimates. On the other hand, [Demographics_by_state_standardized.csv](demographics_by_state_standardized.csv) undergoes a data cleaning process (detailed [here](COVID19_demographics_standardization_process.md)) that produces a dataset with standard demographic groups across all states and territories.
+[Demographics_by_state_raw.csv](demographics_by_state_raw.csv) contains data using state/territory-specific naming for each demographic group and different types of estimates. On the other hand, [Demographics_by_state_standardized.csv](demographics_by_state_standardized.csv) underwent a data cleaning process (detailed [here](COVID19_demographics_standardization_process.md)) that produces a dataset with standard demographic groups across all states and territories.
 
 ## Files in this folder
-- [Demographics_by_state_raw.csv](demographics_by_state_raw.csv). Contains demographic data for COVID-19 cases, deaths, testing, and vaccination starting from 4/2/2021. Data is presented as collected from each state dasbhoard without any data processing. Each row is uniquely defined by `Category`, `Metric`, `Demo_cat_0`, `Demo_cat_1`, and `Estimate_type`. Data on Cases and Deaths will be updated on a monthly basis while Testing and Vaccination data every 14 days.
+- [Demographics_by_state_raw.csv](demographics_by_state_raw.csv). Contains demographic data for COVID-19 cases, deaths, testing, and vaccination from 4/2/2021 until 9/2/2022. Data is presented as collected from each state dasbhoard without any data processing. Each row is uniquely defined by `Category`, `Metric`, `Demo_cat_0`, `Demo_cat_1`, and `Estimate_type`.
 - [COVID19_demographics_data_dictionary.md](COVID19_demographics_data_dictionary.md). Contains the definition of all variables contained in the Demographics_by_state_raw.csv file.
-- [Demographics_by_state_standardized.csv](demographics_by_state_standardized.csv). Contains standardized demographic data for COVID-19 cases, deaths, testing, and vaccination starting from 4/2/2021. Data from each state dashboard was processed to produce a dataset with standard demographic categories and estimates across states with available data. Each row is uniquely defined by `Category`, `Metric`, `Demo_cat_0`, `Demo_cat_1`, and `Estimate_type`. Data on cases and deaths will be updated on a monthly basis while testing and vaccination data every 14 days.
+- [Demographics_by_state_standardized.csv](demographics_by_state_standardized.csv). Contains standardized demographic data for COVID-19 cases, deaths, testing, and vaccination from 4/2/2021 until 9/2/2022. Data from each state dashboard was processed to produce a dataset with standard demographic categories and estimates across states with available data. Each row is uniquely defined by `Category`, `Metric`, `Demo_cat_0`, `Demo_cat_1`, and `Estimate_type`.
 - [COVID19_demographics_standardized_data_dictionary.md](COVID19_demographics_standardized_data_dictionary.md) Contains the definition of all variables contained in the Demographics_by_state_standardized.csv file.
 - [COVID19_demographics_standardization_process.md](COVID19_demographics_standardization_process.md). Contains the description of the process followed to transform the raw data from Demographics_by_state_raw.csv into a standardized dataset with similar demographic categories and groups across all states where data was available. The output is located in Demographics_by_state_standardized.csv
+
+## Updates 9/6/2022
+As of this date, **the CRC will no longer update any of the files in this section** due to the current state of the pandemic and cadence of reporting from local sources. These files will remain in this folder for future reference. 
 
 ## Data sources by state
 ### AL
@@ -58,7 +61,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) started collecting demograph
 - Vaccines after 8/5/2022: https://tracking.idph.iowa.gov/Health/Immunization/covid-19-vaccine/data
 ### IN
 - Cases, deaths, and tests: https://hub.mph.in.gov/dataset/covid-19-case-demographics
-- Vaccines: https://hub.mph.in.gov/dataset/covid-19-vaccinations-demographics-by-county-and-district/resource/90281e55-a1bf-4bbb-86ba-2764a8572b0d?view_id=87545ada-dafc-4b4e-9e40-2197472b22a0
+- Vaccines: https://hub.mph.in.gov/dataset/covid-19-vaccinations-demographics-by-county-and-district
 ### ID
 - Cases and deaths: https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/DPHIdahoCOVID-19Dashboard/Home
 - Vaccines: https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/COVID-19VaccineDataDashboard/LandingPage

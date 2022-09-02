@@ -2,33 +2,36 @@
 
 ## Files in this folder
 
-- time_series/vaccine_data_us_timeline.csv: Contains historical data, updated once a day. Each row is uniquely defined by `Province_State`, `Date`, and `Vaccine_Type`. Long format.
-- time_series_covid19_vaccine_doses_admin_US.csv: Contains historical data, updated once a day. Each row is uniquely defined by `Province_State`, `Date`, and `Vaccine_Type`. Wide format.
-- hourly/vaccine_data_us.csv: Contains the most recent data collected for each region, updated hourly. Each row is uniquely identified by `Province_State` and `Vaccine_Type`
+- time_series_covid19_vaccine_us.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `UID`. Long format.
 - data_dictionary.csv: Metric definitions
 - readme.md: This file. Description of contents and list of data sources
 
-## Data Sources
+## Data source for updates after 9/6/2022
+Currently, the only data source for all US vaccine data are the Centers for Disease Control and Prevention (CDC) which update on a weekly basis. Further information about this source is available here: 
+- CDC Vaccine Tracker: https://covid.cdc.gov/covid-data-tracker/#vaccinations
 
-Our data sources are a combination of the State's public dashboards listed below and the [CDC Vaccine Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations). The logic to combine the data is as follows:
-1. If a State is making available a metric, we will compare that metric’s value with the metric value provided by the CDC and report the largest value to reflect the latest reporting of that metric. Note, all metrics are cumulative
-2. If a State is not making available a metric, that metric will be sourced from the CDC Vaccine Tracker
+## Data sources for updates before 9/6/2022
+This composite method of sourcing vaccination metrics is no longer followed by the CRC as of 9/6/2022 and it is explained here for reference purposes.
 
-If total administered doses is not available by State sources, but the different stages of doses (1st, 2nd, etc) are available, the value of total doses administered will be determined by summing the stages of doses administered.
+Our data sources were a combination of the State's public dashboards listed below and the [CDC Vaccine Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations). The logic to combine the data was as follows:
+1. If a State was making available a metric, we compared that metric’s value with the metric value provided by the CDC and reported the largest value to reflect the latest reporting of that metric. Note, all metrics are cumulative
+2. If a State was not making available a metric, that metric was sourced from the CDC Vaccine Tracker
 
-The logic is applied each time data is collected. Therefore, for a each State, the source for a given metric’s value may not be the same for all days. It will depend on when the State and the CDC update their respective public data.
+If total administered doses was not available by State sources, but the different stages of doses (1st, 2nd, etc) were available, the value of total doses administered was determined by summing the stages of doses administered.
+
+The logic was applied each time data was collected. Therefore, for a each State, the source for a given metric’s value may not have been the same for all days. It depended on when the State and the CDC update their respective public data.
 
 ### Alaska
 
 - [State dashboard](http://dhss.alaska.gov/dph/epi/id/pages/COVID-19/vaccine.aspx)
 - [State COVID-19 Newsroom](https://gov.alaska.gov/home/covid19news/)
 
-## Alabama
+### Alabama
 
 - [State dashboard](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/e4a232feb1344ce0afd9ac162f3ac4ba)
 - [Governor's Newsroom](https://governor.alabama.gov/newsroom/category/press-releases/)
 
-## American Samoa
+### American Samoa
 
 - [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations)
 
@@ -49,7 +52,7 @@ The logic is applied each time data is collected. Therefore, for a each State, t
 - [State COVID-19 Vaccine site](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/VaccineDoses.aspx)
 - [State COVID-19 Newsroom](https://covid19.ca.gov/latest-news/)
 
-## Colorado
+### Colorado
 
 - [State dashboard](https://covid19.colorado.gov/vaccine-data-dashboard)
 - [State COVID-19 Newsroom](https://covid19.colorado.gov/category/press-release?page=0)

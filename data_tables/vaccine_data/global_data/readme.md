@@ -3,14 +3,18 @@
 
 ## Files in this folder
 
-- time_series_covid19_vaccine_global.csv: Contains time series data. Each row is uniquely defined by `country` and `date`. Long format.
-- time_series_covid19_vaccine_doses_admin_global.csv: Contains time series data. Each row is uniquely defined by `country` and `date`Wide format.
-- vaccine_data_global.csv: Contains the most recent data collected for each country. Each row is uniquely defined by `country`
+- time_series_covid19_vaccine_global.csv: Contains time series data. Each row is uniquely defined by `Country_Region`, `UID`, and `Date`. Long format.
 - data_dictionary.csv: Metric definitions
 - readme.md: Description of contents and list of data sources
 
 ## Data sources
+### Data updated after 9/6/2022
+- On 9/6/2022, the CRC changed the data sources for all its vaccination data. The current data sources are:
+  - US Centers for Disease Control and Prevention (CDC): https://covid.cdc.gov/covid-data-tracker/#vaccinations
+  - Our World in Data (OWiD): https://ourworldindata.org/covid-vaccinations
+  - World Health Organization (WHO): https://covid19.who.int/who-data/vaccination-data.csv
 
+### Data updated on 9/5/2022 and before
 - Aggregated data sources:
   - US Centers for Disease Control and Prevention (CDC): https://covid.cdc.gov/covid-data-tracker/#vaccinations
   - Our World in Data (OWiD): https://ourworldindata.org/covid-vaccinations
