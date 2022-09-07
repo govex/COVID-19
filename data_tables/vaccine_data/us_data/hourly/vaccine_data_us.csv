@@ -52,7 +52,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 11,District of Columbia,US,2022-09-07,38.8974,-77.0268,Moderna,,764080,610809,,191535,"District of Columbia, US"
 11,District of Columbia,US,2022-09-07,38.8974,-77.0268,Unknown,,0,2260,,,"District of Columbia, US"
 11,District of Columbia,US,2022-09-07,38.8974,-77.0268,All,,2125905,1986610,738804,531371,"District of Columbia, US"
-11,District of Columbia,US,2022-09-07,38.8974,-77.0268,Unassigned,,1900,330826,701115,19596,"District of Columbia, US"
+11,District of Columbia,US,2022-09-07,38.8974,-77.0268,Unassigned,,1900,334556,701115,19596,"District of Columbia, US"
 12,Florida,US,2022-09-07,27.7663,-81.6868,Janssen,,2435500,1495589,1376948,,"Florida, US"
 12,Florida,US,2022-09-07,27.7663,-81.6868,Pfizer,,30729965,23074452,,8276523,"Florida, US"
 12,Florida,US,2022-09-07,27.7663,-81.6868,Moderna,,19613320,14563498,,4944822,"Florida, US"
