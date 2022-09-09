@@ -42,7 +42,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 9,Connecticut,US,2022-09-09,41.5978,-72.7554,All,,9899825,8045230,3497923,2746876,"Connecticut, US"
 9,Connecticut,US,2022-09-09,41.5978,-72.7554,Unassigned,,5800,193,3264668,99487,"Connecticut, US"
 10,Delaware,US,2022-09-09,39.3185,-75.5071,Unknown,,0,2472,,,"Delaware, US"
-10,Delaware,US,2022-09-09,39.3185,-75.5071,Janssen,,105500,62922,57798,,"Delaware, US"
+10,Delaware,US,2022-09-09,39.3185,-75.5071,Janssen,,105600,62922,57798,,"Delaware, US"
 10,Delaware,US,2022-09-09,39.3185,-75.5071,Pfizer,,1548255,1123004,,390413,"Delaware, US"
 10,Delaware,US,2022-09-09,39.3185,-75.5071,Moderna,,1041800,743415,,241676,"Delaware, US"
 10,Delaware,US,2022-09-09,39.3185,-75.5071,All,,2694155,1931887,831318,657950,"Delaware, US"
