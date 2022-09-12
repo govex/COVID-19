@@ -5,6 +5,7 @@
 - data_tables/JHU_USCounty_map/ contains production files for the U.S. dashboard
 - data_tables/Data_for_UScounty_map/ contains data for the U.S. dashboard
 - US_reporting_frequency.csv contains information about the cadence of reporting for each state territory.
+- data_tables/demographic_data/ contains demographic data of cases, deaths, testing, and vaccination in the U.S. (ARCHIVE)
 
 
 ## Data sources
@@ -23,6 +24,11 @@ See [testing data folder](https://github.com/govex/COVID-19/tree/master/data_tab
 **The data sources from this section changed on 9/21/2022**
 
 See [US map folder](https://github.com/govex/COVID-19/tree/master/data_tables/JHU_USCountymap)
+
+### US demographic data
+**This dataset stopped being updated on 9/2/2022**
+
+See [demographic data folder](https://github.com/govex/COVID-19/tree/master/data_tables/demographic_data)
 
 ### US states reporting frequencies map
 See [US_reporting_frequency.csv](https://github.com/govex/COVID-19/blob/master/data_tables/US_reporting_frequency.csv) for the complete list of data sources for this dataset
