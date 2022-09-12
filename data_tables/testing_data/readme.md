@@ -7,7 +7,7 @@
 - [JHU_CTP_metric_name_equivalences.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/JHU_CTP_metric_name_equivalences.csv): Metric definitions and column name equivalences with CTP.
 - [tests_combined_total_source.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/tests_combined_total_source.csv): For each state, a reference to the data field used to produce the tests_combined_total metric.
 
-## Updates 9/6/2022
+## Updates 9/20/2022
 As of this date, **the CRC will no longer update any of the files in this section** due to the current state of the pandemic and cadence of reporting from local sources. These files will remain in this folder for future reference. 
 
 ## Updates 11/23/2021
