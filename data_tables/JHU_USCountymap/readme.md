@@ -23,5 +23,5 @@ Note:
 - The names of locations included on the Website correspond with the official designations used by the U.S. Department of State.
 - All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
 
-## Updates after 9/20/2022
+## Updates after 9/21/2022
 The data sources used for US county-level confirmed cases and deaths changed. Check [CSSE's repository](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) for the new updated list of data sources. Moreover, the file CAIH_COVID_Master_08012022.xlsx that powers the Tribal Lands Interactive Map layer on the map will no longer be updated.
