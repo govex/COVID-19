@@ -6,12 +6,12 @@
 - data_dictionary.csv: Metric definitions
 - readme.md: This file. Description of contents and list of data sources
 
-## Data source for updates after 9/6/2022
+## Data source for updates after 9/21/2022
 Currently, the only data source for all US vaccine data are the Centers for Disease Control and Prevention (CDC) which update on a weekly basis. Further information about this source is available here: 
 - CDC Vaccine Tracker: https://covid.cdc.gov/covid-data-tracker/#vaccinations
 
-## Data sources for updates before 9/6/2022
-This composite method of sourcing vaccination metrics is no longer followed by the CRC as of 9/6/2022 and it is explained here for reference purposes.
+## Data sources for updates before 9/21/2022
+This composite method of sourcing vaccination metrics is no longer followed by the CRC as of 9/21/2022 and it is explained here for reference purposes.
 
 Our data sources were a combination of the State's public dashboards listed below and the [CDC Vaccine Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations). The logic to combine the data was as follows:
 1. If a State was making available a metric, we compared that metric’s value with the metric value provided by the CDC and reported the largest value to reflect the latest reporting of that metric. Note, all metrics are cumulative
