@@ -1,5 +1,5 @@
 # COVID-19 Demographic Data
-The Johns Hopkins Coronavirus Resource Center (CRC) collected demographic data of COVID-19 cases, deaths, people tested, and people vaccinated from various state sources from 4/2/2021 until 9/6/2022. The CRC collected data on age, gender or sex, race only (not including Hispanic or Latino ethnicity), ethnicity only, and race and ethnicity combined depending on the availability from the state or territory. The availability of data for state/territory-specific demographic groups or estimates depends entirely on the state or territorial source, and it changed across time.   
+The Johns Hopkins Coronavirus Resource Center (CRC) collected demographic data of COVID-19 cases, deaths, people tested, and people vaccinated from various state sources from 4/2/2021 until 9/2/2022. The CRC collected data on age, gender or sex, race only (not including Hispanic or Latino ethnicity), ethnicity only, and race and ethnicity combined depending on the availability from the state or territory. The availability of data for state/territory-specific demographic groups or estimates depends entirely on the state or territorial source, and it changed across time.   
 
 [Demographics_by_state_raw.csv](demographics_by_state_raw.csv) contains data using state/territory-specific naming for each demographic group and different types of estimates. On the other hand, [Demographics_by_state_standardized.csv](demographics_by_state_standardized.csv) underwent a data cleaning process (detailed [here](COVID19_demographics_standardization_process.md)) that produces a dataset with standard demographic groups across all states and territories.
 
@@ -10,7 +10,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) collected demographic data o
 - [COVID19_demographics_standardized_data_dictionary.md](COVID19_demographics_standardized_data_dictionary.md) Contains the definition of all variables contained in the Demographics_by_state_standardized.csv file.
 - [COVID19_demographics_standardization_process.md](COVID19_demographics_standardization_process.md). Contains the description of the process followed to transform the raw data from Demographics_by_state_raw.csv into a standardized dataset with similar demographic categories and groups across all states where data was available. The output is located in Demographics_by_state_standardized.csv
 
-## Updates 9/6/2022
+## Updates 9/2/2022
 As of this date, **the CRC will no longer update any of the files in this section** due to the current state of the pandemic and cadence of reporting from local sources. These files will remain in this folder for future reference. 
 
 ## Data sources by state
