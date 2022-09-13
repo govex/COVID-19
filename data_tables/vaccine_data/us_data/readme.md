@@ -7,7 +7,7 @@
 - readme.md: This file. Description of contents and list of data sources
 
 ## Data source for updates after 9/21/2022
-Currently, the only data source for all US vaccine data are the Centers for Disease Control and Prevention (CDC) which update on a weekly basis. Further information about this source is available here: 
+As of Sept. 21, 2022, the only source of U.S. vaccine data will be the U.S. Centers for Disease Control and Prevention (CDC), which updates weekly. 
 - CDC Vaccine Tracker: https://covid.cdc.gov/covid-data-tracker/#vaccinations
 
 ## Data sources for updates before 9/21/2022
@@ -19,7 +19,7 @@ Our data sources were a combination of the State's public dashboards listed belo
 
 If total administered doses was not available by State sources, but the different stages of doses (1st, 2nd, etc) were available, the value of total doses administered was determined by summing the stages of doses administered.
 
-The logic was applied each time data was collected. Therefore, for a each State, the source for a given metric’s value may not have been the same for all days. It depended on when the State and the CDC update their respective public data.
+The logic was applied each time data was collected. Therefore, for each State, the source for a given metric’s value may not have been the same for all days. It depended on when the State and the CDC update their respective public data.
 
 ### Alaska
 
