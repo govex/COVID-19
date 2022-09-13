@@ -11,7 +11,7 @@ The Johns Hopkins Coronavirus Resource Center (CRC) collected demographic data o
 - [COVID19_demographics_standardization_process.md](COVID19_demographics_standardization_process.md). Contains the description of the process followed to transform the raw data from Demographics_by_state_raw.csv into a standardized dataset with similar demographic categories and groups across all states where data was available. The output is located in Demographics_by_state_standardized.csv
 
 ## Updates 9/2/2022
-As of this date, **the CRC will no longer update any of the files in this section** due to the current state of the pandemic and cadence of reporting from local sources. These files will remain in this folder for future reference. 
+As of this date, **the CRC will no longer update any of the files in this section** due to the current state of the pandemic and diminished reporting from local sources. These files will remain in this folder for future reference. 
 
 ## Data sources by state
 ### AL
