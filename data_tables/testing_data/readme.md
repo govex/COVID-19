@@ -8,7 +8,7 @@
 - [tests_combined_total_source.csv](https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/tests_combined_total_source.csv): For each state, a reference to the data field used to produce the tests_combined_total metric.
 
 ## Updates 9/21/2022
-As of this date, **the CRC will no longer update any of the files in this section** due to the current state of the pandemic and cadence of reporting from local sources. These files will remain in this folder for future reference. 
+As of this date, **the CRC will no longer update any of the files in this section** due to the current state of the pandemic and diminished reporting from local sources. These files will remain in this folder for future reference. 
 
 ## Updates 11/23/2021
 The JHU Coronavirus Resource Center is updating and expanding some of itstesting resources.  The previous version of the timeseries file has been moved into the archive folder under the name _legacy, and the new file is time_series_covid19_US.csv: https://github.com/govex/COVID-19/blob/master/data_tables/testing_data/time_series_covid19_US.csv. The new file has people_viral_positive information for certain states where the data is publicly available, backfilled when possible. The legacy file will be removed in 2-3 weeks to allow time for transition.
