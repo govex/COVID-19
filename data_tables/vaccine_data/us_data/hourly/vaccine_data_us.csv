@@ -287,7 +287,7 @@ FIPS,Province_State,Country_Region,Date,Lat,Long_,Vaccine_Type,Doses_alloc,Doses
 53,Washington,US,2022-09-14,47.4009,-121.4905,Unknown,,0,14617,,,"Washington, US"
 53,Washington,US,2022-09-14,47.4009,-121.4905,All,,20312795,15429843,6313821,5364224,"Washington, US"
 53,Washington,US,2022-09-14,47.4009,-121.4905,Unassigned,,19500,1263,5856412,208091,"Washington, US"
-54,West Virginia,US,2022-09-14,38.4912,-80.9545,All,,,2640157,,,"West Virginia, US"
+54,West Virginia,US,2022-09-14,38.4912,-80.9545,All,,,2640963,,,"West Virginia, US"
 54,West Virginia,US,2022-09-14,38.4912,-80.9545,Janssen,,,,,,"West Virginia, US"
 54,West Virginia,US,2022-09-14,38.4912,-80.9545,Pfizer,,,,,,"West Virginia, US"
 54,West Virginia,US,2022-09-14,38.4912,-80.9545,Moderna,,,,,,"West Virginia, US"
