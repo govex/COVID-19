@@ -1,11 +1,12 @@
 # U.S. States vaccine data
 
 ## Files in this folder
-
-- time_series_covid19_vaccine_us.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `UID`. Long format.
-- time_series_covid19_vaccine_doses_admin_US.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `UID`. Wide format.
 - data_dictionary.csv: Metric definitions
 - readme.md: This file. Description of contents and list of data sources
+
+## Files in the time_series folder
+- time_series_covid19_vaccine_us.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `UID`. Long format.
+- time_series_covid19_vaccine_doses_admin_US.csv: Contains historical data, updated once a week. Each row is uniquely defined by `Province_State`, `Date`, and `UID`. Wide format.
 
 ## Data source for updates after 9/21/2022
 As of Sept. 21, 2022, the only source of U.S. vaccine data will be the U.S. Centers for Disease Control and Prevention (CDC), which updates weekly. 
