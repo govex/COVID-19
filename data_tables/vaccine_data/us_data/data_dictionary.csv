@@ -1,14 +1,9 @@
 Column name,Definition
-FIPS,U.S. State identification code
-Province_State,Name of the State
-Country_Region,Code of the country
 Date,Data collection date
-Lat,Latitude
-Long_,Longitude
-Vaccine_Type,"Common name of the vaccine provider. Can be either a combination of all vaccine types labeled as 'All', or a specific provider like Moderna or Pfizer"
-Doses_alloc,Cumulative number of doses allocated
-Doses_shipped,Cumulative number of doses that have arrived to the vaccination sites.
-Doses_admin,Cumulative number of doses administered, including booster doses for states where it is reported as part of the total.
-Stage_One_Doses,Cumulative number of first doses administered
-Stage_Two_Doses,Cumulative number of second doses administered
-Combined_Key,"Combination of Province_State, Country_Region"
+UID,Country code: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv
+Province_State,Name of the state
+Country_Region,Name of the country (US)
+Doses_admin,Cumulative number of doses administered including booster doses for states where it is reported as part of the total.
+People_at_least_one_dose,Cumulative number of people who received at least one vaccine dose. When the person receives a prescribed second dose it is not counted twice
+People_fully_vaccinated,Cumulative number of people who received a complete primary series. This means having received one dose of a single-dose vaccine or two doses on different days (regardless of time interval) of either a mRNA or a protein-based series. When the vaccine manufacturer is not reported the recipient is considered fully vaccinated with two doses.
+Total_additional_doses,Cumulative number of all the additional or booster doses administered. This metric does not reflect individual people and each dose is counted independently  

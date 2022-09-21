@@ -1,7 +1,6 @@
 This is the data repository for COVID-19 United States Cases by County Dashboard created by Johns Hopkins University Centers for Civic Impact. Automation is supported by Esri Living Atlas team, JHU APL, and JHU Sheridan Libraries. 
 
-- Visual Dashboard (desktop): https://coronavirus.jhu.edu/us-map
-- Visual Dashboard (mobile): 
+- Visual Dashboard: https://coronavirus.jhu.edu/us-map
 
 ## Data Sources
 This list includes a complete list of all sources ever used in the data set.
@@ -21,6 +20,8 @@ Note:
 - Confirmed cases include presumptive positive cases.
 - Recovered cases are estimates based on local media reports, and may be substantially lower than the true number. 
 - Active cases = total confirmed - total recovered - total deaths. 
-- Tribal Nations tab highlights the location of native lands.
 - The names of locations included on the Website correspond with the official designations used by the U.S. Department of State.
 - All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
+
+## Updates after 9/12/2022
+As of 9/12/2022, the cadence of this reporting will shift from hourly to daily and the data sources used for US county-level confirmed cases and deaths will change. Check [CSSE's repository](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) for the new updated list of data sources. Moreover, the file CAIH_COVID_Master_08012022.xlsx that powers the Tribal Lands Interactive Map layer on the map will no longer be updated.

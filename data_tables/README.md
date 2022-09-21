@@ -1,24 +1,41 @@
 ## Files in this folder
 
-- data_tables/testing_data/ contains U.S. testing data
+- data_tables/testing_data/ contains U.S. testing data (ARCHIVE)
 - data_tables/vaccine_data/ contains U.S. and Global vaccination data
 - data_tables/JHU_USCounty_map/ contains production files for the U.S. dashboard
 - data_tables/Data_for_UScounty_map/ contains data for the U.S. dashboard
 - US_reporting_frequency.csv contains information about the cadence of reporting for each state territory.
+- data_tables/demographic_data/ contains demographic data of cases, deaths, testing, and vaccination in the U.S. (ARCHIVE)
 
 
 ## Data sources
 
 ### Vaccine data
+**The data sources from this section changed on 9/21/2022**
+
 See [vaccine data folder](https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data)
 
 ### Testing data
+**This dataset stopped being updated on 9/21/2022**
+
 See [testing data folder](https://github.com/govex/COVID-19/tree/master/data_tables/testing_data)
 
 ### US Map and county infographics
+**The data sources from this section changed on 9/21/2022**
+
 See [US map folder](https://github.com/govex/COVID-19/tree/master/data_tables/JHU_USCountymap)
 
+### US demographic data
+**This dataset stopped being updated on 9/2/2022**
+
+See [demographic data folder](https://github.com/govex/COVID-19/tree/master/data_tables/demographic_data)
+
+### US states reporting frequencies map
+See [US_reporting_frequency.csv](https://github.com/govex/COVID-19/blob/master/data_tables/US_reporting_frequency.csv) for the complete list of data sources for this dataset
+
 ### State action/policy data sources
+**This dataset stopped being updated on 5/31/2022**
+
 Visualize this information at the JHU Coronavirus Resource Center: [impact of opening and closing decisions by state](https://coronavirus.jhu.edu/data/state-timeline)
 
 - Alabama: Governor's newsroom: https://governor.alabama.gov/newsroom/category/press-releases/
