@@ -31,7 +31,7 @@ Delaware,Cases,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/15
 Delaware,Deaths,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/15/23,N,N,Y,N,N,N,N,,1,N,N
 Delaware,Tests,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/15/23,N,N,Y,N,N,N,N,,1,N,N
 Delaware,Vaccines,https://myhealthycommunity.dhss.delaware.gov/locations/state,2/15/23,N,N,Y,N,N,N,N,,1,N,N
-District of Columbia,Cases,https://opendata.dc.gov/datasets/DCGIS::dc-covid-19-weekly-cases/about,2/15/23,N,N,Y,N,N,N,N,,1,N,N
+District of Columbia,Cases,https://opendata.dc.gov/datasets/DCGIS::dc-covid-19-weekly-cases/about,2/15/23,N,N,N,N,N,N,N,,0,N,Y
 District of Columbia,Deaths,https://opendata.dc.gov/pages/coronavirus#overalltesting,2/15/23,N,N,N,N,N,N,N,,0,N,N
 District of Columbia,Tests,https://opendata.dc.gov/pages/coronavirus#overalltesting,2/15/23,N,N,N,N,N,N,N,,0,N,N
 District of Columbia,Vaccines,https://coronavirus.dc.gov/data/vaccination,2/15/23,N,N,Y,N,N,N,N,,1,N,N
@@ -55,10 +55,10 @@ Idaho,Cases,https://coronavirus.idaho.gov/,2/15/23,N,N,Y,N,N,N,N,N,1,N,N
 Idaho,Deaths,https://coronavirus.idaho.gov/,2/15/23,N,N,Y,N,N,N,N,N,1,N,N
 Idaho,Tests,https://coronavirus.idaho.gov/,2/15/23,N,N,Y,N,N,N,N,N,1,N,N
 Idaho,Vaccines,https://coronavirus.idaho.gov/,2/15/23,N,N,Y,N,N,N,N,N,1,N,N
-Illinois,Cases,https://dph.illinois.gov/covid19,1/19/23,N,N,N,N,Y,N,N,N,1,N,N
-Illinois,Deaths,https://dph.illinois.gov/covid19,1/19/23,N,N,N,N,Y,N,N,N,1,N,N
-Illinois,Tests,https://dph.illinois.gov/covid19,1/19/23,N,N,N,N,N,N,N,N,0,N,Y
-Illinois,Vaccines,https://dph.illinois.gov/covid19,1/19/23,N,N,N,N,Y,N,N,N,1,N,N
+Illinois,Cases,https://dph.illinois.gov/covid19,2/15/23,N,N,N,N,Y,N,N,N,1,N,N
+Illinois,Deaths,https://dph.illinois.gov/covid19,2/15/23,N,N,N,N,Y,N,N,N,1,N,N
+Illinois,Tests,https://dph.illinois.gov/covid19,2/15/23,N,N,N,N,N,N,N,N,0,N,Y
+Illinois,Vaccines,https://dph.illinois.gov/covid19,2/15/23,N,N,N,N,Y,N,N,N,1,N,N
 Indiana,Cases,https://www.coronavirus.in.gov/indiana-covid-19-dashboard-and-map/,2/15/23,N,N,Y,N,N,N,N,,1,N,N
 Indiana,Deaths,https://www.coronavirus.in.gov/indiana-covid-19-dashboard-and-map/,2/15/23,N,N,Y,N,N,N,N,,1,N,N
 Indiana,Tests,https://www.coronavirus.in.gov/indiana-covid-19-dashboard-and-map/,2/15/23,N,N,Y,N,N,N,N,,1,N,N
@@ -102,7 +102,7 @@ Minnesota,Vaccines,https://www.health.state.mn.us/diseases/coronavirus/stats/vac
 Mississippi,Cases,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi",2/15/23,N,Y,N,N,N,N,N,,1,N,N
 Mississippi,Deaths,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi",2/15/23,N,Y,N,N,N,N,N,,1,N,N
 Mississippi,Tests,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html#Mississippi",2/15/23,N,Y,N,N,N,N,N,,1,N,N
-Mississippi,Vaccines,https://msdh.ms.gov/msdhsite/_static/resources/12130.pdf,2/15/23,Y,Y,Y,Y,Y,N,N,,5,N,N
+Mississippi,Vaccines,https://msdh.ms.gov/msdhsite/_static/resources/12130.pdf,2/15/23,N,N,N,N,N,N,N,,0,N,Y
 Missouri,Cases,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,2/15/23,N,Y,N,N,N,N,N,,1,N,N
 Missouri,Deaths,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,2/15/23,N,Y,N,N,N,N,N,,1,N,N
 Missouri,Tests,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/data/public-health/,2/15/23,N,Y,N,N,N,N,N,,1,N,N
