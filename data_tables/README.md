@@ -11,7 +11,9 @@
 ## Data sources
 
 ### Vaccine data
-**The data sources from this section changed on 9/21/2022**
+**This dataset stopped being updated on 3/10/2023** 
+
+The data sources from this section changed on 9/21/2022
 
 See [vaccine data folder](https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data)
 
@@ -21,7 +23,9 @@ See [vaccine data folder](https://github.com/govex/COVID-19/tree/master/data_tab
 See [testing data folder](https://github.com/govex/COVID-19/tree/master/data_tables/testing_data)
 
 ### US Map and county infographics
-**The data sources from this section changed on 9/21/2022**
+**This dataset stopped being updated on 3/10/2023**
+
+The data sources from this section changed on 9/21/2022
 
 See [US map folder](https://github.com/govex/COVID-19/tree/master/data_tables/JHU_USCountymap)
 
@@ -31,6 +35,8 @@ See [US map folder](https://github.com/govex/COVID-19/tree/master/data_tables/JH
 See [demographic data folder](https://github.com/govex/COVID-19/tree/master/data_tables/demographic_data)
 
 ### US states reporting frequencies map
+**This dataset stopped being updated on 3/8/2023** 
+
 See [US_reporting_frequency.csv](https://github.com/govex/COVID-19/blob/master/data_tables/US_reporting_frequency.csv) for the complete list of data sources for this dataset
 
 ### State action/policy data sources
