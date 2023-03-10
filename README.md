@@ -1,4 +1,12 @@
 # COVID-19 data
+On March 10, 2023, the Johns Hopkins Coronavirus Resource Center ceased its collecting and reporting of global COVID-19 data. For updated cases, deaths, and vaccine data please visit the following sources:
+Global: World Health Organization (WHO)
+U.S.: U.S. Centers for Disease Control and Prevention (CDC)
+
+For more information, visit the Johns Hopkins Coronavirus Resource Center.
+
+The following information is preserved for historical reference: 
+
 Thank you for visiting the repository of COVID-19 data underlying the analysis and visualizations created by the Johns Hopkins [Centers for Civic Impact](https://civicimpact.jhu.edu/) for the Coronavirus Resource Center (CRC). Automation is supported by Johns Hopkins [Applied Physics Laboratory](https://www.jhuapl.edu/), [Sheridan Libraries](https://www.library.jhu.edu/), the [Center for Systems Science and Engineering](https://systems.jhu.edu/) in the Whiting School of Engineering, and the Esri Living Atlas Team. Expert insights are provided by epidemiologists, vaccinologists, and clinical practitioners from Johns Hopkins Medicine and the Center for Health Security in the Bloomberg School of Public Health.  
 
 View the [U.S. Dashboard](https://coronavirus.jhu.edu/us-map) and [U.S. and Global Vaccination](https://coronavirus.jhu.edu/vaccines/us-states) data on the [Coronavirus Resource Center](https://coronavirus.jhu.edu/).
